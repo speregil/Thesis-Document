@@ -35,8 +35,8 @@
       \strng{authornamehash}{5f1aa180b895c8f97fd1891435dac0d0}
       \strng{authorfullhash}{5f1aa180b895c8f97fd1891435dac0d0}
       \strng{authorfullhashraw}{5f1aa180b895c8f97fd1891435dac0d0}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{{ASME} J. Heat Transfer}
@@ -78,8 +78,8 @@
       \strng{authornamehash}{8b01e6c3b8cbda1a1b811dab9be858dd}
       \strng{authorfullhash}{8b01e6c3b8cbda1a1b811dab9be858dd}
       \strng{authorfullhashraw}{8b01e6c3b8cbda1a1b811dab9be858dd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -114,8 +114,8 @@
       \strng{authornamehash}{47b390f4c136152f88ab8c3e1b792c8e}
       \strng{authorfullhash}{47b390f4c136152f88ab8c3e1b792c8e}
       \strng{authorfullhashraw}{47b390f4c136152f88ab8c3e1b792c8e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{addendum}{To appear.}
@@ -147,8 +147,8 @@
       \strng{authornamehash}{627b3f735ab7a7953806c49c5c1714c2}
       \strng{authorfullhash}{627b3f735ab7a7953806c49c5c1714c2}
       \strng{authorfullhashraw}{627b3f735ab7a7953806c49c5c1714c2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{chapter}{5, {``The Locust Years''}}
@@ -187,8 +187,8 @@
       \strng{authornamehash}{99ae9ceeeebcbe4aa35c62054bbe709b}
       \strng{authorfullhash}{99ae9ceeeebcbe4aa35c62054bbe709b}
       \strng{authorfullhashraw}{99ae9ceeeebcbe4aa35c62054bbe709b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{On the Form of the Teeth of Wheels in Spur Gearing}
@@ -211,8 +211,8 @@
       \strng{authornamehash}{e414180d9053c44990c40af55181db2e}
       \strng{authorfullhash}{e414180d9053c44990c40af55181db2e}
       \strng{authorfullhashraw}{e414180d9053c44990c40af55181db2e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprinttype}{arxiv}
@@ -243,8 +243,8 @@
       \strng{authornamehash}{e844f6e518a0758e12808c365c30be78}
       \strng{authorfullhash}{e844f6e518a0758e12808c365c30be78}
       \strng{authorfullhashraw}{e844f6e518a0758e12808c365c30be78}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{3}
@@ -324,8 +324,8 @@
       \strng{authornamehash}{fc246f838e6304593fc518e560006fce}
       \strng{authorfullhash}{ea7fb682acfe0a75c32d72c1e1afd970}
       \strng{authorfullhashraw}{ea7fb682acfe0a75c32d72c1e1afd970}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{GNU} Scientific Library}
@@ -381,8 +381,8 @@
       \strng{authornamehash}{4b4a3317900179c9a75c74738ef655e7}
       \strng{authorfullhash}{fa83481b523f1629f3c7ccdc29a1655d}
       \strng{authorfullhashraw}{fa83481b523f1629f3c7ccdc29a1655d}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of IDA World Congress on Desalination and Water Reuse}
@@ -462,8 +462,8 @@
       \strng{editornamehash}{a57b7594e37bc6efabdcf433d83982a7}
       \strng{editorfullhash}{fb315ac5c76afed7464a7f6a73ba5bad}
       \strng{editorfullhashraw}{fb315ac5c76afed7464a7f6a73ba5bad}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{month}{3}
@@ -501,8 +501,8 @@
       \strng{authornamehash}{446c06d46c6681ae045d3909298a72cc}
       \strng{authorfullhash}{446c06d46c6681ae045d3909298a72cc}
       \strng{authorfullhashraw}{446c06d46c6681ae045d3909298a72cc}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{2}
@@ -553,8 +553,8 @@
       \strng{authornamehash}{5ca36d2ace1ba5ca058e802025a46954}
       \strng{authorfullhash}{5ca36d2ace1ba5ca058e802025a46954}
       \strng{authorfullhashraw}{5ca36d2ace1ba5ca058e802025a46954}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eprinttype}{hdl}
@@ -607,8 +607,8 @@
       \strng{editornamehash}{811013a54e1d936a795b7fc834434508}
       \strng{editorfullhash}{811013a54e1d936a795b7fc834434508}
       \strng{editorfullhashraw}{811013a54e1d936a795b7fc834434508}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Advances in Applied Mechanics}
@@ -637,8 +637,8 @@
       \strng{authornamehash}{90f708bc48df177fb1a0d55a1f10e8b7}
       \strng{authorfullhash}{90f708bc48df177fb1a0d55a1f10e8b7}
       \strng{authorfullhashraw}{90f708bc48df177fb1a0d55a1f10e8b7}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eid}{061805}
@@ -676,8 +676,8 @@
       \strng{editorfullhash}{cc5403a14cad1460ab3c3c6d41fb5112}
       \strng{editorfullhashraw}{cc5403a14cad1460ab3c3c6d41fb5112}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{title}{Title of Edited Book}
@@ -703,8 +703,8 @@
       \strng{editorfullhash}{20dfd2fc0fe9d29b81ec7afa1e6afcce}
       \strng{editorfullhashraw}{20dfd2fc0fe9d29b81ec7afa1e6afcce}
       \field{extraname}{2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{eventday}{27}
@@ -753,8 +753,8 @@
       \strng{authornamehash}{1d79996edbbdb65069995a1a51cc8d40}
       \strng{authorfullhash}{1d79996edbbdb65069995a1a51cc8d40}
       \strng{authorfullhashraw}{1d79996edbbdb65069995a1a51cc8d40}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{9}
@@ -787,8 +787,8 @@
       \strng{authornamehash}{a2e326947b2d412e9f7fcb4563845715}
       \strng{authorfullhash}{a2e326947b2d412e9f7fcb4563845715}
       \strng{authorfullhashraw}{a2e326947b2d412e9f7fcb4563845715}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{addendum}{First communicated to Daniel Bernoulli in 1734 and read before the St.\ Petersburg Academy in December 1735}
@@ -825,8 +825,8 @@
       \strng{authornamehash}{2f45327197793dca73f131c4fbde5850}
       \strng{authorfullhash}{2f45327197793dca73f131c4fbde5850}
       \strng{authorfullhashraw}{2f45327197793dca73f131c4fbde5850}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Théorie Analytique de la Chaleur}
@@ -869,8 +869,8 @@
       \strng{authornamehash}{a3cd9641cf82bfd7bd6f045b8909cfc9}
       \strng{authorfullhash}{fb51f9cc17dfe2f50205793658576060}
       \strng{authorfullhashraw}{fb51f9cc17dfe2f50205793658576060}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{TUGboat}

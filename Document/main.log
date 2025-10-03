@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.1)  2 OCT 2025 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.1)  3 OCT 2025 13:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/prt4539/Desktop/MIT-thesis-template/MIT-Thesis.tex
-(c:/Users/prt4539/Desktop/MIT-thesis-template/MIT-Thesis.tex
+**d:/github/Thesis-Document/Document/main.tex
+(d:/github/Thesis-Document/Document/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (d:/texlive/2025/texmf-dist/tex/latex/latex-lab/documentmetadata-support.ltx (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-testphase.sty
@@ -414,12 +414,7 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use 
 \mhchem@option@minusmathsidebearingright=\dimen195
 \mhchem@option@minustextsidebearingleft=\dimen196
 \mhchem@option@minustextsidebearingright=\dimen197
-) (d:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count350
-\l__lipsum_a_int=\count351
-\l__lipsum_b_int=\count352
- (d:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (d:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (d:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen198
 \lightrulewidth=\dimen199
@@ -431,12 +426,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen261
 \cmidrulekern=\dimen262
 \defaultaddspace=\dimen263
-\@cmidla=\count353
-\@cmidlb=\count354
+\@cmidla=\count350
+\@cmidlb=\count351
 \@aboverulesep=\dimen264
 \@belowrulesep=\dimen265
-\@thisruleclass=\count355
-\@lastruleclass=\count356
+\@thisruleclass=\count352
+\@lastruleclass=\count353
 \@thisrulewidth=\dimen266
 ) (d:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
@@ -455,23 +450,23 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTright=\skip74
 \LTpre=\skip75
 \LTpost=\skip76
-\LTchunksize=\count357
+\LTchunksize=\count354
 \LTcapwidth=\dimen269
 \LT@head=\box64
 \LT@firsthead=\box65
 \LT@foot=\box66
 \LT@lastfoot=\box67
 \LT@gbox=\box68
-\LT@cols=\count358
-\LT@rows=\count359
-\c@LT@tables=\count360
-\c@LT@chunks=\count361
+\LT@cols=\count355
+\LT@rows=\count356
+\c@LT@tables=\count357
+\c@LT@chunks=\count358
 \LT@p@ftn=\toks26
 ) (d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
 \MT@toks=\toks27
 \MT@tempbox=\box69
-\MT@count=\count362
+\MT@count=\count359
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks28
@@ -480,7 +475,7 @@ LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen270
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count363
+\MT@listname@count=\count360
  (d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
@@ -494,14 +489,14 @@ File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 ) (d:/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
-\c@tracingmulticols=\count364
+\c@tracingmulticols=\count361
 \mult@box=\box70
 \multicol@leftmargin=\dimen271
-\c@unbalance=\count365
-\c@collectmore=\count366
-\doublecol@number=\count367
-\multicoltolerance=\count368
-\multicolpretolerance=\count369
+\c@unbalance=\count362
+\c@collectmore=\count363
+\doublecol@number=\count364
+\multicoltolerance=\count365
+\multicolpretolerance=\count366
 \full@width=\dimen272
 \page@free=\dimen273
 \premulticols=\dimen274
@@ -552,69 +547,69 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \@tempa=\box111
 \@tempa=\box112
 \@tempa=\box113
-\c@minrows=\count370
-\c@columnbadness=\count371
-\c@finalcolumnbadness=\count372
+\c@minrows=\count367
+\c@columnbadness=\count368
+\c@finalcolumnbadness=\count369
 \last@try=\dimen277
 \multicolovershoot=\dimen278
 \multicolundershoot=\dimen279
 \mult@nat@firstbox=\box114
 \colbreak@box=\box115
-\mc@col@check@num=\count373
-\g__mc_curr_col_int=\count374
+\mc@col@check@num=\count370
+\g__mc_curr_col_int=\count371
 ) (d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
  (d:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count375
+\lrq@indent=\count372
  (d:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (d:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count376
-\c@listtotal=\count377
-\c@listcount=\count378
-\c@liststart=\count379
-\c@liststop=\count380
-\c@citecount=\count381
-\c@citetotal=\count382
-\c@multicitecount=\count383
-\c@multicitetotal=\count384
-\c@instcount=\count385
-\c@maxnames=\count386
-\c@minnames=\count387
-\c@maxitems=\count388
-\c@minitems=\count389
-\c@citecounter=\count390
-\c@maxcitecounter=\count391
-\c@savedcitecounter=\count392
-\c@uniquelist=\count393
-\c@uniquename=\count394
-\c@refsection=\count395
-\c@refsegment=\count396
-\c@maxextratitle=\count397
-\c@maxextratitleyear=\count398
-\c@maxextraname=\count399
-\c@maxextradate=\count400
-\c@maxextraalpha=\count401
-\c@abbrvpenalty=\count402
-\c@highnamepenalty=\count403
-\c@lownamepenalty=\count404
-\c@maxparens=\count405
-\c@parenlevel=\count406
-\blx@tempcnta=\count407
-\blx@tempcntb=\count408
-\blx@tempcntc=\count409
-\c@blx@maxsection=\count410
-\blx@maxsegment@0=\count411
-\blx@notetype=\count412
-\blx@parenlevel@text=\count413
-\blx@parenlevel@foot=\count414
-\blx@sectionciteorder@0=\count415
-\blx@sectionciteorderinternal@0=\count416
-\blx@entrysetcounter=\count417
-\blx@biblioinstance=\count418
+\c@tabx@nest=\count373
+\c@listtotal=\count374
+\c@listcount=\count375
+\c@liststart=\count376
+\c@liststop=\count377
+\c@citecount=\count378
+\c@citetotal=\count379
+\c@multicitecount=\count380
+\c@multicitetotal=\count381
+\c@instcount=\count382
+\c@maxnames=\count383
+\c@minnames=\count384
+\c@maxitems=\count385
+\c@minitems=\count386
+\c@citecounter=\count387
+\c@maxcitecounter=\count388
+\c@savedcitecounter=\count389
+\c@uniquelist=\count390
+\c@uniquename=\count391
+\c@refsection=\count392
+\c@refsegment=\count393
+\c@maxextratitle=\count394
+\c@maxextratitleyear=\count395
+\c@maxextraname=\count396
+\c@maxextradate=\count397
+\c@maxextraalpha=\count398
+\c@abbrvpenalty=\count399
+\c@highnamepenalty=\count400
+\c@lownamepenalty=\count401
+\c@maxparens=\count402
+\c@parenlevel=\count403
+\blx@tempcnta=\count404
+\blx@tempcntb=\count405
+\blx@tempcntc=\count406
+\c@blx@maxsection=\count407
+\blx@maxsegment@0=\count408
+\blx@notetype=\count409
+\blx@parenlevel@text=\count410
+\blx@parenlevel@foot=\count411
+\blx@sectionciteorder@0=\count412
+\blx@sectionciteorderinternal@0=\count413
+\blx@entrysetcounter=\count414
+\blx@biblioinstance=\count415
 \labelnumberwidth=\skip80
 \labelalphawidth=\skip81
 \biblabelsep=\skip82
@@ -626,9 +621,9 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language90
-\c@mincomprange=\count419
-\c@maxcomprange=\count420
-\c@mincompwidth=\count421
+\c@mincomprange=\count416
+\c@maxcomprange=\count417
+\c@mincompwidth=\count418
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (d:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -638,74 +633,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ext-numeric-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count422
-\c@savedafterword=\count423
-\c@annotator=\count424
-\c@savedannotator=\count425
-\c@author=\count426
-\c@savedauthor=\count427
-\c@bookauthor=\count428
-\c@savedbookauthor=\count429
-\c@commentator=\count430
-\c@savedcommentator=\count431
-\c@editor=\count432
-\c@savededitor=\count433
-\c@editora=\count434
-\c@savededitora=\count435
-\c@editorb=\count436
-\c@savededitorb=\count437
-\c@editorc=\count438
-\c@savededitorc=\count439
-\c@foreword=\count440
-\c@savedforeword=\count441
-\c@holder=\count442
-\c@savedholder=\count443
-\c@introduction=\count444
-\c@savedintroduction=\count445
-\c@namea=\count446
-\c@savednamea=\count447
-\c@nameb=\count448
-\c@savednameb=\count449
-\c@namec=\count450
-\c@savednamec=\count451
-\c@translator=\count452
-\c@savedtranslator=\count453
-\c@shortauthor=\count454
-\c@savedshortauthor=\count455
-\c@shorteditor=\count456
-\c@savedshorteditor=\count457
-\c@labelname=\count458
-\c@savedlabelname=\count459
-\c@institution=\count460
-\c@savedinstitution=\count461
-\c@lista=\count462
-\c@savedlista=\count463
-\c@listb=\count464
-\c@savedlistb=\count465
-\c@listc=\count466
-\c@savedlistc=\count467
-\c@listd=\count468
-\c@savedlistd=\count469
-\c@liste=\count470
-\c@savedliste=\count471
-\c@listf=\count472
-\c@savedlistf=\count473
-\c@location=\count474
-\c@savedlocation=\count475
-\c@organization=\count476
-\c@savedorganization=\count477
-\c@origlocation=\count478
-\c@savedoriglocation=\count479
-\c@origpublisher=\count480
-\c@savedorigpublisher=\count481
-\c@publisher=\count482
-\c@savedpublisher=\count483
-\c@language=\count484
-\c@savedlanguage=\count485
-\c@origlanguage=\count486
-\c@savedoriglanguage=\count487
-\c@pageref=\count488
-\c@savedpageref=\count489
+\c@afterword=\count419
+\c@savedafterword=\count420
+\c@annotator=\count421
+\c@savedannotator=\count422
+\c@author=\count423
+\c@savedauthor=\count424
+\c@bookauthor=\count425
+\c@savedbookauthor=\count426
+\c@commentator=\count427
+\c@savedcommentator=\count428
+\c@editor=\count429
+\c@savededitor=\count430
+\c@editora=\count431
+\c@savededitora=\count432
+\c@editorb=\count433
+\c@savededitorb=\count434
+\c@editorc=\count435
+\c@savededitorc=\count436
+\c@foreword=\count437
+\c@savedforeword=\count438
+\c@holder=\count439
+\c@savedholder=\count440
+\c@introduction=\count441
+\c@savedintroduction=\count442
+\c@namea=\count443
+\c@savednamea=\count444
+\c@nameb=\count445
+\c@savednameb=\count446
+\c@namec=\count447
+\c@savednamec=\count448
+\c@translator=\count449
+\c@savedtranslator=\count450
+\c@shortauthor=\count451
+\c@savedshortauthor=\count452
+\c@shorteditor=\count453
+\c@savedshorteditor=\count454
+\c@labelname=\count455
+\c@savedlabelname=\count456
+\c@institution=\count457
+\c@savedinstitution=\count458
+\c@lista=\count459
+\c@savedlista=\count460
+\c@listb=\count461
+\c@savedlistb=\count462
+\c@listc=\count463
+\c@savedlistc=\count464
+\c@listd=\count465
+\c@savedlistd=\count466
+\c@liste=\count467
+\c@savedliste=\count468
+\c@listf=\count469
+\c@savedlistf=\count470
+\c@location=\count471
+\c@savedlocation=\count472
+\c@organization=\count473
+\c@savedorganization=\count474
+\c@origlocation=\count475
+\c@savedoriglocation=\count476
+\c@origpublisher=\count477
+\c@savedorigpublisher=\count478
+\c@publisher=\count479
+\c@savedpublisher=\count480
+\c@language=\count481
+\c@savedlanguage=\count482
+\c@origlanguage=\count483
+\c@savedoriglanguage=\count484
+\c@pageref=\count485
+\c@savedpageref=\count486
 \shorthandwidth=\skip88
 \shortjournalwidth=\skip89
 \shortserieswidth=\skip90
@@ -729,19 +724,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count490
-\c@textcitetotal=\count491
-\c@textcitemaxnames=\count492
-\c@biburlbigbreakpenalty=\count493
-\c@biburlbreakpenalty=\count494
-\c@biburlnumpenalty=\count495
-\c@biburlucpenalty=\count496
-\c@biburllcpenalty=\count497
+\c@textcitecount=\count487
+\c@textcitetotal=\count488
+\c@textcitemaxnames=\count489
+\c@biburlbigbreakpenalty=\count490
+\c@biburlbreakpenalty=\count491
+\c@biburlnumpenalty=\count492
+\c@biburlucpenalty=\count493
+\c@biburllcpenalty=\count494
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count498
+\c@smartand=\count495
 )
 Package biblatex Info: Trying to load bibliography style 'ext-numeric-comp'...
 Package biblatex Info: ... file 'ext-numeric-comp.bbx' found.
@@ -760,8 +755,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (d:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count499
-\c@bbx:relatedtotal=\count500
+\c@bbx:relatedcount=\count496
+\c@bbx:relatedtotal=\count497
 )
 \extbl@this@introcitewidth=\skip102
 \introcitewidth=\skip103
@@ -786,10 +781,10 @@ Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
  (d:/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count501
-\c@cbx@tempcntb=\count502
-\c@cbx@tempcntc=\count503
-\c@cbx@tempcntd=\count504
+\c@cbx@tempcnta=\count498
+\c@cbx@tempcntb=\count499
+\c@cbx@tempcntc=\count500
+\c@cbx@tempcntd=\count501
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -833,31 +828,31 @@ Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (d:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count505
+\BKM@id=\count502
 ))
-\@quotelevel=\count506
-\@quotereset=\count507
- (./MIT-Thesis.aux (./committee_members.aux) (./acknowledgments.aux) (./biography.aux) (./chapter1.aux) (./appendixa.aux) (./appendixb.aux))
-\openout1 = `MIT-Thesis.aux'.
+\@quotelevel=\count503
+\@quotereset=\count504
+ (./main.aux (./committee_members.aux) (./acknowledgments.aux) (./biography.aux) (./chapter1.aux) (./appendixa.aux) (./appendixb.aux))
+\openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 211.
-LaTeX Font Info:    ... okay on input line 211.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 202.
+LaTeX Font Info:    ... okay on input line 202.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -895,16 +890,16 @@ LaTeX Font Info:    ... okay on input line 211.
 
 (d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count508
+\scratchcounter=\count505
 \scratchdimen=\dimen280
 \scratchbox=\box116
-\nofMPsegments=\count509
-\nofMParguments=\count510
+\nofMPsegments=\count506
+\nofMParguments=\count507
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count511
+\MPscratchCnt=\count508
 \MPscratchDim=\dimen281
-\MPnumerator=\count512
-\makeMPintoPDFobject=\count513
+\MPnumerator=\count509
+\makeMPintoPDFobject=\count510
 \everyMPtoPDFconversion=\toks30
 ) (d:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -920,18 +915,18 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 211.
-\c@lstlisting=\count514
+Package hyperref Info: Link coloring OFF on input line 202.
+\c@lstlisting=\count511
 
-Package chemgreek Info: Activating mapping `default' on line 211.
+Package chemgreek Info: Activating mapping `default' on line 202.
 
-LaTeX Info: Redefining \microtypecontext on input line 211.
-Package microtype Info: Applying patch `item' on input line 211.
-Package microtype Info: Applying patch `toc' on input line 211.
-Package microtype Info: Applying patch `eqnum' on input line 211.
-Package microtype Info: Applying patch `footnote' on input line 211.
-Package microtype Info: Applying patch `verbatim' on input line 211.
-LaTeX Info: Redefining \microtypesetup on input line 211.
+LaTeX Info: Redefining \microtypecontext on input line 202.
+Package microtype Info: Applying patch `item' on input line 202.
+Package microtype Info: Applying patch `toc' on input line 202.
+Package microtype Info: Applying patch `eqnum' on input line 202.
+Package microtype Info: Applying patch `footnote' on input line 202.
+Package microtype Info: Applying patch `verbatim' on input line 202.
+LaTeX Info: Redefining \microtypesetup on input line 202.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -962,19 +957,19 @@ File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `MIT-Thesis.bcf'.
+\openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'MIT-Thesis.bbl' found.
- (./MIT-Thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 211.
-Package biblatex Info: Reference segment=0 on input line 211.
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 202.
+Package biblatex Info: Reference segment=0 on input line 202.
 <<sRGB.icc>>
-\l__author_authorno_int=\count515
-\l__author_autcrcnt_int=\count516
-\g__signature_autno_int=\count517
-\g__signature_supno_int=\count518
-\g__signature_accno_int=\count519
+\l__author_authorno_int=\count512
+\l__author_autcrcnt_int=\count513
+\g__signature_autno_int=\count514
+\g__signature_supno_int=\count515
+\g__signature_accno_int=\count516
 
 
 [1
@@ -999,7 +994,7 @@ Package biblatex Info: Reference segment=0 on input line 211.
 
 
 ] (./abstract.tex)
-\l__supervisor_supervisorno_int=\count520
+\l__supervisor_supervisorno_int=\count517
 
 
 [5]
@@ -1032,9 +1027,9 @@ Package biblatex Info: Reference segment=0 on input line 211.
 
 
 
-] (./MIT-Thesis.toc)
+] (./main.toc)
 \tf@toc=\write4
-\openout4 = `MIT-Thesis.toc'.
+\openout4 = `main.toc'.
 
 
 
@@ -1042,9 +1037,9 @@ Package biblatex Info: Reference segment=0 on input line 211.
 
 [12
 
-] (./MIT-Thesis.lof)
+] (./main.lof)
 \tf@lof=\write5
-\openout5 = `MIT-Thesis.lof'.
+\openout5 = `main.lof'.
 
 
 
@@ -1052,9 +1047,9 @@ Package biblatex Info: Reference segment=0 on input line 211.
 
 [14
 
-] (./MIT-Thesis.lot)
+] (./main.lot)
 \tf@lot=\write6
-\openout6 = `MIT-Thesis.lot'.
+\openout6 = `main.lot'.
 
 
 
@@ -1068,10 +1063,7 @@ Package biblatex Info: Reference segment=0 on input line 211.
 
 ]
 Chapter 1.
-
-
-[17]
-<example-image-c.jpg, id=176, 401.5pt x 301.125pt>
+<example-image-c.jpg, id=153, 401.5pt x 301.125pt>
 File: example-image-c.jpg Graphic file (type jpg)
 <use example-image-c.jpg>
 Package pdftex.def Info: example-image-c.jpg  used on input line 27.
@@ -1080,24 +1072,21 @@ File: example-image-c.jpg Graphic file (type jpg)
 <use example-image-c.jpg>
 Package pdftex.def Info: example-image-c.jpg  used on input line 32.
 (pdftex.def)             Requested size: 230.20244pt x 172.65387pt.
-
-
-[18 <d:/texlive/2025/texmf-dist/tex/latex/mwe/example-image-c.jpg>]
-<example-image-b.jpg, id=192, 401.5pt x 301.125pt>
+<example-image-b.jpg, id=155, 401.5pt x 301.125pt>
 File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package pdftex.def Info: example-image-b.jpg  used on input line 82.
 (pdftex.def)             Requested size: 189.77982pt x 142.33745pt.
 
 
-[19]
-
-[20 <d:/texlive/2025/texmf-dist/tex/latex/mwe/example-image-b.jpg>]
+[17]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
+
+[18 <d:/texlive/2025/texmf-dist/tex/latex/mwe/example-image-c.jpg> <d:/texlive/2025/texmf-dist/tex/latex/mwe/example-image-b.jpg>]
 
 
 
@@ -1105,9 +1094,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 )
 
-[21]
+[19]
 
-[22]
+[20]
 \openout2 = `appendixa.aux'.
 
  (./appendixa.tex
@@ -1133,14 +1122,14 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 30.
 
 
-[23
+[21
 
 
 
 
 ])
 
-[24]
+[22]
 \openout2 = `appendixb.aux'.
 
  (./appendixb.tex
@@ -1152,43 +1141,41 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[25
+[23
 
 
 
 
 ])
 
-[26]
+[24]
 
-[27
+[25
 
 
 
-]
-
-[28] (./MIT-Thesis.aux (./committee_members.aux) (./acknowledgments.aux) (./biography.aux) (./chapter1.aux) (./appendixa.aux) (./appendixb.aux))
+] (./main.aux (./committee_members.aux) (./acknowledgments.aux) (./biography.aux) (./chapter1.aux) (./appendixa.aux) (./appendixb.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
-Package logreq Info: Writing requests to 'MIT-Thesis.run.xml'.
-\openout1 = `MIT-Thesis.run.xml'.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31446 strings out of 467748
- 582903 string characters out of 5431138
- 1784999 words of memory out of 5000000
- 59337 multiletter control sequences out of 15000+600000
- 666862 words of font info for 231 fonts, out of 8000000 for 9000
+ 30921 strings out of 467748
+ 570256 string characters out of 5431138
+ 1679792 words of memory out of 5000000
+ 58906 multiletter control sequences out of 15000+600000
+ 663582 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,26n,107p,1052b,3643s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on MIT-Thesis.pdf (28 pages, 571348 bytes).
+ 90i,26n,107p,1036b,3643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (25 pages, 510537 bytes).
 PDF statistics:
- 587 PDF objects out of 1000 (max. 8388607)
- 476 compressed objects within 5 object streams
- 139 named destinations out of 1000 (max. 500000)
- 81115 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 116 named destinations out of 1000 (max. 500000)
+ 79067 words of extra memory for PDF output out of 89155 (max. 10000000)
 

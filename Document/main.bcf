@@ -2394,34 +2394,15 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">mitthesis-sample.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="3" intorder="1">DKE1969</bcf:citekey>
-    <bcf:citekey order="3" intorder="2">ww1920</bcf:citekey>
-    <bcf:citekey order="3" intorder="3">kirk2288a</bcf:citekey>
-    <bcf:citekey order="3" intorder="4">churchill1948</bcf:citekey>
-    <bcf:citekey order="3" intorder="5">gibbs1863</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">Fong2015</bcf:citekey>
-    <bcf:citekey order="4" intorder="2">sharpe1</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">sharpe1</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">GSL</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">Swaminathan2017IDABRO</bcf:citekey>
-    <bcf:citekey order="6" intorder="2">dlmf</bcf:citekey>
-    <bcf:citekey order="6" intorder="3">amsmath</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">reynolds1958</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">clauser56</bcf:citekey>
-    <bcf:citekey order="7" intorder="3">lienhard2020</bcf:citekey>
-    <bcf:citekey order="7" intorder="4">johnson1980</bcf:citekey>
-    <bcf:citekey order="7" intorder="5">johnson1965</bcf:citekey>
-    <bcf:citekey order="7" intorder="6">mpl</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">GSL</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">GSL</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">euler1740</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">fourier1822</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">montijano2014</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">baehr1998</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">baehr1998</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Fong2015</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">sharpe1</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">GSL</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">GSL</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">baehr1998</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">baehr1998</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

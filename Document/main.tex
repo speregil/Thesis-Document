@@ -53,9 +53,6 @@
 \usepackage[version=4]{mhchem}%   documentation at https://ctan.org/pkg/mhchem
 
 %% Latin filler used in Chapter 1, with a test for package version date (https://ctan.org/pkg/lipsum)
-\usepackage{lipsum}
-\IfPackageAtLeastTF{lipsum}{2021/09/20}{\setlipsum{auto-lang=false}}{}
-
 
 %%%%%%%%%  Other optional packages used sample chapters  %%%%%%%%%%%%%%%%%%
 
@@ -88,7 +85,7 @@
 %% Can set graphicspath to point to specific directories containing figures (the current directory is searched automatically)
 %% For instance, to search a subdirectory of the current directory called "figures" and a parallel directory called "art", set:
 
-% \graphicspath{ {figures/} {../art/} }% For details see: https://latexref.xyz/dev/latex2e.html#g_t_005cgraphicspath
+\graphicspath{{figures/}} % For details see: https://latexref.xyz/dev/latex2e.html#g_t_005cgraphicspath
 
 
 %%%%%%%%%  Representative set-up for biblatex  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -136,7 +133,7 @@
 % \usepackage[style=authoryear, maxbibnames=10]{biblatex} 
 
 
-\addbibresource{mitthesis-sample.bib}%% <== change to YOUR bib file <= CHANGE
+\addbibresource{bibliography.bib}%% <== change to YOUR bib file <= CHANGE
 
 
 %% to avoid split urls and stretched white space, you can make the bibliography ragged-right by uncommenting this:
@@ -173,24 +170,18 @@
 % The following items should be adjusted to match your work. <================= !!!!!!!!!!
 
 \hypersetup{%
-	pdfsubject={Template for writing MIT theses with the mitthesis class},
+	pdfsubject={Collaboration-Based Learning Environments using Augmented Reality. Thesis document for the title of Doctor of Philosophy in Creative Technologies, Sebastian Gil Parga, 2025.},
 	% Change this to briefly state topic of your thesis 
 % 
-	pdfkeywords={Massachusetts Institute of Technology, MIT},
+	pdfkeywords={Thesis, AUT, Creative Technologies, Augmented Reality, Learning Environments, Collaborative Learning},
 	% Add keywords that will help search engines and libraries to find your work.
 	% Includes the name[s] of the author[s] 
 	% (If you used \DocumentMetadata at line 14, you can just put "\CopyrightAuthor," for the names.)
-%
-	pdfurl={},
-	% If you have a url for the thesis, put it here. Otherwise delete this.
-	% (MIT Libraries will put your thesis in DSPACE with a persistent url after you submit it.)
 %	
-	pdfcontactemail={},
+	pdfcontactemail={s.gilparga@gmail.com},
 	% You can put a [permanent] email address into the metadata, if you like.
 	% Otherwise delete this.
 %
-	pdfauthortitle={},
-	% If you have a title (e.g., Prof. Dr.-Ing.), you can include it here.
 }
 
 %%%%%%%%%%%%  Math operators %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -209,30 +200,16 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-%%% edit the following commands to match your thesis %%%%%%%%%%
-
-\title{The Atomic Theory as Applied To Gases, with Some Experiments on the Viscosity of Air}
+\title{Collaboration-Based Learning Environments using Augmented Reality}
 
 % \Author{Author full name}{Author department}[Author's first PREVIOUS degree][Author's second PREVIOUS degree][...
-% Note that third, fourth, fifth, and sixth arguments are optional [] and may be omitted
+\Author{Sebastian Gil Parga}{School of Future Environments, Department of Creative Technologies}
 
-% note on names: most of the following names are made up; Silas Holman was a physics professor at MIT in the 19th century.
-
-\Author{Silas W. Holman}{Department of Physics}
-% \Author{Luisa Hernández}{Department of Research}[B.S. Mechanical Engineering, UCLA, 2018][M.S. Stellar Interiors, Vulcan Science Academy, 2020]
-% \Author{Thurston Howell III}{Department of Economics}[MBA, Ferengi School of Management, 2022]
-
-% Use once for each degree fulfilled by thesis
-% For two degrees from one department, leave the department argument blank for the second degree {}.
-\Degree{Bachelor of Science in Physics}{Department of Physics}
-%\Degree{Master of Science in Physics}{}
-%\Degree{Bachelor of Science in Mechanical Engineering}{Department of Mechanical Engineering}
+\Degree{Doctor of Philosophy in Creative Technologies}{Department of Creative Technologies}
 
 % If there is more than one supervisor, use the \Supervisor command for each.
-\Supervisor{Edward C. Pickering}{Professor of Physics}
-% \Supervisor{Edward C. Pickering}{Professor of Physics, and \\ \> Professor of Something Else}
-% \Supervisor{Secunda Castor}{Professor of Research}
-% \Supervisor{Quintus Castor}{Professor of Log Dams}
+\Supervisor{Stefan Marks}{Associate Professor}
+\Supervisor{Jairo Gutierrez}{Professor}
 
 % Professor who formally accepts theses for your department (e.g., the Graduate Officer, Professor Sméagol,...)
 % If more than one department, use more than once
@@ -243,10 +220,10 @@
 
 % Usage: \DegreeDate{Month}{year}
 % Valid degree months are February, May, June, or September
-\DegreeDate{June}{1876}
+\DegreeDate{November}{2025}
 
 % Date that final thesis is submitted to department
-\ThesisDate{May 18, 1876}
+\ThesisDate{November 30, 2025}
 
 
 %%%%%%  Choose whether to have a CREATIVE COMMONS License  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

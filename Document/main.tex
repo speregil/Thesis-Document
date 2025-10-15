@@ -95,7 +95,7 @@
 %%   cheat sheet is here:   https://tug.ctan.org/info/biblatex-cheatsheet/biblatex-cheatsheet.pdf
 
 %% Numerical citations of references
-\usepackage[style=ext-numeric-comp,giveninits=true,maxbibnames=10,sorting=none,language=american]{biblatex}
+\usepackage[style=apa,giveninits=true,maxbibnames=10,sorting=none,language=english]{biblatex}
 
 % and make some changes to that style
 	\renewcommand{\multicitedelim}{\addcomma}% removes space between consecutive cites to give [6,7], not [6, 7]
@@ -133,11 +133,11 @@
 % \usepackage[style=authoryear, maxbibnames=10]{biblatex} 
 
 
-\addbibresource{bibliography.bib}%% <== change to YOUR bib file <= CHANGE
+\addbibresource{references.bib}%% <== change to YOUR bib file <= CHANGE
 
 
 %% to avoid split urls and stretched white space, you can make the bibliography ragged-right by uncommenting this:
-%\AddToHook{cmd/bibsetup/after}{\raggedright}
+\AddToHook{cmd/bibsetup/after}{\raggedright}
 
 %% To ensure citations are set, run Latex --> biblatex --> Latex again (unless you installation does this automatically)
 

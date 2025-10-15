@@ -19,73 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{Fong2015}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=e414180d9053c44990c40af55181db2e}{%
-           family={Fong},
-           familyi={F\bibinitperiod},
-           given={Chamberlain},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{e414180d9053c44990c40af55181db2e}
-      \strng{fullhash}{e414180d9053c44990c40af55181db2e}
-      \strng{fullhashraw}{e414180d9053c44990c40af55181db2e}
-      \strng{bibnamehash}{e414180d9053c44990c40af55181db2e}
-      \strng{authorbibnamehash}{e414180d9053c44990c40af55181db2e}
-      \strng{authornamehash}{e414180d9053c44990c40af55181db2e}
-      \strng{authorfullhash}{e414180d9053c44990c40af55181db2e}
-      \strng{authorfullhashraw}{e414180d9053c44990c40af55181db2e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprinttype}{arxiv}
-      \field{howpublished}{{\itshape ArXiv e-prints}}
-      \field{month}{9}
-      \field{title}{Analytical Methods for Squaring the Disc}
-      \field{year}{2015}
-      \verb{eprint}
-      \verb 1509.06344
-      \endverb
-    \endentry
-    \entry{sharpe1}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=e844f6e518a0758e12808c365c30be78}{%
-           family={Sharpe},
-           familyi={S\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Comprehensive \TeX{} Archive Network}%
-      }
-      \strng{namehash}{e844f6e518a0758e12808c365c30be78}
-      \strng{fullhash}{e844f6e518a0758e12808c365c30be78}
-      \strng{fullhashraw}{e844f6e518a0758e12808c365c30be78}
-      \strng{bibnamehash}{e844f6e518a0758e12808c365c30be78}
-      \strng{authorbibnamehash}{e844f6e518a0758e12808c365c30be78}
-      \strng{authornamehash}{e844f6e518a0758e12808c365c30be78}
-      \strng{authorfullhash}{e844f6e518a0758e12808c365c30be78}
-      \strng{authorfullhashraw}{e844f6e518a0758e12808c365c30be78}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{3}
-      \field{title}{New {TX} Font Package}
-      \field{urlday}{29}
-      \field{urlmonth}{5}
-      \field{urlyear}{2023}
-      \field{version}{1.71}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://ctan.org/pkg/newtx
-      \endverb
-      \verb{url}
-      \verb https://ctan.org/pkg/newtx
-      \endverb
-    \endentry
     \entry{GSL}{manual}{}{}
       \name{author}{9}{}{%
         {{hash=385ea8f26b1fa42308b2e1c4e6a18ae5}{%
@@ -148,8 +81,8 @@
       \strng{authornamehash}{fc246f838e6304593fc518e560006fce}
       \strng{authorfullhash}{ea7fb682acfe0a75c32d72c1e1afd970}
       \strng{authorfullhashraw}{ea7fb682acfe0a75c32d72c1e1afd970}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{GNU} Scientific Library}
@@ -193,8 +126,8 @@
       \strng{authornamehash}{f62de93e8de86e6012acf6d97c26111b}
       \strng{authorfullhash}{f62de93e8de86e6012acf6d97c26111b}
       \strng{authorfullhashraw}{f62de93e8de86e6012acf6d97c26111b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{3-540-63695-1}

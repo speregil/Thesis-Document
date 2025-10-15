@@ -18,34 +18,222 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global/global}
-    \entry{cyberpunk_2025}{misc}{}{}
+  \datalist[entry]{none/apasortcite//global/global/global}
+    \entry{cyberpunk_2022}{misc}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=757beb2a3cb1bc5698789fc84c362566}{%
+           family={Imaishi},
+           familyi={I\bibinitperiod},
+           given={Hiroyuki\bibnamedelima {\relax\bibnamedelimb (Director)}},
+           giveni={H\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95d95e7299af2bc8e2853949946bd46e}{%
+           family={Kaneko},
+           familyi={K\bibinitperiod},
+           given={Yoshiyuki\bibnamedelima {\relax\bibnamedelimb (Director)}},
+           giveni={Y\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f04bbaeed070f0b43090ed109e23272b}{%
+           family={Pondsmith},
+           familyi={P\bibinitperiod},
+           given={Mike\bibnamedelima {\relax\bibnamedelimb (Writer)}},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9717bce47f1ed6c6d67cc40cd70593}{%
+           family={Sztybor},
+           familyi={S\bibinitperiod},
+           given={Bartosz\bibnamedelima {\relax\bibnamedelimb (Writer)}},
+           giveni={B\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=252839126592f84c2e2ec33187a53a15}{%
+           family={Ôtsuka},
+           familyi={Ô\bibinitperiod},
+           given={Masahiko\bibnamedelima {\relax\bibnamedelimb (Writer)}},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {[Television broadcast] Studio Trigger}%
+      }
+      \list{publisher}{1}{%
+        {Netflix}%
+      }
+      \strng{namehash}{4a23359bd5618e315238d7f348e57af1}
+      \strng{fullhash}{e50a8866836f3f0fab3967558247389a}
+      \strng{fullhashraw}{e50a8866836f3f0fab3967558247389a}
+      \strng{bibnamehash}{e50a8866836f3f0fab3967558247389a}
+      \strng{authorbibnamehash}{e50a8866836f3f0fab3967558247389a}
+      \strng{authornamehash}{4a23359bd5618e315238d7f348e57af1}
+      \strng{authorfullhash}{e50a8866836f3f0fab3967558247389a}
+      \strng{authorfullhashraw}{e50a8866836f3f0fab3967558247389a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Cyberpunk: Edgerunners (Episode 1)}
+      \field{year}{2022}
+    \endentry
+    \entry{forsler_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8a8bf4e4aa5c8a4991b5880a03445812}{%
+           family={Forsler},
+           familyi={F\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a16706b96330f1a12c6369e751254dad}{%
+           family={Bardone},
+           familyi={B\bibinitperiod},
+           given={Emanuele},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f660a6926183d2e3287d3b704c7ae68}{%
+           family={Forsman},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
       \list{language}{1}{%
         {en}%
       }
+      \strng{namehash}{ea3ffb45a239c6e280228c834e7875f7}
+      \strng{fullhash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{fullhashraw}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{bibnamehash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{authorbibnamehash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{authornamehash}{ea3ffb45a239c6e280228c834e7875f7}
+      \strng{authorfullhash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{authorfullhashraw}{084bac7a1e2a75b699dd68a57e44e9fa}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Edjirannāzu) is a cyberpunk original net animation (ONA) miniseries based on the video game Cyberpunk 2077 by Polish studio CD Projekt Red. The series was animated by Japanese animation studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022. Set in the Cyberpunk universe created by Mike Pondsmith, the anime serves as a prequel to the game and takes place about a year before the events of Cyberpunk 2077. Upon its release, Cyberpunk: Edgerunners received critical acclaim, with praise directed at its characters, animation, and worldbuilding. In October 2022, CD Projekt had initially announced that the anime would not be receiving a second season and stated that, while they were open to collaborating with Trigger for future projects, Cyberpunk: Edgerunners had always been planned as a standalone work. However, in September 2024, Netflix had released a teaser regarding a collaboration between Netflix Animation, CD Projekt, and Cyberpunk 2077, stating a "return to Night City." A standalone sequel series, titled Cyberpunk: Edgerunners 2, was announced in July 2025.}
-      \field{journaltitle}{Wikipedia}
-      \field{month}{7}
-      \field{note}{Page Version ID: 1299016057}
-      \field{shorttitle}{{<}i{>}{Cyberpunk}}
-      \field{title}{Cyberpunk: {Edgerunners}}
-      \field{urlday}{6}
-      \field{urlmonth}{7}
-      \field{urlyear}{2025}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://en.wikipedia.org/w/index.php?title=Cyberpunk:_Edgerunners&oldid=1299016057
-      \endverb
-      \verb{url}
-      \verb https://en.wikipedia.org/w/index.php?title=Cyberpunk:_Edgerunners&oldid=1299016057
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2524-4868}
+      \field{journaltitle}{Postdigital Science and Education}
+      \field{month}{6}
+      \field{title}{The {Future} {Postdigital} {Classroom}}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/s42438-024-00488-y
       \endverb
     \endentry
   \enddatalist
-  \missing{GSL}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{cyberpunk_2022}{misc}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=757beb2a3cb1bc5698789fc84c362566}{%
+           family={Imaishi},
+           familyi={I\bibinitperiod},
+           given={Hiroyuki\bibnamedelima {\relax\bibnamedelimb (Director)}},
+           giveni={H\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95d95e7299af2bc8e2853949946bd46e}{%
+           family={Kaneko},
+           familyi={K\bibinitperiod},
+           given={Yoshiyuki\bibnamedelima {\relax\bibnamedelimb (Director)}},
+           giveni={Y\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f04bbaeed070f0b43090ed109e23272b}{%
+           family={Pondsmith},
+           familyi={P\bibinitperiod},
+           given={Mike\bibnamedelima {\relax\bibnamedelimb (Writer)}},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e9717bce47f1ed6c6d67cc40cd70593}{%
+           family={Sztybor},
+           familyi={S\bibinitperiod},
+           given={Bartosz\bibnamedelima {\relax\bibnamedelimb (Writer)}},
+           giveni={B\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=252839126592f84c2e2ec33187a53a15}{%
+           family={Ôtsuka},
+           familyi={Ô\bibinitperiod},
+           given={Masahiko\bibnamedelima {\relax\bibnamedelimb (Writer)}},
+           giveni={M\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {[Television broadcast] Studio Trigger}%
+      }
+      \list{publisher}{1}{%
+        {Netflix}%
+      }
+      \strng{namehash}{4a23359bd5618e315238d7f348e57af1}
+      \strng{fullhash}{e50a8866836f3f0fab3967558247389a}
+      \strng{fullhashraw}{e50a8866836f3f0fab3967558247389a}
+      \strng{bibnamehash}{e50a8866836f3f0fab3967558247389a}
+      \strng{authorbibnamehash}{e50a8866836f3f0fab3967558247389a}
+      \strng{authornamehash}{4a23359bd5618e315238d7f348e57af1}
+      \strng{authorfullhash}{e50a8866836f3f0fab3967558247389a}
+      \strng{authorfullhashraw}{e50a8866836f3f0fab3967558247389a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Cyberpunk: Edgerunners (Episode 1)}
+      \field{year}{2022}
+    \endentry
+    \entry{forsler_2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8a8bf4e4aa5c8a4991b5880a03445812}{%
+           family={Forsler},
+           familyi={F\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a16706b96330f1a12c6369e751254dad}{%
+           family={Bardone},
+           familyi={B\bibinitperiod},
+           given={Emanuele},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f660a6926183d2e3287d3b704c7ae68}{%
+           family={Forsman},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ea3ffb45a239c6e280228c834e7875f7}
+      \strng{fullhash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{fullhashraw}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{bibnamehash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{authorbibnamehash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{authornamehash}{ea3ffb45a239c6e280228c834e7875f7}
+      \strng{authorfullhash}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \strng{authorfullhashraw}{084bac7a1e2a75b699dd68a57e44e9fa}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2524-4868}
+      \field{journaltitle}{Postdigital Science and Education}
+      \field{month}{6}
+      \field{title}{The {Future} {Postdigital} {Classroom}}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/s42438-024-00488-y
+      \endverb
+    \endentry
+  \enddatalist
   \missing{baehr1998}
 \endrefsection
 \endinput

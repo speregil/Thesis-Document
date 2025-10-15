@@ -438,7 +438,7 @@
  	\str_case_e:nnF 
 %		{ \str_casefold:e { \tl_to_str:N  \g__dd_month_tl } } % not def'd until 2022/10/16
 		{ \str_lowercase:f { \tl_to_str:N  \g__dd_month_tl } }
-	 	%{ {february}{} {may}{} {june}{} {september}{}}
+	 	{ {february}{} {may}{} {june}{} {september}{}}
 		{ \msg_error:nnn { \ClassName } { wrong_month } {#1} } 
 }
 \msg_new:nnnn { \ClassName } { wrong_month } {The~degree~month~must~be~one~of~February,~May,~June,~or~September.} {You~cannot~use~#1~as~the~degree~month.}
@@ -1007,7 +1007,7 @@
 	}
 
 \tl_new:N \g_titlepage_institution_name_tl
-\tl_gset:Nn \g_titlepage_institution_name_tl {Auckland\ University\ of\ Technology} 
+\tl_gset:Nn \g_titlepage_institution_name_tl {Massachusetts\ Institute\ of\ Technology} 
 \cs_new:Npn \Institution #1 { \tl_gset:Nn \g_titlepage_institution_name_tl { \tl_trim_spaces:n #1} }
 
 
@@ -1038,29 +1038,29 @@
 \RenewDocumentCommand\maketitle{s}{
 	\cs_if_exist:NTF \DegreeMonth { \scan_stop: } { \msg_error:nn { \ClassName } { no_degree_date } }% msg def'd in degree-date section
 %	
-%	\bool_if:NTF \g__cclicense_tf_bool { 
-%		\tl_gset:Nn \g_copyright_copyrightlicencse_tl 
-%			{This\ work\ is\ licensed\ under\ a\ \mbox{\g_copyright_cclicensetext_tl}\ license.\par\g_copyright_mitpermission_tl}
-%		\tl_gset:Nn \g_copyright_pdfrightstext_tl 	 
-%			{This\ work\ is\ licensed\ under\ a\ \g_copyright_ccname_tl\ license.\space \g_copyright_mitpermission_tl}
-%	}{
-%		\tl_gset:Nn \g_copyright_copyrightlicencse_tl 
-%			{All\ rights\ reserved. \par\g_copyright_mitpermission_tl}
-%		\tl_gset:Nn \g_copyright_pdfrightstext_tl 	 
-%			{All\ rights\ reserved.\space \g_copyright_mitpermission_tl}
-%  }
-%   \int_compare:nNnTF { \g_author_authorcnt_int} > {1} 
-%   		{   
-%			\tl_gset:Nn \g__copyright_crwords_tl_ {The\ authors\ hereby\ grant} 
-%		}
-%		{
-%			\tl_gset:Nn \g__copyright_crwords_tl_ {The\ author\ hereby\ grants} 
-%		}
-%   \IfBooleanTF{#1}{
-%	    \tl_gset:Nn \g_copyright_mitpermission_tl {\scan_stop:}
-%    }{
-%	    \tl_gset:Nn \g_copyright_mitpermission_tl { \g__copyright_crwords_tl_\ \g__copyright_mitpermissionlast_tl}
-%    }
+	\bool_if:NTF \g__cclicense_tf_bool { 
+		\tl_gset:Nn \g_copyright_copyrightlicencse_tl 
+			{This\ work\ is\ licensed\ under\ a\ \mbox{\g_copyright_cclicensetext_tl}\ license.\par\g_copyright_mitpermission_tl}
+		\tl_gset:Nn \g_copyright_pdfrightstext_tl 	 
+			{This\ work\ is\ licensed\ under\ a\ \g_copyright_ccname_tl\ license.\space \g_copyright_mitpermission_tl}
+	}{
+		\tl_gset:Nn \g_copyright_copyrightlicencse_tl 
+			{All\ rights\ reserved. \par\g_copyright_mitpermission_tl}
+		\tl_gset:Nn \g_copyright_pdfrightstext_tl 	 
+			{All\ rights\ reserved.\space \g_copyright_mitpermission_tl}
+   }
+   \int_compare:nNnTF { \g_author_authorcnt_int} > {1} 
+   		{   
+			\tl_gset:Nn \g__copyright_crwords_tl_ {The\ authors\ hereby\ grant} 
+		}
+		{
+			\tl_gset:Nn \g__copyright_crwords_tl_ {The\ author\ hereby\ grants} 
+		}
+    \IfBooleanTF{#1}{
+	    \tl_gset:Nn \g_copyright_mitpermission_tl {\scan_stop:}
+    }{
+	    \tl_gset:Nn \g_copyright_mitpermission_tl { \g__copyright_crwords_tl_\ \g__copyright_mitpermissionlast_tl}
+    }
 % 
 	\clearpage
 	\thispagestyle{empty}

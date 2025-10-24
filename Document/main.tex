@@ -9,13 +9,14 @@
 
 \documentclass[mydesign]{mitthesis}					
 
-%%%%%%%%%  Other optional packages used sample chapters  %%%%%%%%%%%%%%%%%%
+%%%%%%%%%  Other optional packages used  %%%%%%%%%%%%%%%%%%
 
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{longtable}
 \usepackage{microtype}
 \usepackage{multicol}
+\usepackage{acronym}
 
 %%%%%%%%%  Graphics path  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -58,9 +59,6 @@
 
 \ThesisDate{November 30, 2025}
 
-\CClicense{CC BY-NC-ND 4.0}{https://creativecommons.org/licenses/by-nc-nd/4.0/}
-
-
 \maketitle*
 
 %%%%%%%%% Content %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -76,6 +74,7 @@
 \tableofcontents
 \listoffigures
 \listoftables
+\include{abbreviations}
 
 %%% Chapters %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

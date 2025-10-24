@@ -170,6 +170,13 @@ INPUT d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT d:/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+INPUT d:/texlive/2025/texmf-dist/tex/latex/acronym/acronym.sty
+INPUT d:/texlive/2025/texmf-dist/tex/latex/acronym/acronym.sty
+INPUT d:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
+INPUT d:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
+INPUT d:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT d:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT d:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
 INPUT d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT d:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
@@ -225,6 +232,9 @@ INPUT acknowledgments.aux
 INPUT ./biography.aux
 INPUT ./biography.aux
 INPUT biography.aux
+INPUT ./abbreviations.aux
+INPUT ./abbreviations.aux
+INPUT abbreviations.aux
 INPUT ./chapter1.aux
 INPUT ./chapter1.aux
 INPUT chapter1.aux
@@ -342,6 +352,12 @@ INPUT ./main.lot
 INPUT ./main.lot
 INPUT main.lot
 OUTPUT main.lot
+INPUT ./abbreviations.tex
+INPUT ./abbreviations.tex
+OUTPUT abbreviations.aux
+INPUT ./abbreviations.tex
+INPUT ./abbreviations.tex
+INPUT abbreviations.tex
 INPUT ./chapter1.tex
 INPUT ./chapter1.tex
 OUTPUT chapter1.aux
@@ -362,6 +378,9 @@ INPUT acknowledgments.aux
 INPUT ./biography.aux
 INPUT ./biography.aux
 INPUT biography.aux
+INPUT ./abbreviations.aux
+INPUT ./abbreviations.aux
+INPUT abbreviations.aux
 INPUT ./chapter1.aux
 INPUT ./chapter1.aux
 INPUT chapter1.aux

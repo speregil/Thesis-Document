@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1761371770.84732 "main.bcf" "main.bbl" "main" 1761371777.04451 0
+["biber main"] 1761548693.23948 "main.bcf" "main.bbl" "main" 1761548696.17417 0
   "main.bcf" 1761371776 134678 17ec2ced205a79bc732c355d21f6f616 "pdflatex"
-  "references.bib" 1761371707 263953 06e6507ca130bc8db470339974c88219 ""
+  "references.bib" 1761548692 267546 bb759be38931b084ec5e6498f14368e5 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761371773.94531 "c:/Users/Usuario/Documents/github/Thesis-Document/Document/main.tex" "main.pdf" "main" 1761371777.04559 0
+["pdflatex"] 1761371773.94531 "c:/Users/Usuario/Documents/github/Thesis-Document/Document/main.tex" "main.pdf" "main" 1761548696.17448 0
   "abbreviations.aux" 1761371776 4590 0a937f5a14fe88838a0d333d5fe3ec37 "pdflatex"
   "abbreviations.tex" 1761360803 241 3818a5f4bdac1c94674886e544c76043 ""
   "abstract.tex" 1759546707 1172 3709d932ac4b8b6d5d686d5681ea9253 ""
@@ -184,7 +184,7 @@
   "figures/F1-1.jpg" 1757403853 249816 4e0188f71412d534d5901f01decf88e2 ""
   "fontsets/mitthesis-defaultfonts.tex" 1759546707 1043 c488d703f7b395cd2eac51f4128f6e87 ""
   "main.aux" 1761371776 7411 656c1b850aef163a7c35a86b4b3b7905 "pdflatex"
-  "main.bbl" 1761371773 46009 dd84945db916f29a86542328db311db2 "biber main"
+  "main.bbl" 1761548696 46009 dd84945db916f29a86542328db311db2 "biber main"
   "main.lof" 1761371776 144 bb28dd4e0c7c32c26fd117242e446cae "pdflatex"
   "main.lot" 1761371776 20 f06013b926d20d994f242e1f23baff30 "pdflatex"
   "main.run.xml" 1761371776 2427 d1bfcd6d722f5bf4e724fdcb22d9bbf2 "pdflatex"

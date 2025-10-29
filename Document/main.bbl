@@ -19,6 +19,106 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{azuma_1997}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65a33080a179a3a436c552a32d1f64f0}{%
+           family={Azuma},
+           familyi={A\bibinitperiod},
+           given={Ronald\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{fullhash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{fullhashraw}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{bibnamehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authorbibnamehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authornamehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authorfullhash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authorfullhashraw}{65a33080a179a3a436c552a32d1f64f0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper surveys the field of augmented reality (AR), in which 3D virtual objects are integrated into a 3D real environment in real time. It describes the medical, manufacturing, visualization, path planning, entertainment, and military applications that have been explored. This paper describes the characteristics of augmented reality systems, including a detailed discussion of the tradeoffs between optical and video blending approaches. Registration and sensing errors are two of the biggest problems in building effective augmented reality systems, so this paper summarizes current efforts to overcome these problems. Future directions and areas requiring further research are discussed. This survey provides a starting point for anyone interested in researching or using augmented reality.}
+      \field{issn}{1054-7460}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{A {Survey} of {Augmented} {Reality}}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{1997}
+      \field{urldateera}{ce}
+      \field{pages}{355\bibrangedash 385}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1162/pres.1997.6.4.355
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/pvar/article/6/4/355-385/18336
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/pvar/article/6/4/355-385/18336
+      \endverb
+    \endentry
+    \entry{baber_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66ef39b22ac08da018fe7002b7ccdc58}{%
+           family={Baber},
+           familyi={B\bibinitperiod},
+           given={Hasnan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{fullhash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{fullhashraw}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{bibnamehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authorbibnamehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authornamehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authorfullhash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authorfullhashraw}{66ef39b22ac08da018fe7002b7ccdc58}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose The pandemic of COVID-19 has pushed most of the classroom learning to an online environment with which most of the people were not familiar. This study aims to investigate the importance of social interaction on the effectiveness of online learning during the pandemic when social distancing norms are in place. Design/methodology/approach This study uses the partial least square (PLS) structural equation modeling (SEM) approach, a nonparametric method based on total variance, using the SmartPLS software 3.0. The data were collected using the snowball sampling technique from the students who were learning online due to the pandemic COVID-19 and asked them to forward the survey link in their network. Findings The results suggested that social interaction has a positive significant impact on the effectiveness of online learning. However, this effect is reduced in the presence of social distance norms as people give more importance to continuous learning and to saving lives rather than socializing in the online environment. Originality/value The study will be helpful for instructors and educational institutes to formalize the strategies to enhance social interaction in online learning and analyze their pedagogy to improve effectiveness.}
+      \field{issn}{2046-3162}
+      \field{journaltitle}{Asian Education and Development Studies}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Social interaction and effectiveness of the online learning – {A} moderating role of maintaining social distance during the pandemic {COVID}-19}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{159\bibrangedash 171}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1108/AEDS-09-2020-0209
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/AEDS-09-2020-0209
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/AEDS-09-2020-0209
+      \endverb
+      \keyw{COVID-19,Effectiveness,Learning,Online,Pandemic,Social distance,Social interaction}
+    \endentry
     \entry{bligh_2017}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d883bbb9eaedf35ca81c02bba457364d}{%
@@ -132,6 +232,132 @@
       \verb 10.1007/s10055-019-00389-7
       \endverb
     \endentry
+    \entry{de-felice_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=01156364b4659d51d46c8ef1b1731628}{%
+           family={De\bibnamedelima Felice},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20d4dca126d9274aa1d0c4d4714aad6a}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={Antonia\bibnamedelimb F.\bibnamedelimi De\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef983ae454aaa4154257e648b3ff259}{%
+           family={Ponari},
+           familyi={P\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e27bdc24fbf7ddf49e47c6768f3883d}{%
+           family={Vigliocco},
+           familyi={V\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d0878f7f633827424483c7e2ac985ea7}
+      \strng{fullhash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{fullhashraw}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{bibnamehash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{authorbibnamehash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{authornamehash}{d0878f7f633827424483c7e2ac985ea7}
+      \strng{authorfullhash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{authorfullhashraw}{de1309135b2f4c863ddf0067e7bcc0de}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Learning in humans is highly embedded in social interaction: since the very early stages of our lives, we form memories and acquire knowledge about the world from and with others. Yet, within cognitive science and neuroscience, human learning is mainly studied in isolation. The focus of past research in learning has been either exclusively on the learner or (less often) on the teacher, with the primary aim of determining developmental trajectories and/or effective teaching techniques. In fact, social interaction has rarely been explicitly taken as a variable of interest, despite being the medium through which learning occurs, especially in development, but also in adulthood. Here, we review behavioural and neuroimaging research on social human learning, specifically focusing on cognitive models of how we acquire semantic knowledge from and with others, and include both developmental as well as adult work. We then identify potential cognitive mechanisms that support social learning, and their neural correlates. The aim is to outline key new directions for experiments investigating how knowledge is acquired in its ecological niche, i.e. socially, within the framework of the two-person neuroscience approach. This article is part of the theme issue ‘Concepts in interaction: social engagement and inner experiences’.}
+      \field{issn}{0962-8436, 1471-2970}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B: Biological Sciences}
+      \field{month}{2}
+      \field{number}{1870}
+      \field{shorttitle}{Learning \textit{from} others is good, \textit{with} others is better}
+      \field{title}{Learning \textit{from} others is good, \textit{with} others is better: the role of social interaction in human acquisition of new knowledge}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{378}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{20210357}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rstb.2021.0357
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
+      \endverb
+    \endentry
+    \entry{forsler_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a8bf4e4aa5c8a4991b5880a03445812}{%
+           family={Forsler},
+           familyi={F\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=796fe6ee624f0ac0372fed8f8da56e2b}{%
+           family={Guyard},
+           familyi={G\bibinitperiod},
+           given={Carina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{fullhash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{fullhashraw}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{bibnamehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authorbibnamehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authornamehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authorfullhash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authorfullhashraw}{ba933dc009fc83b8d80d621ca29e9948}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1743-9884, 1743-9892}
+      \field{journaltitle}{Learning, Media and Technology}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Screens, teens and their brains. {Discourses} about digital media, learning and cognitive development in popular science neuroeducation}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{191\bibrangedash 204}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/17439884.2023.2230893
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2230893
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2230893
+      \endverb
+    \endentry
     \entry{forsler_2024}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=8a8bf4e4aa5c8a4991b5880a03445812}{%
@@ -178,6 +404,53 @@
       \field{year}{2024}
       \verb{doi}
       \verb 10.1007/s42438-024-00488-y
+      \endverb
+    \endentry
+    \entry{gil_2015}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9b8077186c40681d3d49e06271988b6}{%
+           family={Gil\bibnamedelima Parga},
+           familyi={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de los Andes}%
+      }
+      \list{language}{1}{%
+        {ESP}%
+      }
+      \list{location}{1}{%
+        {Bogota, Colombia}%
+      }
+      \strng{namehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{fullhash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{fullhashraw}{b9b8077186c40681d3d49e06271988b6}
+      \strng{bibnamehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authorbibnamehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authornamehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authorfullhash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authorfullhashraw}{b9b8077186c40681d3d49e06271988b6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ambientes virtuales de aprendizaje aplicados}
+      \field{type}{phdthesis}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://repositorio.uniandes.edu.co/entities/publication/c5cf341b-1dfe-43bd-ac7c-61294516c8c2
+      \endverb
+      \verb{url}
+      \verb https://repositorio.uniandes.edu.co/entities/publication/c5cf341b-1dfe-43bd-ac7c-61294516c8c2
       \endverb
     \endentry
     \entry{goodyear_2004}{inbook}{}{}
@@ -474,6 +747,152 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{long_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ba935f4f7123a069c794e8dcd763d25}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Phillip\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7084dda07282a3d3f98fde03e313197e}{%
+           family={Ehrmann},
+           familyi={E\bibinitperiod},
+           given={Stephen\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{fullhash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{fullhashraw}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{bibnamehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authorbibnamehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authornamehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authorfullhash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authorfullhashraw}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EDUCAUSE review}
+      \field{number}{4}
+      \field{title}{The future of the learning space: breaking out of the box}
+      \field{volume}{40}
+      \field{year}{2005}
+      \field{pages}{42\bibrangedash 58}
+      \range{pages}{17}
+    \endentry
+    \entry{lu_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ea2acbfa454e023189d3a6658b8b0e2a}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b143761769b8ae2e17e5cfd09dd495bd}{%
+           family={Churchill},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{fullhash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{fullhashraw}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{bibnamehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authorbibnamehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authornamehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authorfullhash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authorfullhashraw}{12004bc0cb4e4f8fe536c783fba13c07}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2013 {IEEE} 63rd {Annual} {Conference} {International} {Council} for {Education} {Media} ({ICEM})}
+      \field{month}{10}
+      \field{title}{Creating personal learning environments to enhance learning engagement}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{milgram_1995}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d57f1b339e2089ac1411a8c32cef1cb7}{%
+           family={Milgram},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96db085832621999022bfc3356648b17}{%
+           family={Takemura},
+           familyi={T\bibinitperiod},
+           given={Haruo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88561ec18bcd5616274f981b10fa2fd8}{%
+           family={Utsumi},
+           familyi={U\bibinitperiod},
+           given={Akira},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=510bc74af0101eb8fa9ec3ddf4db5b2c}{%
+           family={Kishino},
+           familyi={K\bibinitperiod},
+           given={Fumio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{0c73e83d6398ffd1d90ae4b58a04ce42}
+      \strng{fullhash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{fullhashraw}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{bibnamehash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{authorbibnamehash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{authornamehash}{0c73e83d6398ffd1d90ae4b58a04ce42}
+      \strng{authorfullhash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{authorfullhashraw}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this paper we discuss augmented reality (AR) displays in a general sense, within the context of a reality-virtuality (RV) continuum, encompassing a large class of `mixed reality' (MR) displays, which also includes augmented virtuality (AV). MR displays are defined by means of seven examples of existing display concepts in which real objects and virtual objects are juxtaposed. Essential factors which distinguish different MR display systems from each other are presented, first by means of a table in which the nature of the underlying scene, how it is viewed, and the observer's reference to it are compared, and then by means of a three dimensional taxonomic framework comprising: extent of world knowledge, reproduction fidelity, and extent of presence metaphor. A principal objective of the taxonomy is to clarify terminology issues and to provide a framework for classifying research across different disciplines.}
+      \field{journaltitle}{Telemanipulator and {Telepresence} {Technologies}}
+      \field{month}{12}
+      \field{shorttitle}{Augmented reality}
+      \field{title}{Augmented reality: a class of displays on the reality-virtuality continuum}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{2351}
+      \field{year}{1995}
+      \field{urldateera}{ce}
+      \field{pages}{282\bibrangedash 292}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1117/12.197321
+      \endverb
+      \verb{urlraw}
+      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
+      \endverb
+      \verb{url}
+      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
+      \endverb
+    \endentry
     \entry{norgard_2022}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9ea14cf072d41d96df75d24aa999df26}{%
@@ -509,6 +928,186 @@
       \field{year}{2022}
       \field{pages}{25\bibrangedash 41}
       \range{pages}{17}
+    \endentry
+    \entry{ozgen_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9d48754187ff08309c2b1c6e71922e16}{%
+           family={Özgen},
+           familyi={Ö\bibinitperiod},
+           given={Dilay\bibnamedelima Seda},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=135a17186ade9858514b298267771316}{%
+           family={Afacan},
+           familyi={A\bibinitperiod},
+           given={Yasemin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f402f5c295f914af9d60dfbb78bd97c}{%
+           family={Sürer},
+           familyi={S\bibinitperiod},
+           given={Elif},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{20e8a5a17724b5df5d627b19de7a9d4f}
+      \strng{fullhash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{fullhashraw}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{bibnamehash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{authorbibnamehash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{authornamehash}{20e8a5a17724b5df5d627b19de7a9d4f}
+      \strng{authorfullhash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{authorfullhashraw}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Virtual reality (VR) is an emerging technology that is being used in a wide range of fields such as medicine, gaming, psychology and sociology. The use of VR is promising in the field of education and requires investigation, but research on the use of VR in education is still limited. This enables the exploration of new territories, and design education is one of them. Design education, an important part of the curriculum of architecture students who aim to conceptualize problem-solving, is still taught using traditional methodologies with touches of digital technologies. Thus, there is limited research into the implementation of VR. This study proposes using VR in basic design education and focuses on the usability of VR, especially for problem-solving activities. It presents the literature on basic design education of digital approaches, VR technologies, usability criteria and the technology acceptance model. In order to analyse the usability of VR, we conducted an experimental study with 20 first-year interior architecture and architecture students. We found that, statistically, there is a significant difference in terms of ‘the intention to use’ and ‘the perceived enjoyment’ between the VR group and the paper-based group. Moreover, there is, statistically, a difference in effectiveness within the paper-based group and the VR-based group when one compares the success of two types of design problems in the same group. Thus, one can summarize that using VR can strongly enhance problem-solving activities in interior architecture and for architecture students and that one can consider it to be a promising and complementary tool in basic design education.}
+      \field{issn}{1573-1804}
+      \field{journaltitle}{International Journal of Technology and Design Education}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Usability of virtual reality for basic design education}
+      \field{title}{Usability of virtual reality for basic design education: a comparative study with paper-based design}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 377}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s10798-019-09554-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10798-019-09554-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10798-019-09554-0
+      \endverb
+      \keyw{Basic design education,Computer-Aided Engineering (CAD,CAE) and Design,Instructional Design,Interaction Design,Interior Architecture,Technology acceptance model,Technology and Design education,Usability,Virtual and Augmented Reality,Virtual reality}
+    \endentry
+    \entry{petrucco_2021}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=720a574ff534db88676857f4849fcf1a}{%
+           family={Petrucco},
+           familyi={P\bibinitperiod},
+           given={Corrado},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{fullhash}{720a574ff534db88676857f4849fcf1a}
+      \strng{fullhashraw}{720a574ff534db88676857f4849fcf1a}
+      \strng{bibnamehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authorbibnamehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authornamehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authorfullhash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authorfullhashraw}{720a574ff534db88676857f4849fcf1a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As we have seen in the previous chapter, students see their smartphones as absolutely essential for their social, recreational and personal lives and continue to use them in school or university settings. In this sense, teachers and instructors can try to use the mobile devices with students as bridge for a “seamless learning” between formal and informal contexts, so it is possible to increase students’ motivation to learn. Many teachers can struggle to conceive of approaches that differ from traditional practices, and thus replicate methods centred on the formal, physical classroom environment so they will need training not only in order to acquire technological skills in using specific software and apps, but above all in order to build the pedagogical and methodological competencies required to design integrated and effective learning environments. To do so, many frameworks and methods are available and are based on learning theories that differ from the traditional models and it is difficult to say which theory will best underpin any given mobile learning activity. Anyhow, it may be useful to adopt theories with the highest degree of involvement such as situated cognition and experiential learning in such way that curricular knowledge can be socially constructed.}
+      \field{booktitle}{Teaching and {Mobile} {Learning}}
+      \field{isbn}{9781003052869}
+      \field{title}{Smartphones in and {Outside} {Classroom}}
+      \field{year}{2021}
+    \endentry
+    \entry{reinius_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e879f30f80e16ca22c79066b709b6374}{%
+           family={Reinius},
+           familyi={R\bibinitperiod},
+           given={Hanna},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48d45baebbae306220bc5b590564286b}{%
+           family={Korhonen},
+           familyi={K\bibinitperiod},
+           given={Tiina},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b408e119d7aa74df552e4237ee183eac}{%
+           family={Hakkarainen},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5b556521f9b31010e59ff73e1519488f}
+      \strng{fullhash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{fullhashraw}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{bibnamehash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{authorbibnamehash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{authornamehash}{5b556521f9b31010e59ff73e1519488f}
+      \strng{authorfullhash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{authorfullhashraw}{6052409830c7c0dda227c0e1b0ac184e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning Environments Research}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{The design of learning spaces matters: perceived impact of the deskless school on learning and teaching}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{pages}{339\bibrangedash 354}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s10984-020-09345-8
+      \endverb
+    \endentry
+    \entry{richards_2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d423b174bd5f5405e206ece21e7ba510}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Theodore},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{fullhash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{fullhashraw}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{bibnamehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authorbibnamehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authornamehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authorfullhash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authorfullhashraw}{d423b174bd5f5405e206ece21e7ba510}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Reimagining the classroom}
+      \field{title}{Reimagining the classroom : creating new learning spaces and connecting with the world /}
+      \field{year}{2023}
     \endentry
     \entry{rivoltella_2008}{inbook}{}{}
       \name{author}{1}{}{%
@@ -547,6 +1146,42 @@
       \field{pages}{201\bibrangedash 210}
       \range{pages}{10}
     \endentry
+    \entry{schmalstieg_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6035f7910d5cc507115c42426a5f034}{%
+           family={Schmalstieg},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston :}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley,}%
+      }
+      \strng{namehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{fullhash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{fullhashraw}{f6035f7910d5cc507115c42426a5f034}
+      \strng{bibnamehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authorbibnamehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authornamehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authorfullhash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authorfullhashraw}{f6035f7910d5cc507115c42426a5f034}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780321883575}
+      \field{series}{Addison-{Wesley} usability and {HCI} series.}
+      \field{shorttitle}{Augmented reality}
+      \field{title}{Augmented reality : principles and practice /}
+      \field{year}{2016}
+    \endentry
     \entry{shank_2005}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=855d47cf0d013ff5617a8f1a1480753b}{%
@@ -578,9 +1213,156 @@
       \field{year}{2005}
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
+    \endentry
+    \entry{weiser_1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9a4cd1345f5dc5a1be20fa1032d65d9f}{%
+           family={Weiser},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{fullhash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{fullhashraw}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{bibnamehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authorbibnamehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authornamehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authorfullhash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authorfullhashraw}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8733}
+      \field{journaltitle}{Scientific American}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{The {Computer} for the 21st {Century}}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{265}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \field{pages}{94\bibrangedash 104}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/scientificamerican0991-94
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientificamerican.com/article/the-computer-for-the-21st-century
+      \endverb
+      \verb{url}
+      \verb https://www.scientificamerican.com/article/the-computer-for-the-21st-century
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{azuma_1997}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65a33080a179a3a436c552a32d1f64f0}{%
+           family={Azuma},
+           familyi={A\bibinitperiod},
+           given={Ronald\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{fullhash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{fullhashraw}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{bibnamehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authorbibnamehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authornamehash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authorfullhash}{65a33080a179a3a436c552a32d1f64f0}
+      \strng{authorfullhashraw}{65a33080a179a3a436c552a32d1f64f0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper surveys the field of augmented reality (AR), in which 3D virtual objects are integrated into a 3D real environment in real time. It describes the medical, manufacturing, visualization, path planning, entertainment, and military applications that have been explored. This paper describes the characteristics of augmented reality systems, including a detailed discussion of the tradeoffs between optical and video blending approaches. Registration and sensing errors are two of the biggest problems in building effective augmented reality systems, so this paper summarizes current efforts to overcome these problems. Future directions and areas requiring further research are discussed. This survey provides a starting point for anyone interested in researching or using augmented reality.}
+      \field{issn}{1054-7460}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{A {Survey} of {Augmented} {Reality}}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{1997}
+      \field{urldateera}{ce}
+      \field{pages}{355\bibrangedash 385}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1162/pres.1997.6.4.355
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/pvar/article/6/4/355-385/18336
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/pvar/article/6/4/355-385/18336
+      \endverb
+    \endentry
+    \entry{baber_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66ef39b22ac08da018fe7002b7ccdc58}{%
+           family={Baber},
+           familyi={B\bibinitperiod},
+           given={Hasnan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{fullhash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{fullhashraw}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{bibnamehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authorbibnamehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authornamehash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authorfullhash}{66ef39b22ac08da018fe7002b7ccdc58}
+      \strng{authorfullhashraw}{66ef39b22ac08da018fe7002b7ccdc58}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose The pandemic of COVID-19 has pushed most of the classroom learning to an online environment with which most of the people were not familiar. This study aims to investigate the importance of social interaction on the effectiveness of online learning during the pandemic when social distancing norms are in place. Design/methodology/approach This study uses the partial least square (PLS) structural equation modeling (SEM) approach, a nonparametric method based on total variance, using the SmartPLS software 3.0. The data were collected using the snowball sampling technique from the students who were learning online due to the pandemic COVID-19 and asked them to forward the survey link in their network. Findings The results suggested that social interaction has a positive significant impact on the effectiveness of online learning. However, this effect is reduced in the presence of social distance norms as people give more importance to continuous learning and to saving lives rather than socializing in the online environment. Originality/value The study will be helpful for instructors and educational institutes to formalize the strategies to enhance social interaction in online learning and analyze their pedagogy to improve effectiveness.}
+      \field{issn}{2046-3162}
+      \field{journaltitle}{Asian Education and Development Studies}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Social interaction and effectiveness of the online learning – {A} moderating role of maintaining social distance during the pandemic {COVID}-19}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{159\bibrangedash 171}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1108/AEDS-09-2020-0209
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/AEDS-09-2020-0209
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/AEDS-09-2020-0209
+      \endverb
+      \keyw{COVID-19,Effectiveness,Learning,Online,Pandemic,Social distance,Social interaction}
+    \endentry
     \entry{bligh_2017}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d883bbb9eaedf35ca81c02bba457364d}{%
@@ -694,6 +1476,76 @@
       \verb 10.1007/s10055-019-00389-7
       \endverb
     \endentry
+    \entry{de-felice_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=01156364b4659d51d46c8ef1b1731628}{%
+           family={De\bibnamedelima Felice},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20d4dca126d9274aa1d0c4d4714aad6a}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={Antonia\bibnamedelimb F.\bibnamedelimi De\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef983ae454aaa4154257e648b3ff259}{%
+           family={Ponari},
+           familyi={P\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e27bdc24fbf7ddf49e47c6768f3883d}{%
+           family={Vigliocco},
+           familyi={V\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d0878f7f633827424483c7e2ac985ea7}
+      \strng{fullhash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{fullhashraw}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{bibnamehash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{authorbibnamehash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{authornamehash}{d0878f7f633827424483c7e2ac985ea7}
+      \strng{authorfullhash}{de1309135b2f4c863ddf0067e7bcc0de}
+      \strng{authorfullhashraw}{de1309135b2f4c863ddf0067e7bcc0de}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Learning in humans is highly embedded in social interaction: since the very early stages of our lives, we form memories and acquire knowledge about the world from and with others. Yet, within cognitive science and neuroscience, human learning is mainly studied in isolation. The focus of past research in learning has been either exclusively on the learner or (less often) on the teacher, with the primary aim of determining developmental trajectories and/or effective teaching techniques. In fact, social interaction has rarely been explicitly taken as a variable of interest, despite being the medium through which learning occurs, especially in development, but also in adulthood. Here, we review behavioural and neuroimaging research on social human learning, specifically focusing on cognitive models of how we acquire semantic knowledge from and with others, and include both developmental as well as adult work. We then identify potential cognitive mechanisms that support social learning, and their neural correlates. The aim is to outline key new directions for experiments investigating how knowledge is acquired in its ecological niche, i.e. socially, within the framework of the two-person neuroscience approach. This article is part of the theme issue ‘Concepts in interaction: social engagement and inner experiences’.}
+      \field{issn}{0962-8436, 1471-2970}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B: Biological Sciences}
+      \field{month}{2}
+      \field{number}{1870}
+      \field{shorttitle}{Learning \textit{from} others is good, \textit{with} others is better}
+      \field{title}{Learning \textit{from} others is good, \textit{with} others is better: the role of social interaction in human acquisition of new knowledge}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{378}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{20210357}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rstb.2021.0357
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
+      \endverb
+    \endentry
     \entry{forsler_2024}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=8a8bf4e4aa5c8a4991b5880a03445812}{%
@@ -740,6 +1592,109 @@
       \field{year}{2024}
       \verb{doi}
       \verb 10.1007/s42438-024-00488-y
+      \endverb
+    \endentry
+    \entry{forsler_2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8a8bf4e4aa5c8a4991b5880a03445812}{%
+           family={Forsler},
+           familyi={F\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=796fe6ee624f0ac0372fed8f8da56e2b}{%
+           family={Guyard},
+           familyi={G\bibinitperiod},
+           given={Carina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{fullhash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{fullhashraw}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{bibnamehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authorbibnamehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authornamehash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authorfullhash}{ba933dc009fc83b8d80d621ca29e9948}
+      \strng{authorfullhashraw}{ba933dc009fc83b8d80d621ca29e9948}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1743-9884, 1743-9892}
+      \field{journaltitle}{Learning, Media and Technology}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Screens, teens and their brains. {Discourses} about digital media, learning and cognitive development in popular science neuroeducation}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{191\bibrangedash 204}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/17439884.2023.2230893
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2230893
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2230893
+      \endverb
+    \endentry
+    \entry{gil_2015}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9b8077186c40681d3d49e06271988b6}{%
+           family={Gil\bibnamedelima Parga},
+           familyi={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de los Andes}%
+      }
+      \list{language}{1}{%
+        {ESP}%
+      }
+      \list{location}{1}{%
+        {Bogota, Colombia}%
+      }
+      \strng{namehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{fullhash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{fullhashraw}{b9b8077186c40681d3d49e06271988b6}
+      \strng{bibnamehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authorbibnamehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authornamehash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authorfullhash}{b9b8077186c40681d3d49e06271988b6}
+      \strng{authorfullhashraw}{b9b8077186c40681d3d49e06271988b6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ambientes virtuales de aprendizaje aplicados}
+      \field{type}{phdthesis}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://repositorio.uniandes.edu.co/entities/publication/c5cf341b-1dfe-43bd-ac7c-61294516c8c2
+      \endverb
+      \verb{url}
+      \verb https://repositorio.uniandes.edu.co/entities/publication/c5cf341b-1dfe-43bd-ac7c-61294516c8c2
       \endverb
     \endentry
     \entry{goodyear_2004}{inbook}{}{}
@@ -1036,6 +1991,152 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{long_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ba935f4f7123a069c794e8dcd763d25}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Phillip\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7084dda07282a3d3f98fde03e313197e}{%
+           family={Ehrmann},
+           familyi={E\bibinitperiod},
+           given={Stephen\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{fullhash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{fullhashraw}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{bibnamehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authorbibnamehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authornamehash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authorfullhash}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \strng{authorfullhashraw}{8b81ff1a1396c6cb3ba4b69904d20fe6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EDUCAUSE review}
+      \field{number}{4}
+      \field{title}{The future of the learning space: breaking out of the box}
+      \field{volume}{40}
+      \field{year}{2005}
+      \field{pages}{42\bibrangedash 58}
+      \range{pages}{17}
+    \endentry
+    \entry{lu_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ea2acbfa454e023189d3a6658b8b0e2a}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b143761769b8ae2e17e5cfd09dd495bd}{%
+           family={Churchill},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{fullhash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{fullhashraw}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{bibnamehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authorbibnamehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authornamehash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authorfullhash}{12004bc0cb4e4f8fe536c783fba13c07}
+      \strng{authorfullhashraw}{12004bc0cb4e4f8fe536c783fba13c07}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2013 {IEEE} 63rd {Annual} {Conference} {International} {Council} for {Education} {Media} ({ICEM})}
+      \field{month}{10}
+      \field{title}{Creating personal learning environments to enhance learning engagement}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{milgram_1995}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d57f1b339e2089ac1411a8c32cef1cb7}{%
+           family={Milgram},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96db085832621999022bfc3356648b17}{%
+           family={Takemura},
+           familyi={T\bibinitperiod},
+           given={Haruo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88561ec18bcd5616274f981b10fa2fd8}{%
+           family={Utsumi},
+           familyi={U\bibinitperiod},
+           given={Akira},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=510bc74af0101eb8fa9ec3ddf4db5b2c}{%
+           family={Kishino},
+           familyi={K\bibinitperiod},
+           given={Fumio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{0c73e83d6398ffd1d90ae4b58a04ce42}
+      \strng{fullhash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{fullhashraw}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{bibnamehash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{authorbibnamehash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{authornamehash}{0c73e83d6398ffd1d90ae4b58a04ce42}
+      \strng{authorfullhash}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \strng{authorfullhashraw}{e2b0b5e6451a6093bb48d9816ad5a358}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this paper we discuss augmented reality (AR) displays in a general sense, within the context of a reality-virtuality (RV) continuum, encompassing a large class of `mixed reality' (MR) displays, which also includes augmented virtuality (AV). MR displays are defined by means of seven examples of existing display concepts in which real objects and virtual objects are juxtaposed. Essential factors which distinguish different MR display systems from each other are presented, first by means of a table in which the nature of the underlying scene, how it is viewed, and the observer's reference to it are compared, and then by means of a three dimensional taxonomic framework comprising: extent of world knowledge, reproduction fidelity, and extent of presence metaphor. A principal objective of the taxonomy is to clarify terminology issues and to provide a framework for classifying research across different disciplines.}
+      \field{journaltitle}{Telemanipulator and {Telepresence} {Technologies}}
+      \field{month}{12}
+      \field{shorttitle}{Augmented reality}
+      \field{title}{Augmented reality: a class of displays on the reality-virtuality continuum}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{2351}
+      \field{year}{1995}
+      \field{urldateera}{ce}
+      \field{pages}{282\bibrangedash 292}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1117/12.197321
+      \endverb
+      \verb{urlraw}
+      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
+      \endverb
+      \verb{url}
+      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
+      \endverb
+    \endentry
     \entry{norgard_2022}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9ea14cf072d41d96df75d24aa999df26}{%
@@ -1071,6 +2172,186 @@
       \field{year}{2022}
       \field{pages}{25\bibrangedash 41}
       \range{pages}{17}
+    \endentry
+    \entry{ozgen_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9d48754187ff08309c2b1c6e71922e16}{%
+           family={Özgen},
+           familyi={Ö\bibinitperiod},
+           given={Dilay\bibnamedelima Seda},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=135a17186ade9858514b298267771316}{%
+           family={Afacan},
+           familyi={A\bibinitperiod},
+           given={Yasemin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f402f5c295f914af9d60dfbb78bd97c}{%
+           family={Sürer},
+           familyi={S\bibinitperiod},
+           given={Elif},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{20e8a5a17724b5df5d627b19de7a9d4f}
+      \strng{fullhash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{fullhashraw}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{bibnamehash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{authorbibnamehash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{authornamehash}{20e8a5a17724b5df5d627b19de7a9d4f}
+      \strng{authorfullhash}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \strng{authorfullhashraw}{7c6b1eae758d0f2a461c0b08f3bdf033}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Virtual reality (VR) is an emerging technology that is being used in a wide range of fields such as medicine, gaming, psychology and sociology. The use of VR is promising in the field of education and requires investigation, but research on the use of VR in education is still limited. This enables the exploration of new territories, and design education is one of them. Design education, an important part of the curriculum of architecture students who aim to conceptualize problem-solving, is still taught using traditional methodologies with touches of digital technologies. Thus, there is limited research into the implementation of VR. This study proposes using VR in basic design education and focuses on the usability of VR, especially for problem-solving activities. It presents the literature on basic design education of digital approaches, VR technologies, usability criteria and the technology acceptance model. In order to analyse the usability of VR, we conducted an experimental study with 20 first-year interior architecture and architecture students. We found that, statistically, there is a significant difference in terms of ‘the intention to use’ and ‘the perceived enjoyment’ between the VR group and the paper-based group. Moreover, there is, statistically, a difference in effectiveness within the paper-based group and the VR-based group when one compares the success of two types of design problems in the same group. Thus, one can summarize that using VR can strongly enhance problem-solving activities in interior architecture and for architecture students and that one can consider it to be a promising and complementary tool in basic design education.}
+      \field{issn}{1573-1804}
+      \field{journaltitle}{International Journal of Technology and Design Education}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Usability of virtual reality for basic design education}
+      \field{title}{Usability of virtual reality for basic design education: a comparative study with paper-based design}
+      \field{urlday}{7}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 377}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s10798-019-09554-0
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10798-019-09554-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10798-019-09554-0
+      \endverb
+      \keyw{Basic design education,Computer-Aided Engineering (CAD,CAE) and Design,Instructional Design,Interaction Design,Interior Architecture,Technology acceptance model,Technology and Design education,Usability,Virtual and Augmented Reality,Virtual reality}
+    \endentry
+    \entry{petrucco_2021}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=720a574ff534db88676857f4849fcf1a}{%
+           family={Petrucco},
+           familyi={P\bibinitperiod},
+           given={Corrado},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{fullhash}{720a574ff534db88676857f4849fcf1a}
+      \strng{fullhashraw}{720a574ff534db88676857f4849fcf1a}
+      \strng{bibnamehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authorbibnamehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authornamehash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authorfullhash}{720a574ff534db88676857f4849fcf1a}
+      \strng{authorfullhashraw}{720a574ff534db88676857f4849fcf1a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As we have seen in the previous chapter, students see their smartphones as absolutely essential for their social, recreational and personal lives and continue to use them in school or university settings. In this sense, teachers and instructors can try to use the mobile devices with students as bridge for a “seamless learning” between formal and informal contexts, so it is possible to increase students’ motivation to learn. Many teachers can struggle to conceive of approaches that differ from traditional practices, and thus replicate methods centred on the formal, physical classroom environment so they will need training not only in order to acquire technological skills in using specific software and apps, but above all in order to build the pedagogical and methodological competencies required to design integrated and effective learning environments. To do so, many frameworks and methods are available and are based on learning theories that differ from the traditional models and it is difficult to say which theory will best underpin any given mobile learning activity. Anyhow, it may be useful to adopt theories with the highest degree of involvement such as situated cognition and experiential learning in such way that curricular knowledge can be socially constructed.}
+      \field{booktitle}{Teaching and {Mobile} {Learning}}
+      \field{isbn}{9781003052869}
+      \field{title}{Smartphones in and {Outside} {Classroom}}
+      \field{year}{2021}
+    \endentry
+    \entry{reinius_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e879f30f80e16ca22c79066b709b6374}{%
+           family={Reinius},
+           familyi={R\bibinitperiod},
+           given={Hanna},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48d45baebbae306220bc5b590564286b}{%
+           family={Korhonen},
+           familyi={K\bibinitperiod},
+           given={Tiina},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b408e119d7aa74df552e4237ee183eac}{%
+           family={Hakkarainen},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5b556521f9b31010e59ff73e1519488f}
+      \strng{fullhash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{fullhashraw}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{bibnamehash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{authorbibnamehash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{authornamehash}{5b556521f9b31010e59ff73e1519488f}
+      \strng{authorfullhash}{6052409830c7c0dda227c0e1b0ac184e}
+      \strng{authorfullhashraw}{6052409830c7c0dda227c0e1b0ac184e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning Environments Research}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{The design of learning spaces matters: perceived impact of the deskless school on learning and teaching}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{pages}{339\bibrangedash 354}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s10984-020-09345-8
+      \endverb
+    \endentry
+    \entry{richards_2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d423b174bd5f5405e206ece21e7ba510}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Theodore},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{fullhash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{fullhashraw}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{bibnamehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authorbibnamehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authornamehash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authorfullhash}{d423b174bd5f5405e206ece21e7ba510}
+      \strng{authorfullhashraw}{d423b174bd5f5405e206ece21e7ba510}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Reimagining the classroom}
+      \field{title}{Reimagining the classroom : creating new learning spaces and connecting with the world /}
+      \field{year}{2023}
     \endentry
     \entry{rivoltella_2008}{inbook}{}{}
       \name{author}{1}{}{%
@@ -1109,6 +2390,42 @@
       \field{pages}{201\bibrangedash 210}
       \range{pages}{10}
     \endentry
+    \entry{schmalstieg_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6035f7910d5cc507115c42426a5f034}{%
+           family={Schmalstieg},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston :}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley,}%
+      }
+      \strng{namehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{fullhash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{fullhashraw}{f6035f7910d5cc507115c42426a5f034}
+      \strng{bibnamehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authorbibnamehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authornamehash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authorfullhash}{f6035f7910d5cc507115c42426a5f034}
+      \strng{authorfullhashraw}{f6035f7910d5cc507115c42426a5f034}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780321883575}
+      \field{series}{Addison-{Wesley} usability and {HCI} series.}
+      \field{shorttitle}{Augmented reality}
+      \field{title}{Augmented reality : principles and practice /}
+      \field{year}{2016}
+    \endentry
     \entry{shank_2005}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=855d47cf0d013ff5617a8f1a1480753b}{%
@@ -1140,6 +2457,53 @@
       \field{year}{2005}
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
+    \endentry
+    \entry{weiser_1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9a4cd1345f5dc5a1be20fa1032d65d9f}{%
+           family={Weiser},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{fullhash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{fullhashraw}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{bibnamehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authorbibnamehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authornamehash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authorfullhash}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \strng{authorfullhashraw}{9a4cd1345f5dc5a1be20fa1032d65d9f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8733}
+      \field{journaltitle}{Scientific American}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{The {Computer} for the 21st {Century}}
+      \field{urlday}{8}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{265}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \field{pages}{94\bibrangedash 104}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/scientificamerican0991-94
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scientificamerican.com/article/the-computer-for-the-21st-century
+      \endverb
+      \verb{url}
+      \verb https://www.scientificamerican.com/article/the-computer-for-the-21st-century
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

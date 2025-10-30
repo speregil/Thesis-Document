@@ -2,7 +2,7 @@
 
 In the Netflix animated series Cyberpunk: Edgerunners \parencite{cyberpunk_2022}, the main character attends courses at a 
 prestigious academy that uses advanced technology to boost education and performance. The students gather in a room with
-Virtual Reality \ac{VR} headsets and connect to the lesson, which is taught by a holographic (and probably powered by artificial
+\ac{VR} headsets and connect to the lesson, which is taught by a holographic (and probably powered by artificial
 intelligence) tutor. The episode does not show the lesson itself (the entire system fails catastrophically when attacked by
 malware), but the brief scene highlights the vision many people have of a futuristic classroom, one guided by advanced technology
 and automatization.
@@ -26,7 +26,7 @@ between learning in an online setting and learning in a classroom. In both insta
 students can easily connect to peers and mentors, distance and time constrains are less meaningful and knowledge is presented
 in a multimedia format that needs a technological backbone to be created and shared \parencite{rivoltella_2008,shank_2005}.
 
-This thesis explores the use of technology in such post-digital classrooms, specifically, Augmented Reality \ac{AR} within the
+This thesis explores the use of technology in such post-digital classrooms, specifically, \ac{AR} within the
 context of mobile computing. Moreover, this research will analyse the creation of effective learning spaces, those places where
 students can build, personalise and control all the activities they engage with \parencite{gourlay_2016}. Learning spaces are
 interesting tools at the disposal of students because these are spaces that can exist outside the norm of a typical classroom,
@@ -35,7 +35,7 @@ this research is that \ac{AR} can be used to boost the way students build and in
 offer educators another option to be integrated in the construction of a lesson that capitalises the characteristics of the
 aforementioned post-digital classrooms.
 
-Within the field of Technology Enhanced Learning \ac{TEL}, \ac{AR} and related technologies were chosen as a focus of interest
+Within the field of \ac{TEL}, \ac{AR} and related technologies were chosen as a focus of interest
 because of their intrinsic relationship with space. The initial example scene of Cyberpunk: Edgerunners serves to illustrate the
 collective idea of what could be achieved in the future with technologies like \ac{VR} and \ac{AR}: the possibility of creating an
 entire new space, suited for the needs of the classroom or the students. It is a space that is shared, in which information and
@@ -116,13 +116,116 @@ of this distribution as proposed by the authors.
 
 In this bi-directional spectrum we can find mobile \ac{AR} as a family of technologies that offer an in-between mixture of virtual and
 physical elements in which location, place and context are additional inputs used for interaction with the synthetic reality. Any
-technology in the spectrum will offer a variety of characteristics that align with one or more descriptions at a time. Mixed Realities (\ac{MR}),
+technology in the spectrum will offer a variety of characteristics that align with one or more descriptions at a time. \ac{MR},
 for example, are seen as an extension of both \ac{VR} and \ac{AR}, offering seamless interaction and connectivity between the real and the
 simulated world. It is a blurry line that often must be analysed in a case-by-case approach. No matter what label is used to describe a
 technology, some agreed upon characteristics must be present for it to be categorized as \ac{AR}, as stated by \textcite{azuma_1997}:
 
+\begin{itemize}
+    \item A combination of real space and digital information.
+    \item Interaction with the simulation in real time.
+    \item The simulation is done in a 3D space.
+\end{itemize}
+
+With these descriptors it is possible to position the used of the technology in different fields, independent of the labels used to identify it. Based
+on the themes introduced in the opening statement of the chapter, the goal is to analyse \ac{AR} as \ac{CSCW}. For this task,
+a useful analytical tool is the classification of \ac{CSCW} technologies proposed by \textcite{rodden_1991} in terms of the point in time and space where
+the collaboration is taking place. Figure \ref{fig:1-3} shows examples of different systems that can be found in each quadrant of the classification, which
+indicate whether the activity is synchronous or asynchronous, remote or co-located.
+
+\begin{figure}[t]
+    \centering{\includegraphics[alt={Figure 1.3},width=0.99\textwidth]{figures/F1-3.jpg}}
+    \caption{Classification of \ac{CSCW} Systems by \textcite{rodden_1991}.\label{fig:1-3}}
+\end{figure}
+
+Complementarily, \textcite{kiyokawa_2002} offer two important elements present in a collaborative activity: communication and tasks spaces. In the
+communication space, people exchange information and can sustain formal and informal conversations. In the task space, the actual cooperative work is done.
+Those spaces can be unified or separated, and they can be physical, virtual or in a mixed state. Independent of the nature of each individual space, both
+need to be present for collaboration to succeed.
+
+Based on these classification models, it is possible to define the main field of interest of this research as the use of \ac{AR} in a mixed task space for
+face-to-face collaborative learning, which implies synchronous activities in a co-located space. In this setting it should be possible to use the
+capabilities of \ac{AR} for visualization and interaction with the physical space to \emph{augment} the collaboration process in terms of:
+
+\begin{itemize}
+    \item Activities related to the communication space, the flow of information and the creation of knowledge in the group.
+    \item The use of the physical space as an asset in the collaborative process.
+    \item Management of the collaborative process itself and the structures that can be created to facilitate effective teamwork and cooperation.
+    \item Guidelines to acquire and refine skills related to teamwork and collaboration.
+\end{itemize}
+
+The main proposal is that the unique characteristics that \ac{AR} provides in the field of \ac{MR} are well suited to experiences in co-located
+collaboration, and that a learning design that is using a collaborative approach can benefit from an \ac{AR} tool mediating in the communication and tasks
+spaces of the activity.
+
+The interest in collaborative learning derives from the analysis of the use of \ac{AR} in education and the tendencies identified in the available
+literature. It was possible to note that \ac{AR} is often used as a tool to explore concepts and practices in hands-on approaches that apply previous
+knowledge in different situations and contexts. Unfortunately, the technology is seldom used in cooperative scenarios, despite the tendency to use mobile
+platforms for deployment \parencite{gil_2023}.
+
+Collaborative learning is a subject rich in discussion. The conversation can focus on the benefits of groupwork in the classroom like promoting different
+points of view, facilitating complex understanding of a topic and creating the space for an integral development of the student \parencite{van_wyk_2017,smith_1992}.
+On the other hand, the challenges associated with collaborative work are also amply explored \parencite{baloche_2017,popov_2012,buchs_2017}, and there is
+plenty discussion around issues related to classroom management, inclusivity, effective assessment and good practices.
+
+Many studies have identified and compiled the advantages of using \ac{AR} and \ac{MR} as learning tools. For instance, \textcite{penn_2023} offer an
+analysis of the educational foundations used to design learning interventions. They conclude that most projects converged into constructivist foundations
+and embodiment theory, opting to create spaces for students to experience and explore the learning subject, with an emphasis on immersion, practice and
+hands-on interactions. Despite these commonalities, the authors also remarked that most reports do not mention explicitly or do not rationalize the
+theoretical background of the intervention.  They also note that a lot of researchers still hold the idea that introducing a new technology in the
+classroom is enough to reap its benefits, without caring to build or follow a proper integration plan.
+
+This issue acquires even more relevance now that the mediation of different technologies in the collaboration process has grown due to the Covid-19 pandemic,
+which forced a quick and often poorly planned implementation of remote learning \parencite{drueke_2021,nuere_2021}. Over time, this prompted the re-design
+and re-thinking of how to use technology to support the sudden disruption in learning methodologies and approaches \parencite{fischer_2020,adi_2020}. The
+forced isolation also highlighted the importance of social spaces in the constructions of learning environments, and the need to provide those social
+interactions even in online spaces \parencite{walas-trebacz_2025,mcinnerney_2004}.
+
+The post-pandemic classroom is dealing now with the need to balance the advantages of online spaces with the problems associated with socialization solely
+mediated by technology, which tends to be asynchronous and impersonal. There is value in the physical space for the learning process \parencite{petchame_2021,thai_2020,paechter_2010},
+and a technology that is able to connect the physical and the digital is worthy of a deeper exploration to identify proper approaches and successful use
+cases.
+
+The idea is not to oversimplify the presence of digital technologies in the classroom, nor follow a misguided tendency of selling all the benefits of a
+technology without acknowledging its problems. If the proposal is to identify the effects of a collaborative learning design mediated by \ac{AR}, it is
+important to also identify all the problems that derive from this approach, either because of the issues that naturally come from teamworking scenarios in
+the classroom or the negative behaviours that the excessive use of digital technologies promotes, especially in the specific environment of mobile platforms.
+
+With that context just detailed, it is possible to summarize the goal of this research as: The construction of an \ac{AR} tool that serves as aid in a
+collaborative learning setting by helping students to communicate and develop teamworking skills. This can be achieved by means of interactivity,
+visualization, immersion and augmentation of the physical space.
+
 \section[Research Structure]{Research Structure}
+
+The goal of the research can be justified by an abundance of literature showing the elements of \ac{AR} used in the past to offer distinctive value for
+learning, and the open opportunities to explore and understand better the development of multi-user \ac{AR} experiences for collaboration. The nature of the
+proposal implies that the research has two main fronts:
+
+\begin{itemize}
+    \item In the \emph{technological} front, the goal is to build a software solution that considers the development challenges of an \ac{AR} tool in a multi-user
+    and multi-platform environment, and the specific requirements derived from the learning goals proposed in the educational front.
+    \item In the \emph{educational} front, the goal is to identify, describe and develop a case study based on collaborative learning, and to analyse the
+    behaviours that students develop when learning in a collaborative environment mediated by technology, comparing the use of \ac{AR} with other tools or
+    approaches.
+\end{itemize}
+
 \subsection[Research Questions]{Research Questions}
+
+The guiding research questions of this project are aimed at obtaining information of what constitutes an effective collaborative learning design using \ac{AR}.
+The answers can be stated in terms of learning goals, interaction design and integration plans with the classroom. The questions also seek information about
+how \ac{AR} is creating an effect in the behaviour of the students while using the tool for learning.  These behaviours can be related to communication,
+socialization, planning and engagement with the learning material. The main research question will be stated as follows:
+
+\begin{displayquote}
+MQ: How does the behaviour of a group of students changes when using an \ac{AR} tool designed to aid in the achievement of a learning goal framed in a
+collaborative learning scenario?
+\end{displayquote}
+
+To guide the implementation of the tool through a strong design, a lot of information can be extracted from current literature and from previous projects
+using similar approaches. Information gathered from real and incremental usage off the system also offers valuable insights in terms of usability, viability
+and end-user perception. With this in mind, an iterative development process is proposed to facilitate the exploration of ideas regarding interaction design
+and a proper fit to the learning scenario where the tool is going to be used.
+
 \subsection[Scope and Limitations]{Scope and Limitations}
 \section[Significance and Contributions]{Significance and Contributions}
 \section[Document Structure]{Document Structure}

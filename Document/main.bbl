@@ -19,6 +19,68 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{adi_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aff09e437e85924464db920938d0e32d}{%
+           family={Adi\bibnamedelima Badiozaman},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Ida\bibnamedelima Fatimawati},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25a07640ee2a10b9991001b9518f9fcd}{%
+           family={Leong},
+           familyi={L\bibinitperiod},
+           given={Hugh\bibnamedelima John},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1da657710777b8075d05144e69be775}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Wallace},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1fd838c2e6be9bde9d9948e1242e17c5}
+      \strng{fullhash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{fullhashraw}{6feeeb6904b6443401411e94e7a59887}
+      \strng{bibnamehash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{authorbibnamehash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{authornamehash}{1fd838c2e6be9bde9d9948e1242e17c5}
+      \strng{authorfullhash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{authorfullhashraw}{6feeeb6904b6443401411e94e7a59887}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Purpose As an institution that has invested in e-learning infrastructure and technology for e-learning delivery, Swinburne University of Technology Sarawak conducted The Digital Educator Series as a means of embracing this educational disruption. In particular, this paper reports on the first three courses held under the Digital Educator Series that aims to equip teachers with practical and effective online teaching to school teachers in Sarawak. While the training is still in effect, preliminary results are shared, and implications for practice and recommendations for further research are considered. Design/methodology/approach Approximately 136 questionnaires containing close-and open-ended items were distributed to the teacher participants of the Digital Educator Series. Close-ended items were designed to gather general information about their perceptions of online teaching and learning. Items were constructed to gather insights on familiarity with online teaching and learning, perceived usefulness of platforms such as Microsoft Teams and Google Classrooms. The open-ended items were designed to gather information on areas of improvement for the courses and professional development needs of teachers for online teaching. Findings The findings revealed very mixed responses in terms of teachers' familiarity with online teaching and learning. Nonetheless, it was encouraging that the majority of teachers felt positively about the impact and usefulness of the courses in the Digital Educator Series and have expressed that would like to learn more about online teaching pedagogy. Teachers reported the greatest familiarity with Google Classroom and were very positive about the applicability the Google Classroom Course (91.2\%) in their own teaching practice. Conversely, all of the participants reported they were unfamiliar with Microsoft Teams. Accordingly, the teachers did not perceive its applicability to be as high as the Google Classroom. The qualitative findings further corroborated this and expressed the need for specific professional development programmes that include pedagogical and technological support. Overall, the teachers are strongly focussed in their professional development in order to improve their online teaching, Research limitations/implications Like other research, this too has its limitations. The sample size in this study was restricted to those who attended the Digital Educator Series training. Hence the results of this study, whilst have been enriching, and to a certain extent are supported by the current literature, the accuracy of the description may be unique to this particular group of individuals, within this particular setting. Additionally, the study only relied on self-reports from both the questionnaire and the semi-structured interviews. This study accepts that self-reports have shortcomings. Not all experiences of the courses would have been readily accessible through the teachers' conscious reflections. This makes it difficult to construct a complete picture of the experience, challenges and identify all salient factors within a particular workshop or training. Practical implications Although the adoption of teaching and learning to online platforms is undoubtedly the way to maintain continuity of learning for students, it has also unveiled glaring inequities in Sarawak. Therefore, continuous and personalised professional development needs to be provided, focussing on pedagogical and technological support. There is a need to embrace these changes as a long-term response that will develop and improve over the next few years. That response should include better infrastructure, policies for quality improvement, accessibility standards and strategic plans for continuous access in the future. This includes advocating for platforms that can fit into the core technology environment and for teachers to adopt an innovative mindset. Originality/value In light of the complex and multifaceted challenge of transitioning to online learning in Sarawak Malaysia, it was evident that the need for innovative solutions to optimize educational endeavours has become accelerated. To ensure that students are well-supported and widening participation and access to education, it is imperative that the education disruption be embraced. This starts with addressing teachers' digital literacy through a professional development programme of online reaching.}
+      \field{issn}{2050-7003}
+      \field{journaltitle}{Journal of Applied Research in Higher Education}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Embracing educational disruption}
+      \field{title}{Embracing educational disruption: a case study in making the shift to a remote learning environment}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1108/JARHE-08-2020-0256
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/JARHE-08-2020-0256
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/JARHE-08-2020-0256
+      \endverb
+      \keyw{E-learning readiness,Online learning,Online teaching,Remote teaching and online learning,Teachers and teaching}
+    \endentry
     \entry{azuma_1997}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=65a33080a179a3a436c552a32d1f64f0}{%
@@ -119,6 +181,63 @@
       \endverb
       \keyw{COVID-19,Effectiveness,Learning,Online,Pandemic,Social distance,Social interaction}
     \endentry
+    \entry{baloche_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4304a636c409d621530317c57e6c26c0}{%
+           family={Baloche},
+           familyi={B\bibinitperiod},
+           given={Lynda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9794b5d8bd910c3024591dd82b6a8d05}{%
+           family={Brody},
+           familyi={B\bibinitperiod},
+           given={Celeste\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{fullhash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{fullhashraw}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{bibnamehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authorbibnamehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authornamehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authorfullhash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authorfullhashraw}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0260-7476, 1360-0540}
+      \field{journaltitle}{Journal of Education for Teaching}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Cooperative learning}
+      \field{title}{Cooperative learning: exploring challenges, crafting innovations}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{274\bibrangedash 283}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/02607476.2017.1319513
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
+      \endverb
+    \endentry
     \entry{bligh_2017}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d883bbb9eaedf35ca81c02bba457364d}{%
@@ -184,6 +303,75 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1007/978-3-319-02600-8_7
+      \endverb
+    \endentry
+    \entry{buchs_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=422d3bfeb060f1828fbc9dd2dc230ce2}{%
+           family={Buchs},
+           familyi={B\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a531736fa0dd3f11f53b19f69124f04}{%
+           family={Filippou},
+           familyi={F\bibinitperiod},
+           given={Dimitra},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fc14a5f01d658edd21ab52cfe754867}{%
+           family={Pulfrey},
+           familyi={P\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21923470f7751f1e34ede2bf28899501}{%
+           family={Volpé},
+           familyi={V\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{35f93f25d5c2b6db16a052cc8a016d0e}
+      \strng{fullhash}{c214388d10ed2e7541049955bd098330}
+      \strng{fullhashraw}{c214388d10ed2e7541049955bd098330}
+      \strng{bibnamehash}{c214388d10ed2e7541049955bd098330}
+      \strng{authorbibnamehash}{c214388d10ed2e7541049955bd098330}
+      \strng{authornamehash}{35f93f25d5c2b6db16a052cc8a016d0e}
+      \strng{authorfullhash}{c214388d10ed2e7541049955bd098330}
+      \strng{authorfullhashraw}{c214388d10ed2e7541049955bd098330}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0260-7476, 1360-0540}
+      \field{journaltitle}{Journal of Education for Teaching}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Challenges for cooperative learning implementation}
+      \field{title}{Challenges for cooperative learning implementation: reports from elementary school teachers}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{296\bibrangedash 306}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/02607476.2017.1321673
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1321673
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1321673
       \endverb
     \endentry
     \entry{checa_2020}{article}{}{}
@@ -301,6 +489,140 @@
       \verb{url}
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
+    \endentry
+    \entry{drueke_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=bfb20996cd9886f9a39680bba54ec0e2}{%
+           family={Drueke},
+           familyi={D\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ca179b401f760f503eed424196b0a36}{%
+           family={Mainz},
+           familyi={M\bibinitperiod},
+           given={Verena},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14fbb071bbb2b1e075c48cf6dfec154c}{%
+           family={Lemos},
+           familyi={L\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5da624dfcd39d2507fe30a30f4d246b2}{%
+           family={Wirtz},
+           familyi={W\bibinitperiod},
+           given={Markus\bibnamedelima Antonius},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b1735f4fe02e1bd7fc79e7234614ca1}{%
+           family={Boecker},
+           familyi={B\bibinitperiod},
+           given={Maren},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{1215f3f31c1e7e0dbddbf60705080a57}
+      \strng{fullhash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{fullhashraw}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{bibnamehash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{authorbibnamehash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{authornamehash}{1215f3f31c1e7e0dbddbf60705080a57}
+      \strng{authorfullhash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{authorfullhashraw}{ae9ca22862f292c7ecfc24d4142ec398}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research: Due to the sudden outbreak of Covid-19 and the resulting pandemic situation universities were forced to rapidly change their traditional pedagogical and didactical approach by shifting from mostly face-to-face teaching entirely to virtual and online teaching methods. Through this, a ‘forced’ distance learning and -teaching situation emerged. This study aimed at investigating the effect of these innovations on the implementation, acceptance and use of the virtual teaching offer within the framework of the technology acceptance model (TAM).Methods: A total of 218 students and 69 lecturers of a German Medical Faculty completed online questionnaires on the acceptance, satisfaction and usefulness of the forced distance learning (FDL) and teaching (FDT), respectively. An extended version of the TAM was used to assess students’ and lecturers’ acceptance of FDL and FDT. In order to estimate the multivariate dependencies, path analysis was employed using structural equation modeling (SEM).Results: In general, students and lecturers reported to be satisfied with the implementation of the FDL and FDT. Regarding the TAM model, the fit indices suggested an acceptable model fit for both groups. The students’ model revealed that the perceived usefulness had a strong predictive power on the attitude towards using and the perceived ease of use also predicted the attitude. The existing technical infrastructure as well as the general media affinity and pandemic related worries proved to be positively associated with the perceived usefulness while data security worries and organization of online teaching predicted the perceived ease of use in students. The strong positive predictive power of the perceived usefulness for the attitude towards using was also evident in the model for the lecturers and the technical infrastructure predicted the perceived the perceived ease of use in the lecturers.Conclusion: The TAM is a suitable framework to represent the implementation, acceptance and use of the virtual teaching offer during the special pandemic situation at the university. However, personal and structural context factors were important predictors for the perceived usefulness and the perceived ease of use in the student group.}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{month}{10}
+      \field{title}{An {Evaluation} of {Forced} {Distance} {Learning} and {Teaching} {Under} {Pandemic} {Conditions} {Using} the {Technology} {Acceptance} {Model}}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2021.701347
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.701347/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.701347/full
+      \endverb
+      \keyw{Attitude,COVID,TAM,Technology acceptance model,acceptance,perceived ease of use (PEOU),perceived usefulness (PU)}
+    \endentry
+    \entry{fischer_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7425544aba014e86d30094c538d9bc1e}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2763b16ccaeac4107c92a4dc4f61c6d5}{%
+           family={Lundin},
+           familyi={L\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c61bc95f4710764bfa59fd4e9453be04}{%
+           family={Lindberg},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Ola},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5adfb353e910e32ebd2a3391b66f8b6}
+      \strng{fullhash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{fullhashraw}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{bibnamehash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{authorbibnamehash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{authornamehash}{c5adfb353e910e32ebd2a3391b66f8b6}
+      \strng{authorfullhash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{authorfullhashraw}{66500a10c941f16c8bbacd4a139d3c7f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose The digitalization of society results in challenges and opportunities for learning and education. This paper describes exemplary transformations from current to future practices. It illustrates multi-dimensional aspects of learning which complement and transcend current frameworks of learning focused on schools. While digital technologies are necessary for these transformations, they are not sufficient. The paper briefly illustrates the applicability of the conceptual framework to the COVID-19 pandemic. It concludes that design opportunities and design trade-offs in relation to digital technologies and learning should be explored by envisioning the cultural transformation that are desirable for making learning a part of life. Design/methodology/approach This paper is based on the work conducted at the symposium “Rethinking and Reinventing Learning, Education, and Collaboration in the Digital Age—From Creating Technologies to Transforming Cultures” that took place in Engeltofta outside of Gävle, Sweden in September 2019. The symposium invited scholars in collaborative analysis of design opportunities and design trade-offs in relation to digital technologies and learning and explored design strategies for systematically and proactively increasing digital technology's contributions to learning and collaborating. The paper first provides a condensed introduction of a conceptual framework summarizing current practices, their problems and promising alternatives. Multi-dimensional aspects of learning and lifelong learning will be briefly described as promising future alternatives to school learning. Examples of transformative practices are supporting the major argument of the paper that creating new technologies is an important prerequisite to address the fundamental challenge of transforming cultures. The unanticipated but fundamental event of the occurrence of COVID-19 will be briefly described to provide further evidence for the need and the applicability of our conceptual framework for rethinking and reinventing learning, education and collaboration in the digital age. Findings The paper provides a condensed introduction of a conceptual framework summarizing current practices, their problems and promising alternatives. The framework includes multi-dimensional aspects of learning and lifelong learning as a promising future alternative to a focus on school learning. Originality/value This paper describes exemplary transformations from current to future practices. It illustrates multi-dimensional aspects of learning which complement and transcend current frameworks of learning focused on schools.}
+      \field{issn}{2056-4880}
+      \field{journaltitle}{The International Journal of Information and Learning Technology}
+      \field{month}{1}
+      \field{number}{5}
+      \field{title}{Rethinking and reinventing learning, education and collaboration in the digital age—from creating technologies to transforming cultures}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{37}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{241\bibrangedash 252}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1108/IJILT-04-2020-0051
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/IJILT-04-2020-0051
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/IJILT-04-2020-0051
+      \endverb
+      \keyw{COVID-19,Digital technology,Distance education,Education,Learning,MOOC,Technology enhanced learning}
     \endentry
     \entry{forsler_2025}{article}{}{}
       \name{author}{2}{}{%
@@ -451,6 +773,73 @@
       \endverb
       \verb{url}
       \verb https://repositorio.uniandes.edu.co/entities/publication/c5cf341b-1dfe-43bd-ac7c-61294516c8c2
+      \endverb
+    \endentry
+    \entry{gil_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b9b8077186c40681d3d49e06271988b6}{%
+           family={Gil\bibnamedelima Parga},
+           familyi={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=887ec5bd01a5805fd77a4247a959d169}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Umang},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e1da81350f6d692da650abd2c3e4dc3}{%
+           family={Gutierrez},
+           familyi={G\bibinitperiod},
+           given={Jairo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b50a0a8401f33b4b66026dcfd032ff}{%
+           family={Marks},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{64c50e342a7649b22fa4edfd7662d592}
+      \strng{fullhash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{fullhashraw}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{bibnamehash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{authorbibnamehash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{authornamehash}{64c50e342a7649b22fa4edfd7662d592}
+      \strng{authorfullhash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{authorfullhashraw}{1c11a08cba7cce06368b042849b36a7e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1049-4820, 1744-5191}
+      \field{journaltitle}{Interactive Learning Environments}
+      \field{month}{4}
+      \field{shorttitle}{Pedagogical design in education using augmented reality}
+      \field{title}{Pedagogical design in education using augmented reality: a systematic review}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/10494820.2023.2195445
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
       \endverb
     \endentry
     \entry{goodyear_2004}{inbook}{}{}
@@ -747,6 +1136,82 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{kiyokawa_2002}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=76d8c7e819ac0db066a96039797bf8ab}{%
+           family={Kiyokawa},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3870cd8de069c3a63fc80125413d5812}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=623d863c6519ed1ffaa3e4196d625a4b}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={S.E.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29941a55ce9570d3258751081c4834e7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90ef2b3b8d59988e1a4bf5450aa59a0e}{%
+           family={Sannohe},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60b9f8d0cba57b410ca5488388f1f7f2}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d9af789dcd23193bd66c63e572198d2}
+      \strng{fullhash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{fullhashraw}{98a5050116f11d83db2488dd9a8592be}
+      \strng{bibnamehash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{authorbibnamehash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{authornamehash}{8d9af789dcd23193bd66c63e572198d2}
+      \strng{authorfullhash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{authorfullhashraw}{98a5050116f11d83db2488dd9a8592be}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We conducted two experiments comparing communication behaviors of co-located users in collaborative augmented reality (AR) interfaces. In the first experiment, we compared optical, stereo- and mono-video, and immersive head mounted displays (HMDs) using a target identification task. It was found that differences in the real world visibility severely affect communication behaviors. The optical see-through case produced the best results with the least extra communication needed. Generally, the more difficult it was to use non-verbal communication cues, the more people resorted to speech cues to compensate. In the second experiment, we compared three different combinations of task and communication spaces using a 2D icon design task with optical see-through HMDs. It was found that the spatial relationship between the task and communication spaces also severely affected communication behaviors. Placing the task space between the subjects produced the most active behaviors in terms of initiatory body languages and utterances with least miscommunications.}
+      \field{journaltitle}{Proceedings. {International} {Symposium} on {Mixed} and {Augmented} {Reality}}
+      \field{month}{10}
+      \field{title}{Communication behaviors of co-located users in collaborative {AR} interfaces}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{139\bibrangedash 148}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ISMAR.2002.1115083
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/1115083
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/1115083
+      \endverb
+      \keyw{Augmented reality,Collaboration,Collaborative work,Displays,Space technology,Speech,Time measurement,Video sharing,Videoconference,Visual communication}
+    \endentry
     \entry{long_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0ba935f4f7123a069c794e8dcd763d25}{%
@@ -824,6 +1289,44 @@
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
       \endverb
+    \endentry
+    \entry{mcinnerney_2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c184b931d69bb85897dcfe02b7fadd1f}{%
+           family={McInnerney},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7edfd88405f36187c3a7845f56535255}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Tim\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d682e4c6f078cc77484799530598474}
+      \strng{fullhash}{2d682e4c6f078cc77484799530598474}
+      \strng{fullhashraw}{2d682e4c6f078cc77484799530598474}
+      \strng{bibnamehash}{2d682e4c6f078cc77484799530598474}
+      \strng{authorbibnamehash}{2d682e4c6f078cc77484799530598474}
+      \strng{authornamehash}{2d682e4c6f078cc77484799530598474}
+      \strng{authorfullhash}{2d682e4c6f078cc77484799530598474}
+      \strng{authorfullhashraw}{2d682e4c6f078cc77484799530598474}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Educational Technology \& Society}
+      \field{number}{3}
+      \field{title}{Online learning: {Social} interaction and the creation of a sense of community}
+      \field{volume}{7}
+      \field{year}{2004}
+      \field{pages}{73\bibrangedash 81}
+      \range{pages}{9}
     \endentry
     \entry{milgram_1995}{article}{}{}
       \name{author}{4}{}{%
@@ -929,6 +1432,50 @@
       \field{pages}{25\bibrangedash 41}
       \range{pages}{17}
     \endentry
+    \entry{nuere_2021}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e022f7d582cc697e336105d5c7a28ee0}{%
+           family={Nuere},
+           familyi={N\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48cb46353b6ab4e046f756d4dfea43c9}{%
+           family={Suz},
+           familyi={S\bibinitperiod},
+           given={Adela\bibnamedelima Acitores},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d12e0b68d63b8435f4108ff1c5edea57}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Laura\bibnamedelimb de\bibnamedelima Miguel},
+           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{8dae38ee2a66bc6f9a1e33a2f1b80b21}
+      \strng{fullhash}{985483332e1c8edd71011270d979d29b}
+      \strng{fullhashraw}{985483332e1c8edd71011270d979d29b}
+      \strng{bibnamehash}{985483332e1c8edd71011270d979d29b}
+      \strng{authorbibnamehash}{985483332e1c8edd71011270d979d29b}
+      \strng{authornamehash}{8dae38ee2a66bc6f9a1e33a2f1b80b21}
+      \strng{authorfullhash}{985483332e1c8edd71011270d979d29b}
+      \strng{authorfullhashraw}{985483332e1c8edd71011270d979d29b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Remote {Learning} in {Times} of {Pandemic}}
+      \field{isbn}{9781003167594}
+      \field{title}{Reflections on the adaptation to the {COVID}-19 pandemic in higher education}
+      \field{year}{2021}
+    \endentry
     \entry{ozgen_2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9d48754187ff08309c2b1c6e71922e16}{%
@@ -994,6 +1541,175 @@
       \endverb
       \keyw{Basic design education,Computer-Aided Engineering (CAD,CAE) and Design,Instructional Design,Interaction Design,Interior Architecture,Technology acceptance model,Technology and Design education,Usability,Virtual and Augmented Reality,Virtual reality}
     \endentry
+    \entry{paechter_2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=744ac4b0786274978c8c7b6c9635f36f}{%
+           family={Paechter},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d79d2fb38e0bb47b01c355f65716ec5}{%
+           family={Maier},
+           familyi={M\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{fullhash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{fullhashraw}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{bibnamehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authorbibnamehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authornamehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authorfullhash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authorfullhashraw}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{10967516}
+      \field{journaltitle}{The Internet and Higher Education}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Online or face-to-face?}
+      \field{title}{Online or face-to-face? {Students}' experiences and preferences in e-learning}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{292\bibrangedash 297}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.iheduc.2010.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+    \endentry
+    \entry{penn_2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=105dfa6118d86b64be617082e693e44d}{%
+           family={Penn},
+           familyi={P\bibinitperiod},
+           given={Mafor},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ca74bca77d6f8b1c91e63f2271a460}{%
+           family={Ramnarain},
+           familyi={R\bibinitperiod},
+           given={Umesh},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{fullhash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{fullhashraw}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{bibnamehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authorbibnamehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authornamehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authorfullhash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authorfullhashraw}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mixed Reality for Education}
+      \field{title}{A {Systematic} {Review} of {Pedagogy} {Related} to {Mixed} {Reality} in {K}-12 {Education}}
+      \field{year}{2023}
+      \field{pages}{85\bibrangedash 108}
+      \range{pages}{24}
+    \endentry
+    \entry{petchame_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ac9e4f72352bf21ccd88244759fc27e8}{%
+           family={Petchamé},
+           familyi={P\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40e3d155193261b5c195fd21a88372a5}{%
+           family={Iriondo},
+           familyi={I\bibinitperiod},
+           given={Ignasi},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0895acf24ff92de5ab53d2b65d06237e}{%
+           family={Villegas},
+           familyi={V\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae9ab62b72e1e33c4fcfc04ad0ace2dc}{%
+           family={Riu},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=677487d9e6774c7caf2063f6a02728b8}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fca12d499d913d4857a54f9eb5a413cc}
+      \strng{fullhash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{fullhashraw}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{bibnamehash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{authorbibnamehash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{authornamehash}{fca12d499d913d4857a54f9eb5a413cc}
+      \strng{authorfullhash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{authorfullhashraw}{89d645161781c4a76f4b43f21b272c7e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The COVID-19 pandemic significantly disrupted traditional face-to-face teaching worldwide and forced education institutions to adopt new, online teaching formats to enable students to continue with their studies. This research focuses on students’ perceptions of three teaching different modalities: face-to-face (F2F), Emergency Remote Teaching (ERT) and Smart Classroom (SC), which were implemented in response to the restrictions enforced to combat the spread of COVID-19. A qualitative study based on two user experience techniques, Pocket Bipolar Laddering and Emotional Appraisal, was carried out on a group of second-year ICT engineering university students at La Salle Campus Barcelona. The former technique consists in identifying a maximum of three positive and three negative salient items, while the latter is intended to rate pairs of opposite feelings. In the SC format, saving time on travel to university was considered an advantage of online learning, while disadvantages included less effective instructor–student interaction, distractions when off-campus and teamwork issues. These shortcomings can be addressed by specific online teaching training to develop a more active form of learning and foment student participation. However, both ERT and SC modalities were considered effective solutions to cope with the social and mobility restrictions imposed during the pandemic.}
+      \field{issn}{2071-1050}
+      \field{journaltitle}{Sustainability}
+      \field{month}{6}
+      \field{number}{12}
+      \field{shorttitle}{Comparing {Face}-to-{Face}, {Emergency} {Remote} {Teaching} and {Smart} {Classroom}}
+      \field{title}{Comparing {Face}-to-{Face}, {Emergency} {Remote} {Teaching} and {Smart} {Classroom}: {A} {Qualitative} {Exploratory} {Research} {Based} on {Students}’ {Experience} during the {COVID}-19 {Pandemic}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{6625}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su13126625
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/13/12/6625
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/13/12/6625
+      \endverb
+    \endentry
     \entry{petrucco_2021}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=720a574ff534db88676857f4849fcf1a}{%
@@ -1026,6 +1742,86 @@
       \field{isbn}{9781003052869}
       \field{title}{Smartphones in and {Outside} {Classroom}}
       \field{year}{2021}
+    \endentry
+    \entry{popov_2012}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d5c8dcbe0e0d54a3f15576d34e504dbb}{%
+           family={Popov},
+           familyi={P\bibinitperiod},
+           given={Vitaliy},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=144ec082a9acd0cf851881bf3c2a1232}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Dine},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5eb5e2e28afcbda0660e8ed213d8fa0c}{%
+           family={Biemans},
+           familyi={B\bibinitperiod},
+           given={Harm\bibnamedelima J.A.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea287ec8643c6b561a9e6615d825e06f}{%
+           family={Mulder},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c39c5e7992228a517ad60a3bf1d89dc2}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae2c62bcf1b8e1ef2763fbb343e03f41}{%
+           family={Noroozi},
+           familyi={N\bibinitperiod},
+           given={Omid},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{705df1425499bf45d6af266588b0f238}
+      \strng{fullhash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{fullhashraw}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{bibnamehash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{authorbibnamehash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{authornamehash}{705df1425499bf45d6af266588b0f238}
+      \strng{authorfullhash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{authorfullhashraw}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01471767}
+      \field{journaltitle}{International Journal of Intercultural Relations}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Multicultural student group work in higher education}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{36}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{302\bibrangedash 317}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.ijintrel.2011.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0147176711000939
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0147176711000939
+      \endverb
     \endentry
     \entry{reinius_2021}{article}{}{}
       \name{author}{3}{}{%
@@ -1146,6 +1942,55 @@
       \field{pages}{201\bibrangedash 210}
       \range{pages}{10}
     \endentry
+    \entry{rodden_1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e701011d91664c226346e6c3c03692a}{%
+           family={Rodden},
+           familyi={R\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{fullhash}{9e701011d91664c226346e6c3c03692a}
+      \strng{fullhashraw}{9e701011d91664c226346e6c3c03692a}
+      \strng{bibnamehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authorbibnamehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authornamehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authorfullhash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authorfullhashraw}{9e701011d91664c226346e6c3c03692a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the last decade, computer supported cooperative work (CSCW) has emerged as an identifiable research area that focuses on the role of the computer in group work. CSCW is a generic term which combines the understanding of the nature of group working with the enabling technologies of computer networking, systems support and applications. The paper examines the classes of system which have emerged to support cooperative working. A framework for characterising and describing CSCW systems is presented and four major classes of cooperative system identified. Each of these classes of cooperative system are examined highlighting their general characteristics and applicability to CSCW.}
+      \field{issn}{0953-5438}
+      \field{journaltitle}{Interacting with Computers}
+      \field{month}{12}
+      \field{number}{3}
+      \field{title}{A survey of {CSCW} systems}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{3}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \field{pages}{319\bibrangedash 353}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1016/0953-5438(91)90020-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0953543891900203
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0953543891900203
+      \endverb
+      \keyw{authoring systems,computer supported cooperative work,conference systems,message systems}
+    \endentry
     \entry{schmalstieg_2016}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f6035f7910d5cc507115c42426a5f034}{%
@@ -1213,6 +2058,251 @@
       \field{year}{2005}
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
+    \endentry
+    \entry{smith_1992}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aa760b5b44d1298bdfaf017c8c42cba8}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Karl\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16a4b0a311dad00a74757a8e02e6f524}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e83cfa7d63338fb766e782b77255536}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Roger\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \list{publisher}{2}{%
+        {National Center on Postsecondary Teaching, Learning}%
+        {Assessment, University Park, PA.}%
+      }
+      \strng{namehash}{2ca918db81383f5ef9f19c7f59c0559d}
+      \strng{fullhash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{fullhashraw}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{bibnamehash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{authorbibnamehash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{authornamehash}{2ca918db81383f5ef9f19c7f59c0559d}
+      \strng{authorfullhash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{authorfullhashraw}{7c2b056e4423722a88d9453d0cd1d71d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Collaborative {Learning}: {A} {Sourcebook} for {Higher} {Education}}
+      \field{title}{Cooperative {Learning} and {Positive} {Change} in {Higher} {Education}}
+      \field{year}{1992}
+      \field{pages}{46\bibrangedash 56}
+      \range{pages}{11}
+    \endentry
+    \entry{thai_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=97ea4f5ae1556d5829bb69205ec680d6}{%
+           family={Thai},
+           familyi={T\bibinitperiod},
+           given={Ngoc\bibnamedelimb Thuy\bibnamedelima Thi},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65903371a317a85a142ab88404f5a415}{%
+           family={De\bibnamedelima Wever},
+           familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Bram},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96ba43d8a23a86a1b72b82e0b1665922}{%
+           family={Valcke},
+           familyi={V\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ff87095425c48c844a14bd0082896eca}
+      \strng{fullhash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{fullhashraw}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{bibnamehash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{authorbibnamehash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{authornamehash}{ff87095425c48c844a14bd0082896eca}
+      \strng{authorfullhash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{authorfullhashraw}{3daa63d890a942c48cc32ee7ab630802}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0266-4909, 1365-2729}
+      \field{journaltitle}{Journal of Computer Assisted Learning}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shorttitle}{Face‐to‐face, blended, flipped, or online learning environment?}
+      \field{title}{Face‐to‐face, blended, flipped, or online learning environment? {Impact} on learning performance and student cognitions}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{397\bibrangedash 411}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/jcal.12423
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/jcal.12423
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/jcal.12423
+      \endverb
+    \endentry
+    \entry{van_wyk_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d26407b4a53b62081307eb7aa1c13a53}{%
+           family={Van\bibnamedelima Wyk},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e3cebe7fa4f75d41f015e0106b59cb0}{%
+           family={Haffejee},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{fullhash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{fullhashraw}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{bibnamehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authorbibnamehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authornamehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authorfullhash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authorfullhashraw}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0975-1122}
+      \field{journaltitle}{International Journal of Educational Sciences}
+      \field{month}{9}
+      \field{number}{1-3}
+      \field{title}{Benefits of {Group} {Learning} {As} a {Collaborative} {Strategy} in a {Diverse} {Higher} {Education} {Context}}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{158\bibrangedash 163}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1080/09751122.2017.1305745
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/09751122.2017.1305745
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/09751122.2017.1305745
+      \endverb
+    \endentry
+    \entry{walas-trebacz_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1e6edf1aefdf462b76e14aaca1854ab4}{%
+           family={Walas-Trębacz},
+           familyi={W\bibinithyphendelim T\bibinitperiod},
+           given={Jolanta},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9c685eb2112f2b5060d9f329906eb02}{%
+           family={Krzyżak},
+           familyi={K\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b35fed06ba0a1582155354d80ed096d}{%
+           family={Herdan},
+           familyi={H\bibinitperiod},
+           given={Agnieszka},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c7ab4b465af3692d3f872880abad515}{%
+           family={Setyohadi},
+           familyi={S\bibinitperiod},
+           given={Djoko\bibnamedelima Budiyanto},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf79b79a85b5c89f3032be6d8ec3b005}{%
+           family={Jeyanathan},
+           familyi={J\bibinitperiod},
+           given={Josephine\bibnamedelima Selle},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fffc256e3c379ada3d805fefdbf06f8f}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Anish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff6708c97b0aacaa11c9a7974c033805}
+      \strng{fullhash}{91f606a109123f4425abb06eb30d7998}
+      \strng{fullhashraw}{91f606a109123f4425abb06eb30d7998}
+      \strng{bibnamehash}{91f606a109123f4425abb06eb30d7998}
+      \strng{authorbibnamehash}{91f606a109123f4425abb06eb30d7998}
+      \strng{authornamehash}{ff6708c97b0aacaa11c9a7974c033805}
+      \strng{authorfullhash}{91f606a109123f4425abb06eb30d7998}
+      \strng{authorfullhashraw}{91f606a109123f4425abb06eb30d7998}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose This article presents findings on the relationship between social interactions in remote learning environments and the perceived effectiveness of remote learning. Specifically, it examines the impact of teacher-student interactions and student-student interactions on perceived effectiveness of remote learning, with a focus on how students’ attitudes towards remote education mediate this relationship. Additionally, it explores the moderating effects of cultural context and study form (full-time vs part-time) on these dynamics. Design/methodology/approach A quantitative research design was used, employing a structured survey questionnaire to collect data from a diverse group of students from Poland, India, Indonesia and the UK. The study involved 1,883 students and analysed the data using statistical methods to assess both mediation and moderation effects. The study employed data obtained from a survey of universities in four countries conducted between 2021 and 2022. Findings The results emphasise the significant influence of both teacher-student and student-student interactions on students’ perceptions of the effectiveness of remote learning. Positive attitudes towards remote learning were found to mediate this relationship, amplifying the beneficial effects of social interaction. Furthermore, the study reveals that cultural context and study form moderate these relationships, with varying impacts observed across different cultural backgrounds and study arrangements. The study has implications for theory, research, policy implementation and practice in improving education programs. Research limitations/implications The comparative analysis included only four countries, which may have affected the overall representativeness of the results. Because the study is limited to students from Poland, India, Indonesia and the UK, the findings may not fully capture the diversity of remote learning experiences across other cultural and socioeconomic contexts. As a result, there may be challenges in generalising these findings to all higher education settings globally. Future research is recommended to include a more extensive sample from additional countries and regions to validate the current results and enhance their generalisability. Therefore, it is worth continuing research in this area, considering more countries and potential moderating factors. Originality/value This research contributes original insights into the dynamics of remote learning during a global crisis, offering an understanding of how social interactions, student attitudes and contextual factors shape perceived effectiveness. These findings provide critical guidance for educators, policymakers and institutions seeking to optimise remote education strategies in diverse cultural and educational settings.}
+      \field{issn}{1754-274X}
+      \field{journaltitle}{The TQM Journal}
+      \field{month}{1}
+      \field{number}{ahead-of-print}
+      \field{title}{Social interactions and attitudes toward remote learning vs perceptions of its effectiveness in the view of {Education} 4.0}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{ahead-of-print}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1108/TQM-09-2024-0335
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/TQM-09-2024-0335
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/TQM-09-2024-0335
+      \endverb
+      \keyw{Education 4.0,Higher education,Remote education,Social interactions in remote education,Student attitudes towards remote study}
     \endentry
     \entry{weiser_1991}{article}{}{}
       \name{author}{1}{}{%
@@ -1263,6 +2353,68 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{adi_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aff09e437e85924464db920938d0e32d}{%
+           family={Adi\bibnamedelima Badiozaman},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Ida\bibnamedelima Fatimawati},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25a07640ee2a10b9991001b9518f9fcd}{%
+           family={Leong},
+           familyi={L\bibinitperiod},
+           given={Hugh\bibnamedelima John},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1da657710777b8075d05144e69be775}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Wallace},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1fd838c2e6be9bde9d9948e1242e17c5}
+      \strng{fullhash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{fullhashraw}{6feeeb6904b6443401411e94e7a59887}
+      \strng{bibnamehash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{authorbibnamehash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{authornamehash}{1fd838c2e6be9bde9d9948e1242e17c5}
+      \strng{authorfullhash}{6feeeb6904b6443401411e94e7a59887}
+      \strng{authorfullhashraw}{6feeeb6904b6443401411e94e7a59887}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Purpose As an institution that has invested in e-learning infrastructure and technology for e-learning delivery, Swinburne University of Technology Sarawak conducted The Digital Educator Series as a means of embracing this educational disruption. In particular, this paper reports on the first three courses held under the Digital Educator Series that aims to equip teachers with practical and effective online teaching to school teachers in Sarawak. While the training is still in effect, preliminary results are shared, and implications for practice and recommendations for further research are considered. Design/methodology/approach Approximately 136 questionnaires containing close-and open-ended items were distributed to the teacher participants of the Digital Educator Series. Close-ended items were designed to gather general information about their perceptions of online teaching and learning. Items were constructed to gather insights on familiarity with online teaching and learning, perceived usefulness of platforms such as Microsoft Teams and Google Classrooms. The open-ended items were designed to gather information on areas of improvement for the courses and professional development needs of teachers for online teaching. Findings The findings revealed very mixed responses in terms of teachers' familiarity with online teaching and learning. Nonetheless, it was encouraging that the majority of teachers felt positively about the impact and usefulness of the courses in the Digital Educator Series and have expressed that would like to learn more about online teaching pedagogy. Teachers reported the greatest familiarity with Google Classroom and were very positive about the applicability the Google Classroom Course (91.2\%) in their own teaching practice. Conversely, all of the participants reported they were unfamiliar with Microsoft Teams. Accordingly, the teachers did not perceive its applicability to be as high as the Google Classroom. The qualitative findings further corroborated this and expressed the need for specific professional development programmes that include pedagogical and technological support. Overall, the teachers are strongly focussed in their professional development in order to improve their online teaching, Research limitations/implications Like other research, this too has its limitations. The sample size in this study was restricted to those who attended the Digital Educator Series training. Hence the results of this study, whilst have been enriching, and to a certain extent are supported by the current literature, the accuracy of the description may be unique to this particular group of individuals, within this particular setting. Additionally, the study only relied on self-reports from both the questionnaire and the semi-structured interviews. This study accepts that self-reports have shortcomings. Not all experiences of the courses would have been readily accessible through the teachers' conscious reflections. This makes it difficult to construct a complete picture of the experience, challenges and identify all salient factors within a particular workshop or training. Practical implications Although the adoption of teaching and learning to online platforms is undoubtedly the way to maintain continuity of learning for students, it has also unveiled glaring inequities in Sarawak. Therefore, continuous and personalised professional development needs to be provided, focussing on pedagogical and technological support. There is a need to embrace these changes as a long-term response that will develop and improve over the next few years. That response should include better infrastructure, policies for quality improvement, accessibility standards and strategic plans for continuous access in the future. This includes advocating for platforms that can fit into the core technology environment and for teachers to adopt an innovative mindset. Originality/value In light of the complex and multifaceted challenge of transitioning to online learning in Sarawak Malaysia, it was evident that the need for innovative solutions to optimize educational endeavours has become accelerated. To ensure that students are well-supported and widening participation and access to education, it is imperative that the education disruption be embraced. This starts with addressing teachers' digital literacy through a professional development programme of online reaching.}
+      \field{issn}{2050-7003}
+      \field{journaltitle}{Journal of Applied Research in Higher Education}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Embracing educational disruption}
+      \field{title}{Embracing educational disruption: a case study in making the shift to a remote learning environment}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1108/JARHE-08-2020-0256
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/JARHE-08-2020-0256
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/JARHE-08-2020-0256
+      \endverb
+      \keyw{E-learning readiness,Online learning,Online teaching,Remote teaching and online learning,Teachers and teaching}
+    \endentry
     \entry{azuma_1997}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=65a33080a179a3a436c552a32d1f64f0}{%
@@ -1363,6 +2515,63 @@
       \endverb
       \keyw{COVID-19,Effectiveness,Learning,Online,Pandemic,Social distance,Social interaction}
     \endentry
+    \entry{baloche_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4304a636c409d621530317c57e6c26c0}{%
+           family={Baloche},
+           familyi={B\bibinitperiod},
+           given={Lynda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9794b5d8bd910c3024591dd82b6a8d05}{%
+           family={Brody},
+           familyi={B\bibinitperiod},
+           given={Celeste\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{fullhash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{fullhashraw}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{bibnamehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authorbibnamehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authornamehash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authorfullhash}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \strng{authorfullhashraw}{fca7f1de0cd6fc0cec6efea92cd6eadd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0260-7476, 1360-0540}
+      \field{journaltitle}{Journal of Education for Teaching}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Cooperative learning}
+      \field{title}{Cooperative learning: exploring challenges, crafting innovations}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{274\bibrangedash 283}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/02607476.2017.1319513
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
+      \endverb
+    \endentry
     \entry{bligh_2017}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d883bbb9eaedf35ca81c02bba457364d}{%
@@ -1428,6 +2637,75 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1007/978-3-319-02600-8_7
+      \endverb
+    \endentry
+    \entry{buchs_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=422d3bfeb060f1828fbc9dd2dc230ce2}{%
+           family={Buchs},
+           familyi={B\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a531736fa0dd3f11f53b19f69124f04}{%
+           family={Filippou},
+           familyi={F\bibinitperiod},
+           given={Dimitra},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fc14a5f01d658edd21ab52cfe754867}{%
+           family={Pulfrey},
+           familyi={P\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21923470f7751f1e34ede2bf28899501}{%
+           family={Volpé},
+           familyi={V\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{35f93f25d5c2b6db16a052cc8a016d0e}
+      \strng{fullhash}{c214388d10ed2e7541049955bd098330}
+      \strng{fullhashraw}{c214388d10ed2e7541049955bd098330}
+      \strng{bibnamehash}{c214388d10ed2e7541049955bd098330}
+      \strng{authorbibnamehash}{c214388d10ed2e7541049955bd098330}
+      \strng{authornamehash}{35f93f25d5c2b6db16a052cc8a016d0e}
+      \strng{authorfullhash}{c214388d10ed2e7541049955bd098330}
+      \strng{authorfullhashraw}{c214388d10ed2e7541049955bd098330}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0260-7476, 1360-0540}
+      \field{journaltitle}{Journal of Education for Teaching}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Challenges for cooperative learning implementation}
+      \field{title}{Challenges for cooperative learning implementation: reports from elementary school teachers}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{296\bibrangedash 306}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/02607476.2017.1321673
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1321673
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1321673
       \endverb
     \endentry
     \entry{checa_2020}{article}{}{}
@@ -1545,6 +2823,140 @@
       \verb{url}
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
+    \endentry
+    \entry{drueke_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=bfb20996cd9886f9a39680bba54ec0e2}{%
+           family={Drueke},
+           familyi={D\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ca179b401f760f503eed424196b0a36}{%
+           family={Mainz},
+           familyi={M\bibinitperiod},
+           given={Verena},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14fbb071bbb2b1e075c48cf6dfec154c}{%
+           family={Lemos},
+           familyi={L\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5da624dfcd39d2507fe30a30f4d246b2}{%
+           family={Wirtz},
+           familyi={W\bibinitperiod},
+           given={Markus\bibnamedelima Antonius},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b1735f4fe02e1bd7fc79e7234614ca1}{%
+           family={Boecker},
+           familyi={B\bibinitperiod},
+           given={Maren},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{1215f3f31c1e7e0dbddbf60705080a57}
+      \strng{fullhash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{fullhashraw}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{bibnamehash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{authorbibnamehash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{authornamehash}{1215f3f31c1e7e0dbddbf60705080a57}
+      \strng{authorfullhash}{ae9ca22862f292c7ecfc24d4142ec398}
+      \strng{authorfullhashraw}{ae9ca22862f292c7ecfc24d4142ec398}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research: Due to the sudden outbreak of Covid-19 and the resulting pandemic situation universities were forced to rapidly change their traditional pedagogical and didactical approach by shifting from mostly face-to-face teaching entirely to virtual and online teaching methods. Through this, a ‘forced’ distance learning and -teaching situation emerged. This study aimed at investigating the effect of these innovations on the implementation, acceptance and use of the virtual teaching offer within the framework of the technology acceptance model (TAM).Methods: A total of 218 students and 69 lecturers of a German Medical Faculty completed online questionnaires on the acceptance, satisfaction and usefulness of the forced distance learning (FDL) and teaching (FDT), respectively. An extended version of the TAM was used to assess students’ and lecturers’ acceptance of FDL and FDT. In order to estimate the multivariate dependencies, path analysis was employed using structural equation modeling (SEM).Results: In general, students and lecturers reported to be satisfied with the implementation of the FDL and FDT. Regarding the TAM model, the fit indices suggested an acceptable model fit for both groups. The students’ model revealed that the perceived usefulness had a strong predictive power on the attitude towards using and the perceived ease of use also predicted the attitude. The existing technical infrastructure as well as the general media affinity and pandemic related worries proved to be positively associated with the perceived usefulness while data security worries and organization of online teaching predicted the perceived ease of use in students. The strong positive predictive power of the perceived usefulness for the attitude towards using was also evident in the model for the lecturers and the technical infrastructure predicted the perceived the perceived ease of use in the lecturers.Conclusion: The TAM is a suitable framework to represent the implementation, acceptance and use of the virtual teaching offer during the special pandemic situation at the university. However, personal and structural context factors were important predictors for the perceived usefulness and the perceived ease of use in the student group.}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{month}{10}
+      \field{title}{An {Evaluation} of {Forced} {Distance} {Learning} and {Teaching} {Under} {Pandemic} {Conditions} {Using} the {Technology} {Acceptance} {Model}}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2021.701347
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.701347/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.701347/full
+      \endverb
+      \keyw{Attitude,COVID,TAM,Technology acceptance model,acceptance,perceived ease of use (PEOU),perceived usefulness (PU)}
+    \endentry
+    \entry{fischer_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7425544aba014e86d30094c538d9bc1e}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2763b16ccaeac4107c92a4dc4f61c6d5}{%
+           family={Lundin},
+           familyi={L\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c61bc95f4710764bfa59fd4e9453be04}{%
+           family={Lindberg},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Ola},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5adfb353e910e32ebd2a3391b66f8b6}
+      \strng{fullhash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{fullhashraw}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{bibnamehash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{authorbibnamehash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{authornamehash}{c5adfb353e910e32ebd2a3391b66f8b6}
+      \strng{authorfullhash}{66500a10c941f16c8bbacd4a139d3c7f}
+      \strng{authorfullhashraw}{66500a10c941f16c8bbacd4a139d3c7f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose The digitalization of society results in challenges and opportunities for learning and education. This paper describes exemplary transformations from current to future practices. It illustrates multi-dimensional aspects of learning which complement and transcend current frameworks of learning focused on schools. While digital technologies are necessary for these transformations, they are not sufficient. The paper briefly illustrates the applicability of the conceptual framework to the COVID-19 pandemic. It concludes that design opportunities and design trade-offs in relation to digital technologies and learning should be explored by envisioning the cultural transformation that are desirable for making learning a part of life. Design/methodology/approach This paper is based on the work conducted at the symposium “Rethinking and Reinventing Learning, Education, and Collaboration in the Digital Age—From Creating Technologies to Transforming Cultures” that took place in Engeltofta outside of Gävle, Sweden in September 2019. The symposium invited scholars in collaborative analysis of design opportunities and design trade-offs in relation to digital technologies and learning and explored design strategies for systematically and proactively increasing digital technology's contributions to learning and collaborating. The paper first provides a condensed introduction of a conceptual framework summarizing current practices, their problems and promising alternatives. Multi-dimensional aspects of learning and lifelong learning will be briefly described as promising future alternatives to school learning. Examples of transformative practices are supporting the major argument of the paper that creating new technologies is an important prerequisite to address the fundamental challenge of transforming cultures. The unanticipated but fundamental event of the occurrence of COVID-19 will be briefly described to provide further evidence for the need and the applicability of our conceptual framework for rethinking and reinventing learning, education and collaboration in the digital age. Findings The paper provides a condensed introduction of a conceptual framework summarizing current practices, their problems and promising alternatives. The framework includes multi-dimensional aspects of learning and lifelong learning as a promising future alternative to a focus on school learning. Originality/value This paper describes exemplary transformations from current to future practices. It illustrates multi-dimensional aspects of learning which complement and transcend current frameworks of learning focused on schools.}
+      \field{issn}{2056-4880}
+      \field{journaltitle}{The International Journal of Information and Learning Technology}
+      \field{month}{1}
+      \field{number}{5}
+      \field{title}{Rethinking and reinventing learning, education and collaboration in the digital age—from creating technologies to transforming cultures}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{37}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{241\bibrangedash 252}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1108/IJILT-04-2020-0051
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/IJILT-04-2020-0051
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/IJILT-04-2020-0051
+      \endverb
+      \keyw{COVID-19,Digital technology,Distance education,Education,Learning,MOOC,Technology enhanced learning}
     \endentry
     \entry{forsler_2024}{article}{}{}
       \name{author}{3}{}{%
@@ -1695,6 +3107,73 @@
       \endverb
       \verb{url}
       \verb https://repositorio.uniandes.edu.co/entities/publication/c5cf341b-1dfe-43bd-ac7c-61294516c8c2
+      \endverb
+    \endentry
+    \entry{gil_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b9b8077186c40681d3d49e06271988b6}{%
+           family={Gil\bibnamedelima Parga},
+           familyi={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=887ec5bd01a5805fd77a4247a959d169}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Umang},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e1da81350f6d692da650abd2c3e4dc3}{%
+           family={Gutierrez},
+           familyi={G\bibinitperiod},
+           given={Jairo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b50a0a8401f33b4b66026dcfd032ff}{%
+           family={Marks},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{64c50e342a7649b22fa4edfd7662d592}
+      \strng{fullhash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{fullhashraw}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{bibnamehash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{authorbibnamehash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{authornamehash}{64c50e342a7649b22fa4edfd7662d592}
+      \strng{authorfullhash}{1c11a08cba7cce06368b042849b36a7e}
+      \strng{authorfullhashraw}{1c11a08cba7cce06368b042849b36a7e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1049-4820, 1744-5191}
+      \field{journaltitle}{Interactive Learning Environments}
+      \field{month}{4}
+      \field{shorttitle}{Pedagogical design in education using augmented reality}
+      \field{title}{Pedagogical design in education using augmented reality: a systematic review}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/10494820.2023.2195445
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
       \endverb
     \endentry
     \entry{goodyear_2004}{inbook}{}{}
@@ -1991,6 +3470,82 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{kiyokawa_2002}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=76d8c7e819ac0db066a96039797bf8ab}{%
+           family={Kiyokawa},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3870cd8de069c3a63fc80125413d5812}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=623d863c6519ed1ffaa3e4196d625a4b}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={S.E.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29941a55ce9570d3258751081c4834e7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90ef2b3b8d59988e1a4bf5450aa59a0e}{%
+           family={Sannohe},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60b9f8d0cba57b410ca5488388f1f7f2}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d9af789dcd23193bd66c63e572198d2}
+      \strng{fullhash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{fullhashraw}{98a5050116f11d83db2488dd9a8592be}
+      \strng{bibnamehash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{authorbibnamehash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{authornamehash}{8d9af789dcd23193bd66c63e572198d2}
+      \strng{authorfullhash}{98a5050116f11d83db2488dd9a8592be}
+      \strng{authorfullhashraw}{98a5050116f11d83db2488dd9a8592be}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We conducted two experiments comparing communication behaviors of co-located users in collaborative augmented reality (AR) interfaces. In the first experiment, we compared optical, stereo- and mono-video, and immersive head mounted displays (HMDs) using a target identification task. It was found that differences in the real world visibility severely affect communication behaviors. The optical see-through case produced the best results with the least extra communication needed. Generally, the more difficult it was to use non-verbal communication cues, the more people resorted to speech cues to compensate. In the second experiment, we compared three different combinations of task and communication spaces using a 2D icon design task with optical see-through HMDs. It was found that the spatial relationship between the task and communication spaces also severely affected communication behaviors. Placing the task space between the subjects produced the most active behaviors in terms of initiatory body languages and utterances with least miscommunications.}
+      \field{journaltitle}{Proceedings. {International} {Symposium} on {Mixed} and {Augmented} {Reality}}
+      \field{month}{10}
+      \field{title}{Communication behaviors of co-located users in collaborative {AR} interfaces}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{139\bibrangedash 148}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ISMAR.2002.1115083
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/1115083
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/1115083
+      \endverb
+      \keyw{Augmented reality,Collaboration,Collaborative work,Displays,Space technology,Speech,Time measurement,Video sharing,Videoconference,Visual communication}
+    \endentry
     \entry{long_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0ba935f4f7123a069c794e8dcd763d25}{%
@@ -2068,6 +3623,44 @@
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
       \endverb
+    \endentry
+    \entry{mcinnerney_2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c184b931d69bb85897dcfe02b7fadd1f}{%
+           family={McInnerney},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7edfd88405f36187c3a7845f56535255}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Tim\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d682e4c6f078cc77484799530598474}
+      \strng{fullhash}{2d682e4c6f078cc77484799530598474}
+      \strng{fullhashraw}{2d682e4c6f078cc77484799530598474}
+      \strng{bibnamehash}{2d682e4c6f078cc77484799530598474}
+      \strng{authorbibnamehash}{2d682e4c6f078cc77484799530598474}
+      \strng{authornamehash}{2d682e4c6f078cc77484799530598474}
+      \strng{authorfullhash}{2d682e4c6f078cc77484799530598474}
+      \strng{authorfullhashraw}{2d682e4c6f078cc77484799530598474}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Educational Technology \& Society}
+      \field{number}{3}
+      \field{title}{Online learning: {Social} interaction and the creation of a sense of community}
+      \field{volume}{7}
+      \field{year}{2004}
+      \field{pages}{73\bibrangedash 81}
+      \range{pages}{9}
     \endentry
     \entry{milgram_1995}{article}{}{}
       \name{author}{4}{}{%
@@ -2173,6 +3766,50 @@
       \field{pages}{25\bibrangedash 41}
       \range{pages}{17}
     \endentry
+    \entry{nuere_2021}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e022f7d582cc697e336105d5c7a28ee0}{%
+           family={Nuere},
+           familyi={N\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48cb46353b6ab4e046f756d4dfea43c9}{%
+           family={Suz},
+           familyi={S\bibinitperiod},
+           given={Adela\bibnamedelima Acitores},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d12e0b68d63b8435f4108ff1c5edea57}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Laura\bibnamedelimb de\bibnamedelima Miguel},
+           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{8dae38ee2a66bc6f9a1e33a2f1b80b21}
+      \strng{fullhash}{985483332e1c8edd71011270d979d29b}
+      \strng{fullhashraw}{985483332e1c8edd71011270d979d29b}
+      \strng{bibnamehash}{985483332e1c8edd71011270d979d29b}
+      \strng{authorbibnamehash}{985483332e1c8edd71011270d979d29b}
+      \strng{authornamehash}{8dae38ee2a66bc6f9a1e33a2f1b80b21}
+      \strng{authorfullhash}{985483332e1c8edd71011270d979d29b}
+      \strng{authorfullhashraw}{985483332e1c8edd71011270d979d29b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Remote {Learning} in {Times} of {Pandemic}}
+      \field{isbn}{9781003167594}
+      \field{title}{Reflections on the adaptation to the {COVID}-19 pandemic in higher education}
+      \field{year}{2021}
+    \endentry
     \entry{ozgen_2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9d48754187ff08309c2b1c6e71922e16}{%
@@ -2238,6 +3875,175 @@
       \endverb
       \keyw{Basic design education,Computer-Aided Engineering (CAD,CAE) and Design,Instructional Design,Interaction Design,Interior Architecture,Technology acceptance model,Technology and Design education,Usability,Virtual and Augmented Reality,Virtual reality}
     \endentry
+    \entry{paechter_2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=744ac4b0786274978c8c7b6c9635f36f}{%
+           family={Paechter},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d79d2fb38e0bb47b01c355f65716ec5}{%
+           family={Maier},
+           familyi={M\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{fullhash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{fullhashraw}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{bibnamehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authorbibnamehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authornamehash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authorfullhash}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \strng{authorfullhashraw}{4b53ce906c7e6f229e7f731c7cbe8bf2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{10967516}
+      \field{journaltitle}{The Internet and Higher Education}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Online or face-to-face?}
+      \field{title}{Online or face-to-face? {Students}' experiences and preferences in e-learning}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{292\bibrangedash 297}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.iheduc.2010.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+    \endentry
+    \entry{penn_2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=105dfa6118d86b64be617082e693e44d}{%
+           family={Penn},
+           familyi={P\bibinitperiod},
+           given={Mafor},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ca74bca77d6f8b1c91e63f2271a460}{%
+           family={Ramnarain},
+           familyi={R\bibinitperiod},
+           given={Umesh},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{fullhash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{fullhashraw}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{bibnamehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authorbibnamehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authornamehash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authorfullhash}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \strng{authorfullhashraw}{ec657080e1e1a6386ecee63ce1a07cf7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mixed Reality for Education}
+      \field{title}{A {Systematic} {Review} of {Pedagogy} {Related} to {Mixed} {Reality} in {K}-12 {Education}}
+      \field{year}{2023}
+      \field{pages}{85\bibrangedash 108}
+      \range{pages}{24}
+    \endentry
+    \entry{petchame_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ac9e4f72352bf21ccd88244759fc27e8}{%
+           family={Petchamé},
+           familyi={P\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40e3d155193261b5c195fd21a88372a5}{%
+           family={Iriondo},
+           familyi={I\bibinitperiod},
+           given={Ignasi},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0895acf24ff92de5ab53d2b65d06237e}{%
+           family={Villegas},
+           familyi={V\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae9ab62b72e1e33c4fcfc04ad0ace2dc}{%
+           family={Riu},
+           familyi={R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=677487d9e6774c7caf2063f6a02728b8}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fca12d499d913d4857a54f9eb5a413cc}
+      \strng{fullhash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{fullhashraw}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{bibnamehash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{authorbibnamehash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{authornamehash}{fca12d499d913d4857a54f9eb5a413cc}
+      \strng{authorfullhash}{89d645161781c4a76f4b43f21b272c7e}
+      \strng{authorfullhashraw}{89d645161781c4a76f4b43f21b272c7e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The COVID-19 pandemic significantly disrupted traditional face-to-face teaching worldwide and forced education institutions to adopt new, online teaching formats to enable students to continue with their studies. This research focuses on students’ perceptions of three teaching different modalities: face-to-face (F2F), Emergency Remote Teaching (ERT) and Smart Classroom (SC), which were implemented in response to the restrictions enforced to combat the spread of COVID-19. A qualitative study based on two user experience techniques, Pocket Bipolar Laddering and Emotional Appraisal, was carried out on a group of second-year ICT engineering university students at La Salle Campus Barcelona. The former technique consists in identifying a maximum of three positive and three negative salient items, while the latter is intended to rate pairs of opposite feelings. In the SC format, saving time on travel to university was considered an advantage of online learning, while disadvantages included less effective instructor–student interaction, distractions when off-campus and teamwork issues. These shortcomings can be addressed by specific online teaching training to develop a more active form of learning and foment student participation. However, both ERT and SC modalities were considered effective solutions to cope with the social and mobility restrictions imposed during the pandemic.}
+      \field{issn}{2071-1050}
+      \field{journaltitle}{Sustainability}
+      \field{month}{6}
+      \field{number}{12}
+      \field{shorttitle}{Comparing {Face}-to-{Face}, {Emergency} {Remote} {Teaching} and {Smart} {Classroom}}
+      \field{title}{Comparing {Face}-to-{Face}, {Emergency} {Remote} {Teaching} and {Smart} {Classroom}: {A} {Qualitative} {Exploratory} {Research} {Based} on {Students}’ {Experience} during the {COVID}-19 {Pandemic}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{6625}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su13126625
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2071-1050/13/12/6625
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2071-1050/13/12/6625
+      \endverb
+    \endentry
     \entry{petrucco_2021}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=720a574ff534db88676857f4849fcf1a}{%
@@ -2270,6 +4076,86 @@
       \field{isbn}{9781003052869}
       \field{title}{Smartphones in and {Outside} {Classroom}}
       \field{year}{2021}
+    \endentry
+    \entry{popov_2012}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d5c8dcbe0e0d54a3f15576d34e504dbb}{%
+           family={Popov},
+           familyi={P\bibinitperiod},
+           given={Vitaliy},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=144ec082a9acd0cf851881bf3c2a1232}{%
+           family={Brinkman},
+           familyi={B\bibinitperiod},
+           given={Dine},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5eb5e2e28afcbda0660e8ed213d8fa0c}{%
+           family={Biemans},
+           familyi={B\bibinitperiod},
+           given={Harm\bibnamedelima J.A.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea287ec8643c6b561a9e6615d825e06f}{%
+           family={Mulder},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c39c5e7992228a517ad60a3bf1d89dc2}{%
+           family={Kuznetsov},
+           familyi={K\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae2c62bcf1b8e1ef2763fbb343e03f41}{%
+           family={Noroozi},
+           familyi={N\bibinitperiod},
+           given={Omid},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{705df1425499bf45d6af266588b0f238}
+      \strng{fullhash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{fullhashraw}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{bibnamehash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{authorbibnamehash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{authornamehash}{705df1425499bf45d6af266588b0f238}
+      \strng{authorfullhash}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \strng{authorfullhashraw}{6de44ca60cf0925389d3c5ce8a9c16f7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01471767}
+      \field{journaltitle}{International Journal of Intercultural Relations}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Multicultural student group work in higher education}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{36}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{302\bibrangedash 317}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.ijintrel.2011.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0147176711000939
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0147176711000939
+      \endverb
     \endentry
     \entry{reinius_2021}{article}{}{}
       \name{author}{3}{}{%
@@ -2390,6 +4276,55 @@
       \field{pages}{201\bibrangedash 210}
       \range{pages}{10}
     \endentry
+    \entry{rodden_1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e701011d91664c226346e6c3c03692a}{%
+           family={Rodden},
+           familyi={R\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{fullhash}{9e701011d91664c226346e6c3c03692a}
+      \strng{fullhashraw}{9e701011d91664c226346e6c3c03692a}
+      \strng{bibnamehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authorbibnamehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authornamehash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authorfullhash}{9e701011d91664c226346e6c3c03692a}
+      \strng{authorfullhashraw}{9e701011d91664c226346e6c3c03692a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the last decade, computer supported cooperative work (CSCW) has emerged as an identifiable research area that focuses on the role of the computer in group work. CSCW is a generic term which combines the understanding of the nature of group working with the enabling technologies of computer networking, systems support and applications. The paper examines the classes of system which have emerged to support cooperative working. A framework for characterising and describing CSCW systems is presented and four major classes of cooperative system identified. Each of these classes of cooperative system are examined highlighting their general characteristics and applicability to CSCW.}
+      \field{issn}{0953-5438}
+      \field{journaltitle}{Interacting with Computers}
+      \field{month}{12}
+      \field{number}{3}
+      \field{title}{A survey of {CSCW} systems}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{3}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \field{pages}{319\bibrangedash 353}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1016/0953-5438(91)90020-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0953543891900203
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0953543891900203
+      \endverb
+      \keyw{authoring systems,computer supported cooperative work,conference systems,message systems}
+    \endentry
     \entry{schmalstieg_2016}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f6035f7910d5cc507115c42426a5f034}{%
@@ -2457,6 +4392,251 @@
       \field{year}{2005}
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
+    \endentry
+    \entry{smith_1992}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aa760b5b44d1298bdfaf017c8c42cba8}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Karl\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16a4b0a311dad00a74757a8e02e6f524}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e83cfa7d63338fb766e782b77255536}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Roger\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \list{publisher}{2}{%
+        {National Center on Postsecondary Teaching, Learning}%
+        {Assessment, University Park, PA.}%
+      }
+      \strng{namehash}{2ca918db81383f5ef9f19c7f59c0559d}
+      \strng{fullhash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{fullhashraw}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{bibnamehash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{authorbibnamehash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{authornamehash}{2ca918db81383f5ef9f19c7f59c0559d}
+      \strng{authorfullhash}{7c2b056e4423722a88d9453d0cd1d71d}
+      \strng{authorfullhashraw}{7c2b056e4423722a88d9453d0cd1d71d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Collaborative {Learning}: {A} {Sourcebook} for {Higher} {Education}}
+      \field{title}{Cooperative {Learning} and {Positive} {Change} in {Higher} {Education}}
+      \field{year}{1992}
+      \field{pages}{46\bibrangedash 56}
+      \range{pages}{11}
+    \endentry
+    \entry{thai_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=97ea4f5ae1556d5829bb69205ec680d6}{%
+           family={Thai},
+           familyi={T\bibinitperiod},
+           given={Ngoc\bibnamedelimb Thuy\bibnamedelima Thi},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65903371a317a85a142ab88404f5a415}{%
+           family={De\bibnamedelima Wever},
+           familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Bram},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96ba43d8a23a86a1b72b82e0b1665922}{%
+           family={Valcke},
+           familyi={V\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ff87095425c48c844a14bd0082896eca}
+      \strng{fullhash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{fullhashraw}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{bibnamehash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{authorbibnamehash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{authornamehash}{ff87095425c48c844a14bd0082896eca}
+      \strng{authorfullhash}{3daa63d890a942c48cc32ee7ab630802}
+      \strng{authorfullhashraw}{3daa63d890a942c48cc32ee7ab630802}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0266-4909, 1365-2729}
+      \field{journaltitle}{Journal of Computer Assisted Learning}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shorttitle}{Face‐to‐face, blended, flipped, or online learning environment?}
+      \field{title}{Face‐to‐face, blended, flipped, or online learning environment? {Impact} on learning performance and student cognitions}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{397\bibrangedash 411}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/jcal.12423
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/jcal.12423
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/jcal.12423
+      \endverb
+    \endentry
+    \entry{van_wyk_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d26407b4a53b62081307eb7aa1c13a53}{%
+           family={Van\bibnamedelima Wyk},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e3cebe7fa4f75d41f015e0106b59cb0}{%
+           family={Haffejee},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{fullhash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{fullhashraw}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{bibnamehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authorbibnamehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authornamehash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authorfullhash}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \strng{authorfullhashraw}{a542e4b02db5ca4ab7caf4e0b49b3fbd}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0975-1122}
+      \field{journaltitle}{International Journal of Educational Sciences}
+      \field{month}{9}
+      \field{number}{1-3}
+      \field{title}{Benefits of {Group} {Learning} {As} a {Collaborative} {Strategy} in a {Diverse} {Higher} {Education} {Context}}
+      \field{urlday}{9}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{158\bibrangedash 163}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1080/09751122.2017.1305745
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/09751122.2017.1305745
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/09751122.2017.1305745
+      \endverb
+    \endentry
+    \entry{walas-trebacz_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1e6edf1aefdf462b76e14aaca1854ab4}{%
+           family={Walas-Trębacz},
+           familyi={W\bibinithyphendelim T\bibinitperiod},
+           given={Jolanta},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9c685eb2112f2b5060d9f329906eb02}{%
+           family={Krzyżak},
+           familyi={K\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b35fed06ba0a1582155354d80ed096d}{%
+           family={Herdan},
+           familyi={H\bibinitperiod},
+           given={Agnieszka},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c7ab4b465af3692d3f872880abad515}{%
+           family={Setyohadi},
+           familyi={S\bibinitperiod},
+           given={Djoko\bibnamedelima Budiyanto},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf79b79a85b5c89f3032be6d8ec3b005}{%
+           family={Jeyanathan},
+           familyi={J\bibinitperiod},
+           given={Josephine\bibnamedelima Selle},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fffc256e3c379ada3d805fefdbf06f8f}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Anish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff6708c97b0aacaa11c9a7974c033805}
+      \strng{fullhash}{91f606a109123f4425abb06eb30d7998}
+      \strng{fullhashraw}{91f606a109123f4425abb06eb30d7998}
+      \strng{bibnamehash}{91f606a109123f4425abb06eb30d7998}
+      \strng{authorbibnamehash}{91f606a109123f4425abb06eb30d7998}
+      \strng{authornamehash}{ff6708c97b0aacaa11c9a7974c033805}
+      \strng{authorfullhash}{91f606a109123f4425abb06eb30d7998}
+      \strng{authorfullhashraw}{91f606a109123f4425abb06eb30d7998}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose This article presents findings on the relationship between social interactions in remote learning environments and the perceived effectiveness of remote learning. Specifically, it examines the impact of teacher-student interactions and student-student interactions on perceived effectiveness of remote learning, with a focus on how students’ attitudes towards remote education mediate this relationship. Additionally, it explores the moderating effects of cultural context and study form (full-time vs part-time) on these dynamics. Design/methodology/approach A quantitative research design was used, employing a structured survey questionnaire to collect data from a diverse group of students from Poland, India, Indonesia and the UK. The study involved 1,883 students and analysed the data using statistical methods to assess both mediation and moderation effects. The study employed data obtained from a survey of universities in four countries conducted between 2021 and 2022. Findings The results emphasise the significant influence of both teacher-student and student-student interactions on students’ perceptions of the effectiveness of remote learning. Positive attitudes towards remote learning were found to mediate this relationship, amplifying the beneficial effects of social interaction. Furthermore, the study reveals that cultural context and study form moderate these relationships, with varying impacts observed across different cultural backgrounds and study arrangements. The study has implications for theory, research, policy implementation and practice in improving education programs. Research limitations/implications The comparative analysis included only four countries, which may have affected the overall representativeness of the results. Because the study is limited to students from Poland, India, Indonesia and the UK, the findings may not fully capture the diversity of remote learning experiences across other cultural and socioeconomic contexts. As a result, there may be challenges in generalising these findings to all higher education settings globally. Future research is recommended to include a more extensive sample from additional countries and regions to validate the current results and enhance their generalisability. Therefore, it is worth continuing research in this area, considering more countries and potential moderating factors. Originality/value This research contributes original insights into the dynamics of remote learning during a global crisis, offering an understanding of how social interactions, student attitudes and contextual factors shape perceived effectiveness. These findings provide critical guidance for educators, policymakers and institutions seeking to optimise remote education strategies in diverse cultural and educational settings.}
+      \field{issn}{1754-274X}
+      \field{journaltitle}{The TQM Journal}
+      \field{month}{1}
+      \field{number}{ahead-of-print}
+      \field{title}{Social interactions and attitudes toward remote learning vs perceptions of its effectiveness in the view of {Education} 4.0}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{ahead-of-print}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1108/TQM-09-2024-0335
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/TQM-09-2024-0335
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/TQM-09-2024-0335
+      \endverb
+      \keyw{Education 4.0,Higher education,Remote education,Social interactions in remote education,Student attitudes towards remote study}
     \endentry
     \entry{weiser_1991}{article}{}{}
       \name{author}{1}{}{%

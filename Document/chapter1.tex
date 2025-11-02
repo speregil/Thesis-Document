@@ -315,31 +315,113 @@ response from the participants rather than the free observation initially intend
 participants early and consistent access to the tool, albeit in a more incomplete state. This also minimized the disruption to academic work while maximizing the opportunities for
 meaningful observation in the available time.
 
-There is also an inherent problem in the development of a case study in relation to the applicability of the results, generalization and subjectivity. The Industry Project course was chosen
-because it fulfilled all the characteristics needed for the research, but convenience aside, the course also provides a unique opportunity to analyse a collaborative learning design in action,
-with scenarios that could be extrapolated to other similar contexts, but also a unique take on the design of project-based learning and assessment, as well as a complex context for
-implementation and challenges that had to be tackled, all elements worth of a detailed analysis.
+There is also an inherent problem in the development of a case study in relation to the applicability of the results, generalization and subjectivity. The Industry Project course was
+chosen because it fulfilled all the characteristics needed for the research, but convenience aside, the course also provides a unique opportunity to analyse a collaborative learning
+design in action, with scenarios that could be extrapolated to other similar contexts, but also a unique take on the design of project-based learning and assessment, as well as a complex
+context for implementation and challenges that had to be tackled, all elements worth of a detailed analysis.
 
-Nonetheless, it is important to identify the limitations of using one sole case study, which can be summarized as issues with the transferability and applicability of the data gathered. Other
-factors that impact heavily the nature of the data are the overall seniority of the students, which were all close to finish their studies and the lack of a concrete study plan of the course,
-which focused more on the development of the project as its main teaching instrument, offering just a relatively vague and general set of learning goals.
+Nonetheless, it is important to identify the limitations of using one sole case study, which can be summarized as issues with the transferability and applicability of the data gathered.
+Other factors that impact heavily the nature of the data are the overall seniority of the students, which were all close to finish their studies and the lack of a concrete study plan of
+the course, which focused more on the development of the project as its main teaching instrument, offering just a relatively vague and general set of learning goals.
 
-Chapter 3 will describe in more detail the scope and limitations of the case study, as well as the measures taken to minimize or acknowledge the flaws and restrictions of the chosen framework.
-For now, these issues can be summarized the main limitations related to focusing the software development into a gradual an iterative progression of a prototype and the validity of the case study
-in terms of the characteristics needed for the research and the unique value it offers for analysis and discussion.
+Chapter 3 will describe in more detail the scope and limitations of the case study, as well as the measures taken to minimize or acknowledge the flaws and restrictions of the chosen
+framework. For now, these issues can be summarized the main limitations related to focusing the software development into a gradual an iterative progression of a prototype and the validity
+of the case study in terms of the characteristics needed for the research and the unique value it offers for analysis and discussion.
 
 \section[Significance and Contributions]{Significance and Contributions}
 
-The technological environment in which we found ourselves right now evolves rapidly and at large steps. Despite critics of stagnation, the classroom evolves and adapts in response and constantly
-tries to understand how the available technologies can improve the way we learn \parencite{watters_2021}. It is not always a positive relationship, it is often marred by overselling products and
-forcing a technological implementation without a plan and a proper consideration of the context and needs of the classroom \parencite{odunaike_2013,cochrane_2012}. Currently, it is also a field
-that experiences a lot of social scrutiny as we react to the idea that we have become somewhat addicted to digital content and to the devices used to consume it \parencite{liu_2022,gui_2021}.In
-a context in which we are banning the use of smartphones in the classrooms and obtaining somewhat positive results because of it (Rahali et al., 2024), why, then, rely on a proposal that
-fundamentally uses that technology?
+The technological environment in which we found ourselves right now evolves rapidly and at large steps. Despite critics of stagnation, the classroom evolves and adapts in response and
+constantly tries to understand how the available technologies can improve the way we learn \parencite{watters_2021}. It is not always a positive relationship, it is often marred by
+overselling products and forcing a technological implementation without a plan and a proper consideration of the context and needs of the classroom \parencite{odunaike_2013,cochrane_2012}.
+Currently, it is also a field that experiences a lot of social scrutiny as we react to the idea that we have become somewhat addicted to digital content and to the devices used to consume
+it \parencite{liu_2022,gui_2021}.In a context in which we are banning the use of smartphones in the classrooms and obtaining somewhat positive results because of it (Rahali et al., 2024),
+why, then, rely on a proposal that fundamentally uses that technology?
 
-As \textcite{murray_2014} stablish, exposure to technology does not equal comprehension. In an age in which almost all aspects of life are mediate by digital activities, it is important to create
-a positive, critical and informed relationship with the technology that we have to use in our daily lives, and that relationship does not develops naturally \parencite{selwyn_2009,margaryan_2011}.
-This is a task that can and should be executed in the classroom at different levels of schooling, in different contexts and at appropriate age and field depths. The classroom is the ideal scenario
-to create and nourish this relationship in a structured and positive way, yet this is a factor that is seen as lacking in education institutes, especially in middle and high school \parencite{burton_2015,jeffrey_2011}.
- 
+As \textcite{murray_2014} stablish, exposure to technology does not equal comprehension. In an age in which almost all aspects of life are mediate by digital activities, it is important to
+create a positive, critical and informed relationship with the technology that we have to use in our daily lives, and that relationship does not develops naturally \parencite{selwyn_2009,margaryan_2011}.
+This is a task that can and should be executed in the classroom at different levels of schooling, in different contexts and at appropriate age and field depths. The classroom is the ideal
+scenario to create and nourish this relationship in a structured and positive way, yet this is a factor that is seen as lacking in education institutes, especially in middle and high school \parencite{burton_2015,jeffrey_2011}.
+
+This project is an exploration of that philosophy, and an experimentation with a technological design that uses mobile devices in a healthy approach that promotes the development of skills
+needed today. Although the capacities of \ac{AR} as a learning tool are evident, this endeavour needs to follow a due process. It is important to properly understand how to use the
+technology and what elements of the design and implementation process need to be highlighted and worked on to create that intended positive impact. The technology does offer a big
+opportunity to enhance and reframe the way we communicate and work together, but it also has proven to impose certain challenges that have to be analysed, understood and dealt with.
+
+This document will describe the proposal, design, implementation, observation and analysis activities done in the development of an \ac{AR} tool for collaborative learning and the test
+deployment conducted focused on developing skills related to teamwork and effective communication.  The development of this research was carried in two interlocked steps. In one hand is
+the design and implementation of the software WorkshopAR, an \ac{AR} tool used as a companion in the face-to-face work that was part of the activities proposed for the Industry Project
+course. Specifically, the software was used during the weekly group sessions of work that the students held for the development of three different assessment milestones in the course-long
+project.
+
+The development of WorkshopAR consisted in solving two main issues, both related to the technological front of the research. First, there was a design challenge that required identifying
+the most common interactions performed in an \ac{AR} environment for cooperative work. Different use cases were identified that were unique for this context and that posed an interesting
+design challenge, like sharing information, sharing and coordinating resources, managing the status of the team and coordinating the development of a task. A user-centred interaction design
+process was used to outlined solutions for the identified use cases based on important restrictions and particularities of the problem.
+
+This stage was accomplished through a detailed exercise of user-centred design, a process meant to identify ideas and decisions born from the direct interactions of the users with
+prototypes and mock-ups, a structured process for gathering feedback, integrating the user in the design loop and refining ideas in an iterative process. The results obtained highlighted
+interesting issues and ideas related to multi-platform interactions, the expectation of users when presented with familiar and unfamiliar controls, complications related to interactions in
+a 3D space and the integration of the tool in the overall workflow of the students.
+
+The second focus in the development of WorkshopAR was the technical challenge of creating a multi-user, shared \ac{AR} space. Several commercially available frameworks and APIs were
+explored, such as the AR Foundation suit provided by the Unity game engine and the Lightship API provided by Niantic. It was possible to extract valuable insights about the current
+state of the development of \ac{AR} tools, especially in the field of education, and it was possible to describe the lessons learned while integrating the development process with the
+educational goals of the course. An effort was made to relate the results obtained to those reported in similar studies by identifying common and divergent results and issues, especially
+those related to finding the technology distracting and the technical development of the tool too detached from the role of the educator.
+
+Parallel to the construction of WorkshopAR was the development of the case study and the design of the intervention of the Industry Project course. In the design phase, the course was
+analysed based on the written material available and on interviews with the teaching staff. This information was used to guide the development of WorkshopAR and to identify the instances
+in the progression of the course in which the intervention could create more impact without disrupting too much the academic activities of the students. It was also an opportunity to
+detail and analyse the learning design of the course and to understand the context in which the observations were going to take place.
+
+During the observation phase it was possible to obtain detailed observations of the work done by the students with and without the AR tool, about the development of the project through the
+conception, design and implementation phases, to adapt elements of the tool to better suit the circumstances of the course and to observe the role of the teaching staff in the development
+of the course and as part of the usage of the tool. This helped to create a rich record to report in the case study and plenty points of analysis and discussion.
+
+The analysis phase used the recorded information from the observation stage plus all the material that could be recollected from the execution of the course. This material included the
+written communication given to the students via the official channels of the course, the workshops executed during the semester as material to help in the development of the project and
+the final products created by the students, such as presentations, reports and designs. The observations were also complemented by a set of semi-structured interviews to the students and
+the teaching staff. The interviews focused on gathering better records of issues related to the personal perceptions about the use of technology and the collaborative activities of the
+course.
+
+From the observations obtained and the analysis of the results it was possible to formulate some possible and satisfactory answers to the research questions. The data points to interesting
+behaviours promoted by the intervention, such as students creating a more structured work process when the tool prompted or encourage them to do it. It was also observed that this enforced
+structure helped the students with the organization of activities, prompting good practices for communication and the organization of ideas and plans.
+
+But the structure also prompted some unintended behaviours, like a tendency to create a hierarchical organization of the group around the student managing the tool, which was not in tune
+with the objectives of the course. The app also forced the students to be aware of their phones more than they were planning or willing to do, highlighting a current trend among students
+of regulating their phone consumption. It was also noticed that the tool was most useful for teams struggling with their organization and offered little value for those already with a
+clear work plan.
+
+Data and observations also provided a lot of insights related to the design of collaborative interactions in virtual 3D environments, to the relationships of students with their phones and
+how students use different resources, properly or not, to sort out the difficulties of a learning project. It was evident that the social aspect of the collaborative work resonated the most
+with the students and with the general satisfaction they reported with the activity, giving more importance to the tools created for them to communicate, express ideas and personalize their
+experience. The case study also opened an unexpected opportunity to analyse the role of the teaching team in the use of the tool, offering a clear path for future work.
+
 \section[Document Structure]{Document Structure}
+
+The purpose of this document is to provide an organized recount of the development of this research work, the theoretical background that supported the proposals given and the methodology
+followed to gather data, analyse it and build a set of answers for the research questions.
+
+This introduction chapter was meant as a summary of all these elements, highlighting the personal motivations behind the chosen research field and the general reasoning that accompanied
+the design process, the hypothesized and desired results, as well as the methodological pathway taken. Chapter 2 of this document will describe in detail the literature explored that
+helped in shaping the research questions and that provided the theoretical basis for the educational methods used as anchors for the software implementation.
+
+Chapter 3 details the methodological framework of the research. It briefly explores the research paradigms picked to guide this project and explains the reasoning for choosing them and
+their relevance to the learning and technical fields this project is based on. The chapter will also offer a complete explanation of the educational front, detailing all the instruments
+used in the development of the case study. In the technical front, it details the software development methodology followed, especially the reasoning and procedures used for the
+interaction design process and the methods used to ensure usability, flexibility, expandability and a general user-centred approach.
+
+The description and analysis of the results have been divided in three chapters. The technological front has been described in Chapter 4, where a detailed explanation of the requirement
+analysis can be found, including use case scenarios and quality objectives. The chapter also details the most relevant elements of the architectural solutions proposed for the tool.
+Chapter 5 continues with the description of WorkshopAR, now focused on the implementation process followed. The chapter describes the design phase to the development cycles followed to
+build the software, the testing strategies used to ensure validity and the feedback received by the users during testing and the observations in the case study.
+
+The case study itself is described in Chapter 6, explaining the context of the Industry Project course, the teaching objectives guiding its design and the points of interest for the
+intervention using WorkshopAR. The chapter will also provide a narrative description of the observations taken over 20 weeks of development of the course, and a preliminary analysis of the
+data based on the secondary material extracted, like the written documentation, the work produced by the students and the information gathered from the interviews.
+
+The final analysis is presented in Chapter 7 along with the necessary conclusions gathered from the data and the process described in the previous chapters. The chapter will detail what
+elements of the development of WorkshopAR and the case study support the proposal of AR as a tool to promote positive learning behaviours and effective collaboration, what important
+technological hurdles were identified and what surprises were found during the development of the project. The chapter will also offer and outline for future work to address the most
+outstanding issues derived from the research limitations and the problems encountered during the development of the project.

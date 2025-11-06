@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bcf:controlfile version="3.11" bltxversion="3.20" xmlns:bcf="https://sourceforge.net/projects/biblatex">
+<bcf:controlfile version="3.11" bltxversion="3.21" xmlns:bcf="https://sourceforge.net/projects/biblatex">
   <!-- BIBER OPTIONS -->
   <bcf:options component="biber" type="global">
     <bcf:option type="singlevalued">
@@ -994,6 +994,7 @@
     <bcf:option datatype="string">alphaothers</bcf:option>
     <bcf:option datatype="string">sortalphaothers</bcf:option>
     <bcf:option datatype="string">presort</bcf:option>
+    <bcf:option datatype="string">citepagerange</bcf:option>
     <bcf:option datatype="string">texencoding</bcf:option>
     <bcf:option datatype="string">bibencoding</bcf:option>
     <bcf:option datatype="string">sortingtemplatename</bcf:option>
@@ -3070,79 +3071,79 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">cyberpunk_2022</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">forsler_2024</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">forsler_2024</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">goodyear_2004</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">rivoltella_2008</bcf:citekey>
-    <bcf:citekey order="5" intorder="2">shank_2005</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">gourlay_2016</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">norgard_2022</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">hamad_2022</bcf:citekey>
-    <bcf:citekey order="8" intorder="2">checa_2020</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">bligh_2017</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">lu_2013</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">reinius_2021</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">gil_2015</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">richards_2023</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">richards_2023</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">long_2005</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">long_2005</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">baber_2021</bcf:citekey>
-    <bcf:citekey order="16" intorder="2">de-felice_2023</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">ozgen_2021</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">forsler_2025</bcf:citekey>
-    <bcf:citekey order="18" intorder="2">petrucco_2021</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">milgram_1995</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">milgram_1995</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">schmalstieg_2016</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">schmalstieg_2016</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">weiser_1991</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">weiser_1991</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">cyberpunk_2022</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">forsler_2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">forsler_2024</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">goodyear_2004</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">rivoltella_2008</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">shank_2005</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">gourlay_2016</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">norgard_2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">hamad_2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">checa_2020</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">bligh_2017</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">lu_2013</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">reinius_2021</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">gil_2015</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">richards_2023</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">richards_2023</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">long_2005</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">long_2005</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">baber_2021</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">de-felice_2023</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">ozgen_2021</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">forsler_2025</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">petrucco_2021</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">milgram_1995</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">milgram_1995</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">schmalstieg_2016</bcf:citekey>
     <bcf:citekey order="25" intorder="1">schmalstieg_2016</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">schmalstieg_2016</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">azuma_1997</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">azuma_1997</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">rodden_1991</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">rodden_1991</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">rodden_1991</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">weiser_1991</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">weiser_1991</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">schmalstieg_2016</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">schmalstieg_2016</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">azuma_1997</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">azuma_1997</bcf:citekey>
     <bcf:citekey order="32" intorder="1">rodden_1991</bcf:citekey>
     <bcf:citekey order="33" intorder="1">rodden_1991</bcf:citekey>
     <bcf:citekey order="34" intorder="1">rodden_1991</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">kiyokawa_2002</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">kiyokawa_2002</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">gil_2023</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">van_wyk_2017</bcf:citekey>
-    <bcf:citekey order="38" intorder="2">smith_1992</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">baloche_2017</bcf:citekey>
-    <bcf:citekey order="39" intorder="2">popov_2012</bcf:citekey>
-    <bcf:citekey order="39" intorder="3">buchs_2017</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">penn_2023</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">penn_2023</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">drueke_2021</bcf:citekey>
-    <bcf:citekey order="42" intorder="2">nuere_2021</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">fischer_2020</bcf:citekey>
-    <bcf:citekey order="43" intorder="2">adi_2020</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">walas-trebacz_2025</bcf:citekey>
-    <bcf:citekey order="44" intorder="2">mcinnerney_2004</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">petchame_2021</bcf:citekey>
-    <bcf:citekey order="45" intorder="2">thai_2020</bcf:citekey>
-    <bcf:citekey order="45" intorder="3">paechter_2010</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">katz_2017</bcf:citekey>
-    <bcf:citekey order="46" intorder="2">dalziel_1998</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">coleman_2017</bcf:citekey>
-    <bcf:citekey order="47" intorder="2">sutipitakwong_2020</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">watters_2021</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">odunaike_2013</bcf:citekey>
-    <bcf:citekey order="49" intorder="2">cochrane_2012</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">liu_2022</bcf:citekey>
-    <bcf:citekey order="50" intorder="2">gui_2021</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">murray_2014</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">murray_2014</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">selwyn_2009</bcf:citekey>
-    <bcf:citekey order="53" intorder="2">margaryan_2011</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">burton_2015</bcf:citekey>
-    <bcf:citekey order="54" intorder="2">jeffrey_2011</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">rodden_1991</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">rodden_1991</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">rodden_1991</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">kiyokawa_2002</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">kiyokawa_2002</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">gil_2023</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">van_wyk_2017</bcf:citekey>
+    <bcf:citekey order="41" intorder="2">smith_1992</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">baloche_2017</bcf:citekey>
+    <bcf:citekey order="42" intorder="2">popov_2012</bcf:citekey>
+    <bcf:citekey order="42" intorder="3">buchs_2017</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">penn_2023</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">penn_2023</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">drueke_2021</bcf:citekey>
+    <bcf:citekey order="45" intorder="2">nuere_2021</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">fischer_2020</bcf:citekey>
+    <bcf:citekey order="46" intorder="2">adi_2020</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">walas-trebacz_2025</bcf:citekey>
+    <bcf:citekey order="47" intorder="2">mcinnerney_2004</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">petchame_2021</bcf:citekey>
+    <bcf:citekey order="48" intorder="2">thai_2020</bcf:citekey>
+    <bcf:citekey order="48" intorder="3">paechter_2010</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">katz_2017</bcf:citekey>
+    <bcf:citekey order="49" intorder="2">dalziel_1998</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">coleman_2017</bcf:citekey>
+    <bcf:citekey order="50" intorder="2">sutipitakwong_2020</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">watters_2021</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">odunaike_2013</bcf:citekey>
+    <bcf:citekey order="52" intorder="2">cochrane_2012</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">liu_2022</bcf:citekey>
+    <bcf:citekey order="53" intorder="2">gui_2021</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">murray_2014</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">murray_2014</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">selwyn_2009</bcf:citekey>
+    <bcf:citekey order="56" intorder="2">margaryan_2011</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">burton_2015</bcf:citekey>
+    <bcf:citekey order="57" intorder="2">jeffrey_2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
@@ -3165,15 +3166,18 @@
     <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
+      <bcf:sortitem order="3">eventyear</bcf:sortitem>
+      <bcf:sortitem literal="1" order="4">-2000000000</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1">month</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+      <bcf:sortitem order="2">eventmonth</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="7">
       <bcf:sortitem order="1">day</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+      <bcf:sortitem order="2">eventday</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="8">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>

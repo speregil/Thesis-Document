@@ -1,6 +1,6 @@
 \contentsline {frontmatter}{List of Figures}{6}{listoffigures}%
 \contentsline {frontmatter}{List of Tables}{7}{listoftables}%
-\contentsline {chapter}{List of Acronyms}{8}{section*.6}%
+\contentsline {chapter}{List of Acronyms}{8}{section*.8}%
 \contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Context}{12}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Research Structure}{15}{section.1.2}%

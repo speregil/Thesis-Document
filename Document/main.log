@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  6 NOV 2025 22:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  10 NOV 2025 22:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -789,7 +789,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./main.aux (./acknowledgments.aux) (./biography.aux) (./abbreviations.aux) (./chapter1.aux) (./appendixa.aux) (./appendixb.aux))
+ (./main.aux (./acknowledgments.aux) (./biography.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./appendixa.aux) (./appendixb.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -1006,7 +1006,7 @@ although it is yet undefined on input line 4.
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=124, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=134, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
@@ -1026,7 +1026,7 @@ although it is yet undefined on input line 38.
 [10 <./figures/F1-1.jpg>]
 
 [11]
-<figures/F1-2.jpg, id=202, 380.00032pt x 337.26pt>
+<figures/F1-2.jpg, id=212, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1036,7 +1036,7 @@ although it is yet undefined on input line 119.
 
 
 [12]
-<figures/F1-3.jpg, id=225, 375.65344pt x 189.70876pt>
+<figures/F1-3.jpg, id=235, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
@@ -1062,6 +1062,22 @@ Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
 [21])
 
 [22]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+Chapter 2.
+Package acronym Info: Label `acro:CL' newly defined as it shall be overridden
+although it is yet undefined on input line 3.
+)
+
+[23
+
+
+
+
+]
+
+[24]
 \openout2 = `appendixa.aux'.
 
 
@@ -1071,7 +1087,7 @@ No file appendixa.tex.
 No file appendixb.tex.
 
 
-[23
+[25
 
 
 
@@ -1083,13 +1099,13 @@ No file appendixb.tex.
 
 ]
 
-[24]
-
-[25]
-
 [26]
 
-[27] (./main.aux (./acknowledgments.aux) (./biography.aux) (./abbreviations.aux) (./chapter1.aux) (./appendixa.aux) (./appendixb.aux))
+[27]
+
+[28]
+
+[29] (./main.aux (./acknowledgments.aux) (./biography.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./appendixa.aux) (./appendixb.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1099,18 +1115,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30057 strings out of 467748
- 561326 string characters out of 5431138
- 1734643 words of memory out of 5000000
- 58075 multiletter control sequences out of 15000+600000
+ 30112 strings out of 467748
+ 562513 string characters out of 5431138
+ 1743311 words of memory out of 5000000
+ 58114 multiletter control sequences out of 15000+600000
  653632 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,8n,95p,4607b,5048s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (27 pages, 582921 bytes).
+Output written on main.pdf (29 pages, 589281 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 490 compressed objects within 5 object streams
- 119 named destinations out of 1000 (max. 500000)
- 53416 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 603 PDF objects out of 1000 (max. 8388607)
+ 533 compressed objects within 6 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 53440 words of extra memory for PDF output out of 61914 (max. 10000000)
 

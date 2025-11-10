@@ -246,6 +246,9 @@ INPUT abbreviations.aux
 INPUT ./chapter1.aux
 INPUT ./chapter1.aux
 INPUT chapter1.aux
+INPUT ./chapter2.aux
+INPUT ./chapter2.aux
+INPUT chapter2.aux
 INPUT ./appendixa.aux
 INPUT ./appendixa.aux
 INPUT appendixa.aux
@@ -387,6 +390,12 @@ INPUT ./figures/F1-3.jpg
 INPUT ./figures/F1-3.jpg
 INPUT ./figures/F1-3.jpg
 INPUT ./figures/F1-3.jpg
+INPUT ./chapter2.tex
+INPUT ./chapter2.tex
+OUTPUT chapter2.aux
+INPUT ./chapter2.tex
+INPUT ./chapter2.tex
+INPUT chapter2.tex
 OUTPUT appendixa.aux
 OUTPUT appendixb.aux
 INPUT main.aux
@@ -402,6 +411,9 @@ INPUT abbreviations.aux
 INPUT ./chapter1.aux
 INPUT ./chapter1.aux
 INPUT chapter1.aux
+INPUT ./chapter2.aux
+INPUT ./chapter2.aux
+INPUT chapter2.aux
 INPUT ./appendixa.aux
 INPUT ./appendixa.aux
 INPUT appendixa.aux

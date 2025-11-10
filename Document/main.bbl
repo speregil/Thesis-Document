@@ -1641,6 +1641,49 @@
       \endverb
       \keyw{Augmented reality,Collaboration,Collaborative work,Displays,Space technology,Speech,Time measurement,Video sharing,Videoconference,Visual communication}
     \endentry
+    \entry{laal_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1572bb39ac4b81d3239ae2b3993e9c2}{%
+           family={Laal},
+           familyi={L\bibinitperiod},
+           given={Marjan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9562536d0d37258ab4133ad89c29160}{%
+           family={Ghodsi},
+           familyi={G\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{bibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorbibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authornamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia - Social and Behavioral Sciences}
+      \field{title}{Benefits of collaborative learning}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{486\bibrangedash 490}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.sbspro.2011.12.091
+      \endverb
+    \endentry
     \entry{liu_2022}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=f366ed4d779dfffcffc0a514cf788132}{%
@@ -2241,6 +2284,57 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+    \endentry
+    \entry{passey_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af5d1c1f952b3d878d0984806a855a59}{%
+           family={Passey},
+           familyi={P\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{bibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorbibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authornamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Technology‐enhanced learning}
+      \field{title}{Technology‐enhanced learning: {Rethinking} the term, the concept and its theoretical background}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{972\bibrangedash 986}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/bjet.12783
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
       \endverb
     \endentry
     \entry{penn_2023}{article}{}{}
@@ -4759,6 +4853,49 @@
       \endverb
       \keyw{Augmented reality,Collaboration,Collaborative work,Displays,Space technology,Speech,Time measurement,Video sharing,Videoconference,Visual communication}
     \endentry
+    \entry{laal_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1572bb39ac4b81d3239ae2b3993e9c2}{%
+           family={Laal},
+           familyi={L\bibinitperiod},
+           given={Marjan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9562536d0d37258ab4133ad89c29160}{%
+           family={Ghodsi},
+           familyi={G\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{bibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorbibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authornamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia - Social and Behavioral Sciences}
+      \field{title}{Benefits of collaborative learning}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{486\bibrangedash 490}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.sbspro.2011.12.091
+      \endverb
+    \endentry
     \entry{liu_2022}{article}{}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=f366ed4d779dfffcffc0a514cf788132}{%
@@ -5359,6 +5496,57 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+    \endentry
+    \entry{passey_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af5d1c1f952b3d878d0984806a855a59}{%
+           family={Passey},
+           familyi={P\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{bibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorbibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authornamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Technology‐enhanced learning}
+      \field{title}{Technology‐enhanced learning: {Rethinking} the term, the concept and its theoretical background}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{972\bibrangedash 986}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/bjet.12783
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
       \endverb
     \endentry
     \entry{penn_2023}{article}{}{}

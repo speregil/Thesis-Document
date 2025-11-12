@@ -205,6 +205,64 @@
       \endverb
       \keyw{E-learning readiness,Online learning,Online teaching,Remote teaching and online learning,Teachers and teaching}
     \endentry
+    \entry{akcayir_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=c8a2feabc033cec815d7a6a294a55b00}{%
+           family={Akçayır},
+           familyi={A\bibinitperiod},
+           given={Murat},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=d3d357eb30c29ad585394267ec88a402}{%
+           family={Akçayır},
+           familyi={A\bibinitperiod},
+           given={Gökçe},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{fullhash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{fullhashraw}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{bibnamehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authorbibnamehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authornamehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authorfullhash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authorfullhashraw}{f29c23b5cf172275ed42be77be5b2670}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study presents a systematic review of the literature on augmented reality (AR) used in educational settings. We consider factors such as publication year, learner type (e.g., K-12, higher education, and adult), technologies in AR, and the advantages and challenges of using AR in educational settings. The full range of SSCI journals was surveyed and a total of 68 research articles were selected for analysis. The findings reveal an increase in the number of AR studies during the last four years. The most reported advantage of AR is that it promotes enhanced learning achievement. Some noted challenges imposed by AR are usability issues and frequent technical problems. We found several other challenges and numerous advantages of AR usage, which are discussed in detail. In addition, current gaps in AR research and needs in the field are identified, and suggestions are offered for future research.}
+      \field{issn}{1747-938X}
+      \field{journaltitle}{Educational Research Review}
+      \field{month}{2}
+      \field{shorttitle}{Advantages and challenges associated with augmented reality for education}
+      \field{title}{Advantages and challenges associated with augmented reality for education: {A} systematic review of the literature}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
+      \field{volume}{20}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.edurev.2016.11.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X16300616
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X16300616
+      \endverb
+      \keyw{Augmented reality,Educational technology,Systematic review}
+    \endentry
     \entry{akhrif_2019}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=79a415aaf63f397e758baf5f43ca56d4}{%
@@ -1657,6 +1715,64 @@
       \verb https://www.tandfonline.com/doi/full/10.11120/ened.2006.01010019
       \endverb
     \endentry
+    \entry{challenor_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=684103acddae136fb469c33f2816f17a}{%
+           family={Challenor},
+           familyi={C\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5074ac15d6390460336c4017723b7191}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Minhua},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{fullhash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{fullhashraw}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{bibnamehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authorbibnamehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authornamehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authorfullhash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authorfullhashraw}{186c471149e7aa800aeccfab7e715ca2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Augmented reality is a field with a versatile range of applications used in many fields including recreation and education. Continually developing technology spanning the last decade has drastically improved the viability for augmented reality projects now that most of the population possesses a mobile device capable of supporting the graphic rendering systems required for them. Education in particular has benefited from these technological advances as there are now many fields of research branching into how augmented reality can be used in schools. For the purposes of Holocaust education however, there has been remarkable little research into how Augmented Reality can be used to enhance its delivery or impact. The purpose of this study is to speculate regarding the following questions: How is augmented reality currently being used to enhance history education? Does the usage of augmented reality assist in developing long-term memories? Is augmented reality capable of conveying the emotional weight of historical events? Will augmented reality be appropriate for teaching a complex field such as the Holocaust? To address these, multiple studies have been analysed for their research methodologies and how their findings may assist with the development of Holocaust education.}
+      \field{journaltitle}{Multimodal Technologies and Interaction}
+      \field{month}{6}
+      \field{note}{Number: 2 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{2}
+      \field{title}{A {Review} of {Augmented} {Reality} {Applications} for {History} {Education} and {Heritage} {Visualisation}}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{39}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/mti3020039
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2414-4088/3/2/39
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2414-4088/3/2/39
+      \endverb
+      \keyw{Holocaust,augmented reality,education,history,technology enhanced Learning}
+    \endentry
     \entry{checa_2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6908c58dfc05f64863739e8265b79956}{%
@@ -1702,6 +1818,109 @@
       \verb{doi}
       \verb 10.1007/s10055-019-00389-7
       \endverb
+    \endentry
+    \entry{chen_2017}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f8faae13c3bf91ebbb77c1865513fbcd}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=920af63650589e36aa5a4979cb55af7f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaolin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6daab9c045b3d0fc9e6183326e04b8ff}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6de58983b92b41ac1975c613f51ba1a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ronghuai},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=81b7b1d120ac300686777d3446f006f2}{%
+           family={Popescu},
+           familyi={P\bibinitperiod},
+           given={Elvira},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2cd32b40112b2a995cbeb4cd5c2cbf30}{%
+           family={{Kinshuk}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=f556e42b9547928a394ba53f17fc29c9}{%
+           family={Khribi},
+           familyi={K\bibinitperiod},
+           given={Mohamed\bibnamedelima Koutheair},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f6de58983b92b41ac1975c613f51ba1a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ronghuai},
+           giveni={R\bibinitperiod}}}%
+        {{hash=408e2aa31e4f52f47f7c532659eb5554}{%
+           family={Jemni},
+           familyi={J\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29f4e01f724e4e67aed574c2d930b008}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Nian-Shing},
+           giveni={N\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=da403979464851a68e966412fdb23d39}{%
+           family={Sampson},
+           familyi={S\bibinitperiod},
+           given={Demetrios\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{59032c3de3c974f85a2410ad1a1aed8b}
+      \strng{fullhash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{fullhashraw}{e53b9574bea663b5a766347e09aca86d}
+      \strng{bibnamehash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{authorbibnamehash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{authornamehash}{59032c3de3c974f85a2410ad1a1aed8b}
+      \strng{authorfullhash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{authorfullhashraw}{e53b9574bea663b5a766347e09aca86d}
+      \strng{editorbibnamehash}{22f19eee45a73462e08bc68b71e9a8c0}
+      \strng{editornamehash}{f28fb3fe21966ff127d5bd906f4d8e59}
+      \strng{editorfullhash}{22f19eee45a73462e08bc68b71e9a8c0}
+      \strng{editorfullhashraw}{22f19eee45a73462e08bc68b71e9a8c0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, there has been an increasing interest in applying Augmented Reality (AR) to create unique educational settings. This paper reports a review of literature on augmented reality in educational settings considering the factors include the uses, advantages, features, and effectiveness of augmented reality in educational settings. In total, 55 studies published between 2011 and 2016 in Social Sciences Citation Index database were analyzed. The main findings from this review provide the current state of the art on research in AR in education. Furthermore, the paper discusses trends and the vision towards the future and opportunities for further research in augmented reality for educational settings.}
+      \field{booktitle}{Innovations in {Smart} {Learning}}
+      \field{isbn}{978-981-10-2419-1}
+      \field{series}{Lecture {Notes} in {Educational} {Technology}}
+      \field{title}{A review of using {Augmented} {Reality} in {Education} from 2011 to 2016}
+      \field{year}{2017}
+      \field{pages}{13\bibrangedash 18}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/978-981-10-2419-1_2
+      \endverb
+      \keyw{Augmented Reality,literature review,trends of Augmented Reality}
     \endentry
     \entry{chowdhury_2002}{article}{}{}
       \name{author}{3}{}{%
@@ -2274,6 +2493,43 @@
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
     \endentry
+    \entry{dillenbourg_2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b396c0bb09d01755d1a2a8198ab785e}{%
+           family={Dillenbourg},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=6f2d5c9c6cec8ceffa6290e8bf6bddf2}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{fullhash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{fullhashraw}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{bibnamehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authorbibnamehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authornamehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authorfullhash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authorfullhashraw}{b2cb5e70b9450498f0f052f2227c7653}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Berufs-und Wirtschaftspädagogik}
+      \field{title}{Computer-supported collaborative learning: The basics}
+      \field{volume}{21}
+      \field{year}{2007}
+      \field{pages}{111\bibrangedash 130}
+      \range{pages}{20}
+    \endentry
     \entry{drejer_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ee1e5313b87a190bc67190ca19424cd3}{%
@@ -2605,14 +2861,72 @@
       \verb https://doi.org/10.22034/2015.4.04
       \endverb
     \endentry
+    \entry{fidan_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6aab3d337e8c59090d31ef2ec912f258}{%
+           family={Fidan},
+           familyi={F\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb5c5435ad2653f59086655f81df48c7}{%
+           family={Tuncel},
+           familyi={T\bibinitperiod},
+           given={Meric},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{fullhash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{fullhashraw}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{bibnamehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authorbibnamehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authornamehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authorfullhash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authorfullhashraw}{138116afd869411e8d5bfe1c053b3aee}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study investigates the effects of Problem Based Learning (PBL) assisted with Augmented Reality (AR) on learning achievement and attitude towards physics subjects as a part of science education. The sample of the study included 91 seventh graders from a province in the north of Turkey. A quasi-experimental design with two experimental groups and a control group was utilized. Based upon marker-based AR technologies, FenAR software was developed to support with PBL activities in the classroom. The experimental results indicated that integrating AR into PBL activities both increased students' learning achievement and promoted their positive attitudes towards physics subjects. This technology contributed to students' long-term retention of the concepts in the field of physics. In semi-structured interviews, the students emphasized that AR applications were more useful, realistic, and interesting for their learning; helped them to understand and analyse the problem scenarios. Apart from educational advantages, AR applications may lead to physical disorders among some of the students. It has been suggested that AR technology can be a potential and effective tool for activating students' positive emotions in PBL process. Moreover, implications on use of AR for physics education and recommendations for further studies are also discussed in the study.}
+      \field{issn}{0360-1315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{12}
+      \field{shorttitle}{Integrating augmented reality into problem based learning}
+      \field{title}{Integrating augmented reality into problem based learning: {The} effects on learning achievement and attitude in physics education}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{142}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{103635}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2019.103635
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131519301885
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131519301885
+      \endverb
+      \keyw{Architectures for educational technology system,Improving classroom teaching,Interactive learning environments,Multimedia/hypermedia systems,Teaching/learning strategies}
+    \endentry
     \entry{fischer_2020}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=7425544aba014e86d30094c538d9bc1e}{%
+        {{un=1,uniquepart=given,hash=7425544aba014e86d30094c538d9bc1e}{%
            family={Fischer},
            familyi={F\bibinitperiod},
            given={Gerhard},
            giveni={G\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=2763b16ccaeac4107c92a4dc4f61c6d5}{%
            family={Lundin},
            familyi={L\bibinitperiod},
@@ -3763,6 +4077,54 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{ivanova_2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6080384b9f9f3dc035c7615d4128aaed}{%
+           family={Ivanova},
+           familyi={I\bibinitperiod},
+           given={A.\bibnamedelimi V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{fullhash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{fullhashraw}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{bibnamehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authorbibnamehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authornamehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authorfullhash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authorfullhashraw}{6080384b9f9f3dc035c7615d4128aaed}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The first attempts to create devices that allow interacting with the imitated reality, as well as augmenting reality with superimposed information, were made at the beginning of the 20th century, the very concept of mixed reality (the “reality-virtuality continuum”), which elements are virtual (VR) and augmented (AR) reality, is quite young (24 years), as well as the market of these technologies. The concept of virtual and augmented reality hasn’t changed radically in the past 30 years, but VR and AR devices and software, and content have gone through a significant evolutionary path, and have already experienced several growth spikes.VR and AR technologies can be applied not only in entertainment and games. Many experts believe that virtual and augmented reality, along with Big Data, cloud technologies, artificial intelligence and some others, will become the key technologies of the 4th industrial revolution. VR and AR also have the potential to become the next big computing platform. Today VR and AR technologies help not only to create conceptually new markets, but also to disrupt existing ones.This article discusses the evolution of the VR and AR concepts and technologies and current market trends. The results of the survey show the key obstacles for the mass distribution of AR and VR technologies: high implementation and operational costs of AR/VR solutions; lack of high-quality content and imperfect devices, implicit effectiveness of their use.Based on the empirical study, a rather extensive list of benefits from using virtual and augmented reality technologies has been drawn up: faster and cheaper learning, training and guiding processes, increase in their efficiency, the reduction of the costs of elements and supplies needed, training support personnel; reducing potential risks to life and health of employees and other people while special training (medical operations and invasive procedures, evacuation, security, rescue in various emergencies) and the related optimization of the compensations; reducing the number of errors and accelerating the processes of assembling, repairing and operating special equipment, searching for information, necessary details, product location in the warehouse; significant reduction of accidents rate, as well as the exploration costs, due to the early identification of malfunctions; accelerating the pace of the designing and prototyping objects, significantly reducing the cost and duration of physical modeling process; improving customer experience, product and trading platforms design, that leads to corresponding increase in volume of sales; improving (simplifying) of communication and increasing its effectiveness.}
+      \field{issn}{2618-9984, 2618-947X}
+      \field{journaltitle}{Strategic decisions and risk management}
+      \field{month}{10}
+      \field{number}{3}
+      \field{shorttitle}{{VR} \& {AR} {TECHNOLOGIES}}
+      \field{title}{{VR} \& {AR} {TECHNOLOGIES}: {OPPORTUNITIES} {AND} {APPLICATION} {OBSTACLES}}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{88\bibrangedash 107}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.17747/2078-8886-2018-3-88-107
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jsdrm.ru/jour/article/view/787
+      \endverb
+      \verb{url}
+      \verb https://www.jsdrm.ru/jour/article/view/787
+      \endverb
+    \endentry
     \entry{jacobs_2015}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3b2628837647171a54c3574cafc79ded}{%
@@ -3923,6 +4285,50 @@
       \verb{url}
       \verb https://www.taylorfrancis.com/books/9781134216345
       \endverb
+    \endentry
+    \entry{javornik_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db919d6fc9d90a6196e257c54b224917}{%
+           family={Javornik},
+           familyi={J\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{fullhash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{fullhashraw}{db919d6fc9d90a6196e257c54b224917}
+      \strng{bibnamehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authorbibnamehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authornamehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authorfullhash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authorfullhashraw}{db919d6fc9d90a6196e257c54b224917}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cars, cosmetics, and cultural institutions have all played a role.}
+      \field{issn}{0017-8012}
+      \field{journaltitle}{Harvard Business Review}
+      \field{month}{10}
+      \field{note}{Section: Technology and analytics}
+      \field{shorttitle}{The {Mainstreaming} of {Augmented} {Reality}}
+      \field{title}{The {Mainstreaming} of {Augmented} {Reality}: {A} {Brief} {History}}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history
+      \endverb
+      \verb{url}
+      \verb https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history
+      \endverb
+      \keyw{Brand management,Mobile and wireless technology,Technology and analytics}
     \endentry
     \entry{jeffrey_2011}{article}{}{}
       \name{author}{6}{}{%
@@ -4271,6 +4677,47 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/53713/
       \endverb
+    \endentry
+    \entry{kirkwood_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e9c73d46422cb2223bae9834586d0b6f}{%
+           family={Kirkwood},
+           familyi={K\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2b8ff86f2409fe0a2fb4e5694de2662}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{fullhash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{fullhashraw}{7ec0e542560713e0c5712f0715701d97}
+      \strng{bibnamehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authorbibnamehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authornamehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authorfullhash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authorfullhashraw}{7ec0e542560713e0c5712f0715701d97}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning, media and technology}
+      \field{number}{1}
+      \field{title}{Technology-enhanced learning and teaching in higher education: what is ‘enhanced’and how do we know? A critical literature review}
+      \field{volume}{39}
+      \field{year}{2014}
+      \field{pages}{6\bibrangedash 36}
+      \range{pages}{31}
     \endentry
     \entry{kirschner_2007}{article}{}{}
       \name{author}{2}{}{%
@@ -4851,6 +5298,64 @@
       \field{title}{Situated learning: legitimate peripheral participation}
       \field{year}{1991}
       \keyw{Learning,Psychology of,Transfer of training}
+    \endentry
+    \entry{lehtinen_1999}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=51af6ff570963dfc77a0b0db6d2954ec}{%
+           family={Lehtinen},
+           familyi={L\bibinitperiod},
+           given={Erno},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b408e119d7aa74df552e4237ee183eac}{%
+           family={Hakkarainen},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c425be4479555d7dfbcfaec776484efb}{%
+           family={Lipponen},
+           familyi={L\bibinitperiod},
+           given={Lasse},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c27afda848f869750e716234b698122}{%
+           family={Rahikainen},
+           familyi={R\bibinitperiod},
+           given={Marjaana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0334eb79c94bc98db5ebee2dcc2b758e}{%
+           family={Muukkonen},
+           familyi={M\bibinitperiod},
+           given={Hanni},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Nijmegen Nijmegen}%
+      }
+      \strng{namehash}{84d6216554d2331ff29ba17c8787b0a9}
+      \strng{fullhash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{fullhashraw}{62d4da81943da6678b80fea1fac83afc}
+      \strng{bibnamehash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{authorbibnamehash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{authornamehash}{84d6216554d2331ff29ba17c8787b0a9}
+      \strng{authorfullhash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{authorfullhashraw}{62d4da81943da6678b80fea1fac83afc}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The JHGI Giesbers reports on education}
+      \field{title}{Computer supported collaborative learning: A review}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{1999}
+      \range{pages}{1}
     \endentry
     \entry{lingard_2012}{article}{}{}
       \name{author}{2}{}{%
@@ -6634,6 +7139,53 @@
       \verb http://link.springer.com/10.1007/978-3-642-85098-1_5
       \endverb
     \endentry
+    \entry{saidin_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=de4ec6f70069a0ab2522f7e31b2b2c3c}{%
+           family={Saidin},
+           familyi={S\bibinitperiod},
+           given={Nor\bibnamedelima Farhah},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51eecb462332d64ecf4db3322a04a89a}{%
+           family={Abd\bibnamedelima Halim},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Noor},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a4f3fa7af17404ac25a0c400422761}{%
+           family={Yahaya},
+           familyi={Y\bibinitperiod},
+           given={Noraffandy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b713d316daadca7531c7b777b64a2b04}
+      \strng{fullhash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{fullhashraw}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{bibnamehash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{authorbibnamehash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{authornamehash}{b713d316daadca7531c7b777b64a2b04}
+      \strng{authorfullhash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{authorfullhashraw}{b190ad6ed94ee6b5491b580377b15a95}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Technology in education can influence students to learn actively and can motivate them, leading to an effective process of learning. Previous research has identified the problem that technology will create a passive learning process if the technology used does not promote critical thinking, meaning-making or metacognition. Since its introduction, augmented reality (AR) has been shown to have good potential in making the learning process more active, effective and meaningful. This is because its advanced technology enables users to interact with virtual and real-time applications and brings the natural experiences to the user. In addition, the merging of AR with education has recently attracted research attention because of its ability to allow students to be immersed in realistic experiences. Therefore, this concept paper reviews the research that has been conducted on AR. The review describes the application of AR in a number of fields of learning including Medicine, Chemistry, Mathematics, Physics, Geography, Biology, Astronomy and History. This paper also discusses the advantages of AR compared to traditional technology (such as e-learning and courseware) and traditional teaching methods (chalk and talk and traditional books). The review of the results of the research shows that, overall, AR technologies have a positive potential and advantages that can be adapted in education. The review also indicates the limitations of AR which could be addressed in future research.}
+      \field{journaltitle}{International Education Studies}
+      \field{month}{6}
+      \field{shorttitle}{A {Review} of {Research} on {Augmented} {Reality} in {Education}}
+      \field{title}{A {Review} of {Research} on {Augmented} {Reality} in {Education}: {Advantages} and {Applications}}
+      \field{volume}{8}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.5539/ies.v8n13p1
+      \endverb
+    \endentry
     \entry{salmons_2019}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b84a4cfcfb9265256b110596d9b0f977}{%
@@ -7786,6 +8338,57 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131509001353
+      \endverb
+    \endentry
+    \entry{warburton_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1374588c56a3b4d737c445c0967900a}{%
+           family={Warburton},
+           familyi={W\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{fullhash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{fullhashraw}{d1374588c56a3b4d737c445c0967900a}
+      \strng{bibnamehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authorbibnamehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authornamehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authorfullhash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authorfullhashraw}{d1374588c56a3b4d737c445c0967900a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Second {Life} in higher education}
+      \field{title}{Second {Life} in higher education: {Assessing} the potential for and the barriers to deploying virtual worlds in learning and teaching}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{414\bibrangedash 426}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1467-8535.2009.00952.x
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2009.00952.x
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2009.00952.x
       \endverb
     \endentry
     \entry{watters_2021}{book}{}{}
@@ -8477,6 +9080,64 @@
       \endverb
       \keyw{E-learning readiness,Online learning,Online teaching,Remote teaching and online learning,Teachers and teaching}
     \endentry
+    \entry{akcayir_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=c8a2feabc033cec815d7a6a294a55b00}{%
+           family={Akçayır},
+           familyi={A\bibinitperiod},
+           given={Murat},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=d3d357eb30c29ad585394267ec88a402}{%
+           family={Akçayır},
+           familyi={A\bibinitperiod},
+           given={Gökçe},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{fullhash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{fullhashraw}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{bibnamehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authorbibnamehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authornamehash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authorfullhash}{f29c23b5cf172275ed42be77be5b2670}
+      \strng{authorfullhashraw}{f29c23b5cf172275ed42be77be5b2670}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study presents a systematic review of the literature on augmented reality (AR) used in educational settings. We consider factors such as publication year, learner type (e.g., K-12, higher education, and adult), technologies in AR, and the advantages and challenges of using AR in educational settings. The full range of SSCI journals was surveyed and a total of 68 research articles were selected for analysis. The findings reveal an increase in the number of AR studies during the last four years. The most reported advantage of AR is that it promotes enhanced learning achievement. Some noted challenges imposed by AR are usability issues and frequent technical problems. We found several other challenges and numerous advantages of AR usage, which are discussed in detail. In addition, current gaps in AR research and needs in the field are identified, and suggestions are offered for future research.}
+      \field{issn}{1747-938X}
+      \field{journaltitle}{Educational Research Review}
+      \field{month}{2}
+      \field{shorttitle}{Advantages and challenges associated with augmented reality for education}
+      \field{title}{Advantages and challenges associated with augmented reality for education: {A} systematic review of the literature}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
+      \field{volume}{20}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.edurev.2016.11.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X16300616
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1747938X16300616
+      \endverb
+      \keyw{Augmented reality,Educational technology,Systematic review}
+    \endentry
     \entry{akhrif_2019}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=79a415aaf63f397e758baf5f43ca56d4}{%
@@ -9929,6 +10590,64 @@
       \verb https://www.tandfonline.com/doi/full/10.11120/ened.2006.01010019
       \endverb
     \endentry
+    \entry{challenor_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=684103acddae136fb469c33f2816f17a}{%
+           family={Challenor},
+           familyi={C\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5074ac15d6390460336c4017723b7191}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Minhua},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{fullhash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{fullhashraw}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{bibnamehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authorbibnamehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authornamehash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authorfullhash}{186c471149e7aa800aeccfab7e715ca2}
+      \strng{authorfullhashraw}{186c471149e7aa800aeccfab7e715ca2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Augmented reality is a field with a versatile range of applications used in many fields including recreation and education. Continually developing technology spanning the last decade has drastically improved the viability for augmented reality projects now that most of the population possesses a mobile device capable of supporting the graphic rendering systems required for them. Education in particular has benefited from these technological advances as there are now many fields of research branching into how augmented reality can be used in schools. For the purposes of Holocaust education however, there has been remarkable little research into how Augmented Reality can be used to enhance its delivery or impact. The purpose of this study is to speculate regarding the following questions: How is augmented reality currently being used to enhance history education? Does the usage of augmented reality assist in developing long-term memories? Is augmented reality capable of conveying the emotional weight of historical events? Will augmented reality be appropriate for teaching a complex field such as the Holocaust? To address these, multiple studies have been analysed for their research methodologies and how their findings may assist with the development of Holocaust education.}
+      \field{journaltitle}{Multimodal Technologies and Interaction}
+      \field{month}{6}
+      \field{note}{Number: 2 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{2}
+      \field{title}{A {Review} of {Augmented} {Reality} {Applications} for {History} {Education} and {Heritage} {Visualisation}}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{39}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/mti3020039
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2414-4088/3/2/39
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2414-4088/3/2/39
+      \endverb
+      \keyw{Holocaust,augmented reality,education,history,technology enhanced Learning}
+    \endentry
     \entry{checa_2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6908c58dfc05f64863739e8265b79956}{%
@@ -9974,6 +10693,109 @@
       \verb{doi}
       \verb 10.1007/s10055-019-00389-7
       \endverb
+    \endentry
+    \entry{chen_2017}{inbook}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f8faae13c3bf91ebbb77c1865513fbcd}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=920af63650589e36aa5a4979cb55af7f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaolin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6daab9c045b3d0fc9e6183326e04b8ff}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6de58983b92b41ac1975c613f51ba1a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ronghuai},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=81b7b1d120ac300686777d3446f006f2}{%
+           family={Popescu},
+           familyi={P\bibinitperiod},
+           given={Elvira},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2cd32b40112b2a995cbeb4cd5c2cbf30}{%
+           family={{Kinshuk}},
+           familyi={K\bibinitperiod}}}%
+        {{hash=f556e42b9547928a394ba53f17fc29c9}{%
+           family={Khribi},
+           familyi={K\bibinitperiod},
+           given={Mohamed\bibnamedelima Koutheair},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f6de58983b92b41ac1975c613f51ba1a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ronghuai},
+           giveni={R\bibinitperiod}}}%
+        {{hash=408e2aa31e4f52f47f7c532659eb5554}{%
+           family={Jemni},
+           familyi={J\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29f4e01f724e4e67aed574c2d930b008}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Nian-Shing},
+           giveni={N\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=da403979464851a68e966412fdb23d39}{%
+           family={Sampson},
+           familyi={S\bibinitperiod},
+           given={Demetrios\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{59032c3de3c974f85a2410ad1a1aed8b}
+      \strng{fullhash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{fullhashraw}{e53b9574bea663b5a766347e09aca86d}
+      \strng{bibnamehash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{authorbibnamehash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{authornamehash}{59032c3de3c974f85a2410ad1a1aed8b}
+      \strng{authorfullhash}{e53b9574bea663b5a766347e09aca86d}
+      \strng{authorfullhashraw}{e53b9574bea663b5a766347e09aca86d}
+      \strng{editorbibnamehash}{22f19eee45a73462e08bc68b71e9a8c0}
+      \strng{editornamehash}{f28fb3fe21966ff127d5bd906f4d8e59}
+      \strng{editorfullhash}{22f19eee45a73462e08bc68b71e9a8c0}
+      \strng{editorfullhashraw}{22f19eee45a73462e08bc68b71e9a8c0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, there has been an increasing interest in applying Augmented Reality (AR) to create unique educational settings. This paper reports a review of literature on augmented reality in educational settings considering the factors include the uses, advantages, features, and effectiveness of augmented reality in educational settings. In total, 55 studies published between 2011 and 2016 in Social Sciences Citation Index database were analyzed. The main findings from this review provide the current state of the art on research in AR in education. Furthermore, the paper discusses trends and the vision towards the future and opportunities for further research in augmented reality for educational settings.}
+      \field{booktitle}{Innovations in {Smart} {Learning}}
+      \field{isbn}{978-981-10-2419-1}
+      \field{series}{Lecture {Notes} in {Educational} {Technology}}
+      \field{title}{A review of using {Augmented} {Reality} in {Education} from 2011 to 2016}
+      \field{year}{2017}
+      \field{pages}{13\bibrangedash 18}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/978-981-10-2419-1_2
+      \endverb
+      \keyw{Augmented Reality,literature review,trends of Augmented Reality}
     \endentry
     \entry{chowdhury_2002}{article}{}{}
       \name{author}{3}{}{%
@@ -10546,6 +11368,43 @@
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
     \endentry
+    \entry{dillenbourg_2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b396c0bb09d01755d1a2a8198ab785e}{%
+           family={Dillenbourg},
+           familyi={D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=6f2d5c9c6cec8ceffa6290e8bf6bddf2}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{fullhash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{fullhashraw}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{bibnamehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authorbibnamehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authornamehash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authorfullhash}{b2cb5e70b9450498f0f052f2227c7653}
+      \strng{authorfullhashraw}{b2cb5e70b9450498f0f052f2227c7653}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Berufs-und Wirtschaftspädagogik}
+      \field{title}{Computer-supported collaborative learning: The basics}
+      \field{volume}{21}
+      \field{year}{2007}
+      \field{pages}{111\bibrangedash 130}
+      \range{pages}{20}
+    \endentry
     \entry{drejer_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ee1e5313b87a190bc67190ca19424cd3}{%
@@ -10877,14 +11736,72 @@
       \verb https://doi.org/10.22034/2015.4.04
       \endverb
     \endentry
+    \entry{fidan_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6aab3d337e8c59090d31ef2ec912f258}{%
+           family={Fidan},
+           familyi={F\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb5c5435ad2653f59086655f81df48c7}{%
+           family={Tuncel},
+           familyi={T\bibinitperiod},
+           given={Meric},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{fullhash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{fullhashraw}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{bibnamehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authorbibnamehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authornamehash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authorfullhash}{138116afd869411e8d5bfe1c053b3aee}
+      \strng{authorfullhashraw}{138116afd869411e8d5bfe1c053b3aee}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study investigates the effects of Problem Based Learning (PBL) assisted with Augmented Reality (AR) on learning achievement and attitude towards physics subjects as a part of science education. The sample of the study included 91 seventh graders from a province in the north of Turkey. A quasi-experimental design with two experimental groups and a control group was utilized. Based upon marker-based AR technologies, FenAR software was developed to support with PBL activities in the classroom. The experimental results indicated that integrating AR into PBL activities both increased students' learning achievement and promoted their positive attitudes towards physics subjects. This technology contributed to students' long-term retention of the concepts in the field of physics. In semi-structured interviews, the students emphasized that AR applications were more useful, realistic, and interesting for their learning; helped them to understand and analyse the problem scenarios. Apart from educational advantages, AR applications may lead to physical disorders among some of the students. It has been suggested that AR technology can be a potential and effective tool for activating students' positive emotions in PBL process. Moreover, implications on use of AR for physics education and recommendations for further studies are also discussed in the study.}
+      \field{issn}{0360-1315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{12}
+      \field{shorttitle}{Integrating augmented reality into problem based learning}
+      \field{title}{Integrating augmented reality into problem based learning: {The} effects on learning achievement and attitude in physics education}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{142}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{103635}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2019.103635
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131519301885
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131519301885
+      \endverb
+      \keyw{Architectures for educational technology system,Improving classroom teaching,Interactive learning environments,Multimedia/hypermedia systems,Teaching/learning strategies}
+    \endentry
     \entry{fischer_2020}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=7425544aba014e86d30094c538d9bc1e}{%
+        {{un=1,uniquepart=given,hash=7425544aba014e86d30094c538d9bc1e}{%
            family={Fischer},
            familyi={F\bibinitperiod},
            given={Gerhard},
            giveni={G\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=2763b16ccaeac4107c92a4dc4f61c6d5}{%
            family={Lundin},
            familyi={L\bibinitperiod},
@@ -12035,6 +12952,54 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{ivanova_2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6080384b9f9f3dc035c7615d4128aaed}{%
+           family={Ivanova},
+           familyi={I\bibinitperiod},
+           given={A.\bibnamedelimi V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{fullhash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{fullhashraw}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{bibnamehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authorbibnamehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authornamehash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authorfullhash}{6080384b9f9f3dc035c7615d4128aaed}
+      \strng{authorfullhashraw}{6080384b9f9f3dc035c7615d4128aaed}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The first attempts to create devices that allow interacting with the imitated reality, as well as augmenting reality with superimposed information, were made at the beginning of the 20th century, the very concept of mixed reality (the “reality-virtuality continuum”), which elements are virtual (VR) and augmented (AR) reality, is quite young (24 years), as well as the market of these technologies. The concept of virtual and augmented reality hasn’t changed radically in the past 30 years, but VR and AR devices and software, and content have gone through a significant evolutionary path, and have already experienced several growth spikes.VR and AR technologies can be applied not only in entertainment and games. Many experts believe that virtual and augmented reality, along with Big Data, cloud technologies, artificial intelligence and some others, will become the key technologies of the 4th industrial revolution. VR and AR also have the potential to become the next big computing platform. Today VR and AR technologies help not only to create conceptually new markets, but also to disrupt existing ones.This article discusses the evolution of the VR and AR concepts and technologies and current market trends. The results of the survey show the key obstacles for the mass distribution of AR and VR technologies: high implementation and operational costs of AR/VR solutions; lack of high-quality content and imperfect devices, implicit effectiveness of their use.Based on the empirical study, a rather extensive list of benefits from using virtual and augmented reality technologies has been drawn up: faster and cheaper learning, training and guiding processes, increase in their efficiency, the reduction of the costs of elements and supplies needed, training support personnel; reducing potential risks to life and health of employees and other people while special training (medical operations and invasive procedures, evacuation, security, rescue in various emergencies) and the related optimization of the compensations; reducing the number of errors and accelerating the processes of assembling, repairing and operating special equipment, searching for information, necessary details, product location in the warehouse; significant reduction of accidents rate, as well as the exploration costs, due to the early identification of malfunctions; accelerating the pace of the designing and prototyping objects, significantly reducing the cost and duration of physical modeling process; improving customer experience, product and trading platforms design, that leads to corresponding increase in volume of sales; improving (simplifying) of communication and increasing its effectiveness.}
+      \field{issn}{2618-9984, 2618-947X}
+      \field{journaltitle}{Strategic decisions and risk management}
+      \field{month}{10}
+      \field{number}{3}
+      \field{shorttitle}{{VR} \& {AR} {TECHNOLOGIES}}
+      \field{title}{{VR} \& {AR} {TECHNOLOGIES}: {OPPORTUNITIES} {AND} {APPLICATION} {OBSTACLES}}
+      \field{urlday}{3}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{88\bibrangedash 107}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.17747/2078-8886-2018-3-88-107
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jsdrm.ru/jour/article/view/787
+      \endverb
+      \verb{url}
+      \verb https://www.jsdrm.ru/jour/article/view/787
+      \endverb
+    \endentry
     \entry{jacobs_2015}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3b2628837647171a54c3574cafc79ded}{%
@@ -12195,6 +13160,50 @@
       \verb{url}
       \verb https://www.taylorfrancis.com/books/9781134216345
       \endverb
+    \endentry
+    \entry{javornik_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db919d6fc9d90a6196e257c54b224917}{%
+           family={Javornik},
+           familyi={J\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{fullhash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{fullhashraw}{db919d6fc9d90a6196e257c54b224917}
+      \strng{bibnamehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authorbibnamehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authornamehash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authorfullhash}{db919d6fc9d90a6196e257c54b224917}
+      \strng{authorfullhashraw}{db919d6fc9d90a6196e257c54b224917}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cars, cosmetics, and cultural institutions have all played a role.}
+      \field{issn}{0017-8012}
+      \field{journaltitle}{Harvard Business Review}
+      \field{month}{10}
+      \field{note}{Section: Technology and analytics}
+      \field{shorttitle}{The {Mainstreaming} of {Augmented} {Reality}}
+      \field{title}{The {Mainstreaming} of {Augmented} {Reality}: {A} {Brief} {History}}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history
+      \endverb
+      \verb{url}
+      \verb https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history
+      \endverb
+      \keyw{Brand management,Mobile and wireless technology,Technology and analytics}
     \endentry
     \entry{jeffrey_2011}{article}{}{}
       \name{author}{6}{}{%
@@ -12543,6 +13552,47 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/53713/
       \endverb
+    \endentry
+    \entry{kirkwood_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e9c73d46422cb2223bae9834586d0b6f}{%
+           family={Kirkwood},
+           familyi={K\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2b8ff86f2409fe0a2fb4e5694de2662}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{fullhash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{fullhashraw}{7ec0e542560713e0c5712f0715701d97}
+      \strng{bibnamehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authorbibnamehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authornamehash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authorfullhash}{7ec0e542560713e0c5712f0715701d97}
+      \strng{authorfullhashraw}{7ec0e542560713e0c5712f0715701d97}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning, media and technology}
+      \field{number}{1}
+      \field{title}{Technology-enhanced learning and teaching in higher education: what is ‘enhanced’and how do we know? A critical literature review}
+      \field{volume}{39}
+      \field{year}{2014}
+      \field{pages}{6\bibrangedash 36}
+      \range{pages}{31}
     \endentry
     \entry{kirschner_2007}{article}{}{}
       \name{author}{2}{}{%
@@ -13123,6 +14173,64 @@
       \field{title}{Situated learning: legitimate peripheral participation}
       \field{year}{1991}
       \keyw{Learning,Psychology of,Transfer of training}
+    \endentry
+    \entry{lehtinen_1999}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=51af6ff570963dfc77a0b0db6d2954ec}{%
+           family={Lehtinen},
+           familyi={L\bibinitperiod},
+           given={Erno},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b408e119d7aa74df552e4237ee183eac}{%
+           family={Hakkarainen},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c425be4479555d7dfbcfaec776484efb}{%
+           family={Lipponen},
+           familyi={L\bibinitperiod},
+           given={Lasse},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c27afda848f869750e716234b698122}{%
+           family={Rahikainen},
+           familyi={R\bibinitperiod},
+           given={Marjaana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0334eb79c94bc98db5ebee2dcc2b758e}{%
+           family={Muukkonen},
+           familyi={M\bibinitperiod},
+           given={Hanni},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Nijmegen Nijmegen}%
+      }
+      \strng{namehash}{84d6216554d2331ff29ba17c8787b0a9}
+      \strng{fullhash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{fullhashraw}{62d4da81943da6678b80fea1fac83afc}
+      \strng{bibnamehash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{authorbibnamehash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{authornamehash}{84d6216554d2331ff29ba17c8787b0a9}
+      \strng{authorfullhash}{62d4da81943da6678b80fea1fac83afc}
+      \strng{authorfullhashraw}{62d4da81943da6678b80fea1fac83afc}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The JHGI Giesbers reports on education}
+      \field{title}{Computer supported collaborative learning: A review}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{1999}
+      \range{pages}{1}
     \endentry
     \entry{lingard_2012}{article}{}{}
       \name{author}{2}{}{%
@@ -14906,6 +16014,53 @@
       \verb http://link.springer.com/10.1007/978-3-642-85098-1_5
       \endverb
     \endentry
+    \entry{saidin_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=de4ec6f70069a0ab2522f7e31b2b2c3c}{%
+           family={Saidin},
+           familyi={S\bibinitperiod},
+           given={Nor\bibnamedelima Farhah},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51eecb462332d64ecf4db3322a04a89a}{%
+           family={Abd\bibnamedelima Halim},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Noor},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a4f3fa7af17404ac25a0c400422761}{%
+           family={Yahaya},
+           familyi={Y\bibinitperiod},
+           given={Noraffandy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b713d316daadca7531c7b777b64a2b04}
+      \strng{fullhash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{fullhashraw}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{bibnamehash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{authorbibnamehash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{authornamehash}{b713d316daadca7531c7b777b64a2b04}
+      \strng{authorfullhash}{b190ad6ed94ee6b5491b580377b15a95}
+      \strng{authorfullhashraw}{b190ad6ed94ee6b5491b580377b15a95}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Technology in education can influence students to learn actively and can motivate them, leading to an effective process of learning. Previous research has identified the problem that technology will create a passive learning process if the technology used does not promote critical thinking, meaning-making or metacognition. Since its introduction, augmented reality (AR) has been shown to have good potential in making the learning process more active, effective and meaningful. This is because its advanced technology enables users to interact with virtual and real-time applications and brings the natural experiences to the user. In addition, the merging of AR with education has recently attracted research attention because of its ability to allow students to be immersed in realistic experiences. Therefore, this concept paper reviews the research that has been conducted on AR. The review describes the application of AR in a number of fields of learning including Medicine, Chemistry, Mathematics, Physics, Geography, Biology, Astronomy and History. This paper also discusses the advantages of AR compared to traditional technology (such as e-learning and courseware) and traditional teaching methods (chalk and talk and traditional books). The review of the results of the research shows that, overall, AR technologies have a positive potential and advantages that can be adapted in education. The review also indicates the limitations of AR which could be addressed in future research.}
+      \field{journaltitle}{International Education Studies}
+      \field{month}{6}
+      \field{shorttitle}{A {Review} of {Research} on {Augmented} {Reality} in {Education}}
+      \field{title}{A {Review} of {Research} on {Augmented} {Reality} in {Education}: {Advantages} and {Applications}}
+      \field{volume}{8}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.5539/ies.v8n13p1
+      \endverb
+    \endentry
     \entry{salmons_2019}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b84a4cfcfb9265256b110596d9b0f977}{%
@@ -16058,6 +17213,57 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131509001353
+      \endverb
+    \endentry
+    \entry{warburton_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1374588c56a3b4d737c445c0967900a}{%
+           family={Warburton},
+           familyi={W\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{fullhash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{fullhashraw}{d1374588c56a3b4d737c445c0967900a}
+      \strng{bibnamehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authorbibnamehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authornamehash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authorfullhash}{d1374588c56a3b4d737c445c0967900a}
+      \strng{authorfullhashraw}{d1374588c56a3b4d737c445c0967900a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Second {Life} in higher education}
+      \field{title}{Second {Life} in higher education: {Assessing} the potential for and the barriers to deploying virtual worlds in learning and teaching}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{414\bibrangedash 426}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/j.1467-8535.2009.00952.x
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2009.00952.x
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/j.1467-8535.2009.00952.x
       \endverb
     \endentry
     \entry{watters_2021}{book}{}{}

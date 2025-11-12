@@ -374,6 +374,106 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1321673
       \endverb
     \endentry
+    \entry{burton_2015}{inbook}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1b23a895cbdb8478c175f3489b28b334}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Lorelle\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cd40403cb7440238f3d1ecc73cc2bab}{%
+           family={Summers},
+           familyi={S\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=250abca23e42a68d6c170ae7e2d2a798}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb95393c33ac076d64045d0beb1b337c}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=772b39354682504e2e69f5d9d7cf7bf1}{%
+           family={Gibbings},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5c2db6a75acaafded5913481c89ca9b4}{%
+           family={Harmes},
+           familyi={H\bibinitperiod},
+           given={Marcus\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=59f44549dea328a9c24d0b9d6753a9df}{%
+           family={Huijser},
+           familyi={H\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8e580d9056af20aedeb4e01862da214b}{%
+           family={Danaher},
+           familyi={D\bibinitperiod},
+           given={Patrick\bibnamedelima Alan},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan UK}%
+      }
+      \strng{namehash}{541e6a64441b5789ac149ae354a47062}
+      \strng{fullhash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{fullhashraw}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{bibnamehash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{authorbibnamehash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{authornamehash}{541e6a64441b5789ac149ae354a47062}
+      \strng{authorfullhash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{authorfullhashraw}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{editorbibnamehash}{8c5e9dfa9297262799c1eab7e44782cb}
+      \strng{editornamehash}{a3ae52765c8e9df3c024b45612029366}
+      \strng{editorfullhash}{8c5e9dfa9297262799c1eab7e44782cb}
+      \strng{editorfullhashraw}{8c5e9dfa9297262799c1eab7e44782cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Two interrelated myths arise from the way practitioners in higher education respond to an increased emphasis on technological delivery. One myth stems from the view that tertiary education students are digital natives who have universal and uniform digital experiences. This myth presumes that the technological experiences of these students are homogeneous and linked to a sophisticated knowledge and understanding of information and communication technologies (ICTs). The second myth emanates from the idea that the Internet is a panacea for the issues of increasing costs of higher education and increasing demand by students for authentic and interactive learning opportunities. The assumption here is that technology underpinning online learning is quick, easy to use, can be accessed by everyone, and is appropriate for all learning activities.}
+      \field{booktitle}{Myths in {Education}, {Learning} and {Teaching}: {Policies}, {Practices} and {Principles}}
+      \field{isbn}{9781137476982}
+      \field{shorttitle}{Digital {Literacy} in {Higher} {Education}}
+      \field{title}{Digital {Literacy} in {Higher} {Education}: {The} {Rhetoric} and the {Reality}}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 172}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1057/9781137476982_9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1057/9781137476982_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1057/9781137476982_9
+      \endverb
+    \endentry
     \entry{checa_2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6908c58dfc05f64863739e8265b79956}{%
@@ -418,6 +518,142 @@
       \range{pages}{11}
       \verb{doi}
       \verb 10.1007/s10055-019-00389-7
+      \endverb
+    \endentry
+    \entry{cochrane_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85c5bfc0412f3e1e47f74d23cb9cfef5}{%
+           family={Cochrane},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{fullhash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{fullhashraw}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{bibnamehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authorbibnamehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authornamehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authorfullhash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authorfullhashraw}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Having implemented and evaluated over 35 mlearning projects in a variety of contexts in higher education over the past 6 years the researcher is ready to share the untold secret: not all mlearning projects succeed! This article critiques three of the researcher’s mlearning projects that can be classed as ‘‘failures’’ and compares them to successful projects to draw out critical implications for mlearning project design and implementation to avoid common pitfalls leading to potential project failure. This article uses the researcher’s six critical success factors identified across the 35 mlearning projects to evaluate these three projects, and concludes that projects resulting in ‘‘no significant difference’’ in pedagogical outcomes are the result of attempts to shoehorn old pedagogies into new technologies. Lecturer professional development and sustained collaborative support are critical to fostering new pedagogies utilising the unique affordances of mobile devices.Keywords: mlearning; pedagogy; heutagogy(Published: 30 August 2012)http://dx.doi.org/10.3402/rlt.v20i0.19186}
+      \field{issn}{2156-7077}
+      \field{journaltitle}{Research in Learning Technology}
+      \field{month}{8}
+      \field{shorttitle}{Secrets of mlearning failures}
+      \field{title}{Secrets of mlearning failures: confronting reality}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{20}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3402/rlt.v20i0.19186
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.alt.ac.uk/index.php/rlt/article/view/1354
+      \endverb
+      \verb{url}
+      \verb https://journal.alt.ac.uk/index.php/rlt/article/view/1354
+      \endverb
+      \keyw{confrontingReality,heutagogy,mlearning,noSignificantDifference,pedagogy}
+    \endentry
+    \entry{coleman_2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b4c7f92e6492941f3dcc433ba1ebdf80}{%
+           family={Coleman},
+           familyi={C\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87e81df11bbd4962d48e59536947011c}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SitePoint Pty Ltd}%
+      }
+      \strng{namehash}{a348af62110fc373f0a07ec770099901}
+      \strng{fullhash}{a348af62110fc373f0a07ec770099901}
+      \strng{fullhashraw}{a348af62110fc373f0a07ec770099901}
+      \strng{bibnamehash}{a348af62110fc373f0a07ec770099901}
+      \strng{authorbibnamehash}{a348af62110fc373f0a07ec770099901}
+      \strng{authornamehash}{a348af62110fc373f0a07ec770099901}
+      \strng{authorfullhash}{a348af62110fc373f0a07ec770099901}
+      \strng{authorfullhashraw}{a348af62110fc373f0a07ec770099901}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing {UX}: {Prototyping}: {Because} {Modern} {Design} is {Never} {Static}}
+      \field{year}{2017}
+    \endentry
+    \entry{dalziel_1998}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5eda3a2242ea875b8dcfe3e63741905}{%
+           family={Dalziel},
+           familyi={D\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{fullhash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{fullhashraw}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{bibnamehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authorbibnamehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authornamehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authorfullhash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authorfullhashraw}{a5eda3a2242ea875b8dcfe3e63741905}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0260-2938, 1469-297X}
+      \field{journaltitle}{Assessment \& Evaluation in Higher Education}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Using {Marks} to {Assess} {Student} {Performance}, some problems and alternatives}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{23}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{351\bibrangedash 366}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/0260293980230403
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0260293980230403
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0260293980230403
       \endverb
     \endentry
     \entry{de-felice_2023}{article}{}{}
@@ -1034,6 +1270,64 @@
       \field{pages}{73\bibrangedash 86}
       \range{pages}{14}
     \endentry
+    \entry{gui_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fef7c7552e72d30d2b869e87da2aa6f8}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd610962d192b5aca3c4c2cd0b0743c4}{%
+           family={Büchi},
+           familyi={B\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{fullhash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{fullhashraw}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{bibnamehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authorbibnamehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authornamehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authorfullhash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authorfullhashraw}{1c283aacf3ffaa90c4d3fea0051af827}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Public discourse about overuse as an undesired side effect of digital communication is growing. This article conceptually develops and empirically analyzes users’ perceived digital overuse (PDO) as a widespread social phenomenon sensitive to existing inequalities. In an age of digital communication abundance and closing Internet access divides, overuse has not been systematically investigated nor are its social disparities known. In a first step, PDO is demarcated from Internet addiction, theoretically defined, and operationalized. Then, the prevalence of perceived overuse is assessed in a representative population sample of Italian Internet users ( N = 2,008) and predictors of digital overuse are tested. Results show that digital communication use and the level of social pressure to function digitally are positively related to PDO. Education is negatively associated with PDO and positively with digital communication use and social digital pressure. Overuse is emerging as a new dimension of digital inequality with implications for theory and future research in digital well-being.}
+      \field{issn}{0894-4393, 1552-8286}
+      \field{journaltitle}{Social Science Computer Review}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shorttitle}{From {Use} to {Overuse}}
+      \field{title}{From {Use} to {Overuse}: {Digital} {Inequality} in the {Age} of {Communication} {Abundance}}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{39}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 19}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1177/0894439319851163
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
+      \endverb
+    \endentry
     \entry{hamad_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fac6cfe753e70a84a320f3a9fa9ac77}{%
@@ -1136,6 +1430,141 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{jeffrey_2011}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d7e40e5320435bed8ec6613c311cccd0}{%
+           family={Jeffrey},
+           familyi={J\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21ff6c1038eaa794c11aa98d164a23a5}{%
+           family={Hegarty},
+           familyi={H\bibinitperiod},
+           given={Bronwyn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e88ef7014ed40da633fc058c5c6d068f}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Oriel},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=accd63356b384ce494867bcec45d18b6}{%
+           family={Penman},
+           familyi={P\bibinitperiod},
+           given={Merrolee},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10dcdc783e10de8d7e0c15b3d7d4e0d5}{%
+           family={Coburn},
+           familyi={C\bibinitperiod},
+           given={Dawn},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23bc63281c507f640d3628f03fd973c5}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ff602c4b02b0f38a17fa5ba23418f94}
+      \strng{fullhash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{fullhashraw}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{bibnamehash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{authorbibnamehash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{authornamehash}{8ff602c4b02b0f38a17fa5ba23418f94}
+      \strng{authorfullhash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{authorfullhashraw}{576919513f6ea2b66f3ec6b1051c10d6}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The development of digital information literacy (DIL) has been slow in comparison to changes in information communication technologies, and this remains an issue for the higher education sector. Competency in such skills is essential to full participation in society and work. In addition, these skills are regarded as underpinning the ability to maintain life long learning. Evidence suggests that simple exposure to technology is not sufficient to promote adequate levels of literacy. Why has DIL development been so slow? How can we speed the process up? The purpose of this study was to identify obstacles and supports to fostering the development of DIL to staff and students in higher education. The literature identified a range of obstacles that hindered students’ ability to develop their technology related skills. The issue of access and the digital divide that has been of interest to those concerned with social equity continues to generate lively discussion...}
+      \field{issn}{1539-3585}
+      \field{journaltitle}{Journal of Information Technology Education: Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Developing {Digital} {Information} {Literacy} in {Higher} {Education}: {Obstacles} and {Supports}}
+      \field{volume}{10}
+      \field{year}{2011}
+      \field{pages}{383\bibrangedash 413}
+      \range{pages}{31}
+      \verb{urlraw}
+      \verb https://www.learntechlib.org/p/111528
+      \endverb
+      \verb{url}
+      \verb https://www.learntechlib.org/p/111528
+      \endverb
+    \endentry
+    \entry{katz_2017}{inbook}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=c3e97c7783e61cf9583d09f03019528e}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Irvin\bibnamedelima R},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9877ecd016f1903110e783b61204b162}{%
+           family={LaMar},
+           familyi={L\bibinitperiod},
+           given={Michelle\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ccbd832819ac76c7bc939f845273705}{%
+           family={Spain},
+           familyi={S\bibinitperiod},
+           given={Randall},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd850f8aa4d7de89ef103e64bcaa4cd3}{%
+           family={Zapata-Rivera},
+           familyi={Z\bibinithyphendelim R\bibinitperiod},
+           given={Juan\bibnamedelima Diego},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8faf16ad626d8b218a588b7f4ed70c01}{%
+           family={Baird},
+           familyi={B\bibinitperiod},
+           given={Jo-Anne},
+           giveni={J\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=327e98238599c6fb904007434df4c713}{%
+           family={Greiff},
+           familyi={G\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chapter 18}%
+      }
+      \strng{namehash}{9982c4a6ab080e3c0da3d8ebb634d796}
+      \strng{fullhash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{fullhashraw}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{bibnamehash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{authorbibnamehash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{authornamehash}{9982c4a6ab080e3c0da3d8ebb634d796}
+      \strng{authorfullhash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{authorfullhashraw}{9d91b6c48364fcc1baca306312c8ac35}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Design recommendations for intelligent tutoring system}
+      \field{title}{Issues and concerns for technology-based performance assessments}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{209\bibrangedash 224}
+      \range{pages}{16}
+    \endentry
     \entry{kiyokawa_2002}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=76d8c7e819ac0db066a96039797bf8ab}{%
@@ -1211,6 +1640,115 @@
       \verb https://ieeexplore.ieee.org/abstract/document/1115083
       \endverb
       \keyw{Augmented reality,Collaboration,Collaborative work,Displays,Space technology,Speech,Time measurement,Video sharing,Videoconference,Visual communication}
+    \endentry
+    \entry{laal_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1572bb39ac4b81d3239ae2b3993e9c2}{%
+           family={Laal},
+           familyi={L\bibinitperiod},
+           given={Marjan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9562536d0d37258ab4133ad89c29160}{%
+           family={Ghodsi},
+           familyi={G\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{bibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorbibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authornamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia - Social and Behavioral Sciences}
+      \field{title}{Benefits of collaborative learning}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{486\bibrangedash 490}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.sbspro.2011.12.091
+      \endverb
+    \endentry
+    \entry{liu_2022}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=f366ed4d779dfffcffc0a514cf788132}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed2311df87b535bb93a3584a18143bcb}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yanan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b86dcb607648e9db58e75fb84a03dee}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Tianshuai},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82f3b20cc00fd0421acd73c171fd79c6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhihua},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52414ee4039b3fe3f9879e832d7e6dfe}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Yakun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddc1e4faf59edc7d7675723be4296244}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cded4ef713b2eacf1d4dcbd029779db}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xiaohua},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3d3c93fc5d3ec39176297da42b40d1b}
+      \strng{fullhash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{fullhashraw}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{bibnamehash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{authorbibnamehash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{authornamehash}{a3d3c93fc5d3ec39176297da42b40d1b}
+      \strng{authorfullhash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{authorfullhashraw}{ada6371c4631bcb526f09a91f26c3857}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychology Research and Behavior Management}
+      \field{title}{The mediating roles of time management and learning strategic approach in the relationship between smartphone addiction and academic procrastination}
+      \field{year}{2022}
+      \field{pages}{2639\bibrangedash 2648}
+      \range{pages}{10}
     \endentry
     \entry{long_2005}{article}{}{}
       \name{author}{2}{}{%
@@ -1288,6 +1826,69 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{margaryan_2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8dcf51411c73c50f0d26e8a682e40d0a}{%
+           family={Margaryan},
+           familyi={M\bibinitperiod},
+           given={Anoush},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a7d516d4feceda5fbf1a58252718719}{%
+           family={Littlejohn},
+           familyi={L\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=625935d6155b3cc6f32572773e27eeb1}{%
+           family={Vojt},
+           familyi={V\bibinitperiod},
+           given={Gabrielle},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{425f4094d89f6dbe4edb2450a9b451d9}
+      \strng{fullhash}{61d9af870c18c7099ca93409efb69831}
+      \strng{fullhashraw}{61d9af870c18c7099ca93409efb69831}
+      \strng{bibnamehash}{61d9af870c18c7099ca93409efb69831}
+      \strng{authorbibnamehash}{61d9af870c18c7099ca93409efb69831}
+      \strng{authornamehash}{425f4094d89f6dbe4edb2450a9b451d9}
+      \strng{authorfullhash}{61d9af870c18c7099ca93409efb69831}
+      \strng{authorfullhashraw}{61d9af870c18c7099ca93409efb69831}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shorttitle}{Are digital natives a myth or reality?}
+      \field{title}{Are digital natives a myth or reality? {University} students’ use of digital technologies}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{56}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{429\bibrangedash 440}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2010.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131510002563
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131510002563
       \endverb
     \endentry
     \entry{mcinnerney_2004}{article}{}{}
@@ -1396,6 +1997,51 @@
       \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
       \endverb
     \endentry
+    \entry{murray_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=62e6b3cfeed75d17ca828113f4ead2e4}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Meg},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c5aa60834adbd850f8a73b26f00e02f}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{fullhash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{fullhashraw}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{bibnamehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authorbibnamehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authornamehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authorfullhash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authorfullhashraw}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Issues in Informing Science and Information Technology}
+      \field{month}{7}
+      \field{shorttitle}{Unraveling the digital literacy paradox}
+      \field{title}{Unraveling the digital literacy paradox: {How} higher education fails at the fourth literacy.}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{85\bibrangedash 100}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://digitalcommons.kennesaw.edu/facpubs/3438
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.kennesaw.edu/facpubs/3438
+      \endverb
+    \endentry
     \entry{norgard_2022}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9ea14cf072d41d96df75d24aa999df26}{%
@@ -1475,6 +2121,48 @@
       \field{isbn}{9781003167594}
       \field{title}{Reflections on the adaptation to the {COVID}-19 pandemic in higher education}
       \field{year}{2021}
+    \endentry
+    \entry{odunaike_2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=772193cda8696e5b89ca084896b619bc}{%
+           family={Odunaike},
+           familyi={O\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c63d7886df65afacd340686dfcbdf21}{%
+           family={Olugbara},
+           familyi={O\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fb4eab3dfc64f09a06e750bb22e440c}{%
+           family={Ojo},
+           familyi={O\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fec6710604bf894bc96504557bb78a4}
+      \strng{fullhash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{fullhashraw}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{bibnamehash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{authorbibnamehash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{authornamehash}{7fec6710604bf894bc96504557bb78a4}
+      \strng{authorfullhash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{authorfullhashraw}{c8af3745f95da1139c8b8b186c1d2256}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{innovation}
+      \field{number}{4}
+      \field{title}{E-learning implementation critical success factors}
+      \field{volume}{3}
+      \field{year}{2013}
     \endentry
     \entry{ozgen_2021}{article}{}{}
       \name{author}{3}{}{%
@@ -1596,6 +2284,57 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+    \endentry
+    \entry{passey_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af5d1c1f952b3d878d0984806a855a59}{%
+           family={Passey},
+           familyi={P\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{bibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorbibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authornamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Technology‐enhanced learning}
+      \field{title}{Technology‐enhanced learning: {Rethinking} the term, the concept and its theoretical background}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{972\bibrangedash 986}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/bjet.12783
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
       \endverb
     \endentry
     \entry{penn_2023}{article}{}{}
@@ -2027,6 +2766,56 @@
       \field{title}{Augmented reality : principles and practice /}
       \field{year}{2016}
     \endentry
+    \entry{selwyn_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53f4fd60300743492f845c19a2397d9c}{%
+           family={Selwyn},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{fullhash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{fullhashraw}{53f4fd60300743492f845c19a2397d9c}
+      \strng{bibnamehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authorbibnamehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authornamehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authorfullhash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authorfullhashraw}{53f4fd60300743492f845c19a2397d9c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-253X}
+      \field{journaltitle}{Aslib Proceedings}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{The digital native – myth and reality}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{364\bibrangedash 379}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1108/00012530910973776
+      \endverb
+      \verb{urlraw}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/00012530910973776/full/html
+      \endverb
+      \verb{url}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/00012530910973776/full/html
+      \endverb
+    \endentry
     \entry{shank_2005}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=855d47cf0d013ff5617a8f1a1480753b}{%
@@ -2107,6 +2896,59 @@
       \field{year}{1992}
       \field{pages}{46\bibrangedash 56}
       \range{pages}{11}
+    \endentry
+    \entry{sutipitakwong_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cd4c618f5d638379e03a39fd81a09c09}{%
+           family={Sutipitakwong},
+           familyi={S\bibinitperiod},
+           given={Sutipong},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb07ec9414d18d82f0a80ce9b20ea745}{%
+           family={Jamsri},
+           familyi={J\bibinitperiod},
+           given={Pornsuree},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{fullhash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{fullhashraw}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{bibnamehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authorbibnamehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authornamehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authorfullhash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authorfullhashraw}{c5a2abd4a407696daa51183d1a5240d7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This innovative practice is a work in progress that analyzes how a tangible wireframe can be more effective for team communication than a digital wireframe at specific development stages through design activities and processes. It has been found that tangible wireframes are easy to work with and can provide a clearer view of a product's design. To validate this finding, the research focused on the effectiveness of communication through three main aspects of the wireframe: Design, Features, and Layout. These aspects indicate functionality and aesthetic of the website design. The additional outcome implies pros and cons of both tangible and digital wireframes. Research information has been analyzed from data collection of classes activity recorded at an IT faculty. The results showed team communication through wireframe creation depends upon the user experience of team members, understanding of goals, and ability to select tools for digital or tangible wireframe suitable for the design stage. Therefore, this research can guide an instructor of web development by choosing the right tools and techniques appropriate for learners-those without and with experience. It is counted as contributions to the computing educational field.}
+      \field{journaltitle}{2020 {IEEE} {Frontiers} in {Education} {Conference} ({FIE})}
+      \field{month}{10}
+      \field{note}{ISSN: 2377-634X}
+      \field{title}{Pros and {Cons} of {Tangible} and {Digital} {Wireframes}}
+      \field{urlday}{15}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/FIE44824.2020.9274234
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9274234?casa_token=zwIs157qWz4AAAAA:7D41o-gwQuCm9QnBKuqhZk6dfH4cwY_rQ5oPnT-sRe8xRs4-Mvq4PLIF3wKBgg27wyG-vmltxjzI
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9274234?casa_token=zwIs157qWz4AAAAA:7D41o-gwQuCm9QnBKuqhZk6dfH4cwY_rQ5oPnT-sRe8xRs4-Mvq4PLIF3wKBgg27wyG-vmltxjzI
+      \endverb
+      \keyw{Digital wireframe,Education,Layout,Planning,Prototypes,Software,Tangible wireframe,Task analysis,Tools,Wireframe,website design}
     \endentry
     \entry{thai_2020}{article}{}{}
       \name{author}{3}{}{%
@@ -2303,6 +3145,42 @@
       \verb https://doi.org/10.1108/TQM-09-2024-0335
       \endverb
       \keyw{Education 4.0,Higher education,Remote education,Social interactions in remote education,Student attitudes towards remote study}
+    \endentry
+    \entry{watters_2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43ab07d40c01d0bebf39b92295b9b488}{%
+           family={Watters},
+           familyi={W\bibinitperiod},
+           given={Audrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{fullhash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{fullhashraw}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{bibnamehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authorbibnamehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authornamehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authorfullhash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authorfullhashraw}{43ab07d40c01d0bebf39b92295b9b488}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"Teaching Machines traces the development of education technology from roughly the 1920s through the end of the 1990s, shaping our ideas of standardization and individualism"--}
+      \field{isbn}{9780262045698 9780262546065}
+      \field{title}{Teaching machines}
+      \field{year}{2021}
+      \keyw{20th century,Burrhus Frederic,Educational technology,History,Programmed instruction,Skinner,B. F,Web-based instruction}
     \endentry
     \entry{weiser_1991}{article}{}{}
       \name{author}{1}{}{%
@@ -2708,6 +3586,106 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1321673
       \endverb
     \endentry
+    \entry{burton_2015}{inbook}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1b23a895cbdb8478c175f3489b28b334}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Lorelle\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cd40403cb7440238f3d1ecc73cc2bab}{%
+           family={Summers},
+           familyi={S\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=250abca23e42a68d6c170ae7e2d2a798}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb95393c33ac076d64045d0beb1b337c}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=772b39354682504e2e69f5d9d7cf7bf1}{%
+           family={Gibbings},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=5c2db6a75acaafded5913481c89ca9b4}{%
+           family={Harmes},
+           familyi={H\bibinitperiod},
+           given={Marcus\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=59f44549dea328a9c24d0b9d6753a9df}{%
+           family={Huijser},
+           familyi={H\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8e580d9056af20aedeb4e01862da214b}{%
+           family={Danaher},
+           familyi={D\bibinitperiod},
+           given={Patrick\bibnamedelima Alan},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan UK}%
+      }
+      \strng{namehash}{541e6a64441b5789ac149ae354a47062}
+      \strng{fullhash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{fullhashraw}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{bibnamehash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{authorbibnamehash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{authornamehash}{541e6a64441b5789ac149ae354a47062}
+      \strng{authorfullhash}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{authorfullhashraw}{cdc92688b4c0849454886fa0699c8c44}
+      \strng{editorbibnamehash}{8c5e9dfa9297262799c1eab7e44782cb}
+      \strng{editornamehash}{a3ae52765c8e9df3c024b45612029366}
+      \strng{editorfullhash}{8c5e9dfa9297262799c1eab7e44782cb}
+      \strng{editorfullhashraw}{8c5e9dfa9297262799c1eab7e44782cb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Two interrelated myths arise from the way practitioners in higher education respond to an increased emphasis on technological delivery. One myth stems from the view that tertiary education students are digital natives who have universal and uniform digital experiences. This myth presumes that the technological experiences of these students are homogeneous and linked to a sophisticated knowledge and understanding of information and communication technologies (ICTs). The second myth emanates from the idea that the Internet is a panacea for the issues of increasing costs of higher education and increasing demand by students for authentic and interactive learning opportunities. The assumption here is that technology underpinning online learning is quick, easy to use, can be accessed by everyone, and is appropriate for all learning activities.}
+      \field{booktitle}{Myths in {Education}, {Learning} and {Teaching}: {Policies}, {Practices} and {Principles}}
+      \field{isbn}{9781137476982}
+      \field{shorttitle}{Digital {Literacy} in {Higher} {Education}}
+      \field{title}{Digital {Literacy} in {Higher} {Education}: {The} {Rhetoric} and the {Reality}}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 172}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1057/9781137476982_9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1057/9781137476982_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1057/9781137476982_9
+      \endverb
+    \endentry
     \entry{checa_2020}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6908c58dfc05f64863739e8265b79956}{%
@@ -2752,6 +3730,142 @@
       \range{pages}{11}
       \verb{doi}
       \verb 10.1007/s10055-019-00389-7
+      \endverb
+    \endentry
+    \entry{cochrane_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85c5bfc0412f3e1e47f74d23cb9cfef5}{%
+           family={Cochrane},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{fullhash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{fullhashraw}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{bibnamehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authorbibnamehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authornamehash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authorfullhash}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \strng{authorfullhashraw}{85c5bfc0412f3e1e47f74d23cb9cfef5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Having implemented and evaluated over 35 mlearning projects in a variety of contexts in higher education over the past 6 years the researcher is ready to share the untold secret: not all mlearning projects succeed! This article critiques three of the researcher’s mlearning projects that can be classed as ‘‘failures’’ and compares them to successful projects to draw out critical implications for mlearning project design and implementation to avoid common pitfalls leading to potential project failure. This article uses the researcher’s six critical success factors identified across the 35 mlearning projects to evaluate these three projects, and concludes that projects resulting in ‘‘no significant difference’’ in pedagogical outcomes are the result of attempts to shoehorn old pedagogies into new technologies. Lecturer professional development and sustained collaborative support are critical to fostering new pedagogies utilising the unique affordances of mobile devices.Keywords: mlearning; pedagogy; heutagogy(Published: 30 August 2012)http://dx.doi.org/10.3402/rlt.v20i0.19186}
+      \field{issn}{2156-7077}
+      \field{journaltitle}{Research in Learning Technology}
+      \field{month}{8}
+      \field{shorttitle}{Secrets of mlearning failures}
+      \field{title}{Secrets of mlearning failures: confronting reality}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{20}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3402/rlt.v20i0.19186
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.alt.ac.uk/index.php/rlt/article/view/1354
+      \endverb
+      \verb{url}
+      \verb https://journal.alt.ac.uk/index.php/rlt/article/view/1354
+      \endverb
+      \keyw{confrontingReality,heutagogy,mlearning,noSignificantDifference,pedagogy}
+    \endentry
+    \entry{coleman_2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b4c7f92e6492941f3dcc433ba1ebdf80}{%
+           family={Coleman},
+           familyi={C\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87e81df11bbd4962d48e59536947011c}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SitePoint Pty Ltd}%
+      }
+      \strng{namehash}{a348af62110fc373f0a07ec770099901}
+      \strng{fullhash}{a348af62110fc373f0a07ec770099901}
+      \strng{fullhashraw}{a348af62110fc373f0a07ec770099901}
+      \strng{bibnamehash}{a348af62110fc373f0a07ec770099901}
+      \strng{authorbibnamehash}{a348af62110fc373f0a07ec770099901}
+      \strng{authornamehash}{a348af62110fc373f0a07ec770099901}
+      \strng{authorfullhash}{a348af62110fc373f0a07ec770099901}
+      \strng{authorfullhashraw}{a348af62110fc373f0a07ec770099901}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing {UX}: {Prototyping}: {Because} {Modern} {Design} is {Never} {Static}}
+      \field{year}{2017}
+    \endentry
+    \entry{dalziel_1998}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5eda3a2242ea875b8dcfe3e63741905}{%
+           family={Dalziel},
+           familyi={D\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{fullhash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{fullhashraw}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{bibnamehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authorbibnamehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authornamehash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authorfullhash}{a5eda3a2242ea875b8dcfe3e63741905}
+      \strng{authorfullhashraw}{a5eda3a2242ea875b8dcfe3e63741905}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0260-2938, 1469-297X}
+      \field{journaltitle}{Assessment \& Evaluation in Higher Education}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Using {Marks} to {Assess} {Student} {Performance}, some problems and alternatives}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{23}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{351\bibrangedash 366}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/0260293980230403
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0260293980230403
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0260293980230403
       \endverb
     \endentry
     \entry{de-felice_2023}{article}{}{}
@@ -3368,6 +4482,64 @@
       \field{pages}{73\bibrangedash 86}
       \range{pages}{14}
     \endentry
+    \entry{gui_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fef7c7552e72d30d2b869e87da2aa6f8}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd610962d192b5aca3c4c2cd0b0743c4}{%
+           family={Büchi},
+           familyi={B\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{fullhash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{fullhashraw}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{bibnamehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authorbibnamehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authornamehash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authorfullhash}{1c283aacf3ffaa90c4d3fea0051af827}
+      \strng{authorfullhashraw}{1c283aacf3ffaa90c4d3fea0051af827}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Public discourse about overuse as an undesired side effect of digital communication is growing. This article conceptually develops and empirically analyzes users’ perceived digital overuse (PDO) as a widespread social phenomenon sensitive to existing inequalities. In an age of digital communication abundance and closing Internet access divides, overuse has not been systematically investigated nor are its social disparities known. In a first step, PDO is demarcated from Internet addiction, theoretically defined, and operationalized. Then, the prevalence of perceived overuse is assessed in a representative population sample of Italian Internet users ( N = 2,008) and predictors of digital overuse are tested. Results show that digital communication use and the level of social pressure to function digitally are positively related to PDO. Education is negatively associated with PDO and positively with digital communication use and social digital pressure. Overuse is emerging as a new dimension of digital inequality with implications for theory and future research in digital well-being.}
+      \field{issn}{0894-4393, 1552-8286}
+      \field{journaltitle}{Social Science Computer Review}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shorttitle}{From {Use} to {Overuse}}
+      \field{title}{From {Use} to {Overuse}: {Digital} {Inequality} in the {Age} of {Communication} {Abundance}}
+      \field{urlday}{14}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{39}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 19}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1177/0894439319851163
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
+      \endverb
+    \endentry
     \entry{hamad_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fac6cfe753e70a84a320f3a9fa9ac77}{%
@@ -3470,6 +4642,141 @@
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
     \endentry
+    \entry{jeffrey_2011}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d7e40e5320435bed8ec6613c311cccd0}{%
+           family={Jeffrey},
+           familyi={J\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21ff6c1038eaa794c11aa98d164a23a5}{%
+           family={Hegarty},
+           familyi={H\bibinitperiod},
+           given={Bronwyn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e88ef7014ed40da633fc058c5c6d068f}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Oriel},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=accd63356b384ce494867bcec45d18b6}{%
+           family={Penman},
+           familyi={P\bibinitperiod},
+           given={Merrolee},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10dcdc783e10de8d7e0c15b3d7d4e0d5}{%
+           family={Coburn},
+           familyi={C\bibinitperiod},
+           given={Dawn},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23bc63281c507f640d3628f03fd973c5}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ff602c4b02b0f38a17fa5ba23418f94}
+      \strng{fullhash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{fullhashraw}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{bibnamehash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{authorbibnamehash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{authornamehash}{8ff602c4b02b0f38a17fa5ba23418f94}
+      \strng{authorfullhash}{576919513f6ea2b66f3ec6b1051c10d6}
+      \strng{authorfullhashraw}{576919513f6ea2b66f3ec6b1051c10d6}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The development of digital information literacy (DIL) has been slow in comparison to changes in information communication technologies, and this remains an issue for the higher education sector. Competency in such skills is essential to full participation in society and work. In addition, these skills are regarded as underpinning the ability to maintain life long learning. Evidence suggests that simple exposure to technology is not sufficient to promote adequate levels of literacy. Why has DIL development been so slow? How can we speed the process up? The purpose of this study was to identify obstacles and supports to fostering the development of DIL to staff and students in higher education. The literature identified a range of obstacles that hindered students’ ability to develop their technology related skills. The issue of access and the digital divide that has been of interest to those concerned with social equity continues to generate lively discussion...}
+      \field{issn}{1539-3585}
+      \field{journaltitle}{Journal of Information Technology Education: Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Developing {Digital} {Information} {Literacy} in {Higher} {Education}: {Obstacles} and {Supports}}
+      \field{volume}{10}
+      \field{year}{2011}
+      \field{pages}{383\bibrangedash 413}
+      \range{pages}{31}
+      \verb{urlraw}
+      \verb https://www.learntechlib.org/p/111528
+      \endverb
+      \verb{url}
+      \verb https://www.learntechlib.org/p/111528
+      \endverb
+    \endentry
+    \entry{katz_2017}{inbook}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=c3e97c7783e61cf9583d09f03019528e}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Irvin\bibnamedelima R},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9877ecd016f1903110e783b61204b162}{%
+           family={LaMar},
+           familyi={L\bibinitperiod},
+           given={Michelle\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ccbd832819ac76c7bc939f845273705}{%
+           family={Spain},
+           familyi={S\bibinitperiod},
+           given={Randall},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd850f8aa4d7de89ef103e64bcaa4cd3}{%
+           family={Zapata-Rivera},
+           familyi={Z\bibinithyphendelim R\bibinitperiod},
+           given={Juan\bibnamedelima Diego},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8faf16ad626d8b218a588b7f4ed70c01}{%
+           family={Baird},
+           familyi={B\bibinitperiod},
+           given={Jo-Anne},
+           giveni={J\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=327e98238599c6fb904007434df4c713}{%
+           family={Greiff},
+           familyi={G\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chapter 18}%
+      }
+      \strng{namehash}{9982c4a6ab080e3c0da3d8ebb634d796}
+      \strng{fullhash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{fullhashraw}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{bibnamehash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{authorbibnamehash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{authornamehash}{9982c4a6ab080e3c0da3d8ebb634d796}
+      \strng{authorfullhash}{9d91b6c48364fcc1baca306312c8ac35}
+      \strng{authorfullhashraw}{9d91b6c48364fcc1baca306312c8ac35}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Design recommendations for intelligent tutoring system}
+      \field{title}{Issues and concerns for technology-based performance assessments}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{209\bibrangedash 224}
+      \range{pages}{16}
+    \endentry
     \entry{kiyokawa_2002}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=76d8c7e819ac0db066a96039797bf8ab}{%
@@ -3545,6 +4852,115 @@
       \verb https://ieeexplore.ieee.org/abstract/document/1115083
       \endverb
       \keyw{Augmented reality,Collaboration,Collaborative work,Displays,Space technology,Speech,Time measurement,Video sharing,Videoconference,Visual communication}
+    \endentry
+    \entry{laal_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e1572bb39ac4b81d3239ae2b3993e9c2}{%
+           family={Laal},
+           familyi={L\bibinitperiod},
+           given={Marjan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9562536d0d37258ab4133ad89c29160}{%
+           family={Ghodsi},
+           familyi={G\bibinitperiod},
+           given={Seyed\bibnamedelima Mohammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{fullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{bibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorbibnamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authornamehash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhash}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \strng{authorfullhashraw}{f3e13bfa6ce7c7ff317b5766a5045a1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia - Social and Behavioral Sciences}
+      \field{title}{Benefits of collaborative learning}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{486\bibrangedash 490}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.sbspro.2011.12.091
+      \endverb
+    \endentry
+    \entry{liu_2022}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=f366ed4d779dfffcffc0a514cf788132}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed2311df87b535bb93a3584a18143bcb}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yanan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b86dcb607648e9db58e75fb84a03dee}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Tianshuai},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82f3b20cc00fd0421acd73c171fd79c6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhihua},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52414ee4039b3fe3f9879e832d7e6dfe}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Yakun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddc1e4faf59edc7d7675723be4296244}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cded4ef713b2eacf1d4dcbd029779db}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xiaohua},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3d3c93fc5d3ec39176297da42b40d1b}
+      \strng{fullhash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{fullhashraw}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{bibnamehash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{authorbibnamehash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{authornamehash}{a3d3c93fc5d3ec39176297da42b40d1b}
+      \strng{authorfullhash}{ada6371c4631bcb526f09a91f26c3857}
+      \strng{authorfullhashraw}{ada6371c4631bcb526f09a91f26c3857}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychology Research and Behavior Management}
+      \field{title}{The mediating roles of time management and learning strategic approach in the relationship between smartphone addiction and academic procrastination}
+      \field{year}{2022}
+      \field{pages}{2639\bibrangedash 2648}
+      \range{pages}{10}
     \endentry
     \entry{long_2005}{article}{}{}
       \name{author}{2}{}{%
@@ -3622,6 +5038,69 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{margaryan_2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8dcf51411c73c50f0d26e8a682e40d0a}{%
+           family={Margaryan},
+           familyi={M\bibinitperiod},
+           given={Anoush},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a7d516d4feceda5fbf1a58252718719}{%
+           family={Littlejohn},
+           familyi={L\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=625935d6155b3cc6f32572773e27eeb1}{%
+           family={Vojt},
+           familyi={V\bibinitperiod},
+           given={Gabrielle},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{425f4094d89f6dbe4edb2450a9b451d9}
+      \strng{fullhash}{61d9af870c18c7099ca93409efb69831}
+      \strng{fullhashraw}{61d9af870c18c7099ca93409efb69831}
+      \strng{bibnamehash}{61d9af870c18c7099ca93409efb69831}
+      \strng{authorbibnamehash}{61d9af870c18c7099ca93409efb69831}
+      \strng{authornamehash}{425f4094d89f6dbe4edb2450a9b451d9}
+      \strng{authorfullhash}{61d9af870c18c7099ca93409efb69831}
+      \strng{authorfullhashraw}{61d9af870c18c7099ca93409efb69831}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shorttitle}{Are digital natives a myth or reality?}
+      \field{title}{Are digital natives a myth or reality? {University} students’ use of digital technologies}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{56}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{429\bibrangedash 440}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2010.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131510002563
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131510002563
       \endverb
     \endentry
     \entry{mcinnerney_2004}{article}{}{}
@@ -3730,6 +5209,51 @@
       \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
       \endverb
     \endentry
+    \entry{murray_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=62e6b3cfeed75d17ca828113f4ead2e4}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Meg},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c5aa60834adbd850f8a73b26f00e02f}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{fullhash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{fullhashraw}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{bibnamehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authorbibnamehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authornamehash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authorfullhash}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \strng{authorfullhashraw}{37bf1015b3e0011c5a4fa732b2fcc93d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Issues in Informing Science and Information Technology}
+      \field{month}{7}
+      \field{shorttitle}{Unraveling the digital literacy paradox}
+      \field{title}{Unraveling the digital literacy paradox: {How} higher education fails at the fourth literacy.}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{85\bibrangedash 100}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://digitalcommons.kennesaw.edu/facpubs/3438
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.kennesaw.edu/facpubs/3438
+      \endverb
+    \endentry
     \entry{norgard_2022}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9ea14cf072d41d96df75d24aa999df26}{%
@@ -3809,6 +5333,48 @@
       \field{isbn}{9781003167594}
       \field{title}{Reflections on the adaptation to the {COVID}-19 pandemic in higher education}
       \field{year}{2021}
+    \endentry
+    \entry{odunaike_2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=772193cda8696e5b89ca084896b619bc}{%
+           family={Odunaike},
+           familyi={O\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c63d7886df65afacd340686dfcbdf21}{%
+           family={Olugbara},
+           familyi={O\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fb4eab3dfc64f09a06e750bb22e440c}{%
+           family={Ojo},
+           familyi={O\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fec6710604bf894bc96504557bb78a4}
+      \strng{fullhash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{fullhashraw}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{bibnamehash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{authorbibnamehash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{authornamehash}{7fec6710604bf894bc96504557bb78a4}
+      \strng{authorfullhash}{c8af3745f95da1139c8b8b186c1d2256}
+      \strng{authorfullhashraw}{c8af3745f95da1139c8b8b186c1d2256}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{innovation}
+      \field{number}{4}
+      \field{title}{E-learning implementation critical success factors}
+      \field{volume}{3}
+      \field{year}{2013}
     \endentry
     \entry{ozgen_2021}{article}{}{}
       \name{author}{3}{}{%
@@ -3930,6 +5496,57 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
+      \endverb
+    \endentry
+    \entry{passey_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af5d1c1f952b3d878d0984806a855a59}{%
+           family={Passey},
+           familyi={P\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{fullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{bibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorbibnamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authornamehash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhash}{af5d1c1f952b3d878d0984806a855a59}
+      \strng{authorfullhashraw}{af5d1c1f952b3d878d0984806a855a59}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Technology‐enhanced learning}
+      \field{title}{Technology‐enhanced learning: {Rethinking} the term, the concept and its theoretical background}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{50}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{972\bibrangedash 986}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1111/bjet.12783
+      \endverb
+      \verb{urlraw}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
+      \endverb
+      \verb{url}
+      \verb https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12783
       \endverb
     \endentry
     \entry{penn_2023}{article}{}{}
@@ -4361,6 +5978,56 @@
       \field{title}{Augmented reality : principles and practice /}
       \field{year}{2016}
     \endentry
+    \entry{selwyn_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53f4fd60300743492f845c19a2397d9c}{%
+           family={Selwyn},
+           familyi={S\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{fullhash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{fullhashraw}{53f4fd60300743492f845c19a2397d9c}
+      \strng{bibnamehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authorbibnamehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authornamehash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authorfullhash}{53f4fd60300743492f845c19a2397d9c}
+      \strng{authorfullhashraw}{53f4fd60300743492f845c19a2397d9c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-253X}
+      \field{journaltitle}{Aslib Proceedings}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{The digital native – myth and reality}
+      \field{urlday}{23}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{364\bibrangedash 379}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1108/00012530910973776
+      \endverb
+      \verb{urlraw}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/00012530910973776/full/html
+      \endverb
+      \verb{url}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/00012530910973776/full/html
+      \endverb
+    \endentry
     \entry{shank_2005}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=855d47cf0d013ff5617a8f1a1480753b}{%
@@ -4441,6 +6108,59 @@
       \field{year}{1992}
       \field{pages}{46\bibrangedash 56}
       \range{pages}{11}
+    \endentry
+    \entry{sutipitakwong_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cd4c618f5d638379e03a39fd81a09c09}{%
+           family={Sutipitakwong},
+           familyi={S\bibinitperiod},
+           given={Sutipong},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb07ec9414d18d82f0a80ce9b20ea745}{%
+           family={Jamsri},
+           familyi={J\bibinitperiod},
+           given={Pornsuree},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{fullhash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{fullhashraw}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{bibnamehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authorbibnamehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authornamehash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authorfullhash}{c5a2abd4a407696daa51183d1a5240d7}
+      \strng{authorfullhashraw}{c5a2abd4a407696daa51183d1a5240d7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This innovative practice is a work in progress that analyzes how a tangible wireframe can be more effective for team communication than a digital wireframe at specific development stages through design activities and processes. It has been found that tangible wireframes are easy to work with and can provide a clearer view of a product's design. To validate this finding, the research focused on the effectiveness of communication through three main aspects of the wireframe: Design, Features, and Layout. These aspects indicate functionality and aesthetic of the website design. The additional outcome implies pros and cons of both tangible and digital wireframes. Research information has been analyzed from data collection of classes activity recorded at an IT faculty. The results showed team communication through wireframe creation depends upon the user experience of team members, understanding of goals, and ability to select tools for digital or tangible wireframe suitable for the design stage. Therefore, this research can guide an instructor of web development by choosing the right tools and techniques appropriate for learners-those without and with experience. It is counted as contributions to the computing educational field.}
+      \field{journaltitle}{2020 {IEEE} {Frontiers} in {Education} {Conference} ({FIE})}
+      \field{month}{10}
+      \field{note}{ISSN: 2377-634X}
+      \field{title}{Pros and {Cons} of {Tangible} and {Digital} {Wireframes}}
+      \field{urlday}{15}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/FIE44824.2020.9274234
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9274234?casa_token=zwIs157qWz4AAAAA:7D41o-gwQuCm9QnBKuqhZk6dfH4cwY_rQ5oPnT-sRe8xRs4-Mvq4PLIF3wKBgg27wyG-vmltxjzI
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9274234?casa_token=zwIs157qWz4AAAAA:7D41o-gwQuCm9QnBKuqhZk6dfH4cwY_rQ5oPnT-sRe8xRs4-Mvq4PLIF3wKBgg27wyG-vmltxjzI
+      \endverb
+      \keyw{Digital wireframe,Education,Layout,Planning,Prototypes,Software,Tangible wireframe,Task analysis,Tools,Wireframe,website design}
     \endentry
     \entry{thai_2020}{article}{}{}
       \name{author}{3}{}{%
@@ -4637,6 +6357,42 @@
       \verb https://doi.org/10.1108/TQM-09-2024-0335
       \endverb
       \keyw{Education 4.0,Higher education,Remote education,Social interactions in remote education,Student attitudes towards remote study}
+    \endentry
+    \entry{watters_2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43ab07d40c01d0bebf39b92295b9b488}{%
+           family={Watters},
+           familyi={W\bibinitperiod},
+           given={Audrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{fullhash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{fullhashraw}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{bibnamehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authorbibnamehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authornamehash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authorfullhash}{43ab07d40c01d0bebf39b92295b9b488}
+      \strng{authorfullhashraw}{43ab07d40c01d0bebf39b92295b9b488}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"Teaching Machines traces the development of education technology from roughly the 1920s through the end of the 1990s, shaping our ideas of standardization and individualism"--}
+      \field{isbn}{9780262045698 9780262546065}
+      \field{title}{Teaching machines}
+      \field{year}{2021}
+      \keyw{20th century,Burrhus Frederic,Educational technology,History,Programmed instruction,Skinner,B. F,Web-based instruction}
     \endentry
     \entry{weiser_1991}{article}{}{}
       \name{author}{1}{}{%

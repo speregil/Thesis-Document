@@ -1,16 +1,17 @@
-\contentsline {frontmatter}{List of Figures}{6}{listoffigures}%
-\contentsline {frontmatter}{List of Tables}{7}{listoftables}%
-\contentsline {chapter}{List of Acronyms}{8}{section*.8}%
-\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Context}{12}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Research Structure}{15}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Research Questions}{16}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Scope and Limitations}{18}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Significance and Contributions}{19}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Document Structure}{22}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Literature Review}{23}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Collaborative Learning}{24}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Collaboration as a Transversal Skill}{24}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Communities of Practice}{27}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Communities of Practice and Education}{29}{subsection.2.1.3}%
-\contentsline {chapter}{References}{33}{appendix*.19}%
+\contentsline {frontmatter}{List of Figures}{5}{listoffigures}%
+\contentsline {frontmatter}{List of Tables}{6}{listoftables}%
+\contentsline {chapter}{List of Acronyms}{7}{section*.7}%
+\contentsline {chapter}{\numberline {1}Introduction }{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Context }{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Structure }{14}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Research Questions }{15}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Scope and Limitations }{17}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Significance and Contributions }{18}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Document Structure }{21}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Literature Review }{22}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Collaborative Learning }{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Collaboration as a Transversal Skill }{23}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Communities of Practice }{26}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Communities of Practice and Education }{28}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Learning Teamwork and Collaboration }{31}{subsection.2.1.4}%
+\contentsline {chapter}{References}{35}{appendix*.18}%

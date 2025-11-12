@@ -3207,6 +3207,41 @@
     <bcf:citekey order="109" intorder="1">swan_2002</bcf:citekey>
     <bcf:citekey order="109" intorder="2">archambault_2022</bcf:citekey>
     <bcf:citekey order="110" intorder="1">wenger_1998</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">bion_2003</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">bion_2003</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">bales_1970</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">bales_1970</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">knowles_1982</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">knowles_1982</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">wagner_2010</bcf:citekey>
+    <bcf:citekey order="117" intorder="2">dawson_2017</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">hibbert_2005</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">hibbert_2005</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">bergin_2016</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">tauer_2004</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">kowalski_2019</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">driscoll_2025</bcf:citekey>
+    <bcf:citekey order="123" intorder="2">kloepper_2023</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">salmons_2019</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">salmons_2019</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">addison_2020</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">zand_1972</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">frederiksen_2014</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">kramer_1996</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">vangen_2012</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">vangen_2012</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">shinya_2016</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">bichard_2005</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">keay_2006</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">keay_2006</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">lingard_2012</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">lingard_2012</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">marasi_2019</bcf:citekey>
+    <bcf:citekey order="139" intorder="1">marasi_2019</bcf:citekey>
+    <bcf:citekey order="140" intorder="1">davis_2013</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">davis_2013</bcf:citekey>
+    <bcf:citekey order="142" intorder="1">asrori_2020</bcf:citekey>
+    <bcf:citekey order="143" intorder="1">asrori_2020</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -86,6 +86,63 @@
       \verb https://ijlter.org/index.php/ijlter/article/view/10399
       \endverb
     \endentry
+    \entry{addison_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=995453b74c4468c34abfa53742f69191}{%
+           family={Addison},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceefa95cac362a7b2d73d765858f96ba}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Paulino},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{fullhash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{fullhashraw}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{bibnamehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authorbibnamehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authornamehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authorfullhash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authorfullhashraw}{5e353c5b3492d2cec9ea2904fe797b11}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Using European Company Survey data, this article explores the relationship between trust and establishment performance under works councils, on the one hand, and union bodies on the other. Trust is initially measured using the individual survey respondent's assessment of the ‘contribution’ of the other side. Although the rating of the employee representative is favoured over that of management as less subject to feedback from performance, the potential endogeneity of employee trust in management is also modelled. Next, a preferred inverse measure of trust (or dissonance) is constructed from the discrepancy between the assessments of the two sides of the quality of workplace industrial relations. Employee trust is associated throughout with improved establishment performance, and conversely for the dissonance counterpart. In their presence, neither type of workplace representation is superior to the other.}
+      \field{issn}{0007-1080, 1467-8543}
+      \field{journaltitle}{British Journal of Industrial Relations}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Trust and {Workplace} {Performance}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{58}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{874\bibrangedash 903}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1111/bjir.12517
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjir.12517
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjir.12517
+      \endverb
+    \endentry
     \entry{adi_2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=aff09e437e85924464db920938d0e32d}{%
@@ -393,6 +450,59 @@
       \verb https://www.emerald.com/insight/content/doi/10.1108/13673270310463626/full/html
       \endverb
     \endentry
+    \entry{asrori_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b11040b749cd4e039b486459d47af7aa}{%
+           family={Asrori},
+           familyi={A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f9171e8d1e8bdcaef7ca18aae6e50c5}{%
+           family={Tjalla},
+           familyi={T\bibinitperiod},
+           given={Awaluddin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{fullhash}{224c548014e95cbd7533de57973b98d9}
+      \strng{fullhashraw}{224c548014e95cbd7533de57973b98d9}
+      \strng{bibnamehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authorbibnamehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authornamehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authorfullhash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authorfullhashraw}{224c548014e95cbd7533de57973b98d9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2327-6126}
+      \field{journaltitle}{American Journal of Educational Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Increasing {Teamwork} {Capacity} of {High} {School} {Students} through {Collaborative} {Teamwork} {Learning}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{46\bibrangedash 50}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.12691/education-8-1-7
+      \endverb
+      \verb{urlraw}
+      \verb http://pubs.sciepub.com/education/8/1/7/index.html
+      \endverb
+      \verb{url}
+      \verb http://pubs.sciepub.com/education/8/1/7/index.html
+      \endverb
+    \endentry
     \entry{azuma_1997}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=65a33080a179a3a436c552a32d1f64f0}{%
@@ -493,6 +603,44 @@
       \endverb
       \keyw{COVID-19,Effectiveness,Learning,Online,Pandemic,Social distance,Social interaction}
     \endentry
+    \entry{bales_1970}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6d28f9a4a5553fe41477bf6d27ad549}{%
+           family={Bales},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima Freed},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{2}{%
+        {Holt, Rinehart}%
+        {Winston}%
+      }
+      \strng{namehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{fullhash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{fullhashraw}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{bibnamehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authorbibnamehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authornamehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authorfullhash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authorfullhashraw}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780030804502}
+      \field{title}{Personality and interpersonal behavior}
+      \field{year}{1970}
+    \endentry
     \entry{baloche_2017}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4304a636c409d621530317c57e6c26c0}{%
@@ -548,6 +696,143 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
+      \endverb
+    \endentry
+    \entry{bergin_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a65ed3e300c1382db670a80624750c5}{%
+           family={Bergin},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{fullhash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{fullhashraw}{5a65ed3e300c1382db670a80624750c5}
+      \strng{bibnamehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authorbibnamehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authornamehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authorfullhash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authorfullhashraw}{5a65ed3e300c1382db670a80624750c5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0046-1520, 1532-6985}
+      \field{journaltitle}{Educational Psychologist}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Social {Influences} on {Interest}}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{51}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 22}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/00461520.2015.1133306
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/00461520.2015.1133306
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/00461520.2015.1133306
+      \endverb
+    \endentry
+    \entry{bichard_2005}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70eb679c6d658ca593af8803ac7f575b}{%
+           family={Bichard},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Oxfor University Press}%
+      }
+      \strng{namehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{fullhash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{fullhashraw}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{bibnamehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authorbibnamehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authornamehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authorfullhash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authorfullhashraw}{70eb679c6d658ca593af8803ac7f575b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leadership and {Management} in the 21st {Century}: {Business} {Challanges} for the {Future}}
+      \field{edition}{1}
+      \field{isbn}{0–19–926336–1}
+      \field{title}{Managing for {Creativity}}
+      \field{year}{2005}
+      \field{pages}{299\bibrangedash 304}
+      \range{pages}{6}
+    \endentry
+    \entry{bion_2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e6ac7ee57e3c76e8dbd40883c3953e1}{%
+           family={Bion},
+           familyi={B\bibinitperiod},
+           given={W.R.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{fullhash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{fullhashraw}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{bibnamehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authorbibnamehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authornamehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authorfullhash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authorfullhashraw}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{0}
+      \field{isbn}{9781134954490}
+      \field{month}{9}
+      \field{title}{Experiences in {Groups}}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4324/9780203359075
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/9781134954490
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/9781134954490
       \endverb
     \endentry
     \entry{blackmore_2010}{book}{}{}
@@ -1322,6 +1607,95 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/0309877X.2020.1860204
       \endverb
     \endentry
+    \entry{davis_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f0d6d3947191cc98acfda75067332a12}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Denny},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=543f3bbb31d1a80647ff006bfdf2faf0}{%
+           family={Ulseth},
+           familyi={U\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Atlanta, Georgia}%
+      }
+      \list{publisher}{1}{%
+        {ASEE Conferences}%
+      }
+      \strng{namehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{fullhash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{fullhashraw}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{bibnamehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authorbibnamehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authornamehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authorfullhash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authorfullhashraw}{979b4ba7367cc7e7f878896f68a282d8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2013 {ASEE} {Annual} {Conference} \& {Exposition} {Proceedings}}
+      \field{month}{6}
+      \field{title}{Building {Student} {Capacity} for {High} {Performance} {Teamwork}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{23.260.1\bibrangedash 23.260.26}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.18260/1-2--19274
+      \endverb
+      \verb{urlraw}
+      \verb http://peer.asee.org/19274
+      \endverb
+      \verb{url}
+      \verb http://peer.asee.org/19274
+      \endverb
+    \endentry
+    \entry{dawson_2017}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f345046b6040f23141d8ac51e598b4b}{%
+           family={DAWSON},
+           familyi={D\bibinitperiod},
+           given={ROSS},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{fullhash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{fullhashraw}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{bibnamehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authorbibnamehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authornamehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authorfullhash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authorfullhashraw}{8f345046b6040f23141d8ac51e598b4b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IMPROVING} {COLLABORATION} {AND} {INNOVATION} {BETWEEN} {INDUSTRY} {AND} {BUSINESS} {SCHOOLS} {IN} {AUSTRALIA}}
+      \field{title}{The {Value} of {Collaboration}}
+      \field{year}{2017}
+      \field{pages}{29\bibrangedash 39}
+      \range{pages}{11}
+    \endentry
     \entry{de-felice_2023}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=01156364b4659d51d46c8ef1b1731628}{%
@@ -1391,6 +1765,46 @@
       \verb{url}
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
+    \endentry
+    \entry{driscoll_2025}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00c01991e18bc42d98d037988d25306d}{%
+           family={Driscoll},
+           familyi={D\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis Group}%
+      }
+      \strng{namehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{fullhash}{00c01991e18bc42d98d037988d25306d}
+      \strng{fullhashraw}{00c01991e18bc42d98d037988d25306d}
+      \strng{bibnamehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authorbibnamehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authornamehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authorfullhash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authorfullhashraw}{00c01991e18bc42d98d037988d25306d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"By giving students a greater voice in how their learning is facilitated, this book offers a fresh spin on classic college teaching methods. Seasoned faculty developers Driscoll and Shapiro cover seven common teaching approaches and how they can be leveraged to support the development of students as co-teachers. The easily digestible, practical strategies throughout each chapter pair powerfully with candid case studies. Readers are able to witness firsthand the uncertainties, disappointments, and successes of the post-pandemic classroom as faculty and students work together to overcome challenges and form deep connections. While an indispensable resource for those new to teaching, this book also serves as an innovative tool for experienced instructors and educational developers alike, imparting guidance that will result in more meaningful interactions, stronger relationships, and a genuine sense of community in the college classroom"--}
+      \field{edition}{1st ed}
+      \field{isbn}{9781040302514}
+      \field{shorttitle}{Transforming {Traditional} {Teaching} for {Today}'s {College} {Students}}
+      \field{title}{Transforming {Traditional} {Teaching} for {Today}'s {College} {Students}: {Strategies} for {Cultivating} {Relationships} and {Community}}
+      \field{year}{2025}
     \endentry
     \entry{drueke_2021}{article}{}{}
       \name{author}{5}{}{%
@@ -1706,6 +2120,57 @@
       \field{year}{2024}
       \verb{doi}
       \verb 10.1007/s42438-024-00488-y
+      \endverb
+    \endentry
+    \entry{frederiksen_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fea07d70cb70899167733ca06c710287}{%
+           family={Frederiksen},
+           familyi={F\bibinitperiod},
+           given={Morten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fea07d70cb70899167733ca06c710287}
+      \strng{fullhash}{fea07d70cb70899167733ca06c710287}
+      \strng{fullhashraw}{fea07d70cb70899167733ca06c710287}
+      \strng{bibnamehash}{fea07d70cb70899167733ca06c710287}
+      \strng{authorbibnamehash}{fea07d70cb70899167733ca06c710287}
+      \strng{authornamehash}{fea07d70cb70899167733ca06c710287}
+      \strng{authorfullhash}{fea07d70cb70899167733ca06c710287}
+      \strng{authorfullhashraw}{fea07d70cb70899167733ca06c710287}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0390-6701, 1469-9273}
+      \field{journaltitle}{International Review of Sociology}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shorttitle}{Trust in the face of uncertainty}
+      \field{title}{Trust in the face of uncertainty: a qualitative study of intersubjective trust and risk}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{130\bibrangedash 144}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/03906701.2014.894335
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/03906701.2014.894335
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/03906701.2014.894335
       \endverb
     \endentry
     \entry{garst_2019}{article}{}{}
@@ -2184,6 +2649,63 @@
       \verb 10.3390/ijerph191811278
       \endverb
     \endentry
+    \entry{hibbert_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5cb579bbab95649a8c79b7b640129308}{%
+           family={Hibbert},
+           familyi={H\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6dfb534371f48274928730944344f9}{%
+           family={Huxham},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{fullhash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{fullhashraw}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{bibnamehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authorbibnamehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authornamehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authorfullhash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authorfullhashraw}{a33841103ba065f59ad88fdd7df9dcc1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{17404754}
+      \field{journaltitle}{European Management Review}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shorttitle}{A little about the mystery}
+      \field{title}{A little about the mystery: process learning as collaboration evolves}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{59\bibrangedash 69}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/palgrave.emr.1500025
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1057/palgrave.emr.1500025
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1057/palgrave.emr.1500025
+      \endverb
+    \endentry
     \entry{hildreth_2004}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ff9bbe0b25521ea83e86c99656ce9520}{%
@@ -2491,6 +3013,41 @@
       \field{year}{2017}
       \field{pages}{209\bibrangedash 224}
       \range{pages}{16}
+    \endentry
+    \entry{keay_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cac278dcb557b2322851915d3984948b}{%
+           family={Keay},
+           familyi={K\bibinitperiod},
+           given={Jeanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{cac278dcb557b2322851915d3984948b}
+      \strng{fullhash}{cac278dcb557b2322851915d3984948b}
+      \strng{fullhashraw}{cac278dcb557b2322851915d3984948b}
+      \strng{bibnamehash}{cac278dcb557b2322851915d3984948b}
+      \strng{authorbibnamehash}{cac278dcb557b2322851915d3984948b}
+      \strng{authornamehash}{cac278dcb557b2322851915d3984948b}
+      \strng{authorfullhash}{cac278dcb557b2322851915d3984948b}
+      \strng{authorfullhashraw}{cac278dcb557b2322851915d3984948b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Education and Sport Pedagogy}
+      \field{number}{3}
+      \field{title}{Collaborative learning in physical education teachers' early-career professional development}
+      \field{volume}{11}
+      \field{year}{2006}
+      \field{pages}{285\bibrangedash 305}
+      \range{pages}{21}
     \endentry
     \entry{keay_2016}{inbook}{}{}
       \name{author}{2}{}{%
@@ -2847,6 +3404,212 @@
       \verb 10.1057/palgrave.kmrp.8500055
       \endverb
     \endentry
+    \entry{kloepper_2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=efc34af21cc2e77a0c2360b9b7d3eeb2}{%
+           family={Kloepper},
+           familyi={K\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{fullhash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{fullhashraw}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{bibnamehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authorbibnamehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authornamehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authorfullhash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authorfullhashraw}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Group work, especially for comprehensive class projects, is ubiquitous in higher education, yet despised by many students. In college, many students simply do not learn how to interact when in groups and how to collaborate effectively. Furthermore, by limiting student assessment of group work solely to a final project grade, students do not have the opportunity to collaboratively reflect on feedback and revise. Inspired by the massive failure of group comprehensive projects in my bioacoustics course, I will share tips I learned to navigate intra-group conflict, provide students with critical feedback on work at 3 key periods throughout the course, encourage collaborative revision, and engage with other groups via peer feedback.}
+      \field{issn}{0001-4966, 1520-8524}
+      \field{journaltitle}{The Journal of the Acoustical Society of America}
+      \field{month}{3}
+      \field{number}{3\_supplement}
+      \field{shorttitle}{Making group-work work}
+      \field{title}{Making group-work work: {Navigating} conflict and encouraging collaborative revision}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{153}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{A273\bibrangedash A273}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1121/10.0018821
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jasa/article/153/3_supplement/A273/2886228/Making-group-work-work-Navigating-conflict-and
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jasa/article/153/3_supplement/A273/2886228/Making-group-work-work-Navigating-conflict-and
+      \endverb
+    \endentry
+    \entry{knowles_1982}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30ee7f48089d7b6dd60f1cf8fe397cdc}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Eric\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5096337c52853cf973390f49d864270f}{%
+           family={Ickes},
+           familyi={I\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=30ee7f48089d7b6dd60f1cf8fe397cdc}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Eric\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{fullhash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{fullhashraw}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{bibnamehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authorbibnamehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authornamehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authorfullhash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authorfullhashraw}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{editorbibnamehash}{7ff55f8ef5be4f487011079de96f451d}
+      \strng{editornamehash}{7ff55f8ef5be4f487011079de96f451d}
+      \strng{editorfullhash}{7ff55f8ef5be4f487011079de96f451d}
+      \strng{editorfullhashraw}{7ff55f8ef5be4f487011079de96f451d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Personality, {Roles}, and {Social} {Behavior}}
+      \field{title}{From {Individuals} to {Group} {Members}: {A} {Dialectic} for the {Social} {Sciences}}
+      \field{year}{1982}
+      \field{pages}{1\bibrangedash 32}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1007/978-1-4613-9469-3_1
+      \endverb
+    \endentry
+    \entry{kowalski_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e51df65175d28fa7ec9ba65cd7d31dcd}{%
+           family={Kowalski},
+           familyi={K\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b40afdac45e45ee6d8d1d3b896e7de8b}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{fullhash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{fullhashraw}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{bibnamehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authorbibnamehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authornamehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authorfullhash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authorfullhashraw}{f39d9995a798f13638cff6d21b9fd858}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2375-7876}
+      \field{journaltitle}{Mid-Western Educational Researcher}
+      \field{month}{1}
+      \field{number}{4}
+      \field{shorttitle}{"{No} {One} {Wants} to be a {Loser}}
+      \field{title}{"{No} {One} {Wants} to be a {Loser}:" {High} {School} {Students}' {Perceptions} of {Academic} {Competition}}
+      \field{volume}{31}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://scholarworks.bgsu.edu/mwer/vol31/iss4/2
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.bgsu.edu/mwer/vol31/iss4/2
+      \endverb
+    \endentry
+    \entry{kramer_1996}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=07e5257ccae01d2b63d1880fb41acff7}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Roderick},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54c514c2e100133e6a2bd5635caeb3cf}{%
+           family={Tyler},
+           familyi={T\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {2455 Teller Road, Thousand Oaks California 91320 United States}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications, Inc.}%
+      }
+      \strng{namehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{fullhash}{47713b7b54002d173e483147fd004a6c}
+      \strng{fullhashraw}{47713b7b54002d173e483147fd004a6c}
+      \strng{bibnamehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authorbibnamehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authornamehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authorfullhash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authorfullhashraw}{47713b7b54002d173e483147fd004a6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780803957404 9781452243610}
+      \field{shorttitle}{Trust in {Organizations}}
+      \field{title}{Trust in {Organizations}: {Frontiers} of {Theory} and {Research}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{1996}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4135/9781452243610
+      \endverb
+      \verb{urlraw}
+      \verb https://sk.sagepub.com/books/trust-in-organizations
+      \endverb
+      \verb{url}
+      \verb https://sk.sagepub.com/books/trust-in-organizations
+      \endverb
+    \endentry
     \entry{laal_2012}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e1572bb39ac4b81d3239ae2b3993e9c2}{%
@@ -2932,6 +3695,50 @@
       \field{title}{Situated learning: legitimate peripheral participation}
       \field{year}{1991}
       \keyw{Learning,Psychology of,Transfer of training}
+    \endentry
+    \entry{lingard_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=29bc48a2285d40bf72db1dff5d29b923}{%
+           family={Lingard},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ceb6e333a64afc6f9b965e2504ef248}{%
+           family={Barkataki},
+           familyi={B\bibinitperiod},
+           given={Shan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{fullhash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{fullhashraw}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{bibnamehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authorbibnamehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authornamehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authorfullhash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authorfullhashraw}{624ac496603679a4ea78e84b7e4f8896}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-61284-469-5}
+      \field{month}{2}
+      \field{title}{Teaching teamwork in engineering and computer science}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/FIE.2011.6143000
+      \endverb
     \endentry
     \entry{liu_2022}{article}{}{}
       \name{author}{7}{}{%
@@ -3138,6 +3945,45 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{marasi_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=560b4c3196902a5ead7503903c0eb365}{%
+           family={Marasi},
+           familyi={M\bibinitperiod},
+           given={Shelly},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{fullhash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{fullhashraw}{560b4c3196902a5ead7503903c0eb365}
+      \strng{bibnamehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authorbibnamehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authornamehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authorfullhash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authorfullhashraw}{560b4c3196902a5ead7503903c0eb365}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1541-6518}
+      \field{journaltitle}{Organization Management Journal}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Team-building}
+      \field{title}{Team-building: {Developing} {Teamwork} {Skills} in {College} {Students} {Using} Experiential {Activities} in a {Classroom} {Setting}}
+      \field{volume}{16}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://scholarship.shu.edu/omj/vol16/iss4/9
+      \endverb
+      \verb{url}
+      \verb https://scholarship.shu.edu/omj/vol16/iss4/9
       \endverb
     \endentry
     \entry{margaryan_2011}{article}{}{}
@@ -4541,6 +5387,79 @@
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
     \endentry
+    \entry{shinya_2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7fadd01681d09c44c0e94a6d37dca0fb}{%
+           family={Shinya},
+           familyi={S\bibinitperiod},
+           given={Obayashi},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd17f3f4a23117687101736a0c9736ec}{%
+           family={Yusuke},
+           familyi={Y\bibinitperiod},
+           given={Inagaki},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b5d409e94336f78df6586e477504f31}{%
+           family={Hiroki},
+           familyi={H\bibinitperiod},
+           given={Takikawa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=62b762239f4c7ac2cf21ffc930a2367b}{%
+           family={Georgantzis},
+           familyi={G\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{05e9ad1d713cffbec8d15eb708b4a212}
+      \strng{fullhash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{fullhashraw}{471f1748d6770d1af15b776701d87e3b}
+      \strng{bibnamehash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{authorbibnamehash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{authornamehash}{05e9ad1d713cffbec8d15eb708b4a212}
+      \strng{authorfullhash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{authorfullhashraw}{471f1748d6770d1af15b776701d87e3b}
+      \strng{editorbibnamehash}{62b762239f4c7ac2cf21ffc930a2367b}
+      \strng{editornamehash}{62b762239f4c7ac2cf21ffc930a2367b}
+      \strng{editorfullhash}{62b762239f4c7ac2cf21ffc930a2367b}
+      \strng{editorfullhashraw}{62b762239f4c7ac2cf21ffc930a2367b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{The {Condition} for {Generous} {Trust}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{e0166437}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0166437
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pone.0166437
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pone.0166437
+      \endverb
+    \endentry
     \entry{smaldone_2022}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a9fb22433e29df966d779c34b10a6e52}{%
@@ -4749,6 +5668,62 @@
       \range{pages}{27}
       \verb{doi}
       \verb 10.1080/1463631022000005016
+      \endverb
+    \endentry
+    \entry{tauer_2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=176b838c74e3d9b12f19328d0b236d77}{%
+           family={Tauer},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8015fd2a7072f5468a589fa87d17d56b}{%
+           family={Harackiewicz},
+           familyi={H\bibinitperiod},
+           given={Judith\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{fullhash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{fullhashraw}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{bibnamehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authorbibnamehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authornamehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authorfullhash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authorfullhashraw}{e42d88eddbb39c35dde41bc7257daecf}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1315, 0022-3514}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{The {Effects} of {Cooperation} and {Competition} on {Intrinsic} {Motivation} and {Performance}.}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{86}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{849\bibrangedash 861}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0022-3514.86.6.849
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/0022-3514.86.6.849
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/0022-3514.86.6.849
       \endverb
     \endentry
     \entry{thai_2020}{article}{}{}
@@ -4983,6 +5958,125 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/09751122.2017.1305745
+      \endverb
+    \endentry
+    \entry{vangen_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=45094e709b93f36f970c22c882e05b36}{%
+           family={Vangen},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61154cd39d08bc72b3a6cdb0d56a633b}{%
+           family={Huxham},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{fullhash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{fullhashraw}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{bibnamehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authorbibnamehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authornamehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authorfullhash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authorfullhashraw}{58bf46c0413c36464bf0c54bdb350b17}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1053-1858, 1477-9803}
+      \field{journaltitle}{Journal of Public Administration Research and Theory}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{The {Tangled} {Web}}
+      \field{title}{The {Tangled} {Web}: {Unraveling} the {Principle} of {Common} {Goals} in {Collaborations}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{731\bibrangedash 760}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1093/jopart/mur065
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/jpart/article-lookup/doi/10.1093/jopart/mur065
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/jpart/article-lookup/doi/10.1093/jopart/mur065
+      \endverb
+    \endentry
+    \entry{wagner_2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e3abc940a1a7909216de0e577331b1e2}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Stephan\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac7cbdb3de0ff8128031f3d88ba28c92}{%
+           family={Eggert},
+           familyi={E\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96e20f7dc3b175adeec3785faf377588}{%
+           family={Lindemann},
+           familyi={L\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{193ebb0c68012c36a070e178b7bfa509}
+      \strng{fullhash}{56939c60959875a4110a9c9c839a2758}
+      \strng{fullhashraw}{56939c60959875a4110a9c9c839a2758}
+      \strng{bibnamehash}{56939c60959875a4110a9c9c839a2758}
+      \strng{authorbibnamehash}{56939c60959875a4110a9c9c839a2758}
+      \strng{authornamehash}{193ebb0c68012c36a070e178b7bfa509}
+      \strng{authorfullhash}{56939c60959875a4110a9c9c839a2758}
+      \strng{authorfullhashraw}{56939c60959875a4110a9c9c839a2758}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01482963}
+      \field{journaltitle}{Journal of Business Research}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Creating and appropriating value in collaborative relationships}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{63}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{840\bibrangedash 848}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.jbusres.2010.01.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0148296310000214
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0148296310000214
       \endverb
     \endentry
     \entry{walas-trebacz_2025}{article}{}{}
@@ -5239,6 +6333,53 @@
       \field{title}{Cultivating communities of practice: a guide to managing knowledge}
       \field{year}{2002}
       \keyw{Communities of practice,Knowledge management,Organizational learning}
+    \endentry
+    \entry{zand_1972}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57a41d8f73b973b498413dc758ce493b}{%
+           family={Zand},
+           familyi={Z\bibinitperiod},
+           given={Dale\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{fullhash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{fullhashraw}{57a41d8f73b973b498413dc758ce493b}
+      \strng{bibnamehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authorbibnamehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authornamehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authorfullhash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authorfullhashraw}{57a41d8f73b973b498413dc758ce493b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00018392}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Trust and {Managerial} {Problem} {Solving}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{17}
+      \field{year}{1972}
+      \field{urldateera}{ce}
+      \field{pages}{229}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/2393957
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2393957?origin=crossref
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2393957?origin=crossref
+      \endverb
     \endentry
     \entry{zhang_2024}{article}{}{}
       \name{author}{4}{}{%
@@ -5378,6 +6519,63 @@
       \verb https://ijlter.org/index.php/ijlter/article/view/10399
       \endverb
     \endentry
+    \entry{addison_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=995453b74c4468c34abfa53742f69191}{%
+           family={Addison},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceefa95cac362a7b2d73d765858f96ba}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Paulino},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{fullhash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{fullhashraw}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{bibnamehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authorbibnamehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authornamehash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authorfullhash}{5e353c5b3492d2cec9ea2904fe797b11}
+      \strng{authorfullhashraw}{5e353c5b3492d2cec9ea2904fe797b11}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Using European Company Survey data, this article explores the relationship between trust and establishment performance under works councils, on the one hand, and union bodies on the other. Trust is initially measured using the individual survey respondent's assessment of the ‘contribution’ of the other side. Although the rating of the employee representative is favoured over that of management as less subject to feedback from performance, the potential endogeneity of employee trust in management is also modelled. Next, a preferred inverse measure of trust (or dissonance) is constructed from the discrepancy between the assessments of the two sides of the quality of workplace industrial relations. Employee trust is associated throughout with improved establishment performance, and conversely for the dissonance counterpart. In their presence, neither type of workplace representation is superior to the other.}
+      \field{issn}{0007-1080, 1467-8543}
+      \field{journaltitle}{British Journal of Industrial Relations}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Trust and {Workplace} {Performance}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{58}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{874\bibrangedash 903}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1111/bjir.12517
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjir.12517
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjir.12517
+      \endverb
+    \endentry
     \entry{adi_2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=aff09e437e85924464db920938d0e32d}{%
@@ -5685,6 +6883,59 @@
       \verb https://www.emerald.com/insight/content/doi/10.1108/13673270310463626/full/html
       \endverb
     \endentry
+    \entry{asrori_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b11040b749cd4e039b486459d47af7aa}{%
+           family={Asrori},
+           familyi={A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f9171e8d1e8bdcaef7ca18aae6e50c5}{%
+           family={Tjalla},
+           familyi={T\bibinitperiod},
+           given={Awaluddin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{fullhash}{224c548014e95cbd7533de57973b98d9}
+      \strng{fullhashraw}{224c548014e95cbd7533de57973b98d9}
+      \strng{bibnamehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authorbibnamehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authornamehash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authorfullhash}{224c548014e95cbd7533de57973b98d9}
+      \strng{authorfullhashraw}{224c548014e95cbd7533de57973b98d9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2327-6126}
+      \field{journaltitle}{American Journal of Educational Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Increasing {Teamwork} {Capacity} of {High} {School} {Students} through {Collaborative} {Teamwork} {Learning}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{46\bibrangedash 50}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.12691/education-8-1-7
+      \endverb
+      \verb{urlraw}
+      \verb http://pubs.sciepub.com/education/8/1/7/index.html
+      \endverb
+      \verb{url}
+      \verb http://pubs.sciepub.com/education/8/1/7/index.html
+      \endverb
+    \endentry
     \entry{azuma_1997}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=65a33080a179a3a436c552a32d1f64f0}{%
@@ -5785,6 +7036,44 @@
       \endverb
       \keyw{COVID-19,Effectiveness,Learning,Online,Pandemic,Social distance,Social interaction}
     \endentry
+    \entry{bales_1970}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6d28f9a4a5553fe41477bf6d27ad549}{%
+           family={Bales},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima Freed},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{2}{%
+        {Holt, Rinehart}%
+        {Winston}%
+      }
+      \strng{namehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{fullhash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{fullhashraw}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{bibnamehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authorbibnamehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authornamehash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authorfullhash}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \strng{authorfullhashraw}{a6d28f9a4a5553fe41477bf6d27ad549}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780030804502}
+      \field{title}{Personality and interpersonal behavior}
+      \field{year}{1970}
+    \endentry
     \entry{baloche_2017}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4304a636c409d621530317c57e6c26c0}{%
@@ -5840,6 +7129,143 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
+      \endverb
+    \endentry
+    \entry{bergin_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5a65ed3e300c1382db670a80624750c5}{%
+           family={Bergin},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{fullhash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{fullhashraw}{5a65ed3e300c1382db670a80624750c5}
+      \strng{bibnamehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authorbibnamehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authornamehash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authorfullhash}{5a65ed3e300c1382db670a80624750c5}
+      \strng{authorfullhashraw}{5a65ed3e300c1382db670a80624750c5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0046-1520, 1532-6985}
+      \field{journaltitle}{Educational Psychologist}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Social {Influences} on {Interest}}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{51}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 22}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/00461520.2015.1133306
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/00461520.2015.1133306
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/00461520.2015.1133306
+      \endverb
+    \endentry
+    \entry{bichard_2005}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70eb679c6d658ca593af8803ac7f575b}{%
+           family={Bichard},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Oxfor University Press}%
+      }
+      \strng{namehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{fullhash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{fullhashraw}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{bibnamehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authorbibnamehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authornamehash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authorfullhash}{70eb679c6d658ca593af8803ac7f575b}
+      \strng{authorfullhashraw}{70eb679c6d658ca593af8803ac7f575b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leadership and {Management} in the 21st {Century}: {Business} {Challanges} for the {Future}}
+      \field{edition}{1}
+      \field{isbn}{0–19–926336–1}
+      \field{title}{Managing for {Creativity}}
+      \field{year}{2005}
+      \field{pages}{299\bibrangedash 304}
+      \range{pages}{6}
+    \endentry
+    \entry{bion_2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e6ac7ee57e3c76e8dbd40883c3953e1}{%
+           family={Bion},
+           familyi={B\bibinitperiod},
+           given={W.R.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{fullhash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{fullhashraw}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{bibnamehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authorbibnamehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authornamehash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authorfullhash}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \strng{authorfullhashraw}{0e6ac7ee57e3c76e8dbd40883c3953e1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{0}
+      \field{isbn}{9781134954490}
+      \field{month}{9}
+      \field{title}{Experiences in {Groups}}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4324/9780203359075
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/9781134954490
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/9781134954490
       \endverb
     \endentry
     \entry{blackmore_2010}{book}{}{}
@@ -6614,6 +8040,95 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/0309877X.2020.1860204
       \endverb
     \endentry
+    \entry{davis_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f0d6d3947191cc98acfda75067332a12}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Denny},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=543f3bbb31d1a80647ff006bfdf2faf0}{%
+           family={Ulseth},
+           familyi={U\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Atlanta, Georgia}%
+      }
+      \list{publisher}{1}{%
+        {ASEE Conferences}%
+      }
+      \strng{namehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{fullhash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{fullhashraw}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{bibnamehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authorbibnamehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authornamehash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authorfullhash}{979b4ba7367cc7e7f878896f68a282d8}
+      \strng{authorfullhashraw}{979b4ba7367cc7e7f878896f68a282d8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2013 {ASEE} {Annual} {Conference} \& {Exposition} {Proceedings}}
+      \field{month}{6}
+      \field{title}{Building {Student} {Capacity} for {High} {Performance} {Teamwork}}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{23.260.1\bibrangedash 23.260.26}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.18260/1-2--19274
+      \endverb
+      \verb{urlraw}
+      \verb http://peer.asee.org/19274
+      \endverb
+      \verb{url}
+      \verb http://peer.asee.org/19274
+      \endverb
+    \endentry
+    \entry{dawson_2017}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f345046b6040f23141d8ac51e598b4b}{%
+           family={DAWSON},
+           familyi={D\bibinitperiod},
+           given={ROSS},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{fullhash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{fullhashraw}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{bibnamehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authorbibnamehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authornamehash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authorfullhash}{8f345046b6040f23141d8ac51e598b4b}
+      \strng{authorfullhashraw}{8f345046b6040f23141d8ac51e598b4b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IMPROVING} {COLLABORATION} {AND} {INNOVATION} {BETWEEN} {INDUSTRY} {AND} {BUSINESS} {SCHOOLS} {IN} {AUSTRALIA}}
+      \field{title}{The {Value} of {Collaboration}}
+      \field{year}{2017}
+      \field{pages}{29\bibrangedash 39}
+      \range{pages}{11}
+    \endentry
     \entry{de-felice_2023}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=01156364b4659d51d46c8ef1b1731628}{%
@@ -6683,6 +8198,46 @@
       \verb{url}
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
+    \endentry
+    \entry{driscoll_2025}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00c01991e18bc42d98d037988d25306d}{%
+           family={Driscoll},
+           familyi={D\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis Group}%
+      }
+      \strng{namehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{fullhash}{00c01991e18bc42d98d037988d25306d}
+      \strng{fullhashraw}{00c01991e18bc42d98d037988d25306d}
+      \strng{bibnamehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authorbibnamehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authornamehash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authorfullhash}{00c01991e18bc42d98d037988d25306d}
+      \strng{authorfullhashraw}{00c01991e18bc42d98d037988d25306d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"By giving students a greater voice in how their learning is facilitated, this book offers a fresh spin on classic college teaching methods. Seasoned faculty developers Driscoll and Shapiro cover seven common teaching approaches and how they can be leveraged to support the development of students as co-teachers. The easily digestible, practical strategies throughout each chapter pair powerfully with candid case studies. Readers are able to witness firsthand the uncertainties, disappointments, and successes of the post-pandemic classroom as faculty and students work together to overcome challenges and form deep connections. While an indispensable resource for those new to teaching, this book also serves as an innovative tool for experienced instructors and educational developers alike, imparting guidance that will result in more meaningful interactions, stronger relationships, and a genuine sense of community in the college classroom"--}
+      \field{edition}{1st ed}
+      \field{isbn}{9781040302514}
+      \field{shorttitle}{Transforming {Traditional} {Teaching} for {Today}'s {College} {Students}}
+      \field{title}{Transforming {Traditional} {Teaching} for {Today}'s {College} {Students}: {Strategies} for {Cultivating} {Relationships} and {Community}}
+      \field{year}{2025}
     \endentry
     \entry{drueke_2021}{article}{}{}
       \name{author}{5}{}{%
@@ -6998,6 +8553,57 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/17439884.2023.2230893
+      \endverb
+    \endentry
+    \entry{frederiksen_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fea07d70cb70899167733ca06c710287}{%
+           family={Frederiksen},
+           familyi={F\bibinitperiod},
+           given={Morten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fea07d70cb70899167733ca06c710287}
+      \strng{fullhash}{fea07d70cb70899167733ca06c710287}
+      \strng{fullhashraw}{fea07d70cb70899167733ca06c710287}
+      \strng{bibnamehash}{fea07d70cb70899167733ca06c710287}
+      \strng{authorbibnamehash}{fea07d70cb70899167733ca06c710287}
+      \strng{authornamehash}{fea07d70cb70899167733ca06c710287}
+      \strng{authorfullhash}{fea07d70cb70899167733ca06c710287}
+      \strng{authorfullhashraw}{fea07d70cb70899167733ca06c710287}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0390-6701, 1469-9273}
+      \field{journaltitle}{International Review of Sociology}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shorttitle}{Trust in the face of uncertainty}
+      \field{title}{Trust in the face of uncertainty: a qualitative study of intersubjective trust and risk}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{130\bibrangedash 144}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/03906701.2014.894335
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/03906701.2014.894335
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/03906701.2014.894335
       \endverb
     \endentry
     \entry{garst_2019}{article}{}{}
@@ -7476,6 +9082,63 @@
       \verb 10.3390/ijerph191811278
       \endverb
     \endentry
+    \entry{hibbert_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5cb579bbab95649a8c79b7b640129308}{%
+           family={Hibbert},
+           familyi={H\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6dfb534371f48274928730944344f9}{%
+           family={Huxham},
+           familyi={H\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{fullhash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{fullhashraw}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{bibnamehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authorbibnamehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authornamehash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authorfullhash}{a33841103ba065f59ad88fdd7df9dcc1}
+      \strng{authorfullhashraw}{a33841103ba065f59ad88fdd7df9dcc1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{17404754}
+      \field{journaltitle}{European Management Review}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shorttitle}{A little about the mystery}
+      \field{title}{A little about the mystery: process learning as collaboration evolves}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{59\bibrangedash 69}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/palgrave.emr.1500025
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1057/palgrave.emr.1500025
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1057/palgrave.emr.1500025
+      \endverb
+    \endentry
     \entry{hildreth_2004}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ff9bbe0b25521ea83e86c99656ce9520}{%
@@ -7783,6 +9446,41 @@
       \field{year}{2017}
       \field{pages}{209\bibrangedash 224}
       \range{pages}{16}
+    \endentry
+    \entry{keay_2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cac278dcb557b2322851915d3984948b}{%
+           family={Keay},
+           familyi={K\bibinitperiod},
+           given={Jeanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{cac278dcb557b2322851915d3984948b}
+      \strng{fullhash}{cac278dcb557b2322851915d3984948b}
+      \strng{fullhashraw}{cac278dcb557b2322851915d3984948b}
+      \strng{bibnamehash}{cac278dcb557b2322851915d3984948b}
+      \strng{authorbibnamehash}{cac278dcb557b2322851915d3984948b}
+      \strng{authornamehash}{cac278dcb557b2322851915d3984948b}
+      \strng{authorfullhash}{cac278dcb557b2322851915d3984948b}
+      \strng{authorfullhashraw}{cac278dcb557b2322851915d3984948b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Education and Sport Pedagogy}
+      \field{number}{3}
+      \field{title}{Collaborative learning in physical education teachers' early-career professional development}
+      \field{volume}{11}
+      \field{year}{2006}
+      \field{pages}{285\bibrangedash 305}
+      \range{pages}{21}
     \endentry
     \entry{keay_2016}{inbook}{}{}
       \name{author}{2}{}{%
@@ -8139,6 +9837,212 @@
       \verb 10.1057/palgrave.kmrp.8500055
       \endverb
     \endentry
+    \entry{kloepper_2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=efc34af21cc2e77a0c2360b9b7d3eeb2}{%
+           family={Kloepper},
+           familyi={K\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{fullhash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{fullhashraw}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{bibnamehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authorbibnamehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authornamehash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authorfullhash}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \strng{authorfullhashraw}{efc34af21cc2e77a0c2360b9b7d3eeb2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Group work, especially for comprehensive class projects, is ubiquitous in higher education, yet despised by many students. In college, many students simply do not learn how to interact when in groups and how to collaborate effectively. Furthermore, by limiting student assessment of group work solely to a final project grade, students do not have the opportunity to collaboratively reflect on feedback and revise. Inspired by the massive failure of group comprehensive projects in my bioacoustics course, I will share tips I learned to navigate intra-group conflict, provide students with critical feedback on work at 3 key periods throughout the course, encourage collaborative revision, and engage with other groups via peer feedback.}
+      \field{issn}{0001-4966, 1520-8524}
+      \field{journaltitle}{The Journal of the Acoustical Society of America}
+      \field{month}{3}
+      \field{number}{3\_supplement}
+      \field{shorttitle}{Making group-work work}
+      \field{title}{Making group-work work: {Navigating} conflict and encouraging collaborative revision}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{153}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{A273\bibrangedash A273}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1121/10.0018821
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jasa/article/153/3_supplement/A273/2886228/Making-group-work-work-Navigating-conflict-and
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jasa/article/153/3_supplement/A273/2886228/Making-group-work-work-Navigating-conflict-and
+      \endverb
+    \endentry
+    \entry{knowles_1982}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30ee7f48089d7b6dd60f1cf8fe397cdc}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Eric\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5096337c52853cf973390f49d864270f}{%
+           family={Ickes},
+           familyi={I\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=30ee7f48089d7b6dd60f1cf8fe397cdc}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Eric\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{fullhash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{fullhashraw}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{bibnamehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authorbibnamehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authornamehash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authorfullhash}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{authorfullhashraw}{30ee7f48089d7b6dd60f1cf8fe397cdc}
+      \strng{editorbibnamehash}{7ff55f8ef5be4f487011079de96f451d}
+      \strng{editornamehash}{7ff55f8ef5be4f487011079de96f451d}
+      \strng{editorfullhash}{7ff55f8ef5be4f487011079de96f451d}
+      \strng{editorfullhashraw}{7ff55f8ef5be4f487011079de96f451d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Personality, {Roles}, and {Social} {Behavior}}
+      \field{title}{From {Individuals} to {Group} {Members}: {A} {Dialectic} for the {Social} {Sciences}}
+      \field{year}{1982}
+      \field{pages}{1\bibrangedash 32}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1007/978-1-4613-9469-3_1
+      \endverb
+    \endentry
+    \entry{kowalski_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e51df65175d28fa7ec9ba65cd7d31dcd}{%
+           family={Kowalski},
+           familyi={K\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b40afdac45e45ee6d8d1d3b896e7de8b}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{fullhash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{fullhashraw}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{bibnamehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authorbibnamehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authornamehash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authorfullhash}{f39d9995a798f13638cff6d21b9fd858}
+      \strng{authorfullhashraw}{f39d9995a798f13638cff6d21b9fd858}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2375-7876}
+      \field{journaltitle}{Mid-Western Educational Researcher}
+      \field{month}{1}
+      \field{number}{4}
+      \field{shorttitle}{"{No} {One} {Wants} to be a {Loser}}
+      \field{title}{"{No} {One} {Wants} to be a {Loser}:" {High} {School} {Students}' {Perceptions} of {Academic} {Competition}}
+      \field{volume}{31}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://scholarworks.bgsu.edu/mwer/vol31/iss4/2
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.bgsu.edu/mwer/vol31/iss4/2
+      \endverb
+    \endentry
+    \entry{kramer_1996}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=07e5257ccae01d2b63d1880fb41acff7}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Roderick},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54c514c2e100133e6a2bd5635caeb3cf}{%
+           family={Tyler},
+           familyi={T\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {2455 Teller Road, Thousand Oaks California 91320 United States}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications, Inc.}%
+      }
+      \strng{namehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{fullhash}{47713b7b54002d173e483147fd004a6c}
+      \strng{fullhashraw}{47713b7b54002d173e483147fd004a6c}
+      \strng{bibnamehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authorbibnamehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authornamehash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authorfullhash}{47713b7b54002d173e483147fd004a6c}
+      \strng{authorfullhashraw}{47713b7b54002d173e483147fd004a6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780803957404 9781452243610}
+      \field{shorttitle}{Trust in {Organizations}}
+      \field{title}{Trust in {Organizations}: {Frontiers} of {Theory} and {Research}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{1996}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4135/9781452243610
+      \endverb
+      \verb{urlraw}
+      \verb https://sk.sagepub.com/books/trust-in-organizations
+      \endverb
+      \verb{url}
+      \verb https://sk.sagepub.com/books/trust-in-organizations
+      \endverb
+    \endentry
     \entry{laal_2012}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e1572bb39ac4b81d3239ae2b3993e9c2}{%
@@ -8224,6 +10128,50 @@
       \field{title}{Situated learning: legitimate peripheral participation}
       \field{year}{1991}
       \keyw{Learning,Psychology of,Transfer of training}
+    \endentry
+    \entry{lingard_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=29bc48a2285d40bf72db1dff5d29b923}{%
+           family={Lingard},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ceb6e333a64afc6f9b965e2504ef248}{%
+           family={Barkataki},
+           familyi={B\bibinitperiod},
+           given={Shan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{fullhash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{fullhashraw}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{bibnamehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authorbibnamehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authornamehash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authorfullhash}{624ac496603679a4ea78e84b7e4f8896}
+      \strng{authorfullhashraw}{624ac496603679a4ea78e84b7e4f8896}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-61284-469-5}
+      \field{month}{2}
+      \field{title}{Teaching teamwork in engineering and computer science}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/FIE.2011.6143000
+      \endverb
     \endentry
     \entry{liu_2022}{article}{}{}
       \name{author}{7}{}{%
@@ -8430,6 +10378,45 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{marasi_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=560b4c3196902a5ead7503903c0eb365}{%
+           family={Marasi},
+           familyi={M\bibinitperiod},
+           given={Shelly},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{fullhash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{fullhashraw}{560b4c3196902a5ead7503903c0eb365}
+      \strng{bibnamehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authorbibnamehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authornamehash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authorfullhash}{560b4c3196902a5ead7503903c0eb365}
+      \strng{authorfullhashraw}{560b4c3196902a5ead7503903c0eb365}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1541-6518}
+      \field{journaltitle}{Organization Management Journal}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Team-building}
+      \field{title}{Team-building: {Developing} {Teamwork} {Skills} in {College} {Students} {Using} Experiential {Activities} in a {Classroom} {Setting}}
+      \field{volume}{16}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://scholarship.shu.edu/omj/vol16/iss4/9
+      \endverb
+      \verb{url}
+      \verb https://scholarship.shu.edu/omj/vol16/iss4/9
       \endverb
     \endentry
     \entry{margaryan_2011}{article}{}{}
@@ -9833,6 +11820,79 @@
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
     \endentry
+    \entry{shinya_2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7fadd01681d09c44c0e94a6d37dca0fb}{%
+           family={Shinya},
+           familyi={S\bibinitperiod},
+           given={Obayashi},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd17f3f4a23117687101736a0c9736ec}{%
+           family={Yusuke},
+           familyi={Y\bibinitperiod},
+           given={Inagaki},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b5d409e94336f78df6586e477504f31}{%
+           family={Hiroki},
+           familyi={H\bibinitperiod},
+           given={Takikawa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=62b762239f4c7ac2cf21ffc930a2367b}{%
+           family={Georgantzis},
+           familyi={G\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{05e9ad1d713cffbec8d15eb708b4a212}
+      \strng{fullhash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{fullhashraw}{471f1748d6770d1af15b776701d87e3b}
+      \strng{bibnamehash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{authorbibnamehash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{authornamehash}{05e9ad1d713cffbec8d15eb708b4a212}
+      \strng{authorfullhash}{471f1748d6770d1af15b776701d87e3b}
+      \strng{authorfullhashraw}{471f1748d6770d1af15b776701d87e3b}
+      \strng{editorbibnamehash}{62b762239f4c7ac2cf21ffc930a2367b}
+      \strng{editornamehash}{62b762239f4c7ac2cf21ffc930a2367b}
+      \strng{editorfullhash}{62b762239f4c7ac2cf21ffc930a2367b}
+      \strng{editorfullhashraw}{62b762239f4c7ac2cf21ffc930a2367b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{The {Condition} for {Generous} {Trust}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{e0166437}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0166437
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pone.0166437
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pone.0166437
+      \endverb
+    \endentry
     \entry{smaldone_2022}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a9fb22433e29df966d779c34b10a6e52}{%
@@ -10041,6 +12101,62 @@
       \range{pages}{27}
       \verb{doi}
       \verb 10.1080/1463631022000005016
+      \endverb
+    \endentry
+    \entry{tauer_2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=176b838c74e3d9b12f19328d0b236d77}{%
+           family={Tauer},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8015fd2a7072f5468a589fa87d17d56b}{%
+           family={Harackiewicz},
+           familyi={H\bibinitperiod},
+           given={Judith\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{fullhash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{fullhashraw}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{bibnamehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authorbibnamehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authornamehash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authorfullhash}{e42d88eddbb39c35dde41bc7257daecf}
+      \strng{authorfullhashraw}{e42d88eddbb39c35dde41bc7257daecf}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-1315, 0022-3514}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{The {Effects} of {Cooperation} and {Competition} on {Intrinsic} {Motivation} and {Performance}.}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{86}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{849\bibrangedash 861}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0022-3514.86.6.849
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/0022-3514.86.6.849
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/0022-3514.86.6.849
       \endverb
     \endentry
     \entry{thai_2020}{article}{}{}
@@ -10275,6 +12391,125 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/09751122.2017.1305745
+      \endverb
+    \endentry
+    \entry{vangen_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=45094e709b93f36f970c22c882e05b36}{%
+           family={Vangen},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61154cd39d08bc72b3a6cdb0d56a633b}{%
+           family={Huxham},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{fullhash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{fullhashraw}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{bibnamehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authorbibnamehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authornamehash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authorfullhash}{58bf46c0413c36464bf0c54bdb350b17}
+      \strng{authorfullhashraw}{58bf46c0413c36464bf0c54bdb350b17}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1053-1858, 1477-9803}
+      \field{journaltitle}{Journal of Public Administration Research and Theory}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{The {Tangled} {Web}}
+      \field{title}{The {Tangled} {Web}: {Unraveling} the {Principle} of {Common} {Goals} in {Collaborations}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{731\bibrangedash 760}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1093/jopart/mur065
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/jpart/article-lookup/doi/10.1093/jopart/mur065
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/jpart/article-lookup/doi/10.1093/jopart/mur065
+      \endverb
+    \endentry
+    \entry{wagner_2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e3abc940a1a7909216de0e577331b1e2}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Stephan\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac7cbdb3de0ff8128031f3d88ba28c92}{%
+           family={Eggert},
+           familyi={E\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96e20f7dc3b175adeec3785faf377588}{%
+           family={Lindemann},
+           familyi={L\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{193ebb0c68012c36a070e178b7bfa509}
+      \strng{fullhash}{56939c60959875a4110a9c9c839a2758}
+      \strng{fullhashraw}{56939c60959875a4110a9c9c839a2758}
+      \strng{bibnamehash}{56939c60959875a4110a9c9c839a2758}
+      \strng{authorbibnamehash}{56939c60959875a4110a9c9c839a2758}
+      \strng{authornamehash}{193ebb0c68012c36a070e178b7bfa509}
+      \strng{authorfullhash}{56939c60959875a4110a9c9c839a2758}
+      \strng{authorfullhashraw}{56939c60959875a4110a9c9c839a2758}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01482963}
+      \field{journaltitle}{Journal of Business Research}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Creating and appropriating value in collaborative relationships}
+      \field{urlday}{21}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{63}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{840\bibrangedash 848}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.jbusres.2010.01.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0148296310000214
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0148296310000214
       \endverb
     \endentry
     \entry{walas-trebacz_2025}{article}{}{}
@@ -10531,6 +12766,53 @@
       \field{title}{Cultivating communities of practice: a guide to managing knowledge}
       \field{year}{2002}
       \keyw{Communities of practice,Knowledge management,Organizational learning}
+    \endentry
+    \entry{zand_1972}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57a41d8f73b973b498413dc758ce493b}{%
+           family={Zand},
+           familyi={Z\bibinitperiod},
+           given={Dale\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{fullhash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{fullhashraw}{57a41d8f73b973b498413dc758ce493b}
+      \strng{bibnamehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authorbibnamehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authornamehash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authorfullhash}{57a41d8f73b973b498413dc758ce493b}
+      \strng{authorfullhashraw}{57a41d8f73b973b498413dc758ce493b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00018392}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Trust and {Managerial} {Problem} {Solving}}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{17}
+      \field{year}{1972}
+      \field{urldateera}{ce}
+      \field{pages}{229}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/2393957
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/2393957?origin=crossref
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/2393957?origin=crossref
+      \endverb
     \endentry
     \entry{zhang_2024}{article}{}{}
       \name{author}{4}{}{%

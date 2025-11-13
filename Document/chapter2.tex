@@ -136,7 +136,7 @@ focus more on the transmission and preservation of the knowledge generated, as n
 satisfaction are present when a \ac{CoP} has been identified and nurtured within the informal structure of an organization \parencite{blackmore_2010}. Also, they have proven to be valuable integration, communication, and
 identity reinforcement tools in communities with a high degree of disparity or diversity among members \parencite{hildreth_2004}.
 
-A particular emphasis in the idea of nurturing a \ac{CoP} is important. A community can perish due to lack of proper nourishment or caused by artificial intervention. Previously it was noted that it is not possible to force the
+A particular emphasis on the idea of nurturing a \ac{CoP} is important. A community can perish due to lack of proper nourishment or caused by artificial intervention. Previously it was noted that it is not possible to force the
 creation of a \ac{CoP}, new members must voluntarily engage in legitimate ways with the practice. But even when a community develops and grows in members, and its value is acknowledged and sough after, forced practices that run
 in contradiction with the spirit of a \ac{CoP} can end up killing it. Authors like \textcite{ardichvili_2003} and \textcite{brown_1991} have analysed the lifecycles of successful and failed \ac{CoP} inside the organizational
 practice of many and varied industries, from insurance brokers to high education institutes. Of all the key factors identified in the failure or disappearance of a \ac{CoP}, it is useful to highlight the following ones:
@@ -319,8 +319,10 @@ the work and interactions of a group of students. This map provides a structured
 useful tool to frame the analysis of the work done by student in the development of the case study and to describe the learning design proposed by the Industry Project course.
 
 \begin{table}[]
+\caption{Evidence Factors and Assessment of Collaborative Work }
 \begin{tabularx}{\textwidth}{@{}lXX@{}}
-\multicolumn{1}{c}{\thead{\textbf{Criteria}}}                        & \multicolumn{1}{c}{\thead{\textbf{Evidence}}}                 & \multicolumn{1}{c}{\thead{\textbf{Examples in Literature}}}                    \\ \midrule
+
+\multicolumn{1}{c}{\thead{\textbf{Criteria}}}                         & \multicolumn{1}{c}{\thead{\textbf{Evidence}}}                  & \multicolumn{1}{c}{\thead{\textbf{Examples in Literature}}}                  \\ \midrule
 \multicolumn{1}{c}{}                                                  & Work Design                                                    & \textcite{fisher_2014,kernaghan_1990}                                        \\ 
 \multicolumn{1}{c}{}                                                  & Goal and task ownership                                        & \textcite{kropp_2024,sohmen_2015}                                            \\ 
 \multicolumn{1}{c}{\multirow{-3}{*}{A shared common goal}}            & Co-creation and acquisition of knowledge                       & \textcite{salmons_2019,drejer_2005}                                          \\ \midrule
@@ -333,7 +335,6 @@ useful tool to frame the analysis of the work done by student in the development
                                                                       & Communication patterns                                         & \textcite{jahng_2010,amponsah_2003}                                          \\  
 \multirow{-4}{*}{Proper management}                                   & Flexible structure                                             & \textcite{gross_1997,jacobs_2015}                                            \\ \bottomrule
 \end{tabularx}
-\caption{Evidence Factors and Assessment of Collaborative Work }
 \label{tab:2-1}
 \end{table}
 
@@ -771,3 +772,143 @@ designed as individual experiences, prioritising student autonomy and promoting 
 examples like \textcite{cheng_2019,kim_2017} are a multi-user or collaborative design.
 
 \section{Collaborative AR \label{sec:2-3}}
+
+From the many insights obtained from the \ac{SLR}, it is possible to highlight a potential hole in the literature related to collaborative AR experiences in education. A significant
+majority of the projects surveyed prioritized individual interactions, and those few using multi-user approaches perfectly highlighted the interesting possibilities that the technologies
+offer around collaboration, teamwork and project-based approaches to learning.
+
+We can expand the information obtained through the \ac{SLR} and focus some more on the concept of collaborative \ac{AR} in general, the research done around the topic and the most
+notable developments found in the literature. If we analyse the topic outside the field of education and consider how \ac{AR} is being used as an aide in different tasks, we can find
+multiple tools that have been tested in diverse scenarios and have been proven to offer benefits and advantages in terms of performance, communication and workload management.
+
+A first approach, before getting into the realm of analysing specific tools, is to understand the domain itself, identify the most important concepts in the core of a collaborative tool
+and their relationship with \ac{AR}. \textcite{marques_2022} approached the domain of collaborative \ac{AR} with that same perspective and offered a detailed mapping that can help in
+categorising and describing any project that could fit in this field.
+
+\begin{figure}[t]
+    \centering{\includegraphics[alt={Figure 2.13},width=0.99\textwidth]{figures/F2-13.jpg}}
+    \caption{Conceptual Model for Collaborative \ac{AR} as proposed by \textcite{marques_2022} \label{fig:2-13}}
+\end{figure}
+
+Figure \ref{fig:2-13} shows the most important components in a collaborative \ac{AR} tool that interacts with the user and within each other to provide a multi-user environment. Of the key
+components identified, three main categories can be identified:
+
+\begin{itemize}
+    \item \emph{Context awareness:} Gathering data from the context, either the real space or the actions of other participants.
+    \item \emph{User interaction:} Sensing the actions of each user, each point of view and each flow of information.
+    \item \emph{Composition:} Using data from the previous categories to create the AR view of each user.
+\end{itemize}
+
+These components do not differ much from a generic conceptual model of any \ac{AR} or \ac{MR} interaction. The main distinction lies in coordinating all of them through time and different
+users. The biggest addition is the category \emph{Collaborative Effort}, composed by the components project, shared context, communication and coordinated effort. These components resonate
+with the fundamental characteristics off an effective collaboration exposed in section \ref{sec:2-1-4}. It also serves as the connective gear between users and holds the bulk of
+interactivity with the app.
+
+It can also be appreciated that the model does not forces a particular architectural design, save for the general communication pathways proposed between components. Another noticeable
+decision is to coordinate all the users through the \emph{Task} component, giving the collaborative effort a project-oriented nature and a more hands-on approach to the type of applications
+that could be designed using this model, which can be seen as a first stepstone for a more detailed proposal in the future. It is also useful as a shared language to understand, communicate
+and analyse the decisions and particularities of a specific implementation, such as this research project.
+
+In terms of extracting interesting implementation cases from specific applied fields, \emph{Collaborative Design} is a domain in which \ac{AR} has been integrated into work processes a lot.
+Different projects experiment with tasks requiring communication of ideas, co-creation of products and balancing the workload of the team members. \textcite{wang_2011} for example, proposed
+a comparative study that showed performance improvements when using a design pipeline that integrated a MR component. They focused on offering both a face-to-face collaboration process as
+well as a tangible interaction design using image markers.
+
+Fata Morgana \parencite{klinker_2002} is a similar proposal in terms of implementation, but focuses more on the presentation of info rather than in the interactions with models. The
+collaboration aspect lies more outside of the tool; its main purpose is to show information while being aware of the context and giving the user freedom of mobility. The Magic Meeting
+\parencite{regenbrecht_2002} offers a similar concept by providing a physical setup to interact with the markers and the digital models. Again, the emphasis is more on  the communication
+process, where the tool offers the means of interaction with the digital construct, but the main objective is what is happening between the users.
+
+Another prominent field for the use of \ac{AR} is medicine. The technology has been tested several times in diverse areas like procedure aide, data visualisation and training. When
+exploring collaborative instances of \ac{AR} tools, we can find some modern projects focused on helping in decision-making process based on data and consensus, such as the examples shown in
+\textcite{friedl-knirsch_2024,yasojima_2012}. But the most prominent application is the use of the technology in procedures using telepresence, tele-assistance or tele-mentoring. \ac{AR} has
+been used as an enhanced remote collaboration method, allowing for communication enriched with visual data and real-time interactions. \textcite{wisotzky_2019} is one of the most radical
+examples in exploring the boundaries of the technology. The authors propose a framework for full digital reconstruction of a surgical procedure to enable remote collaboration through \ac{AR},
+highlighting the challenges related to image recognition and network stability. Other projects aim at helping visualise and guide complex procedures and research goals that relate more to
+feasibility and safety \parencite{alismail_2019,jun_2023}. Other common examples, like \textcite{yu_2023,augello_2023,pooryousef_2024} focus more on the display of information, remote or
+collocated, using a more common marker or feature recognition approach, and providing aid in brief processes, evaluation or mentoring.
+
+Mentoring or aiding students, specially aiding in practice scenarios for surgical procedures, is a major research venue in medicine, evidenced by most of the literature found supporting
+these types of projects. Just to name a few outstanding examples: \textcite{schott_2024,gasques_2021,moro_2021,huang_2018} all show interest in providing students with tools to understand
+and practice learning material through visualisation and interaction, while also using a collaborative learning approach.
+
+Other fields also focus more on using \ac{AR} for communicating ideas rather than direct interaction with the immediate context. The augmentation is focused on giving form to abstract
+concepts or superposing non-existent elements into existent ones. The collaboration aspects focus on sharing the visualisation or interactions between users, or giving presence to remote
+users in the collaborative task. Some examples of note can be the project proposed by \textcite{garbett_2021} in the field of construction, \textcite{shen_2010} in collaborative product
+design, \textcite{ahn_2019} in architectural design and \textcite{sanabria_2017} in arts and creative processes.
+
+Telepresence and remote collaboration appear to be a common goal, but it is also possible to find examples that prioritise face-to-face collaboration in diverse activities. The Collaborative
+Web \parencite{billinghurst_1999} explores the concept of collaborative browsing, sharing information and points of view. The work of Billinghurst and associates in general provides a
+fundamental view of the challenges and possibilities related to collaborative work in \ac{AR} and focuses on identifying key design issues around interaction and the technological
+framework that can be used to propose a solution. Another fundamental example is The Studierstube \parencite{schmalstieg_2002}, which shows the necessity of an interaction design process of
+tools like this. Operations in a 3D space that are shared with other people are too distant from more common desktop or mobile interactions, thus requiring extra work to properly build an
+interaction proposal.
+
+Modern and early incursions with the technology offer a valuable list of considerations for common scenarios like shared interactions, communication between users and co-located activities.
+From the reviewed material it can be stablished that several issues need to be addressed in the design stages of any \ac{AR} solution of this nature:
+
+\begin{itemize}
+    \item A library of interactions with the physical and digital environment that is intuitive, usable, easy to learn and that accommodates the hardware being used. These interactions must
+    consider the 3D nature of the technology.
+    \item A protocol for communication and interaction between users. Co-located experiences should capitalise on the ability of the users to be close together, but solutions must consider
+    issues related to coordination, change in points of view, distribution of tasks and general connectivity issues.
+    \item A clear integration with the overall purpose of the tool. This is important when the tool is meant to be a complement to bigger processes, like and assembly line, maintenance or
+    training. The tool should considerer the time and effort required for set up, tracking, interaction, changes of focus and priorities, establishing communications, among others issues.
+    Good examples of projects dealing with these types of issues can be found in \textcite{tang_2003,huang_2013}.
+\end{itemize}
+
+This small sample of projects show an interest in providing the users tools to discuss and communicate ideas, using the capabilities of AR to give a visual anchor to the concepts being
+exposed and to interact with them. An emphasis on offering tangible interfaces shows the importance of providing a sense of \emph{physicality} to the digital information used in the task.
+It also provides an interesting analysis of different approaches to interaction design. \ac{AR} solutions often need to deal with issues related to interactivity and interface problems that
+are unique to projects delving in 3D spaces or that want to use the user's natural body movements as a mean for interaction.
+
+One final step in the analysis of the available literature is to situate collaborative \ac{AR} in the field of education. The \ac{SLR} in section \ref{sec:2-2} analysed analysed \ac{AR} in
+general as a tool for education and found an important focus on single user experiences. Those projects providing collaborative designs were few and showed us a research field that offered
+interesting possibilities and was currently underexplored. \textcite{upadhyay_2024} is a more recent \ac{SLR} that not only explores \ac{AR} technologies in education but also focuses on
+experiences using collaborative design and collaborative learning.
+
+The review identified the importance of mobile technology for \ac{AR} development and collaboration practices, being the most common deployment environment and the most common technique
+used for implementing collaboration. Even more notable in comparison to the results found in the \ac{SLR} of this research is the educational approach used by several of the reports
+reviewed. Projects like \textcite{schiffeler_2019,radu_2023,vassigh_2020,auer_2019} not only explore diverse learning objectives, but they also explore \ac{AR} technologies beyond
+engagement or performance gains, evaluating aspects like communication behaviours, social interactions, induced behaviours (positive and negative), attitudes towards the learning materials
+and changes in learning processes.
+
+Overall, reported benefits align to concepts already discussed in previous sections and fortified the position of this research to focus on visualisation, interactivity and mobile
+communications. When analysing challenges identified in the reviewed material, different authors highlight a couple of interesting ideas. Primarily, there seems to be strong trade-off
+between offering a recognisable environment through mobile technologies that users can easily interact with and the difficulties the students and teachers found in managing new systems and
+new process. It is important to consider that any technological intervention in the classroom implies a high degree of effort in integrating it to the normal flow of the learning experience.
+It requires effort for the technology to become and enabling factor and not an inhibitor or a distraction.
+
+There is also an interesting side effect when assessing the impact of the technology in learning outcomes. Section \ref{sec:2-1-4} briefly mentioned that collaboration is difficult to
+assess. This difficulty can be exacerbated when paired to other, sometimes contradictory learning outcomes, and when the assessment does not consider the raw effects of collaboration in the
+results, positive and negative. The same can be said about the noise in the students' performance created by the addition of an intervening or mediating technology. In conjunction, a
+collaborative approach that uses a mediating technology (not only \ac{AR}) poses a significant challenge for evaluation, performance assessment and other similar tasks. This can be
+evidenced by the diverse and sometimes contradicting reports found in the review by \textcite{upadhyay_2024} and the one performed for this project in relation to what works and what not.
+
+\section{Final Discussion \label{sec:2-4}}
+
+This chapter explored the theoretical framework that supports this research project and examined a varied selection of relevant literature related to the most important issues and research
+trends in the field of collaborative learning, \ac{TEL} and \ac{AR}.
+
+This analysis helped in defining and understanding collaboration as a skill that must be built over time with proper nurture and resources. Collaborative approaches to learning can both
+aim at developing the necessary skills for effective collaboration and at using those skills, such as teamwork, communication and resource management, to boost individual performance,
+create opportunities for emergent learning and offer educators tools for better classroom management.
+
+It is especially relevant in the exploration of different \ac{TEL} scenarios to understand the diversity of configurations and tools that can be used and the short-, medium- and long-term
+consequences for learning, skill development and teaching. Any technology offers benefits and detriments to all these dimensions, and as researchers and educators, it is part of our
+responsibilities to understand them and manage them.
+
+\ac{AR}, as any other technology, has proven to offer unique advantages for education, capable of creating strong visuals, immersion and interactivity. It excels at integrating with the
+user's context, at providing means for exploration, at data-driven scenarios and, central for this proposal, at facilitating shared experiences. On the core of this research project is the
+idea that, in conjunction with mobile platforms, AR provides important advantages to the design of collaborative learning experiences by using the physical context of face-to-face
+collaboration and by innovating and recontextualizing the design of tools for communication.
+
+But it is also necessary to highlight the challenges and issues posed by the chosen technology. It is especially interesting to explore solutions for problems related to connectivity, the
+diverse ecosystem of \ac{AR} devices, the negative effects in the development of social skills and the challenges students face when adapting complex process and requirements into their
+learning projects. It is clear that the technology can be both an enabler and an inhibitor. The goal is to identify the proper approaches to boost the advantages while minimising or
+mitigating the problems.
+
+In the next chapter, the objective will be to use the information gathered in this chapter to properly structure the research and development goals that will guide this project. The
+current state of the art helped at defining a useful conceptual model about collaboration, the development of collaborative skills, collaborative learning and collaborative \ac{AR}
+development. With this information at hand, now it is possible to explain the formal methodological approach for this research and define the proper instruments that will help in the
+constructions of and answer to the questions formulated by the motivational background of the research and the gaps in knowledge found in the literature.

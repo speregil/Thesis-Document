@@ -27,4 +27,5 @@
 \contentsline {subsubsection}{Distribution of Learning Goals }{48}{section*.36}%
 \contentsline {subsection}{\numberline {2.2.4}Discussion }{50}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Collaborative AR }{53}{section.2.3}%
-\contentsline {chapter}{References}{54}{appendix*.39}%
+\contentsline {section}{\numberline {2.4}Final Discussion }{58}{section.2.4}%
+\contentsline {chapter}{References}{59}{appendix*.40}%

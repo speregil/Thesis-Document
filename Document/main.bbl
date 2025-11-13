@@ -375,6 +375,57 @@
       \field{pages}{44\bibrangedash 59}
       \range{pages}{16}
     \endentry
+    \entry{altinpulluk_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8a7657040429cc313e9bfb24ddfdaec}{%
+           family={Altinpulluk},
+           familyi={A\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{fullhash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{fullhashraw}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{bibnamehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authorbibnamehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authornamehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authorfullhash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authorfullhashraw}{d8a7657040429cc313e9bfb24ddfdaec}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study aims to examine 58 articles, published in 8 educational technology journals under the Social Science Citation Index (SSCI) between 2006 and 2016, containing “augmented reality” in their title and, thereby, to determine the trends of using augmented reality (AR) in education by the content analysis technique. In this period of time, the total number of academic publications containing “augmented reality” in the Web of Science database, in all indices, was determined as 3540, and among these publications, 58 articles with SSCI index were analyzed within the scope of the research. It analyzes the change of articles related to AR by years; the usage of methods and data collection tools; education field, educational advantages, the type of applications used, technologies, assets used, physical environments in which researches were carried out, sensory types that applications address to, countries and continents in which the articles were published, and the keywords in these articles. Findings obtained were visualized with tables and graphics. According to the results obtained from the findings, there has been a sudden increase in the number of publications since 2013 and it reached the highest level in 2016, the most commonly used method is the mixed method and the data collection tool is questionnaire, most of the studies are carried out in Science, tablets and smartphones are most used, AR applications address to visual sense mostly and such articles are published mostly in the Asian continent. It has been determined that the most positive effect of AR on education is for academic success and learning motivation. It has been understood that the AR is closely related to disciplines such as human-computer interaction, robotics and remote laboratory systems. In addition, some suggestions have been made to researchers and developers based on these research findings.}
+      \field{issn}{1573-7608}
+      \field{journaltitle}{Education and Information Technologies}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Determining the trends of using augmented reality in education between 2006-2016}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
+      \field{volume}{24}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1089\bibrangedash 1114}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s10639-018-9806-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10639-018-9806-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10639-018-9806-3
+      \endverb
+    \endentry
     \entry{amponsah_2003}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5f8f62ba26a0fa9b7fa6b67fd3adff6f}{%
@@ -431,12 +482,12 @@
     \endentry
     \entry{anderson_2013}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9b5606e9ab1e06176b5c05f0c2b6ce0a}{%
+        {{un=1,uniquepart=given,hash=9b5606e9ab1e06176b5c05f0c2b6ce0a}{%
            family={Anderson},
            familyi={A\bibinitperiod},
            given={Charles},
            giveni={C\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=dd194784f56741a13567b7f9f847afda}{%
            family={McCune},
            familyi={M\bibinitperiod},
@@ -459,7 +510,6 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Higher Education}
@@ -472,6 +522,58 @@
       \range{pages}{14}
       \verb{doi}
       \verb 10.1007/s10734-012-9604-6
+      \endverb
+    \endentry
+    \entry{anderson_2001}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=4b42f1b57e4a94e21e6f50d531f41ddd}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Lorin\bibnamedelima W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Longman,}%
+      }
+      \strng{namehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{fullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{fullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{bibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authorbibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authornamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authorfullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authorfullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Complete ed.}
+      \field{isbn}{978-0-8013-1903-7}
+      \field{note}{Accepted: 2015-11-06T15:44:27Z Artwork Medium: Ressource physique Interview Medium: Ressource physique}
+      \field{shorttitle}{A taxonomy for learning, teaching, and assessing}
+      \field{title}{A taxonomy for learning, teaching, and assessing : a revision of {Bloom}'s taxonomy of educational objectives}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eduq.info/xmlui/handle/11515/18345
+      \endverb
+      \verb{url}
+      \verb https://eduq.info/xmlui/handle/11515/18345
       \endverb
     \endentry
     \entry{andrews_2015}{article}{}{}
@@ -687,6 +789,71 @@
       \verb{url}
       \verb https://www.emerald.com/insight/content/doi/10.1108/13673270310463626/full/html
       \endverb
+    \endentry
+    \entry{arifin_2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=269096009b485a9d468d8542cc616470}{%
+           family={Arifin},
+           familyi={A\bibinitperiod},
+           given={Yulyani},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=255f875e715bf31fae04e917aebfc2cf}{%
+           family={Sastria},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima Galih},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d17bfcff31f373452788230f749879c}{%
+           family={Barlian},
+           familyi={B\bibinitperiod},
+           given={Edo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{73065f8c257a291a90c23166e2e261dd}
+      \strng{fullhash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{fullhashraw}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{bibnamehash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{authorbibnamehash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{authornamehash}{73065f8c257a291a90c23166e2e261dd}
+      \strng{authorfullhash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{authorfullhashraw}{fec56b6793f67351e7a02bfedab9507d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Augmented Reality Technology is developing rapidly and has been widely used in the field of education. Due to the ease of developing AR by non-professionals, User Experience (UX) is often not considered in the application. Currently, there are no standard measurements of UX for AR applications especially in Education. The authors reviewed previous research to obtain UX references and the existing measurement standards. From the results of the review, the metrics were analyzed based on the characteristics of AR, especially in the field of education. The metrics will be recommended for the UX measurement of an AR application. The available standard metrics can be used to determine the UX quality of an AR application and contribute to the improvement of UX in AR applications, especially in the field of Education.}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{The 3rd {International} {Conference} on {Computer} {Science} and {Computational} {Intelligence} ({ICCSCI} 2018) : {Empowering} {Smart} {Technology} in {Digital} {Era} for a {Better} {Life}}
+      \field{shorttitle}{User {Experience} {Metric} for {Augmented} {Reality} {Application}}
+      \field{title}{User {Experience} {Metric} for {Augmented} {Reality} {Application}: {A} {Review}}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{volume}{135}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{648\bibrangedash 656}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.procs.2018.08.221
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S187705091831514X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S187705091831514X
+      \endverb
+      \keyw{arithmetic word problem,intelligent humanoid robot,natural language processing,question answering system}
     \endentry
     \entry{asrori_2020}{article}{}{}
       \name{author}{2}{}{%
@@ -1284,6 +1451,61 @@
       \verb{doi}
       \verb 10.1007/978-3-319-02600-8_7
       \endverb
+    \endentry
+    \entry{bloom_1964}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=50e8e022179061177c793aec675487c0}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Benjamin\bibnamedelima Samuel},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fad4a136c526cb05d628318e64983d}{%
+           family={Engelhart},
+           familyi={E\bibinitperiod},
+           given={Max\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d912884f00ec5e5f26b7f4de893403}{%
+           family={Furst},
+           familyi={F\bibinitperiod},
+           given={Edward\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f594583f5595ce6149315a63bd180d1d}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Walker\bibnamedelima H},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Longmans, Green New York}%
+      }
+      \strng{namehash}{cf2c83e57658a0a5d39d8bffe41c7ccf}
+      \strng{fullhash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{fullhashraw}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{bibnamehash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{authorbibnamehash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{authornamehash}{cf2c83e57658a0a5d39d8bffe41c7ccf}
+      \strng{authorfullhash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{authorfullhashraw}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Taxonomy of educational objectives}
+      \field{volume}{2}
+      \field{year}{1964}
     \endentry
     \entry{boahin_2013}{article}{}{}
       \name{author}{2}{}{%
@@ -1922,6 +2144,74 @@
       \endverb
       \keyw{Augmented Reality,literature review,trends of Augmented Reality}
     \endentry
+    \entry{cheng_2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e657d1a4eb60949b04ff8b7f112e73f4}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Ya-Wen},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c78503aaa49a656724e2cb1160afaf62}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuping},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1524071e724768504acf2ed1f96b8ac4}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={I-Ling},
+           giveni={I\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29f4e01f724e4e67aed574c2d930b008}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Nian-Shing},
+           giveni={N\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1edcb24cdc166235600e7495f3ecd080}
+      \strng{fullhash}{9387655bd29398d9a176c54813d41e35}
+      \strng{fullhashraw}{9387655bd29398d9a176c54813d41e35}
+      \strng{bibnamehash}{9387655bd29398d9a176c54813d41e35}
+      \strng{authorbibnamehash}{9387655bd29398d9a176c54813d41e35}
+      \strng{authornamehash}{1edcb24cdc166235600e7495f3ecd080}
+      \strng{authorfullhash}{9387655bd29398d9a176c54813d41e35}
+      \strng{authorfullhashraw}{9387655bd29398d9a176c54813d41e35}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1049-4820, 1744-5191}
+      \field{journaltitle}{Interactive Learning Environments}
+      \field{month}{8}
+      \field{number}{5-6}
+      \field{title}{An in-depth analysis of the interaction transitions in a collaborative {Augmented} {Reality}-based mathematic game}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{782\bibrangedash 796}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/10494820.2019.1610448
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1610448
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1610448
+      \endverb
+    \endentry
     \entry{chowdhury_2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=da6c62ec92e8cc5ecab3cab59edd1a0a}{%
@@ -2064,6 +2354,51 @@
       \field{labeltitlesource}{title}
       \field{title}{Designing {UX}: {Prototyping}: {Because} {Modern} {Design} is {Never} {Static}}
       \field{year}{2017}
+    \endentry
+    \entry{cook_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d8164c4160dbf8762983b4f950623603}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Bryan\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cd86dac802bf8b14dfe898ad644c1f6}{%
+           family={Therrien},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{fullhash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{fullhashraw}{6ae2fdc8587016257dd07eac39389097}
+      \strng{bibnamehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authorbibnamehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authornamehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authorfullhash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authorfullhashraw}{6ae2fdc8587016257dd07eac39389097}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Disorders}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Null {Effects} and {Publication} {Bias} in {Special} {Education} {Research}}
+      \field{volume}{42}
+      \field{year}{2017}
+      \field{pages}{149\bibrangedash 158}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0198742917709473
+      \endverb
     \endentry
     \entry{crant_2000}{article}{}{}
       \name{author}{1}{}{%
@@ -2390,6 +2725,51 @@
       \verb http://peer.asee.org/19274
       \endverb
     \endentry
+    \entry{dawson_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1e9e285ed7330eb437fe8727320072b6}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=05150fcd81c390afa1332d1f75af6da1}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Samantha\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{fullhash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{fullhashraw}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{bibnamehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authorbibnamehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authornamehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authorfullhash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authorfullhashraw}{13fd7b7585c7c734c09eaec3d57401e5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Higher Education}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Sharing successes and hiding failures: ‘reporting bias’ in learning and teaching research}
+      \field{volume}{43}
+      \field{year}{2018}
+      \field{pages}{1405\bibrangedash 1416}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/03075079.2016.1258052
+      \endverb
+    \endentry
     \entry{dawson_2017}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8f345046b6040f23141d8ac51e598b4b}{%
@@ -2492,6 +2872,58 @@
       \verb{url}
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
+    \endentry
+    \entry{dey_2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f7108a9df7e7cc38e52c28489ca8c06d}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Arindam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6248911c938582a72073535203484be}{%
+           family={Lindeman},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e30a088c8192df272535c315df2e2367}{%
+           family={Swan},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima Edward},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{4e4c8c10835984e56bb3901894cfc2c0}
+      \strng{fullhash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{fullhashraw}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{bibnamehash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{authorbibnamehash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{authornamehash}{4e4c8c10835984e56bb3901894cfc2c0}
+      \strng{authorfullhash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{authorfullhashraw}{6e3376f52a34206ba03dbe08b38fd272}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Robotics and AI}
+      \field{title}{A systematic review of 10 years of augmented reality usability studies: 2005 to 2014}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{pages}{37}
+      \range{pages}{1}
     \endentry
     \entry{dillenbourg_2007}{article}{}{}
       \name{author}{2}{}{%
@@ -3186,6 +3618,55 @@
       \verb http://www.tandfonline.com/doi/abs/10.1080/03906701.2014.894335
       \endverb
     \endentry
+    \entry{fuchs_1982}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c02fc98ddb0233569a58afabbfa7bc6b}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Lynn\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a133b83311b5156c5cf5ad0a442b4dc}{%
+           family={Deno},
+           familyi={D\bibinitperiod},
+           given={Stanley\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{fullhash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{fullhashraw}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{bibnamehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authorbibnamehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authornamehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authorfullhash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authorfullhashraw}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This module (part of a series of 24 modules) is on formulating educational goals and objectives, and methods and rationale for writing them as behavioral statements. The genesis of these materials is in the 10 "clusters of capabilities," outlined in the paper, "A Common Body of Practice for Teachers: The Challenge of Public Law 94-142 to Teacher Education." These clusters form the proposed core of professional knowledge needed by teachers in the future. The module is to be used by teacher educators to reexamine and enhance their current practice in preparing classroom teachers to work competently and comfortably with children who have a wide range of individual needs. The module includes objectives, scales for assessing the degree to which the identified knowledge and practices are prevalent in an existing teacher education program, and self-assessment test items. Bibliographic references and journal articles on developing goals and objectives for educational programs are included. (JD)}
+      \field{month}{8}
+      \field{title}{Developing {Goals} and {Objectives} for {Educational} {Programs}}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{1982}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=ED249211
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=ED249211
+      \endverb
+      \keyw{Behavioral Objectives,Educational Objectives,Higher Education,Learning Modules,Learning Strategies,Mainstreaming,Preservice Teacher Education,Teacher Education Curriculum,Teacher Educators}
+    \endentry
     \entry{garst_2019}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c5bcc235f2c22f89cf0f9bba878001c3}{%
@@ -3745,6 +4226,52 @@
       \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
       \endverb
     \endentry
+    \entry{guskey_2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0c8049a498478c54421e1380122cf1a}{%
+           family={Guskey},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Eric}%
+      }
+      \strng{namehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{fullhash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{fullhashraw}{b0c8049a498478c54421e1380122cf1a}
+      \strng{bibnamehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authorbibnamehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authornamehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authorfullhash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authorfullhashraw}{b0c8049a498478c54421e1380122cf1a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Few individuals in the history of education have had greater impact on education policy and practice than Benjamin S. Bloom. During a career that spanned more than 5 decades, his research and writing guided the development of many educational programs and provided insights into the untapped potential of educators to have all students learn well. Bloom's contributions to education began during his years in the Office of the Board of Examiners at the University of Chicago, where he worked from 1940 to 1959. Much of his work at this time focused on the relationships among methods of instruction, educational outcomes, and measurement of those outcomes. This work led to his first book in 1950 and eventually to the work for which he is best known, the "Taxonomy of Educational Objectives, Handbook I: The Cognitive Domain." In 1959 Bloom spent a year at the Center for Advanced Study in Behavioral Sciences at Stanford University. This year marked a shift in high research and writing, as Bloom began to concentrate on problems in learning, rather than problems in testing, measurement, and evaluation. Bloom's most notable contribution to teaching and learning was his work in developing the theory and practice of mastery learning. Mastery learning was developed as a way for teachers to provide higher quality and more appropriate instruction for their students. Mastery learning depends on feedback, correctives, and enrichments, combined with another essential element of mastery learning, congruence among instructional components. Mastery learning is not an educational panacea, but careful attention to the essential elements of mastery learning will allow educators at all levels to make great strides toward the goal of all children learning excellently. (Contains 44 references.) (SLD)}
+      \field{month}{4}
+      \field{title}{Benjamin {S}. {Bloom}'s {Contributions} to {Curriculum}, {Instruction}, and {School} {Learning}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=ED457185
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=ED457185
+      \endverb
+      \keyw{Classification,Curriculum,Educational History,Educational Objectives,Educational Policy,Educational Theories,Mastery Learning,Teaching Methods,Test Construction,Test Use}
+    \endentry
     \entry{hamad_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fac6cfe753e70a84a320f3a9fa9ac77}{%
@@ -3788,6 +4315,65 @@
       \verb{doi}
       \verb 10.3390/ijerph191811278
       \endverb
+    \endentry
+    \entry{healy_2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e8e10f0bb5298aaa5bcde9c7d38fcd7}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c167d08792c6a3a5d36a4003bef5e865}{%
+           family={Taran},
+           familyi={T\bibinitperiod},
+           given={Zinaida},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5da2f631347a805387a3ca362ea5d00}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bffec745352d26917f82a3e397aacda9}
+      \strng{fullhash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{fullhashraw}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{bibnamehash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{authorbibnamehash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{authornamehash}{bffec745352d26917f82a3e397aacda9}
+      \strng{authorfullhash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{authorfullhashraw}{bee32f52f79422b4039da666d02ca5c8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Practitioner concerns and the changing educational marketplace are pressuring colleges to provide more skills based learning. Among the newer skill based areas of study that is greatly in demand is professional sales. In this paper, two courses in a successful professional sales program are examined through the lenses of experiential learning theory and Bloom's taxonomy of educational objectives. Experiential learning theory posits that cycles of experience and reflection can create greater levels of understanding and skills. Bloom's taxonomy provides a sequence of increasingly comprehensive and complex levels of learning. These two frameworks are conceptually combined to show how experiential learning cycles can incrementally move students to higher levels of learning. The exercises and activities in the professional sales courses support and illustrate this important concept and show how tangible, marketable skills can be developed in a classroom setting.}
+      \field{issn}{1941-3394}
+      \field{journaltitle}{Journal of Instructional Pedagogies}
+      \field{month}{9}
+      \field{note}{Publisher: Academic and Business Research Institute}
+      \field{title}{Sales {Course} {Design} {Using} {Experiential} {Learning} {Principles} and {Bloom}'s {Taxonomy}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=EJ1097018
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=EJ1097018
+      \endverb
+      \keyw{Experiential Learning,Instructional Design,Job Skills,Learning Activities,Learning Theories,Sales Occupations,Salesmanship,Sequential Learning,Skill Development,Student Educational Objectives,Taxonomy}
     \endentry
     \entry{hibbert_2005}{article}{}{}
       \name{author}{2}{}{%
@@ -3938,6 +4524,70 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7344043/
+      \endverb
+    \endentry
+    \entry{hsu_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8d1bf92788d07834420d85915c486ec4}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Hsiao-Ping},
+           giveni={H\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d4ac634707ac182e6e3c3cfb20ea4ee}{%
+           family={Wenting},
+           familyi={W\bibinitperiod},
+           given={Zou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bd7eb73d5efc6897323a782abe3234d}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Joan\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2d0382a93806fead0b202b0eb1b00060}
+      \strng{fullhash}{3800b42beaea910b918689858cc3d262}
+      \strng{fullhashraw}{3800b42beaea910b918689858cc3d262}
+      \strng{bibnamehash}{3800b42beaea910b918689858cc3d262}
+      \strng{authorbibnamehash}{3800b42beaea910b918689858cc3d262}
+      \strng{authornamehash}{2d0382a93806fead0b202b0eb1b00060}
+      \strng{authorfullhash}{3800b42beaea910b918689858cc3d262}
+      \strng{authorfullhashraw}{3800b42beaea910b918689858cc3d262}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This mixed-method case study investigated digital literacy (DL) development among 32 elementary-level students who created multimodal, contextual, and interactive augmented reality (AR) artifacts in a 20-week after-school program in Northern Taiwan. The instructional design combined situated and spiral learning experiences with AR, implemented through a blended learning environment. Data sources included pre- and post-program digital learning student surveys, student and teacher interviews, classroom observations, and AR artifact assessments. Results indicated statistically significant increases with moderate effect sizes in five areas of students’ DL practices: information management; collaboration; communication and sharing; creation; and evaluation and problem-solving. Students did not increase DL in one area: ethics and responsibility. The situated and spiral learning-by-design approach offered increasingly complex AR creation projects in which students developed and transferred their DL. The face-to-face and online learning settings offered multiple ways to collaborate and facilitated the development of students’ DL. The AR technology enabled students to develop DL through designing AR using three types of representation features: multimodal, interactive, and contextual. Practical and theoretical implications for adapting or enhancing this instructional design in future DL programs and for future research are discussed.}
+      \field{issn}{0735-6331, 1541-4140}
+      \field{journaltitle}{Journal of Educational Computing Research}
+      \field{month}{10}
+      \field{number}{6}
+      \field{shorttitle}{Developing {Elementary} {Students}’ {Digital} {Literacy} {Through} {Augmented} {Reality} {Creation}}
+      \field{title}{Developing {Elementary} {Students}’ {Digital} {Literacy} {Through} {Augmented} {Reality} {Creation}: {Insights} {From} a {Longitudinal} {Analysis} of {Questionnaires}, {Interviews}, and {Projects}}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{57}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1400\bibrangedash 1435}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1177/0735633118794515
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0735633118794515
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0735633118794515
       \endverb
     \endentry
     \entry{huynh_2024}{article}{}{}
@@ -4678,6 +5328,81 @@
       \verb http://ieeexplore.ieee.org/document/53713/
       \endverb
     \endentry
+    \entry{kim_2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=0422692e95d038fa0b25f3d9a3aceac5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hayun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e2ac7b10c9286a642acfe5d04833e10}{%
+           family={Matuszka},
+           familyi={M\bibinitperiod},
+           given={Tamás},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69dac8d8ced9432103529fd7d242bad5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jea-In},
+           giveni={J\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=209046b82050b754351358ad11318ba3}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jungwha},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9165761f8ada6871689b6b78a8c497e7}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={Woontack},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{189abd5ce83ebbde184a5860d2632636}
+      \strng{fullhash}{342e61e24246506928b28bcb7701166a}
+      \strng{fullhashraw}{342e61e24246506928b28bcb7701166a}
+      \strng{bibnamehash}{342e61e24246506928b28bcb7701166a}
+      \strng{authorbibnamehash}{342e61e24246506928b28bcb7701166a}
+      \strng{authornamehash}{189abd5ce83ebbde184a5860d2632636}
+      \strng{authorfullhash}{342e61e24246506928b28bcb7701166a}
+      \strng{authorfullhashraw}{342e61e24246506928b28bcb7701166a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1380-7501, 1573-7721}
+      \field{journaltitle}{Multimedia Tools and Applications}
+      \field{month}{12}
+      \field{number}{24}
+      \field{shorttitle}{Ontology-based mobile augmented reality in cultural heritage sites}
+      \field{title}{Ontology-based mobile augmented reality in cultural heritage sites: information modeling and user study}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{76}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{26001\bibrangedash 26029}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1007/s11042-017-4868-6
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s11042-017-4868-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11042-017-4868-6
+      \endverb
+    \endentry
     \entry{kirkwood_2014}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e9c73d46422cb2223bae9834586d0b6f}{%
@@ -5156,6 +5881,55 @@
       \verb https://sk.sagepub.com/books/trust-in-organizations
       \endverb
     \endentry
+    \entry{krathwohl_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{fullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{fullhashraw}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{bibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorbibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authornamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorfullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorfullhashraw}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0040-5841}
+      \field{journaltitle}{Theory Into Practice}
+      \field{month}{11}
+      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1207/s15430421tip4104\_2}
+      \field{number}{4}
+      \field{shorttitle}{A {Revision} of {Bloom}'s {Taxonomy}}
+      \field{title}{A {Revision} of {Bloom}'s {Taxonomy}: {An} {Overview}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{212\bibrangedash 218}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1207/s15430421tip4104_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1207/s15430421tip4104_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1207/s15430421tip4104_2
+      \endverb
+    \endentry
     \entry{kropp_2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ffa4c0822328908ba2a5ad9a5fba54b6}{%
@@ -5299,6 +6073,56 @@
       \field{year}{1991}
       \keyw{Learning,Psychology of,Transfer of training}
     \endentry
+    \entry{lee_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5422ce05df1b617607b696045923ed48}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={I-Jui},
+           giveni={I\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5422ce05df1b617607b696045923ed48}
+      \strng{fullhash}{5422ce05df1b617607b696045923ed48}
+      \strng{fullhashraw}{5422ce05df1b617607b696045923ed48}
+      \strng{bibnamehash}{5422ce05df1b617607b696045923ed48}
+      \strng{authorbibnamehash}{5422ce05df1b617607b696045923ed48}
+      \strng{authornamehash}{5422ce05df1b617607b696045923ed48}
+      \strng{authorfullhash}{5422ce05df1b617607b696045923ed48}
+      \strng{authorfullhashraw}{5422ce05df1b617607b696045923ed48}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Children with autism spectrum disorder (ASD) often find it difficult to communicate using body language and facial expressions to respond appropriately socially. This negatively affects the quality of their everyday social life. Children with ASD can learn to socially interact with virtual three-dimensional (3D) characters in animated games enhanced with augmented reality (AR). They can learn about body language and facial expressions through roleplay. This teaching method can effectively improve the interactive social skills of children with ASD and reduce the fear and anxiety which they typically experience when they face real people. However, most current virtual roleplay models focus only on predefined body language and facial expressions limited by the training system. These systems lack immediacy and a sense of genuine interaction for children with ASD. Therefore, we wanted to create a system that will allow trainers and therapists to control 3D virtual characters that are able to produce in real time the full range of natural body language and facial expressions appropriate for males, females, and even special cartoon characters. Based on the multiple baseline design across subjects, the data indicated that real-time Kinect Skeletal Tracking (KST) System can help the children with ASD improved their social interaction.}
+      \field{issn}{1049-4820}
+      \field{journaltitle}{Interactive Learning Environments}
+      \field{month}{5}
+      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1080/10494820.2019.1710851}
+      \field{number}{4}
+      \field{title}{Kinect-for-windows with augmented reality in an interactive roleplay system for children with an autism spectrum disorder}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{29}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{688\bibrangedash 704}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1080/10494820.2019.1710851
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/10494820.2019.1710851
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/10494820.2019.1710851
+      \endverb
+      \keyw{Autism spectrum disorder,Wizard of Oz experiment,augmented reality,interactive learning environment,real-time Kinect Skeletal Tracking System}
+    \endentry
     \entry{lehtinen_1999}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=51af6ff570963dfc77a0b0db6d2954ec}{%
@@ -5356,6 +6180,63 @@
       \field{year}{1999}
       \field{pages}{1999}
       \range{pages}{1}
+    \endentry
+    \entry{lim_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1e15ce438466f37343ee9fecc8995f6b}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Kenneth\bibnamedelimb Y.\bibnamedelimi T.},
+           giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a69a8b8f177d678b3c1d85940f28fd15}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{fullhash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{fullhashraw}{cb79843a13c5c901757f915fc3e36173}
+      \strng{bibnamehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authorbibnamehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authornamehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authorfullhash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authorfullhashraw}{cb79843a13c5c901757f915fc3e36173}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Semiotics, memory and augmented reality}
+      \field{title}{Semiotics, memory and augmented reality: {History} education with learner‐generated augmentation}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{51}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{673\bibrangedash 691}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/bjet.12904
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjet.12904
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjet.12904
+      \endverb
     \endentry
     \entry{lingard_2012}{article}{}{}
       \name{author}{2}{}{%
@@ -5643,6 +6524,51 @@
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
       \endverb
+    \endentry
+    \entry{madden_2020}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7a180ad56fcb8ffeb3ab19e5a4904ed9}{%
+           family={Madden},
+           familyi={M\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54c982e91045b4b416f4dbff9a9318fe}{%
+           family={Beyers},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima ER},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be0dac3daa153c099682f1b876429b13}{%
+           family={Stanton},
+           familyi={S\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{465ef00a39a4369d7af4894016d58c4a}
+      \strng{fullhash}{932417a504398f7aa88c804076026df4}
+      \strng{fullhashraw}{932417a504398f7aa88c804076026df4}
+      \strng{bibnamehash}{932417a504398f7aa88c804076026df4}
+      \strng{authorbibnamehash}{932417a504398f7aa88c804076026df4}
+      \strng{authornamehash}{465ef00a39a4369d7af4894016d58c4a}
+      \strng{authorfullhash}{932417a504398f7aa88c804076026df4}
+      \strng{authorfullhashraw}{932417a504398f7aa88c804076026df4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Critical Questions in STEM Education}
+      \field{title}{Future elementary teachers’ perspectives on the importance of STEM}
+      \field{year}{2020}
+      \field{pages}{211\bibrangedash 225}
+      \range{pages}{15}
     \endentry
     \entry{marasi_2019}{article}{}{}
       \name{author}{1}{}{%
@@ -6111,6 +7037,64 @@
       \verb http://www.ijmtss.com/PDF/IJMTSS-2021-15-03-07.pdf
       \endverb
     \endentry
+    \entry{newton_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=12bd56fd8132c2dec3f759825e94ad83}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={Philip\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c5a84af77a406c54d6af9fd6acf0f6d}{%
+           family={Da\bibnamedelima Silva},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=877ac7f9214b7456bc1fa276fd6d83ea}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Lee\bibnamedelima George},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73d6bb4b308fe4e7a0dfa1208256cc79}
+      \strng{fullhash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{fullhashraw}{741596b242ebcf273041b74e9ef7acef}
+      \strng{bibnamehash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{authorbibnamehash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{authornamehash}{73d6bb4b308fe4e7a0dfa1208256cc79}
+      \strng{authorfullhash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{authorfullhashraw}{741596b242ebcf273041b74e9ef7acef}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2504-284X}
+      \field{journaltitle}{Frontiers in Education}
+      \field{month}{7}
+      \field{title}{A {Pragmatic} {Master} {List} of {Action} {Verbs} for {Bloom}'s {Taxonomy}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{107}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/feduc.2020.00107
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/feduc.2020.00107/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/feduc.2020.00107/full
+      \endverb
+    \endentry
     \entry{ng_2021}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=78832399079286e46cc14dff2236a4e1}{%
@@ -6493,6 +7477,208 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
       \endverb
     \endentry
+    \entry{page_2021}{article}{}{}
+      \name{author}{26}{}{%
+        {{un=0,uniquepart=base,hash=016b86afb0a98379bf77b3f074f34761}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
+           family={Bossuyt},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa885033d820893c45692b99c8b4bbc6}{%
+           family={Boutron},
+           familyi={B\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fd2430e75c6bb84661c811e408f6377}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Tammy\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9da5818ae381747539d8a98ecf2d13b1}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
+           family={Shamseer},
+           familyi={S\bibinitperiod},
+           given={Larissa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=640f8392f6a7388c779d2b60fdd93350}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ca61686dc125837a0d9741be62f3427}{%
+           family={Akl},
+           familyi={A\bibinitperiod},
+           given={Elie\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e822c8724e88eb518ec5eb8015bbaab0}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Sue\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01e789422f68da54234ac2f1e791eac4}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
+           family={Glanville},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18acccd95580a48bd6c5f4010bb058a7}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={Jeremy\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
+           family={Hróbjartsson},
+           familyi={H\bibinitperiod},
+           given={Asbjørn},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
+           family={Lalu},
+           familyi={L\bibinitperiod},
+           given={Manoj\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0100456cf4ced53a2aab31f2c3055f6a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tianjing},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e270d436c864242b119a3605283c8bf}{%
+           family={Loder},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d149e7026acd95db856d30314dba9a9e}{%
+           family={Mayo-Wilson},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7314b4cde4c01764b4b3580e015b768}{%
+           family={McGuinness},
+           familyi={M\bibinitperiod},
+           given={Luke\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d600e9a8a01053464e53fc2aadeb009b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Lesley\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
+           family={Tricco},
+           familyi={T\bibinitperiod},
+           given={Andrea\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75fdbaed8e43fddb210da313631d8639}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Vivian\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792d7051a4c2169e6aac0073ce62ba8e}{%
+           family={Whiting},
+           familyi={W\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c647eae0c93ec008ebe092eb144eeee}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{fullhash}{95da0662bd7f8a855af307b9f5baa381}
+      \strng{fullhashraw}{95da0662bd7f8a855af307b9f5baa381}
+      \strng{bibnamehash}{436e48a4b00b77c368e89ec629842279}
+      \strng{authorbibnamehash}{436e48a4b00b77c368e89ec629842279}
+      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authorfullhash}{95da0662bd7f8a855af307b9f5baa381}
+      \strng{authorfullhashraw}{95da0662bd7f8a855af307b9f5baa381}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{<}p{>}The methods and results of systematic reviews should be reported in sufficient detail to allow users to assess the trustworthiness and applicability of the review findings. The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement was developed to facilitate transparent and complete reporting of systematic reviews and has been updated (to PRISMA 2020) to reflect recent advances in systematic review methodology and terminology. Here, we present the explanation and elaboration paper for PRISMA 2020, where we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews. We hope that changes to the content and structure of PRISMA 2020 will facilitate uptake of the guideline and lead to more transparent, complete, and accurate reporting of systematic reviews.{<}/p{>}}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{BMJ}
+      \field{month}{3}
+      \field{note}{Publisher: British Medical Journal Publishing Group Section: Research Methods \&amp; Reporting}
+      \field{shorttitle}{{PRISMA} 2020 explanation and elaboration}
+      \field{title}{{PRISMA} 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{372}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{n160}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj.n160
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bmj.com/content/372/bmj.n160
+      \endverb
+      \verb{url}
+      \verb https://www.bmj.com/content/372/bmj.n160
+      \endverb
+    \endentry
     \entry{passey_2019}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af5d1c1f952b3d878d0984806a855a59}{%
@@ -6808,6 +7994,63 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0147176711000939
+      \endverb
+    \endentry
+    \entry{radmehr_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6cba7e6c690a7ef3c366384ee1bd03c9}{%
+           family={Radmehr},
+           familyi={R\bibinitperiod},
+           given={Farzad},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c96a0fdc6231cbc62a70f2077dbac12a}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{fullhash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{fullhashraw}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{bibnamehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authorbibnamehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authornamehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authorfullhash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authorfullhashraw}{752c337ad0a6bf2a80e9a16152c33a52}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0020-739X, 1464-5211}
+      \field{journaltitle}{International Journal of Mathematical Education in Science and Technology}
+      \field{month}{11}
+      \field{number}{8}
+      \field{shorttitle}{Revised {Bloom}'s taxonomy and integral calculus}
+      \field{title}{Revised {Bloom}'s taxonomy and integral calculus: unpacking the knowledge dimension}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{48}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1206\bibrangedash 1224}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/0020739X.2017.1321796
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0020739X.2017.1321796
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0020739X.2017.1321796
       \endverb
     \endentry
     \entry{reinius_2021}{article}{}{}
@@ -7223,6 +8466,79 @@
       \field{year}{2019}
       \keyw{Blended learning,Computer-assisted instruction,Flipped classrooms,Group work in education,Student participation in curriculum planning}
     \endentry
+    \entry{schaper_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=63446a3aac84fb7e681320caff452da0}{%
+           family={Schaper},
+           familyi={S\bibinitperiod},
+           given={Marie-Monique},
+           giveni={M\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b68b37a452518551d54da3c63e2f58e6}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63e9a3cdab615c9cbb24a6203248dc32}{%
+           family={Malinverni},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c5c5f459fb38af65d85fe1d1d15fbb1}{%
+           family={Zerbini\bibnamedelima Berro},
+           familyi={Z\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=206b19375cc869875fba8204ede3ad6c}{%
+           family={Pares},
+           familyi={P\bibinitperiod},
+           given={Narcis},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f6e8ab648ed5e48edcde8633387f159e}
+      \strng{fullhash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{fullhashraw}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{bibnamehash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{authorbibnamehash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{authornamehash}{f6e8ab648ed5e48edcde8633387f159e}
+      \strng{authorfullhash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{authorfullhashraw}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10715819}
+      \field{journaltitle}{International Journal of Human-Computer Studies}
+      \field{month}{6}
+      \field{title}{Learning about the past through situatedness, embodied exploration and digital augmentation of cultural heritage sites}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{114}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{36\bibrangedash 50}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.ijhcs.2018.01.003
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S107158191830003X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S107158191830003X
+      \endverb
+    \endentry
     \entry{schmalstieg_2016}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f6035f7910d5cc507115c42426a5f034}{%
@@ -7414,6 +8730,67 @@
       \verb https://dx.plos.org/10.1371/journal.pone.0166437
       \endverb
     \endentry
+    \entry{siddaway_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0be5b2ce23eb1e0d8bb66f0f500d98cb}{%
+           family={Siddaway},
+           familyi={S\bibinitperiod},
+           given={Andy\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6a6bb46e1e7b6149ff737e4e7cfde50}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Alex\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d830e562fdeb21242e790204147b207}{%
+           family={Hedges},
+           familyi={H\bibinitperiod},
+           given={Larry\bibnamedelima V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e13a8ea517b6aaffbe4776b5561388a}
+      \strng{fullhash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{fullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{bibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{authorbibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{authornamehash}{4e13a8ea517b6aaffbe4776b5561388a}
+      \strng{authorfullhash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{authorfullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Systematic reviews are characterized by a methodical and replicable methodology and presentation. They involve a comprehensive search to locate all relevant published and unpublished work on a subject; a systematic integration of search results; and a critique of the extent, nature, and quality of evidence in relation to a particular research question. The best reviews synthesize studies to draw broad theoretical conclusions about what a literature means, linking theory to evidence and evidence to theory. This guide describes how to plan, conduct, organize, and present a systematic review of quantitative (meta-analysis) or qualitative (narrative review, meta-synthesis) information. We outline core standards and principles and describe commonly encountered problems. Although this guide targets psychological scientists, its high level of abstraction makes it potentially relevant to any subject area or discipline. We argue that systematic reviews are a key methodology for clarifying whether and how research findings replicate and for explaining possible inconsistencies, and we call for researchers to conduct systematic reviews to help elucidate whether there is a replication crisis.}
+      \field{journaltitle}{Annual Review of Psychology}
+      \field{note}{\_eprint: https://doi.org/10.1146/annurev-psych-010418-102803}
+      \field{number}{1}
+      \field{shorttitle}{How to {Do} a {Systematic} {Review}}
+      \field{title}{How to {Do} a {Systematic} {Review}: {A} {Best} {Practice} {Guide} for {Conducting} and {Reporting} {Narrative} {Reviews}, {Meta}-{Analyses}, and {Meta}-{Syntheses}}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{70}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{747\bibrangedash 770}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1146/annurev-psych-010418-102803
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1146/annurev-psych-010418-102803
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1146/annurev-psych-010418-102803
+      \endverb
+      \keyw{evidence,guide,meta-analysis,meta-synthesis,narrative,systematic review,theory}
+    \endentry
     \entry{smaldone_2022}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a9fb22433e29df966d779c34b10a6e52}{%
@@ -7577,6 +8954,58 @@
       \endverb
       \verb{url}
       \verb http://rgdoi.net/10.13140/RG.2.1.4241.7766
+      \endverb
+    \endentry
+    \entry{stanny_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b64b783159b6ec1d8238e173f5704aa}{%
+           family={Stanny},
+           familyi={S\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{fullhash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{fullhashraw}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{bibnamehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authorbibnamehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authornamehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authorfullhash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authorfullhashraw}{3b64b783159b6ec1d8238e173f5704aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Faculty and assessment professionals rely on Bloom’s taxonomy to guide them when they write measurable student learning outcomes and describe their goals for developing students’ thinking skills. Over the past ten years, assessment offices and teaching and learning centers have compiled lists of measurable verbs aligned with the six categories that comprise Bloom’s taxonomy. The author analyzed 30 compilations posted on web sites and evaluated how well these verbs aligned with categories in Bloom’s taxonomy. The author discusses the value of Bloom’s taxonomy as a heuristic for writing student learning outcomes and other factors faculty should consider when they articulate learning outcomes to describe levels of expertise attained by students who complete an associate’s, bachelor’s, or graduate degree.}
+      \field{issn}{2227-7102}
+      \field{journaltitle}{Education Sciences}
+      \field{month}{11}
+      \field{number}{4}
+      \field{shorttitle}{Reevaluating {Bloom}’s {Taxonomy}}
+      \field{title}{Reevaluating {Bloom}’s {Taxonomy}: {What} {Measurable} {Verbs} {Can} and {Cannot} {Say} about {Student} {Learning}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{37}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/educsci6040037
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2227-7102/6/4/37
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2227-7102/6/4/37
       \endverb
     \endentry
     \entry{sutipitakwong_2020}{article}{}{}
@@ -9250,6 +10679,57 @@
       \field{pages}{44\bibrangedash 59}
       \range{pages}{16}
     \endentry
+    \entry{altinpulluk_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8a7657040429cc313e9bfb24ddfdaec}{%
+           family={Altinpulluk},
+           familyi={A\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{fullhash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{fullhashraw}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{bibnamehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authorbibnamehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authornamehash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authorfullhash}{d8a7657040429cc313e9bfb24ddfdaec}
+      \strng{authorfullhashraw}{d8a7657040429cc313e9bfb24ddfdaec}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study aims to examine 58 articles, published in 8 educational technology journals under the Social Science Citation Index (SSCI) between 2006 and 2016, containing “augmented reality” in their title and, thereby, to determine the trends of using augmented reality (AR) in education by the content analysis technique. In this period of time, the total number of academic publications containing “augmented reality” in the Web of Science database, in all indices, was determined as 3540, and among these publications, 58 articles with SSCI index were analyzed within the scope of the research. It analyzes the change of articles related to AR by years; the usage of methods and data collection tools; education field, educational advantages, the type of applications used, technologies, assets used, physical environments in which researches were carried out, sensory types that applications address to, countries and continents in which the articles were published, and the keywords in these articles. Findings obtained were visualized with tables and graphics. According to the results obtained from the findings, there has been a sudden increase in the number of publications since 2013 and it reached the highest level in 2016, the most commonly used method is the mixed method and the data collection tool is questionnaire, most of the studies are carried out in Science, tablets and smartphones are most used, AR applications address to visual sense mostly and such articles are published mostly in the Asian continent. It has been determined that the most positive effect of AR on education is for academic success and learning motivation. It has been understood that the AR is closely related to disciplines such as human-computer interaction, robotics and remote laboratory systems. In addition, some suggestions have been made to researchers and developers based on these research findings.}
+      \field{issn}{1573-7608}
+      \field{journaltitle}{Education and Information Technologies}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Determining the trends of using augmented reality in education between 2006-2016}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
+      \field{volume}{24}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1089\bibrangedash 1114}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s10639-018-9806-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10639-018-9806-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10639-018-9806-3
+      \endverb
+    \endentry
     \entry{amponsah_2003}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5f8f62ba26a0fa9b7fa6b67fd3adff6f}{%
@@ -9306,12 +10786,12 @@
     \endentry
     \entry{anderson_2013}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9b5606e9ab1e06176b5c05f0c2b6ce0a}{%
+        {{un=1,uniquepart=given,hash=9b5606e9ab1e06176b5c05f0c2b6ce0a}{%
            family={Anderson},
            familyi={A\bibinitperiod},
            given={Charles},
            giveni={C\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=dd194784f56741a13567b7f9f847afda}{%
            family={McCune},
            familyi={M\bibinitperiod},
@@ -9334,7 +10814,6 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Higher Education}
@@ -9347,6 +10826,58 @@
       \range{pages}{14}
       \verb{doi}
       \verb 10.1007/s10734-012-9604-6
+      \endverb
+    \endentry
+    \entry{anderson_2001}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=4b42f1b57e4a94e21e6f50d531f41ddd}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Lorin\bibnamedelima W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Longman,}%
+      }
+      \strng{namehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{fullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{fullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{bibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authorbibnamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authornamehash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authorfullhash}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \strng{authorfullhashraw}{7965d3ac39b47c83e4d076aadeb9d6ac}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Complete ed.}
+      \field{isbn}{978-0-8013-1903-7}
+      \field{note}{Accepted: 2015-11-06T15:44:27Z Artwork Medium: Ressource physique Interview Medium: Ressource physique}
+      \field{shorttitle}{A taxonomy for learning, teaching, and assessing}
+      \field{title}{A taxonomy for learning, teaching, and assessing : a revision of {Bloom}'s taxonomy of educational objectives}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eduq.info/xmlui/handle/11515/18345
+      \endverb
+      \verb{url}
+      \verb https://eduq.info/xmlui/handle/11515/18345
       \endverb
     \endentry
     \entry{andrews_2015}{article}{}{}
@@ -9562,6 +11093,71 @@
       \verb{url}
       \verb https://www.emerald.com/insight/content/doi/10.1108/13673270310463626/full/html
       \endverb
+    \endentry
+    \entry{arifin_2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=269096009b485a9d468d8542cc616470}{%
+           family={Arifin},
+           familyi={A\bibinitperiod},
+           given={Yulyani},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=255f875e715bf31fae04e917aebfc2cf}{%
+           family={Sastria},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima Galih},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d17bfcff31f373452788230f749879c}{%
+           family={Barlian},
+           familyi={B\bibinitperiod},
+           given={Edo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{73065f8c257a291a90c23166e2e261dd}
+      \strng{fullhash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{fullhashraw}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{bibnamehash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{authorbibnamehash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{authornamehash}{73065f8c257a291a90c23166e2e261dd}
+      \strng{authorfullhash}{fec56b6793f67351e7a02bfedab9507d}
+      \strng{authorfullhashraw}{fec56b6793f67351e7a02bfedab9507d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Augmented Reality Technology is developing rapidly and has been widely used in the field of education. Due to the ease of developing AR by non-professionals, User Experience (UX) is often not considered in the application. Currently, there are no standard measurements of UX for AR applications especially in Education. The authors reviewed previous research to obtain UX references and the existing measurement standards. From the results of the review, the metrics were analyzed based on the characteristics of AR, especially in the field of education. The metrics will be recommended for the UX measurement of an AR application. The available standard metrics can be used to determine the UX quality of an AR application and contribute to the improvement of UX in AR applications, especially in the field of Education.}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{month}{1}
+      \field{series}{The 3rd {International} {Conference} on {Computer} {Science} and {Computational} {Intelligence} ({ICCSCI} 2018) : {Empowering} {Smart} {Technology} in {Digital} {Era} for a {Better} {Life}}
+      \field{shorttitle}{User {Experience} {Metric} for {Augmented} {Reality} {Application}}
+      \field{title}{User {Experience} {Metric} for {Augmented} {Reality} {Application}: {A} {Review}}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{volume}{135}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{648\bibrangedash 656}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.procs.2018.08.221
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S187705091831514X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S187705091831514X
+      \endverb
+      \keyw{arithmetic word problem,intelligent humanoid robot,natural language processing,question answering system}
     \endentry
     \entry{asrori_2020}{article}{}{}
       \name{author}{2}{}{%
@@ -10159,6 +11755,61 @@
       \verb{doi}
       \verb 10.1007/978-3-319-02600-8_7
       \endverb
+    \endentry
+    \entry{bloom_1964}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=50e8e022179061177c793aec675487c0}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Benjamin\bibnamedelima Samuel},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fad4a136c526cb05d628318e64983d}{%
+           family={Engelhart},
+           familyi={E\bibinitperiod},
+           given={Max\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d912884f00ec5e5f26b7f4de893403}{%
+           family={Furst},
+           familyi={F\bibinitperiod},
+           given={Edward\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f594583f5595ce6149315a63bd180d1d}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Walker\bibnamedelima H},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Longmans, Green New York}%
+      }
+      \strng{namehash}{cf2c83e57658a0a5d39d8bffe41c7ccf}
+      \strng{fullhash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{fullhashraw}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{bibnamehash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{authorbibnamehash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{authornamehash}{cf2c83e57658a0a5d39d8bffe41c7ccf}
+      \strng{authorfullhash}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \strng{authorfullhashraw}{96405e0b96ed1d04f78f7ad99d36ee95}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Taxonomy of educational objectives}
+      \field{volume}{2}
+      \field{year}{1964}
     \endentry
     \entry{boahin_2013}{article}{}{}
       \name{author}{2}{}{%
@@ -10797,6 +12448,74 @@
       \endverb
       \keyw{Augmented Reality,literature review,trends of Augmented Reality}
     \endentry
+    \entry{cheng_2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e657d1a4eb60949b04ff8b7f112e73f4}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Ya-Wen},
+           giveni={Y\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c78503aaa49a656724e2cb1160afaf62}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuping},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1524071e724768504acf2ed1f96b8ac4}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={I-Ling},
+           giveni={I\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29f4e01f724e4e67aed574c2d930b008}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Nian-Shing},
+           giveni={N\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1edcb24cdc166235600e7495f3ecd080}
+      \strng{fullhash}{9387655bd29398d9a176c54813d41e35}
+      \strng{fullhashraw}{9387655bd29398d9a176c54813d41e35}
+      \strng{bibnamehash}{9387655bd29398d9a176c54813d41e35}
+      \strng{authorbibnamehash}{9387655bd29398d9a176c54813d41e35}
+      \strng{authornamehash}{1edcb24cdc166235600e7495f3ecd080}
+      \strng{authorfullhash}{9387655bd29398d9a176c54813d41e35}
+      \strng{authorfullhashraw}{9387655bd29398d9a176c54813d41e35}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1049-4820, 1744-5191}
+      \field{journaltitle}{Interactive Learning Environments}
+      \field{month}{8}
+      \field{number}{5-6}
+      \field{title}{An in-depth analysis of the interaction transitions in a collaborative {Augmented} {Reality}-based mathematic game}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{27}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{782\bibrangedash 796}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/10494820.2019.1610448
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1610448
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1610448
+      \endverb
+    \endentry
     \entry{chowdhury_2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=da6c62ec92e8cc5ecab3cab59edd1a0a}{%
@@ -10939,6 +12658,51 @@
       \field{labeltitlesource}{title}
       \field{title}{Designing {UX}: {Prototyping}: {Because} {Modern} {Design} is {Never} {Static}}
       \field{year}{2017}
+    \endentry
+    \entry{cook_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d8164c4160dbf8762983b4f950623603}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Bryan\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cd86dac802bf8b14dfe898ad644c1f6}{%
+           family={Therrien},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{fullhash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{fullhashraw}{6ae2fdc8587016257dd07eac39389097}
+      \strng{bibnamehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authorbibnamehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authornamehash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authorfullhash}{6ae2fdc8587016257dd07eac39389097}
+      \strng{authorfullhashraw}{6ae2fdc8587016257dd07eac39389097}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Disorders}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Null {Effects} and {Publication} {Bias} in {Special} {Education} {Research}}
+      \field{volume}{42}
+      \field{year}{2017}
+      \field{pages}{149\bibrangedash 158}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0198742917709473
+      \endverb
     \endentry
     \entry{crant_2000}{article}{}{}
       \name{author}{1}{}{%
@@ -11265,6 +13029,51 @@
       \verb http://peer.asee.org/19274
       \endverb
     \endentry
+    \entry{dawson_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1e9e285ed7330eb437fe8727320072b6}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=05150fcd81c390afa1332d1f75af6da1}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Samantha\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{fullhash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{fullhashraw}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{bibnamehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authorbibnamehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authornamehash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authorfullhash}{13fd7b7585c7c734c09eaec3d57401e5}
+      \strng{authorfullhashraw}{13fd7b7585c7c734c09eaec3d57401e5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Higher Education}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Sharing successes and hiding failures: ‘reporting bias’ in learning and teaching research}
+      \field{volume}{43}
+      \field{year}{2018}
+      \field{pages}{1405\bibrangedash 1416}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/03075079.2016.1258052
+      \endverb
+    \endentry
     \entry{dawson_2017}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8f345046b6040f23141d8ac51e598b4b}{%
@@ -11367,6 +13176,58 @@
       \verb{url}
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
+    \endentry
+    \entry{dey_2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f7108a9df7e7cc38e52c28489ca8c06d}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Arindam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6248911c938582a72073535203484be}{%
+           family={Lindeman},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e30a088c8192df272535c315df2e2367}{%
+           family={Swan},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima Edward},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{4e4c8c10835984e56bb3901894cfc2c0}
+      \strng{fullhash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{fullhashraw}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{bibnamehash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{authorbibnamehash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{authornamehash}{4e4c8c10835984e56bb3901894cfc2c0}
+      \strng{authorfullhash}{6e3376f52a34206ba03dbe08b38fd272}
+      \strng{authorfullhashraw}{6e3376f52a34206ba03dbe08b38fd272}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Robotics and AI}
+      \field{title}{A systematic review of 10 years of augmented reality usability studies: 2005 to 2014}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{pages}{37}
+      \range{pages}{1}
     \endentry
     \entry{dillenbourg_2007}{article}{}{}
       \name{author}{2}{}{%
@@ -12061,6 +13922,55 @@
       \verb http://www.tandfonline.com/doi/abs/10.1080/03906701.2014.894335
       \endverb
     \endentry
+    \entry{fuchs_1982}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c02fc98ddb0233569a58afabbfa7bc6b}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Lynn\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a133b83311b5156c5cf5ad0a442b4dc}{%
+           family={Deno},
+           familyi={D\bibinitperiod},
+           given={Stanley\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{fullhash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{fullhashraw}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{bibnamehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authorbibnamehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authornamehash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authorfullhash}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \strng{authorfullhashraw}{7eaa810b36f87b352d4b6fec06c7f9f4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This module (part of a series of 24 modules) is on formulating educational goals and objectives, and methods and rationale for writing them as behavioral statements. The genesis of these materials is in the 10 "clusters of capabilities," outlined in the paper, "A Common Body of Practice for Teachers: The Challenge of Public Law 94-142 to Teacher Education." These clusters form the proposed core of professional knowledge needed by teachers in the future. The module is to be used by teacher educators to reexamine and enhance their current practice in preparing classroom teachers to work competently and comfortably with children who have a wide range of individual needs. The module includes objectives, scales for assessing the degree to which the identified knowledge and practices are prevalent in an existing teacher education program, and self-assessment test items. Bibliographic references and journal articles on developing goals and objectives for educational programs are included. (JD)}
+      \field{month}{8}
+      \field{title}{Developing {Goals} and {Objectives} for {Educational} {Programs}}
+      \field{urlday}{14}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{1982}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=ED249211
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=ED249211
+      \endverb
+      \keyw{Behavioral Objectives,Educational Objectives,Higher Education,Learning Modules,Learning Strategies,Mainstreaming,Preservice Teacher Education,Teacher Education Curriculum,Teacher Educators}
+    \endentry
     \entry{garst_2019}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c5bcc235f2c22f89cf0f9bba878001c3}{%
@@ -12620,6 +14530,52 @@
       \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
       \endverb
     \endentry
+    \entry{guskey_2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0c8049a498478c54421e1380122cf1a}{%
+           family={Guskey},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Eric}%
+      }
+      \strng{namehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{fullhash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{fullhashraw}{b0c8049a498478c54421e1380122cf1a}
+      \strng{bibnamehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authorbibnamehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authornamehash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authorfullhash}{b0c8049a498478c54421e1380122cf1a}
+      \strng{authorfullhashraw}{b0c8049a498478c54421e1380122cf1a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Few individuals in the history of education have had greater impact on education policy and practice than Benjamin S. Bloom. During a career that spanned more than 5 decades, his research and writing guided the development of many educational programs and provided insights into the untapped potential of educators to have all students learn well. Bloom's contributions to education began during his years in the Office of the Board of Examiners at the University of Chicago, where he worked from 1940 to 1959. Much of his work at this time focused on the relationships among methods of instruction, educational outcomes, and measurement of those outcomes. This work led to his first book in 1950 and eventually to the work for which he is best known, the "Taxonomy of Educational Objectives, Handbook I: The Cognitive Domain." In 1959 Bloom spent a year at the Center for Advanced Study in Behavioral Sciences at Stanford University. This year marked a shift in high research and writing, as Bloom began to concentrate on problems in learning, rather than problems in testing, measurement, and evaluation. Bloom's most notable contribution to teaching and learning was his work in developing the theory and practice of mastery learning. Mastery learning was developed as a way for teachers to provide higher quality and more appropriate instruction for their students. Mastery learning depends on feedback, correctives, and enrichments, combined with another essential element of mastery learning, congruence among instructional components. Mastery learning is not an educational panacea, but careful attention to the essential elements of mastery learning will allow educators at all levels to make great strides toward the goal of all children learning excellently. (Contains 44 references.) (SLD)}
+      \field{month}{4}
+      \field{title}{Benjamin {S}. {Bloom}'s {Contributions} to {Curriculum}, {Instruction}, and {School} {Learning}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=ED457185
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=ED457185
+      \endverb
+      \keyw{Classification,Curriculum,Educational History,Educational Objectives,Educational Policy,Educational Theories,Mastery Learning,Teaching Methods,Test Construction,Test Use}
+    \endentry
     \entry{hamad_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8fac6cfe753e70a84a320f3a9fa9ac77}{%
@@ -12663,6 +14619,65 @@
       \verb{doi}
       \verb 10.3390/ijerph191811278
       \endverb
+    \endentry
+    \entry{healy_2011}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e8e10f0bb5298aaa5bcde9c7d38fcd7}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c167d08792c6a3a5d36a4003bef5e865}{%
+           family={Taran},
+           familyi={T\bibinitperiod},
+           given={Zinaida},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5da2f631347a805387a3ca362ea5d00}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bffec745352d26917f82a3e397aacda9}
+      \strng{fullhash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{fullhashraw}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{bibnamehash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{authorbibnamehash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{authornamehash}{bffec745352d26917f82a3e397aacda9}
+      \strng{authorfullhash}{bee32f52f79422b4039da666d02ca5c8}
+      \strng{authorfullhashraw}{bee32f52f79422b4039da666d02ca5c8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Practitioner concerns and the changing educational marketplace are pressuring colleges to provide more skills based learning. Among the newer skill based areas of study that is greatly in demand is professional sales. In this paper, two courses in a successful professional sales program are examined through the lenses of experiential learning theory and Bloom's taxonomy of educational objectives. Experiential learning theory posits that cycles of experience and reflection can create greater levels of understanding and skills. Bloom's taxonomy provides a sequence of increasingly comprehensive and complex levels of learning. These two frameworks are conceptually combined to show how experiential learning cycles can incrementally move students to higher levels of learning. The exercises and activities in the professional sales courses support and illustrate this important concept and show how tangible, marketable skills can be developed in a classroom setting.}
+      \field{issn}{1941-3394}
+      \field{journaltitle}{Journal of Instructional Pedagogies}
+      \field{month}{9}
+      \field{note}{Publisher: Academic and Business Research Institute}
+      \field{title}{Sales {Course} {Design} {Using} {Experiential} {Learning} {Principles} and {Bloom}'s {Taxonomy}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=EJ1097018
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=EJ1097018
+      \endverb
+      \keyw{Experiential Learning,Instructional Design,Job Skills,Learning Activities,Learning Theories,Sales Occupations,Salesmanship,Sequential Learning,Skill Development,Student Educational Objectives,Taxonomy}
     \endentry
     \entry{hibbert_2005}{article}{}{}
       \name{author}{2}{}{%
@@ -12813,6 +14828,70 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7344043/
+      \endverb
+    \endentry
+    \entry{hsu_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8d1bf92788d07834420d85915c486ec4}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Hsiao-Ping},
+           giveni={H\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d4ac634707ac182e6e3c3cfb20ea4ee}{%
+           family={Wenting},
+           familyi={W\bibinitperiod},
+           given={Zou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bd7eb73d5efc6897323a782abe3234d}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Joan\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2d0382a93806fead0b202b0eb1b00060}
+      \strng{fullhash}{3800b42beaea910b918689858cc3d262}
+      \strng{fullhashraw}{3800b42beaea910b918689858cc3d262}
+      \strng{bibnamehash}{3800b42beaea910b918689858cc3d262}
+      \strng{authorbibnamehash}{3800b42beaea910b918689858cc3d262}
+      \strng{authornamehash}{2d0382a93806fead0b202b0eb1b00060}
+      \strng{authorfullhash}{3800b42beaea910b918689858cc3d262}
+      \strng{authorfullhashraw}{3800b42beaea910b918689858cc3d262}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This mixed-method case study investigated digital literacy (DL) development among 32 elementary-level students who created multimodal, contextual, and interactive augmented reality (AR) artifacts in a 20-week after-school program in Northern Taiwan. The instructional design combined situated and spiral learning experiences with AR, implemented through a blended learning environment. Data sources included pre- and post-program digital learning student surveys, student and teacher interviews, classroom observations, and AR artifact assessments. Results indicated statistically significant increases with moderate effect sizes in five areas of students’ DL practices: information management; collaboration; communication and sharing; creation; and evaluation and problem-solving. Students did not increase DL in one area: ethics and responsibility. The situated and spiral learning-by-design approach offered increasingly complex AR creation projects in which students developed and transferred their DL. The face-to-face and online learning settings offered multiple ways to collaborate and facilitated the development of students’ DL. The AR technology enabled students to develop DL through designing AR using three types of representation features: multimodal, interactive, and contextual. Practical and theoretical implications for adapting or enhancing this instructional design in future DL programs and for future research are discussed.}
+      \field{issn}{0735-6331, 1541-4140}
+      \field{journaltitle}{Journal of Educational Computing Research}
+      \field{month}{10}
+      \field{number}{6}
+      \field{shorttitle}{Developing {Elementary} {Students}’ {Digital} {Literacy} {Through} {Augmented} {Reality} {Creation}}
+      \field{title}{Developing {Elementary} {Students}’ {Digital} {Literacy} {Through} {Augmented} {Reality} {Creation}: {Insights} {From} a {Longitudinal} {Analysis} of {Questionnaires}, {Interviews}, and {Projects}}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{57}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1400\bibrangedash 1435}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1177/0735633118794515
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0735633118794515
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0735633118794515
       \endverb
     \endentry
     \entry{huynh_2024}{article}{}{}
@@ -13553,6 +15632,81 @@
       \verb http://ieeexplore.ieee.org/document/53713/
       \endverb
     \endentry
+    \entry{kim_2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=0422692e95d038fa0b25f3d9a3aceac5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hayun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e2ac7b10c9286a642acfe5d04833e10}{%
+           family={Matuszka},
+           familyi={M\bibinitperiod},
+           given={Tamás},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69dac8d8ced9432103529fd7d242bad5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jea-In},
+           giveni={J\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=209046b82050b754351358ad11318ba3}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jungwha},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9165761f8ada6871689b6b78a8c497e7}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={Woontack},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{189abd5ce83ebbde184a5860d2632636}
+      \strng{fullhash}{342e61e24246506928b28bcb7701166a}
+      \strng{fullhashraw}{342e61e24246506928b28bcb7701166a}
+      \strng{bibnamehash}{342e61e24246506928b28bcb7701166a}
+      \strng{authorbibnamehash}{342e61e24246506928b28bcb7701166a}
+      \strng{authornamehash}{189abd5ce83ebbde184a5860d2632636}
+      \strng{authorfullhash}{342e61e24246506928b28bcb7701166a}
+      \strng{authorfullhashraw}{342e61e24246506928b28bcb7701166a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1380-7501, 1573-7721}
+      \field{journaltitle}{Multimedia Tools and Applications}
+      \field{month}{12}
+      \field{number}{24}
+      \field{shorttitle}{Ontology-based mobile augmented reality in cultural heritage sites}
+      \field{title}{Ontology-based mobile augmented reality in cultural heritage sites: information modeling and user study}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{76}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{26001\bibrangedash 26029}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1007/s11042-017-4868-6
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s11042-017-4868-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s11042-017-4868-6
+      \endverb
+    \endentry
     \entry{kirkwood_2014}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e9c73d46422cb2223bae9834586d0b6f}{%
@@ -14031,6 +16185,55 @@
       \verb https://sk.sagepub.com/books/trust-in-organizations
       \endverb
     \endentry
+    \entry{krathwohl_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{fullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{fullhashraw}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{bibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorbibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authornamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorfullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorfullhashraw}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0040-5841}
+      \field{journaltitle}{Theory Into Practice}
+      \field{month}{11}
+      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1207/s15430421tip4104\_2}
+      \field{number}{4}
+      \field{shorttitle}{A {Revision} of {Bloom}'s {Taxonomy}}
+      \field{title}{A {Revision} of {Bloom}'s {Taxonomy}: {An} {Overview}}
+      \field{urlday}{27}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{212\bibrangedash 218}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1207/s15430421tip4104_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1207/s15430421tip4104_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1207/s15430421tip4104_2
+      \endverb
+    \endentry
     \entry{kropp_2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ffa4c0822328908ba2a5ad9a5fba54b6}{%
@@ -14174,6 +16377,56 @@
       \field{year}{1991}
       \keyw{Learning,Psychology of,Transfer of training}
     \endentry
+    \entry{lee_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5422ce05df1b617607b696045923ed48}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={I-Jui},
+           giveni={I\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5422ce05df1b617607b696045923ed48}
+      \strng{fullhash}{5422ce05df1b617607b696045923ed48}
+      \strng{fullhashraw}{5422ce05df1b617607b696045923ed48}
+      \strng{bibnamehash}{5422ce05df1b617607b696045923ed48}
+      \strng{authorbibnamehash}{5422ce05df1b617607b696045923ed48}
+      \strng{authornamehash}{5422ce05df1b617607b696045923ed48}
+      \strng{authorfullhash}{5422ce05df1b617607b696045923ed48}
+      \strng{authorfullhashraw}{5422ce05df1b617607b696045923ed48}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Children with autism spectrum disorder (ASD) often find it difficult to communicate using body language and facial expressions to respond appropriately socially. This negatively affects the quality of their everyday social life. Children with ASD can learn to socially interact with virtual three-dimensional (3D) characters in animated games enhanced with augmented reality (AR). They can learn about body language and facial expressions through roleplay. This teaching method can effectively improve the interactive social skills of children with ASD and reduce the fear and anxiety which they typically experience when they face real people. However, most current virtual roleplay models focus only on predefined body language and facial expressions limited by the training system. These systems lack immediacy and a sense of genuine interaction for children with ASD. Therefore, we wanted to create a system that will allow trainers and therapists to control 3D virtual characters that are able to produce in real time the full range of natural body language and facial expressions appropriate for males, females, and even special cartoon characters. Based on the multiple baseline design across subjects, the data indicated that real-time Kinect Skeletal Tracking (KST) System can help the children with ASD improved their social interaction.}
+      \field{issn}{1049-4820}
+      \field{journaltitle}{Interactive Learning Environments}
+      \field{month}{5}
+      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1080/10494820.2019.1710851}
+      \field{number}{4}
+      \field{title}{Kinect-for-windows with augmented reality in an interactive roleplay system for children with an autism spectrum disorder}
+      \field{urlday}{1}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{29}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{688\bibrangedash 704}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1080/10494820.2019.1710851
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/10494820.2019.1710851
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/10494820.2019.1710851
+      \endverb
+      \keyw{Autism spectrum disorder,Wizard of Oz experiment,augmented reality,interactive learning environment,real-time Kinect Skeletal Tracking System}
+    \endentry
     \entry{lehtinen_1999}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=51af6ff570963dfc77a0b0db6d2954ec}{%
@@ -14231,6 +16484,63 @@
       \field{year}{1999}
       \field{pages}{1999}
       \range{pages}{1}
+    \endentry
+    \entry{lim_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1e15ce438466f37343ee9fecc8995f6b}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Kenneth\bibnamedelimb Y.\bibnamedelimi T.},
+           giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a69a8b8f177d678b3c1d85940f28fd15}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{fullhash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{fullhashraw}{cb79843a13c5c901757f915fc3e36173}
+      \strng{bibnamehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authorbibnamehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authornamehash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authorfullhash}{cb79843a13c5c901757f915fc3e36173}
+      \strng{authorfullhashraw}{cb79843a13c5c901757f915fc3e36173}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0007-1013, 1467-8535}
+      \field{journaltitle}{British Journal of Educational Technology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Semiotics, memory and augmented reality}
+      \field{title}{Semiotics, memory and augmented reality: {History} education with learner‐generated augmentation}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{51}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{673\bibrangedash 691}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/bjet.12904
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjet.12904
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1111/bjet.12904
+      \endverb
     \endentry
     \entry{lingard_2012}{article}{}{}
       \name{author}{2}{}{%
@@ -14518,6 +16828,51 @@
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
       \endverb
+    \endentry
+    \entry{madden_2020}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7a180ad56fcb8ffeb3ab19e5a4904ed9}{%
+           family={Madden},
+           familyi={M\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54c982e91045b4b416f4dbff9a9318fe}{%
+           family={Beyers},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima ER},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be0dac3daa153c099682f1b876429b13}{%
+           family={Stanton},
+           familyi={S\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{465ef00a39a4369d7af4894016d58c4a}
+      \strng{fullhash}{932417a504398f7aa88c804076026df4}
+      \strng{fullhashraw}{932417a504398f7aa88c804076026df4}
+      \strng{bibnamehash}{932417a504398f7aa88c804076026df4}
+      \strng{authorbibnamehash}{932417a504398f7aa88c804076026df4}
+      \strng{authornamehash}{465ef00a39a4369d7af4894016d58c4a}
+      \strng{authorfullhash}{932417a504398f7aa88c804076026df4}
+      \strng{authorfullhashraw}{932417a504398f7aa88c804076026df4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Critical Questions in STEM Education}
+      \field{title}{Future elementary teachers’ perspectives on the importance of STEM}
+      \field{year}{2020}
+      \field{pages}{211\bibrangedash 225}
+      \range{pages}{15}
     \endentry
     \entry{marasi_2019}{article}{}{}
       \name{author}{1}{}{%
@@ -14986,6 +17341,64 @@
       \verb http://www.ijmtss.com/PDF/IJMTSS-2021-15-03-07.pdf
       \endverb
     \endentry
+    \entry{newton_2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=12bd56fd8132c2dec3f759825e94ad83}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={Philip\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c5a84af77a406c54d6af9fd6acf0f6d}{%
+           family={Da\bibnamedelima Silva},
+           familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=877ac7f9214b7456bc1fa276fd6d83ea}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Lee\bibnamedelima George},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73d6bb4b308fe4e7a0dfa1208256cc79}
+      \strng{fullhash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{fullhashraw}{741596b242ebcf273041b74e9ef7acef}
+      \strng{bibnamehash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{authorbibnamehash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{authornamehash}{73d6bb4b308fe4e7a0dfa1208256cc79}
+      \strng{authorfullhash}{741596b242ebcf273041b74e9ef7acef}
+      \strng{authorfullhashraw}{741596b242ebcf273041b74e9ef7acef}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2504-284X}
+      \field{journaltitle}{Frontiers in Education}
+      \field{month}{7}
+      \field{title}{A {Pragmatic} {Master} {List} of {Action} {Verbs} for {Bloom}'s {Taxonomy}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{107}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/feduc.2020.00107
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/feduc.2020.00107/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/feduc.2020.00107/full
+      \endverb
+    \endentry
     \entry{ng_2021}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=78832399079286e46cc14dff2236a4e1}{%
@@ -15368,6 +17781,208 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1096751610000692
       \endverb
     \endentry
+    \entry{page_2021}{article}{}{}
+      \name{author}{26}{}{%
+        {{un=0,uniquepart=base,hash=016b86afb0a98379bf77b3f074f34761}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
+           family={Bossuyt},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa885033d820893c45692b99c8b4bbc6}{%
+           family={Boutron},
+           familyi={B\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fd2430e75c6bb84661c811e408f6377}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Tammy\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9da5818ae381747539d8a98ecf2d13b1}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
+           family={Shamseer},
+           familyi={S\bibinitperiod},
+           given={Larissa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=640f8392f6a7388c779d2b60fdd93350}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ca61686dc125837a0d9741be62f3427}{%
+           family={Akl},
+           familyi={A\bibinitperiod},
+           given={Elie\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e822c8724e88eb518ec5eb8015bbaab0}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Sue\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01e789422f68da54234ac2f1e791eac4}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
+           family={Glanville},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18acccd95580a48bd6c5f4010bb058a7}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={Jeremy\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
+           family={Hróbjartsson},
+           familyi={H\bibinitperiod},
+           given={Asbjørn},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
+           family={Lalu},
+           familyi={L\bibinitperiod},
+           given={Manoj\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0100456cf4ced53a2aab31f2c3055f6a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tianjing},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e270d436c864242b119a3605283c8bf}{%
+           family={Loder},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d149e7026acd95db856d30314dba9a9e}{%
+           family={Mayo-Wilson},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7314b4cde4c01764b4b3580e015b768}{%
+           family={McGuinness},
+           familyi={M\bibinitperiod},
+           given={Luke\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d600e9a8a01053464e53fc2aadeb009b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Lesley\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
+           family={Tricco},
+           familyi={T\bibinitperiod},
+           given={Andrea\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75fdbaed8e43fddb210da313631d8639}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Vivian\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792d7051a4c2169e6aac0073ce62ba8e}{%
+           family={Whiting},
+           familyi={W\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c647eae0c93ec008ebe092eb144eeee}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{fullhash}{95da0662bd7f8a855af307b9f5baa381}
+      \strng{fullhashraw}{95da0662bd7f8a855af307b9f5baa381}
+      \strng{bibnamehash}{436e48a4b00b77c368e89ec629842279}
+      \strng{authorbibnamehash}{436e48a4b00b77c368e89ec629842279}
+      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authorfullhash}{95da0662bd7f8a855af307b9f5baa381}
+      \strng{authorfullhashraw}{95da0662bd7f8a855af307b9f5baa381}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{<}p{>}The methods and results of systematic reviews should be reported in sufficient detail to allow users to assess the trustworthiness and applicability of the review findings. The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement was developed to facilitate transparent and complete reporting of systematic reviews and has been updated (to PRISMA 2020) to reflect recent advances in systematic review methodology and terminology. Here, we present the explanation and elaboration paper for PRISMA 2020, where we explain why reporting of each item is recommended, present bullet points that detail the reporting recommendations, and present examples from published reviews. We hope that changes to the content and structure of PRISMA 2020 will facilitate uptake of the guideline and lead to more transparent, complete, and accurate reporting of systematic reviews.{<}/p{>}}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{BMJ}
+      \field{month}{3}
+      \field{note}{Publisher: British Medical Journal Publishing Group Section: Research Methods \&amp; Reporting}
+      \field{shorttitle}{{PRISMA} 2020 explanation and elaboration}
+      \field{title}{{PRISMA} 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
+      \field{volume}{372}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{n160}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj.n160
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bmj.com/content/372/bmj.n160
+      \endverb
+      \verb{url}
+      \verb https://www.bmj.com/content/372/bmj.n160
+      \endverb
+    \endentry
     \entry{passey_2019}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af5d1c1f952b3d878d0984806a855a59}{%
@@ -15683,6 +18298,63 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0147176711000939
+      \endverb
+    \endentry
+    \entry{radmehr_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6cba7e6c690a7ef3c366384ee1bd03c9}{%
+           family={Radmehr},
+           familyi={R\bibinitperiod},
+           given={Farzad},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c96a0fdc6231cbc62a70f2077dbac12a}{%
+           family={Drake},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{fullhash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{fullhashraw}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{bibnamehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authorbibnamehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authornamehash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authorfullhash}{752c337ad0a6bf2a80e9a16152c33a52}
+      \strng{authorfullhashraw}{752c337ad0a6bf2a80e9a16152c33a52}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0020-739X, 1464-5211}
+      \field{journaltitle}{International Journal of Mathematical Education in Science and Technology}
+      \field{month}{11}
+      \field{number}{8}
+      \field{shorttitle}{Revised {Bloom}'s taxonomy and integral calculus}
+      \field{title}{Revised {Bloom}'s taxonomy and integral calculus: unpacking the knowledge dimension}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{48}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1206\bibrangedash 1224}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/0020739X.2017.1321796
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0020739X.2017.1321796
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0020739X.2017.1321796
       \endverb
     \endentry
     \entry{reinius_2021}{article}{}{}
@@ -16098,6 +18770,79 @@
       \field{year}{2019}
       \keyw{Blended learning,Computer-assisted instruction,Flipped classrooms,Group work in education,Student participation in curriculum planning}
     \endentry
+    \entry{schaper_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=63446a3aac84fb7e681320caff452da0}{%
+           family={Schaper},
+           familyi={S\bibinitperiod},
+           given={Marie-Monique},
+           giveni={M\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b68b37a452518551d54da3c63e2f58e6}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63e9a3cdab615c9cbb24a6203248dc32}{%
+           family={Malinverni},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c5c5f459fb38af65d85fe1d1d15fbb1}{%
+           family={Zerbini\bibnamedelima Berro},
+           familyi={Z\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=206b19375cc869875fba8204ede3ad6c}{%
+           family={Pares},
+           familyi={P\bibinitperiod},
+           given={Narcis},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f6e8ab648ed5e48edcde8633387f159e}
+      \strng{fullhash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{fullhashraw}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{bibnamehash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{authorbibnamehash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{authornamehash}{f6e8ab648ed5e48edcde8633387f159e}
+      \strng{authorfullhash}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \strng{authorfullhashraw}{2185dc092d2ad5718bf2cfbf4cc52b19}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10715819}
+      \field{journaltitle}{International Journal of Human-Computer Studies}
+      \field{month}{6}
+      \field{title}{Learning about the past through situatedness, embodied exploration and digital augmentation of cultural heritage sites}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{114}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{36\bibrangedash 50}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.ijhcs.2018.01.003
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S107158191830003X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S107158191830003X
+      \endverb
+    \endentry
     \entry{schmalstieg_2016}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f6035f7910d5cc507115c42426a5f034}{%
@@ -16289,6 +19034,67 @@
       \verb https://dx.plos.org/10.1371/journal.pone.0166437
       \endverb
     \endentry
+    \entry{siddaway_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0be5b2ce23eb1e0d8bb66f0f500d98cb}{%
+           family={Siddaway},
+           familyi={S\bibinitperiod},
+           given={Andy\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6a6bb46e1e7b6149ff737e4e7cfde50}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Alex\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d830e562fdeb21242e790204147b207}{%
+           family={Hedges},
+           familyi={H\bibinitperiod},
+           given={Larry\bibnamedelima V.},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e13a8ea517b6aaffbe4776b5561388a}
+      \strng{fullhash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{fullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{bibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{authorbibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{authornamehash}{4e13a8ea517b6aaffbe4776b5561388a}
+      \strng{authorfullhash}{413ebe45a6bd69f4cad5be080ff548df}
+      \strng{authorfullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Systematic reviews are characterized by a methodical and replicable methodology and presentation. They involve a comprehensive search to locate all relevant published and unpublished work on a subject; a systematic integration of search results; and a critique of the extent, nature, and quality of evidence in relation to a particular research question. The best reviews synthesize studies to draw broad theoretical conclusions about what a literature means, linking theory to evidence and evidence to theory. This guide describes how to plan, conduct, organize, and present a systematic review of quantitative (meta-analysis) or qualitative (narrative review, meta-synthesis) information. We outline core standards and principles and describe commonly encountered problems. Although this guide targets psychological scientists, its high level of abstraction makes it potentially relevant to any subject area or discipline. We argue that systematic reviews are a key methodology for clarifying whether and how research findings replicate and for explaining possible inconsistencies, and we call for researchers to conduct systematic reviews to help elucidate whether there is a replication crisis.}
+      \field{journaltitle}{Annual Review of Psychology}
+      \field{note}{\_eprint: https://doi.org/10.1146/annurev-psych-010418-102803}
+      \field{number}{1}
+      \field{shorttitle}{How to {Do} a {Systematic} {Review}}
+      \field{title}{How to {Do} a {Systematic} {Review}: {A} {Best} {Practice} {Guide} for {Conducting} and {Reporting} {Narrative} {Reviews}, {Meta}-{Analyses}, and {Meta}-{Syntheses}}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{70}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{747\bibrangedash 770}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1146/annurev-psych-010418-102803
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1146/annurev-psych-010418-102803
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1146/annurev-psych-010418-102803
+      \endverb
+      \keyw{evidence,guide,meta-analysis,meta-synthesis,narrative,systematic review,theory}
+    \endentry
     \entry{smaldone_2022}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a9fb22433e29df966d779c34b10a6e52}{%
@@ -16452,6 +19258,58 @@
       \endverb
       \verb{url}
       \verb http://rgdoi.net/10.13140/RG.2.1.4241.7766
+      \endverb
+    \endentry
+    \entry{stanny_2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b64b783159b6ec1d8238e173f5704aa}{%
+           family={Stanny},
+           familyi={S\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{fullhash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{fullhashraw}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{bibnamehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authorbibnamehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authornamehash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authorfullhash}{3b64b783159b6ec1d8238e173f5704aa}
+      \strng{authorfullhashraw}{3b64b783159b6ec1d8238e173f5704aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Faculty and assessment professionals rely on Bloom’s taxonomy to guide them when they write measurable student learning outcomes and describe their goals for developing students’ thinking skills. Over the past ten years, assessment offices and teaching and learning centers have compiled lists of measurable verbs aligned with the six categories that comprise Bloom’s taxonomy. The author analyzed 30 compilations posted on web sites and evaluated how well these verbs aligned with categories in Bloom’s taxonomy. The author discusses the value of Bloom’s taxonomy as a heuristic for writing student learning outcomes and other factors faculty should consider when they articulate learning outcomes to describe levels of expertise attained by students who complete an associate’s, bachelor’s, or graduate degree.}
+      \field{issn}{2227-7102}
+      \field{journaltitle}{Education Sciences}
+      \field{month}{11}
+      \field{number}{4}
+      \field{shorttitle}{Reevaluating {Bloom}’s {Taxonomy}}
+      \field{title}{Reevaluating {Bloom}’s {Taxonomy}: {What} {Measurable} {Verbs} {Can} and {Cannot} {Say} about {Student} {Learning}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{37}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/educsci6040037
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2227-7102/6/4/37
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2227-7102/6/4/37
       \endverb
     \endentry
     \entry{sutipitakwong_2020}{article}{}{}

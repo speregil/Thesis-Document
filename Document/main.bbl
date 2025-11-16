@@ -6833,30 +6833,17 @@
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0040-5841}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{Theory Into Practice}
       \field{month}{11}
-      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1207/s15430421tip4104\_2}
       \field{number}{4}
-      \field{shorttitle}{A {Revision} of {Bloom}'s {Taxonomy}}
       \field{title}{A {Revision} of {Bloom}'s {Taxonomy}: {An} {Overview}}
-      \field{urlday}{27}
-      \field{urlmonth}{8}
-      \field{urlyear}{2021}
       \field{volume}{41}
       \field{year}{2002}
-      \field{urldateera}{ce}
       \field{pages}{212\bibrangedash 218}
       \range{pages}{7}
       \verb{doi}
       \verb 10.1207/s15430421tip4104_2
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1207/s15430421tip4104_2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1207/s15430421tip4104_2
       \endverb
     \endentry
     \entry{kropp_2024}{article}{}{}
@@ -7869,28 +7856,16 @@
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{In this paper we discuss augmented reality (AR) displays in a general sense, within the context of a reality-virtuality (RV) continuum, encompassing a large class of `mixed reality' (MR) displays, which also includes augmented virtuality (AV). MR displays are defined by means of seven examples of existing display concepts in which real objects and virtual objects are juxtaposed. Essential factors which distinguish different MR display systems from each other are presented, first by means of a table in which the nature of the underlying scene, how it is viewed, and the observer's reference to it are compared, and then by means of a three dimensional taxonomic framework comprising: extent of world knowledge, reproduction fidelity, and extent of presence metaphor. A principal objective of the taxonomy is to clarify terminology issues and to provide a framework for classifying research across different disciplines.}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{Telemanipulator and {Telepresence} {Technologies}}
       \field{month}{12}
-      \field{shorttitle}{Augmented reality}
       \field{title}{Augmented reality: a class of displays on the reality-virtuality continuum}
-      \field{urlday}{27}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
       \field{volume}{2351}
       \field{year}{1995}
-      \field{urldateera}{ce}
       \field{pages}{282\bibrangedash 292}
       \range{pages}{11}
       \verb{doi}
       \verb 10.1117/12.197321
-      \endverb
-      \verb{urlraw}
-      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
-      \endverb
-      \verb{url}
-      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
       \endverb
     \endentry
     \entry{moro_2021}{article}{}{}
@@ -19375,30 +19350,17 @@
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0040-5841}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{Theory Into Practice}
       \field{month}{11}
-      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1207/s15430421tip4104\_2}
       \field{number}{4}
-      \field{shorttitle}{A {Revision} of {Bloom}'s {Taxonomy}}
       \field{title}{A {Revision} of {Bloom}'s {Taxonomy}: {An} {Overview}}
-      \field{urlday}{27}
-      \field{urlmonth}{8}
-      \field{urlyear}{2021}
       \field{volume}{41}
       \field{year}{2002}
-      \field{urldateera}{ce}
       \field{pages}{212\bibrangedash 218}
       \range{pages}{7}
       \verb{doi}
       \verb 10.1207/s15430421tip4104_2
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1207/s15430421tip4104_2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1207/s15430421tip4104_2
       \endverb
     \endentry
     \entry{kropp_2024}{article}{}{}
@@ -20411,28 +20373,16 @@
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{In this paper we discuss augmented reality (AR) displays in a general sense, within the context of a reality-virtuality (RV) continuum, encompassing a large class of `mixed reality' (MR) displays, which also includes augmented virtuality (AV). MR displays are defined by means of seven examples of existing display concepts in which real objects and virtual objects are juxtaposed. Essential factors which distinguish different MR display systems from each other are presented, first by means of a table in which the nature of the underlying scene, how it is viewed, and the observer's reference to it are compared, and then by means of a three dimensional taxonomic framework comprising: extent of world knowledge, reproduction fidelity, and extent of presence metaphor. A principal objective of the taxonomy is to clarify terminology issues and to provide a framework for classifying research across different disciplines.}
+      \field{labeltitlesource}{title}
       \field{journaltitle}{Telemanipulator and {Telepresence} {Technologies}}
       \field{month}{12}
-      \field{shorttitle}{Augmented reality}
       \field{title}{Augmented reality: a class of displays on the reality-virtuality continuum}
-      \field{urlday}{27}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
       \field{volume}{2351}
       \field{year}{1995}
-      \field{urldateera}{ce}
       \field{pages}{282\bibrangedash 292}
       \range{pages}{11}
       \verb{doi}
       \verb 10.1117/12.197321
-      \endverb
-      \verb{urlraw}
-      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
-      \endverb
-      \verb{url}
-      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2351/0000/Augmented-reality--a-class-of-displays-on-the-reality/.full
       \endverb
     \endentry
     \entry{moro_2021}{article}{}{}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  16 NOV 2025 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  17 NOV 2025 19:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -482,47 +482,154 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen276
 \TX@cols=\count355
 \TX@ftn=\toks26
-) (c:/texlive/2025/texmf-dist/tex/latex/xltabular/xltabular.sty
-Package: xltabular 2025/02/28 v0.2i `xltabular' package (hv,RN)
- (c:/texlive/2025/texmf-dist/tex/latex/ltablex/ltablex.sty
-Package: ltablex 2014/08/13 v1.1 Modified tabularx
- (c:/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
-\LTleft=\skip67
-\LTright=\skip68
-\LTpre=\skip69
-\LTpost=\skip70
-\LTchunksize=\count356
-\LTcapwidth=\dimen277
-\LT@head=\box108
-\LT@firsthead=\box109
-\LT@foot=\box110
-\LT@lastfoot=\box111
-\LT@gbox=\box112
-\LT@cols=\count357
-\LT@rows=\count358
-\c@LT@tables=\count359
-\c@LT@chunks=\count360
-\LT@p@ftn=\toks27
-))) (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2025-08-29 v2025B Typeset tabulars and arrays with LaTeX3
+ (c:/texlive/2025/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+ (c:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-09-02 L3 programming layer (loader) 
+)
+Package: xparse 2024-08-16 L3 Experimental document command parser
+))
+\l__tblr_a_int=\count356
+\l__tblr_c_int=\count357
+\l__tblr_r_int=\count358
+\l__tblr_d_dim=\dimen277
+\l__tblr_h_dim=\dimen278
+\l__tblr_o_dim=\dimen279
+\l__tblr_p_dim=\dimen280
+\l__tblr_q_dim=\dimen281
+\l__tblr_r_dim=\dimen282
+\l__tblr_s_dim=\dimen283
+\l__tblr_t_dim=\dimen284
+\l__tblr_v_dim=\dimen285
+\l__tblr_w_dim=\dimen286
+\l__tblr_a_box=\box108
+\l__tblr_b_box=\box109
+\l__tblr_c_box=\box110
+\l__tblr_d_box=\box111
+\c@tblrcount=\count359
+\c@rownum=\count360
+\c@colnum=\count361
+\c@rowcount=\count362
+\c@colcount=\count363
+\abovesep=\dimen287
+\belowsep=\dimen288
+\leftsep=\dimen289
+\rightsep=\dimen290
+\gTblrLevelInt=\count364
+\g__tblr_data_row_key_count_int=\count365
+\g__tblr_data_column_key_count_int=\count366
+\g__tblr_data_cell_key_count_int=\count367
+\g__tblr_array_int=\count368
+\l__tblr_key_count_int=\count369
+\l__tblr_key_quotient_int=\count370
+\l__tblr_key_quotient_two_int=\count371
+\l__tblr_key_remainder_int=\count372
+\g__tblr_data_str_value_count_int=\count373
+\lTblrChildTotalInt=\count374
+\lTblrChildHtotalInt=\count375
+\lTblrChildVtotalInt=\count376
+\l__child_diff_h_int=\count377
+\l__child_diff_v_int=\count378
+\l__child_sign_h_int=\count379
+\l__child_sign_v_int=\count380
+\l__child_step_int=\count381
+\lTblrDefaultHruleWidthDim=\dimen291
+\lTblrDefaultVruleWidthDim=\dimen292
+\l__tblr_split_balance_int=\count382
+\l__tblr_strut_dp_dim=\dimen293
+\l__tblr_strut_ht_dim=\dimen294
+\g__tblr_cell_wd_dim=\dimen295
+\g__tblr_cell_ht_dim=\dimen296
+\g__tblr_cell_head_dim=\dimen297
+\g__tblr_cell_foot_dim=\dimen298
+\l__tblr_measured_cell_box=\box112
+\g__tblr_last_box=\box113
+\l__tblr_temp_box=\box114
+\l__tblr_column_target_dim=\dimen299
+\l__tblr_hfuzz_dim=\dimen300
+\l__tblr_caption_box=\box115
+\l__tblr_caption_left_box=\box116
+\lTblrRowHeadInt=\count383
+\lTblrRowFootInt=\count384
+\l__tblr_row_head_box=\box117
+\l__tblr_row_foot_box=\box118
+\l__tblr_row_head_foot_dim=\dimen301
+\lTblrTableWidthDim=\dimen302
+\l__tblr_table_firsthead_box=\box119
+\l__tblr_table_middlehead_box=\box120
+\l__tblr_table_lasthead_box=\box121
+\l__tblr_table_firstfoot_box=\box122
+\l__tblr_table_middlefoot_box=\box123
+\l__tblr_table_lastfoot_box=\box124
+\l__tblr_remain_height_dim=\dimen303
+\l__tblr_long_from_int=\count385
+\l__tblr_long_to_int=\count386
+\l__tblr_curr_i_int=\count387
+\l__tblr_prev_i_int=\count388
+\lTblrTablePageInt=\count389
+\l__tblr_table_head_box=\box125
+\l__tblr_table_foot_box=\box126
+\l__tblr_table_head_foot_dim=\dimen304
+\l__tblr_table_head_body_foot_dim=\dimen305
+\l__tblr_table_box=\box127
+\lTblrRowFirstInt=\count390
+\lTblrRowLastInt=\count391
+\l__tblr_table_hlines_box=\box128
+\l__tblr_hline_box=\box129
+\l__tblr_row_box=\box130
+\l__tblr_col_o_wd_dim=\dimen306
+\l__tblr_col_b_wd_dim=\dimen307
+\l__tblr_hline_leftskip_dim=\dimen308
+\l__tblr_hline_rightskip_dim=\dimen309
+\l__tblr_row_ht_dim=\dimen310
+\l__tblr_row_dp_dim=\dimen311
+\l__tblr_row_abovesep_dim=\dimen312
+\l__tblr_row_belowsep_dim=\dimen313
+\l__tblr_row_vlines_box=\box131
+\l__tblr_vline_box=\box132
+\l__tblr_cell_box=\box133
+\l__tblr_row_upper_dim=\dimen314
+\l__tblr_row_lower_dim=\dimen315
+\l__tblr_row_vpace_dim=\dimen316
+\l__tblr_vline_aboveskip_dim=\dimen317
+\l__tblr_vline_belowskip_dim=\dimen318
+\lTblrCellRowSpanInt=\count392
+\lTblrCellColSpanInt=\count393
+\l__tblr_cell_wd_dim=\dimen319
+\l__tblr_cell_ht_dim=\dimen320
+\lTblrCellAboveBorderWidthDim=\dimen321
+\lTblrCellBelowBorderWidthDim=\dimen322
+\lTblrCellLeftBorderWidthDim=\dimen323
+\lTblrCellRightBorderWidthDim=\dimen324
+\l__tblr_diag_box=\box134
+\l__tblr_cell_inner_wd_dim=\dimen325
+\l__tblr_cell_inner_dp_dim=\dimen326
+\l__tblr_cell_hanchor_dim=\dimen327
+\l__tblr_last_cell_table_ht_dim=\dimen328
+\l__tblr_last_cell_table_dp_dim=\dimen329
+\l__tblr_last_vline_wd_dim=\dimen330
+\l__tblr_tikz_node_box=\box135
+) (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks28
-\MT@tempbox=\box113
-\MT@count=\count361
+\MT@toks=\toks27
+\MT@tempbox=\box136
+\MT@count=\count394
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks29
+\MT@prot@toks=\toks28
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen278
+\MT@outer@kern=\dimen331
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count362
+\MT@listname@count=\count395
  (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip71
+\MT@outer@space=\skip67
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
@@ -534,21 +641,21 @@ Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
  (c:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
 ) (c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
-\xs_counta=\count363
-\xs_countb=\count364
+\xs_counta=\count396
+\xs_countb=\count397
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
-\AC@clearlist=\toks30
+\AC@clearlist=\toks29
 ) (c:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count365
-\csq@gtype=\count366
-\csq@glevel=\count367
-\csq@qlevel=\count368
-\csq@maxlvl=\count369
-\csq@tshold=\count370
-\csq@ltx@everypar=\toks31
+\csq@reset=\count398
+\csq@gtype=\count399
+\csq@glevel=\count400
+\csq@qlevel=\count401
+\csq@maxlvl=\count402
+\csq@tshold=\count403
+\csq@ltx@everypar=\toks30
  (c:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
@@ -560,69 +667,69 @@ File: csquotes.cfg
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
  (c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count371
+\lrq@indent=\count404
  (c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (c:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count372
-\c@listtotal=\count373
-\c@listcount=\count374
-\c@liststart=\count375
-\c@liststop=\count376
-\c@citecount=\count377
-\c@citetotal=\count378
-\c@multicitecount=\count379
-\c@multicitetotal=\count380
-\c@instcount=\count381
-\c@maxnames=\count382
-\c@minnames=\count383
-\c@maxitems=\count384
-\c@minitems=\count385
-\c@citecounter=\count386
-\c@maxcitecounter=\count387
-\c@savedcitecounter=\count388
-\c@uniquelist=\count389
-\c@uniquename=\count390
-\c@refsection=\count391
-\c@refsegment=\count392
-\c@maxextratitle=\count393
-\c@maxextratitleyear=\count394
-\c@maxextraname=\count395
-\c@maxextradate=\count396
-\c@maxextraalpha=\count397
-\c@abbrvpenalty=\count398
-\c@highnamepenalty=\count399
-\c@lownamepenalty=\count400
-\c@maxparens=\count401
-\c@parenlevel=\count402
-\blx@tempcnta=\count403
-\blx@tempcntb=\count404
-\blx@tempcntc=\count405
-\c@blx@maxsection=\count406
-\blx@maxsegment@0=\count407
-\blx@notetype=\count408
-\blx@parenlevel@text=\count409
-\blx@parenlevel@foot=\count410
-\blx@sectionciteorder@0=\count411
-\blx@sectionciteorderinternal@0=\count412
-\blx@entrysetcounter=\count413
-\blx@biblioinstance=\count414
-\labelnumberwidth=\skip72
-\labelalphawidth=\skip73
-\biblabelsep=\skip74
-\bibitemsep=\skip75
-\bibnamesep=\skip76
-\bibinitsep=\skip77
-\bibparsep=\skip78
-\bibhang=\skip79
+\c@tabx@nest=\count405
+\c@listtotal=\count406
+\c@listcount=\count407
+\c@liststart=\count408
+\c@liststop=\count409
+\c@citecount=\count410
+\c@citetotal=\count411
+\c@multicitecount=\count412
+\c@multicitetotal=\count413
+\c@instcount=\count414
+\c@maxnames=\count415
+\c@minnames=\count416
+\c@maxitems=\count417
+\c@minitems=\count418
+\c@citecounter=\count419
+\c@maxcitecounter=\count420
+\c@savedcitecounter=\count421
+\c@uniquelist=\count422
+\c@uniquename=\count423
+\c@refsection=\count424
+\c@refsegment=\count425
+\c@maxextratitle=\count426
+\c@maxextratitleyear=\count427
+\c@maxextraname=\count428
+\c@maxextradate=\count429
+\c@maxextraalpha=\count430
+\c@abbrvpenalty=\count431
+\c@highnamepenalty=\count432
+\c@lownamepenalty=\count433
+\c@maxparens=\count434
+\c@parenlevel=\count435
+\blx@tempcnta=\count436
+\blx@tempcntb=\count437
+\blx@tempcntc=\count438
+\c@blx@maxsection=\count439
+\blx@maxsegment@0=\count440
+\blx@notetype=\count441
+\blx@parenlevel@text=\count442
+\blx@parenlevel@foot=\count443
+\blx@sectionciteorder@0=\count444
+\blx@sectionciteorderinternal@0=\count445
+\blx@entrysetcounter=\count446
+\blx@biblioinstance=\count447
+\labelnumberwidth=\skip68
+\labelalphawidth=\skip69
+\biblabelsep=\skip70
+\bibitemsep=\skip71
+\bibnamesep=\skip72
+\bibinitsep=\skip73
+\bibparsep=\skip74
+\bibhang=\skip75
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language90
-\c@mincomprange=\count415
-\c@maxcomprange=\count416
-\c@mincompwidth=\count417
+\c@mincomprange=\count448
+\c@maxcomprange=\count449
+\c@mincompwidth=\count450
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -635,98 +742,98 @@ File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count418
-\c@savedafterword=\count419
-\c@annotator=\count420
-\c@savedannotator=\count421
-\c@author=\count422
-\c@savedauthor=\count423
-\c@bookauthor=\count424
-\c@savedbookauthor=\count425
-\c@commentator=\count426
-\c@savedcommentator=\count427
-\c@editor=\count428
-\c@savededitor=\count429
-\c@editora=\count430
-\c@savededitora=\count431
-\c@editorb=\count432
-\c@savededitorb=\count433
-\c@editorc=\count434
-\c@savededitorc=\count435
-\c@foreword=\count436
-\c@savedforeword=\count437
-\c@holder=\count438
-\c@savedholder=\count439
-\c@introduction=\count440
-\c@savedintroduction=\count441
-\c@namea=\count442
-\c@savednamea=\count443
-\c@nameb=\count444
-\c@savednameb=\count445
-\c@namec=\count446
-\c@savednamec=\count447
-\c@translator=\count448
-\c@savedtranslator=\count449
-\c@shortauthor=\count450
-\c@savedshortauthor=\count451
-\c@shorteditor=\count452
-\c@savedshorteditor=\count453
-\c@narrator=\count454
-\c@savednarrator=\count455
-\c@execproducer=\count456
-\c@savedexecproducer=\count457
-\c@execdirector=\count458
-\c@savedexecdirector=\count459
-\c@with=\count460
-\c@savedwith=\count461
-\c@labelname=\count462
-\c@savedlabelname=\count463
-\c@institution=\count464
-\c@savedinstitution=\count465
-\c@lista=\count466
-\c@savedlista=\count467
-\c@listb=\count468
-\c@savedlistb=\count469
-\c@listc=\count470
-\c@savedlistc=\count471
-\c@listd=\count472
-\c@savedlistd=\count473
-\c@liste=\count474
-\c@savedliste=\count475
-\c@listf=\count476
-\c@savedlistf=\count477
-\c@location=\count478
-\c@savedlocation=\count479
-\c@organization=\count480
-\c@savedorganization=\count481
-\c@origlocation=\count482
-\c@savedoriglocation=\count483
-\c@origpublisher=\count484
-\c@savedorigpublisher=\count485
-\c@publisher=\count486
-\c@savedpublisher=\count487
-\c@language=\count488
-\c@savedlanguage=\count489
-\c@origlanguage=\count490
-\c@savedoriglanguage=\count491
-\c@citation=\count492
-\c@savedcitation=\count493
-\c@pageref=\count494
-\c@savedpageref=\count495
-\shorthandwidth=\skip80
-\shortjournalwidth=\skip81
-\shortserieswidth=\skip82
-\shorttitlewidth=\skip83
-\shortauthorwidth=\skip84
-\shorteditorwidth=\skip85
-\locallabelnumberwidth=\skip86
-\locallabelalphawidth=\skip87
-\localshorthandwidth=\skip88
-\localshortjournalwidth=\skip89
-\localshortserieswidth=\skip90
-\localshorttitlewidth=\skip91
-\localshortauthorwidth=\skip92
-\localshorteditorwidth=\skip93
+\c@afterword=\count451
+\c@savedafterword=\count452
+\c@annotator=\count453
+\c@savedannotator=\count454
+\c@author=\count455
+\c@savedauthor=\count456
+\c@bookauthor=\count457
+\c@savedbookauthor=\count458
+\c@commentator=\count459
+\c@savedcommentator=\count460
+\c@editor=\count461
+\c@savededitor=\count462
+\c@editora=\count463
+\c@savededitora=\count464
+\c@editorb=\count465
+\c@savededitorb=\count466
+\c@editorc=\count467
+\c@savededitorc=\count468
+\c@foreword=\count469
+\c@savedforeword=\count470
+\c@holder=\count471
+\c@savedholder=\count472
+\c@introduction=\count473
+\c@savedintroduction=\count474
+\c@namea=\count475
+\c@savednamea=\count476
+\c@nameb=\count477
+\c@savednameb=\count478
+\c@namec=\count479
+\c@savednamec=\count480
+\c@translator=\count481
+\c@savedtranslator=\count482
+\c@shortauthor=\count483
+\c@savedshortauthor=\count484
+\c@shorteditor=\count485
+\c@savedshorteditor=\count486
+\c@narrator=\count487
+\c@savednarrator=\count488
+\c@execproducer=\count489
+\c@savedexecproducer=\count490
+\c@execdirector=\count491
+\c@savedexecdirector=\count492
+\c@with=\count493
+\c@savedwith=\count494
+\c@labelname=\count495
+\c@savedlabelname=\count496
+\c@institution=\count497
+\c@savedinstitution=\count498
+\c@lista=\count499
+\c@savedlista=\count500
+\c@listb=\count501
+\c@savedlistb=\count502
+\c@listc=\count503
+\c@savedlistc=\count504
+\c@listd=\count505
+\c@savedlistd=\count506
+\c@liste=\count507
+\c@savedliste=\count508
+\c@listf=\count509
+\c@savedlistf=\count510
+\c@location=\count511
+\c@savedlocation=\count512
+\c@organization=\count513
+\c@savedorganization=\count514
+\c@origlocation=\count515
+\c@savedoriglocation=\count516
+\c@origpublisher=\count517
+\c@savedorigpublisher=\count518
+\c@publisher=\count519
+\c@savedpublisher=\count520
+\c@language=\count521
+\c@savedlanguage=\count522
+\c@origlanguage=\count523
+\c@savedoriglanguage=\count524
+\c@citation=\count525
+\c@savedcitation=\count526
+\c@pageref=\count527
+\c@savedpageref=\count528
+\shorthandwidth=\skip76
+\shortjournalwidth=\skip77
+\shortserieswidth=\skip78
+\shorttitlewidth=\skip79
+\shortauthorwidth=\skip80
+\shorteditorwidth=\skip81
+\locallabelnumberwidth=\skip82
+\locallabelalphawidth=\skip83
+\localshorthandwidth=\skip84
+\localshortjournalwidth=\skip85
+\localshortserieswidth=\skip86
+\localshorttitlewidth=\skip87
+\localshortauthorwidth=\skip88
+\localshorteditorwidth=\skip89
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
@@ -736,19 +843,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count496
-\c@textcitetotal=\count497
-\c@textcitemaxnames=\count498
-\c@biburlbigbreakpenalty=\count499
-\c@biburlbreakpenalty=\count500
-\c@biburlnumpenalty=\count501
-\c@biburlucpenalty=\count502
-\c@biburllcpenalty=\count503
+\c@textcitecount=\count529
+\c@textcitetotal=\count530
+\c@textcitemaxnames=\count531
+\c@biburlbigbreakpenalty=\count532
+\c@biburlbreakpenalty=\count533
+\c@biburlnumpenalty=\count534
+\c@biburlucpenalty=\count535
+\c@biburllcpenalty=\count536
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count504
+\c@smartand=\count537
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -758,8 +865,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count505
-\c@bbx:relatedtotal=\count506
+\c@bbx:relatedcount=\count538
+\c@bbx:relatedtotal=\count539
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
@@ -795,22 +902,17 @@ File: biblatex.cfg
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-09-02 L3 programming layer (loader) 
-)
 Package biblatex Info: ... and expl3
 (biblatex)             2025-09-02 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (c:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
-)
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 )) (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count507
+\BKM@id=\count540
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
@@ -872,17 +974,17 @@ LaTeX Font Info:    ... okay on input line 47.
 
 (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count508
-\scratchdimen=\dimen279
-\scratchbox=\box114
-\nofMPsegments=\count509
-\nofMParguments=\count510
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count511
-\MPscratchDim=\dimen280
-\MPnumerator=\count512
-\makeMPintoPDFobject=\count513
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count541
+\scratchdimen=\dimen332
+\scratchbox=\box137
+\nofMPsegments=\count542
+\nofMParguments=\count543
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count544
+\MPscratchDim=\dimen333
+\MPnumerator=\count545
+\makeMPintoPDFobject=\count546
+\everyMPtoPDFconversion=\toks32
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -891,10 +993,6 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
-Package caption Info: longtable package is loaded.
- (c:/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
-)
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 47.
 LaTeX Info: Redefining \microtypecontext on input line 47.
@@ -950,18 +1048,18 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
 <<sRGB.icc>>
-\l__author_authorno_int=\count514
-\l__author_autcrcnt_int=\count515
-\g__signature_autno_int=\count516
-\g__signature_supno_int=\count517
-\g__signature_accno_int=\count518
+\l__author_authorno_int=\count547
+\l__author_autcrcnt_int=\count548
+\g__signature_autno_int=\count549
+\g__signature_supno_int=\count550
+\g__signature_accno_int=\count551
 
 
 [1
 
 
 {c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./abstract.tex)
-\l__supervisor_supervisorno_int=\count519
+\l__supervisor_supervisorno_int=\count552
 
 
 [2
@@ -1023,7 +1121,7 @@ although it is yet undefined on input line 9.
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=207, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=213, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
@@ -1043,7 +1141,7 @@ although it is yet undefined on input line 38.
 [9 <./figures/F1-1.jpg>]
 
 [10]
-<figures/F1-2.jpg, id=284, 380.00032pt x 337.26pt>
+<figures/F1-2.jpg, id=290, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1053,7 +1151,7 @@ although it is yet undefined on input line 119.
 
 
 [11]
-<figures/F1-3.jpg, id=307, 375.65344pt x 189.70876pt>
+<figures/F1-3.jpg, id=314, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
@@ -1095,7 +1193,7 @@ although it is yet undefined on input line 3.
 ]
 
 [23]
-<figures/F2-1.jpg, id=495, 868.24374pt x 549.05125pt>
+<figures/F2-1.jpg, id=501, 868.24374pt x 549.05125pt>
 File: figures/F2-1.jpg Graphic file (type jpg)
 <use figures/F2-1.jpg>
 Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
@@ -1107,7 +1205,7 @@ Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
 [25 <./figures/F2-1.jpg>]
 Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
 although it is yet undefined on input line 109.
-<figures/F2-2.jpg, id=540, 622.325pt x 250.9375pt>
+<figures/F2-2.jpg, id=546, 622.325pt x 250.9375pt>
 File: figures/F2-2.jpg Graphic file (type jpg)
 <use figures/F2-2.jpg>
 Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
@@ -1158,7 +1256,7 @@ although it is yet undefined on input line 421.
 [39]
 
 [40]
-<figures/F2-3.jpg, id=907, 1205.50375pt x 643.40375pt>
+<figures/F2-3.jpg, id=913, 1205.50375pt x 643.40375pt>
 File: figures/F2-3.jpg Graphic file (type jpg)
 <use figures/F2-3.jpg>
 Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
@@ -1172,7 +1270,7 @@ although it is yet undefined on input line 489.
 [42]
 
 [43]
-<figures/F2-4.jpg, id=964, 789.95125pt x 573.14125pt>
+<figures/F2-4.jpg, id=970, 789.95125pt x 573.14125pt>
 File: figures/F2-4.jpg Graphic file (type jpg)
 <use figures/F2-4.jpg>
 Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
@@ -1180,7 +1278,7 @@ Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
 
 
 [44 <./figures/F2-4.jpg>]
-<figures/F2-5.jpg, id=973, 2049.6575pt x 1261.71375pt>
+<figures/F2-5.jpg, id=979, 2049.6575pt x 1261.71375pt>
 File: figures/F2-5.jpg Graphic file (type jpg)
 <use figures/F2-5.jpg>
 Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
@@ -1188,17 +1286,17 @@ Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
 
 
 [45 <./figures/F2-5.jpg>]
-<figures/F2-6.jpg, id=983, 2036.60875pt x 1413.28pt>
+<figures/F2-6.jpg, id=989, 2036.60875pt x 1413.28pt>
 File: figures/F2-6.jpg Graphic file (type jpg)
 <use figures/F2-6.jpg>
 Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
 (pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
-<figures/F2-7.jpg, id=987, 3011.25pt x 1261.71375pt>
+<figures/F2-7.jpg, id=993, 3011.25pt x 1261.71375pt>
 File: figures/F2-7.jpg Graphic file (type jpg)
 <use figures/F2-7.jpg>
 Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
 (pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
-<figures/F2-8.jpg, id=988, 2812.5075pt x 1261.71375pt>
+<figures/F2-8.jpg, id=994, 2812.5075pt x 1261.71375pt>
 File: figures/F2-8.jpg Graphic file (type jpg)
 <use figures/F2-8.jpg>
 Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
@@ -1206,12 +1304,12 @@ Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
 
 
 [46]
-<figures/F2-9.jpg, id=1001, 2416.02625pt x 1261.71375pt>
+<figures/F2-9.jpg, id=1007, 2416.02625pt x 1261.71375pt>
 File: figures/F2-9.jpg Graphic file (type jpg)
 <use figures/F2-9.jpg>
 Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
-<figures/F2-10.jpg, id=1002, 2416.02625pt x 1261.71375pt>
+<figures/F2-10.jpg, id=1008, 2416.02625pt x 1261.71375pt>
 File: figures/F2-10.jpg Graphic file (type jpg)
 <use figures/F2-10.jpg>
 Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
@@ -1219,7 +1317,7 @@ Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
 
 
 [47 <./figures/F2-6.jpg>]
-<figures/F2-11.jpg, id=1010, 2250.4075pt x 1261.71375pt>
+<figures/F2-11.jpg, id=1016, 2250.4075pt x 1261.71375pt>
 File: figures/F2-11.jpg Graphic file (type jpg)
 <use figures/F2-11.jpg>
 Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
@@ -1227,7 +1325,7 @@ Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
 
 
 [48 <./figures/F2-7.jpg>]
-<figures/F2-12.jpg, id=1020, 2250.4075pt x 1261.71375pt>
+<figures/F2-12.jpg, id=1026, 2250.4075pt x 1261.71375pt>
 File: figures/F2-12.jpg Graphic file (type jpg)
 <use figures/F2-12.jpg>
 Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
@@ -1243,7 +1341,7 @@ Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
 [52 <./figures/F2-11.jpg>]
 
 [53 <./figures/F2-12.jpg>]
-<figures/F2-13.jpg, id=1080, 823.075pt x 557.08125pt>
+<figures/F2-13.jpg, id=1086, 823.075pt x 557.08125pt>
 File: figures/F2-13.jpg Graphic file (type jpg)
 <use figures/F2-13.jpg>
 Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
@@ -1264,8 +1362,1636 @@ Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
  (./appendixa.tex
 Appendix A.
 
-LaTeX Warning: Reference `tab:A-1' on page 59 undefined on input line 12.
 
-./appendixa.tex:38: Misplaced \noalign.
-\toprule ->\noalign 
-                 
+[59
+
+
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 43.
+
+
+
+[60]
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Offers student-
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sual, mem-ory or
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other sim-i-lar ap-
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Use of avail-able
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) their own smart-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Unexpensive or
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) easy im-ple-men-ta-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool is easy
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) and en-joy-able to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) aca-dem-i-cal per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for-mance us-ing
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool and it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students or re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates prac-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool helped
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Improved long-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) it was tested in
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in learn-ing out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) fi-dent in what
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the long-term
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Learning was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) stu-dents re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) do-ing it eas-ier
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) gains in crit-i-cal
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Results for stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) lev-els were bal-
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for the learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sub-ject/activity:
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool or its
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool can be
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Helps in the vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Comparable or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Research shows
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) bet-ter re-sults in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) com-par-i-son to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other tools or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) General sat-is-fac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sat-is-fac-tion with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Tool achieved
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool greatly
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students see the
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Is an al-ter-na-tive
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in the tool does
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) a bet-ter job to
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other con-tent or
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Reduce stress or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Cognitive load
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) on stu-dents was
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Offers student-
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sual, mem-ory or
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other sim-i-lar ap-
+ []
+
+
+
+[62]
+Underfull \hbox (badness 4036) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Use of avail-able
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) their own smart-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Unexpensive or
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) easy im-ple-men-ta-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool is easy
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) and en-joy-able to
+ []
+
+
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) aca-dem-i-cal per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for-mance us-ing
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool and it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students or re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates prac-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool helped
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Improved long-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) it was tested in
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in learn-ing out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) fi-dent in what
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the long-term
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Learning was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) stu-dents re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) do-ing it eas-ier
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) gains in crit-i-cal
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Results for stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) lev-els were bal-
+ []
+
+
+
+[64]
+Underfull \hbox (badness 5091) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for the learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sub-ject/activity:
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool or its
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool can be
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Helps in the vi-
+ []
+
+
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Comparable or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Research shows
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) bet-ter re-sults in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) com-par-i-son to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other tools or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) General sat-is-fac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sat-is-fac-tion with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Tool achieved
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool greatly
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students see the
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Is an al-ter-na-tive
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in the tool does
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) a bet-ter job to
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other con-tent or
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Reduce stress or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Cognitive load
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) on stu-dents was
+ []
+
+
+
+[66]
+Underfull \hbox (badness 4595) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) No neg-a-tive out-
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Reported fail-ures,
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) setup, mainly of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Problems re-lated
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion be-ing
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Frame rate and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the se-lected plat-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Impractical mark-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Problems re-lated
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) with the se-lected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion, in-
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-ve-nient us-age,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) lost or sim-i-lar
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) lo-cal or in-ter-net
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-nec-tion, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-nec-tion was
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) un-sta-ble, lost or
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in-con-ve-nience for
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the us-age of the
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The cost for cre-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or im-pos-si-ble to
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Issues re-lated to
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sign, the ed-u-ca-
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) tional goals, the
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tent pre-sented
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) AR is not in-te-
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) grated well with
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) used as learn-ing
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the pro-posed
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Pacing and time
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sumes too much
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) time and harms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Increased Cog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tive Load for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Researchers re-
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the cog-ni-tive
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) load of the stu-
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dents, ei-ther as
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) per-ceived by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) stu-dents them-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) selves or tested
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) us-ing any other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tech-nol-ogy
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) cor-rectly the in-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ten-tions or ideas
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) de-sign, ei-ther in
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) num-ber of users
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prompts the stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dents to iso-late
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) them-selves and
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) to their peers or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the con-text in
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) which the ped-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Results are not
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) fer-ence in re-sults
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) be-tween dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ther due to gen-
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) i-cal level or any
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ob-served to have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Other tools
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) are more re-li-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tool harmed
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) neg-a-tive ef-fect in
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the tool was re-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) more or dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Researchers re-
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ported dif-fi-cul-ties
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) quires too much
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tool is re-
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ported by users
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) to be hard to
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) learn and/or use,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prepa-ra-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Physical ex-haus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Using the tool
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) causes ex-haust-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) even in short
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sen for de-ploy-ing
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the AR tool is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Difficulties with
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) mul-ti-ple users or
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Research de-sign
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the re-search de-
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) what ex-actly the
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) AR tool does or
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sented data in a
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) scured as-pects of
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tra-dicts state-
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) was proven false
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) No neg-a-tive out-
+ []
+
+
+
+[67]
+Underfull \hbox (badness 2277) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Reported fail-ures,
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) setup, mainly of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Problems re-lated
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion be-ing
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Frame rate and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the se-lected plat-
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Impractical mark-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Problems re-lated
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) with the se-lected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion, in-
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-ve-nient us-age,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) lost or sim-i-lar
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) lo-cal or in-ter-net
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-nec-tion, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-nec-tion was
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) un-sta-ble, lost or
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in-con-ve-nience for
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the us-age of the
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The cost for cre-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or im-pos-si-ble to
+ []
+
+
+Overfull \vbox (187.36154pt too high) has occurred while \output is active []
+
+
+
+[68]
+Underfull \hbox (badness 1107) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Issues re-lated to
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sign, the ed-u-ca-
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) tional goals, the
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tent pre-sented
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) AR is not in-te-
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) grated well with
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) used as learn-ing
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the pro-posed
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Pacing and time
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sumes too much
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) time and harms
+ []
+
+
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Increased Cog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tive Load for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Researchers re-
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the cog-ni-tive
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) load of the stu-
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dents, ei-ther as
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) per-ceived by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) stu-dents them-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) selves or tested
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) us-ing any other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tech-nol-ogy
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) cor-rectly the in-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ten-tions or ideas
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) de-sign, ei-ther in
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) num-ber of users
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prompts the stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dents to iso-late
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) them-selves and
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) to their peers or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the con-text in
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) which the ped-a-
+ []
+
+
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Results are not
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) fer-ence in re-sults
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) be-tween dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ther due to gen-
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) i-cal level or any
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ob-served to have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Other tools
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) are more re-li-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tool harmed
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) neg-a-tive ef-fect in
+ []
+
+
+
+[71]
+Underfull \hbox (badness 2644) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the tool was re-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) more or dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Researchers re-
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ported dif-fi-cul-ties
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) quires too much
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tool is re-
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ported by users
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) to be hard to
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) learn and/or use,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prepa-ra-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Physical ex-haus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Using the tool
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) causes ex-haust-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) even in short
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sen for de-ploy-ing
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the AR tool is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Difficulties with
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) mul-ti-ple users or
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Research de-sign
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the re-search de-
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) what ex-actly the
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) AR tool does or
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sented data in a
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) scured as-pects of
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tra-dicts state-
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) was proven false
+ []
+
+)
+
+[73]
+
+[74
+
+
+
+]
+
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80]
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
+[85]
+
+[86]
+
+[87]
+
+[88]
+
+[89] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./appendixa.aux))
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 36040 strings out of 467748
+ 715464 string characters out of 5431138
+ 2443017 words of memory out of 5000000
+ 63720 multiletter control sequences out of 15000+600000
+ 657241 words of font info for 209 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 90i,16n,112p,4607b,5319s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (89 pages, 2025126 bytes).
+PDF statistics:
+ 1748 PDF objects out of 2073 (max. 8388607)
+ 1554 compressed objects within 16 object streams
+ 395 named destinations out of 1000 (max. 500000)
+ 55641 words of extra memory for PDF output out of 61914 (max. 10000000)
+

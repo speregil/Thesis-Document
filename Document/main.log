@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  17 NOV 2025 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  19 NOV 2025 22:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -916,7 +916,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./appendixa.aux))
+ (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./appendixa.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -1121,7 +1121,7 @@ although it is yet undefined on input line 9.
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=213, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=228, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
@@ -1141,7 +1141,7 @@ although it is yet undefined on input line 38.
 [9 <./figures/F1-1.jpg>]
 
 [10]
-<figures/F1-2.jpg, id=290, 380.00032pt x 337.26pt>
+<figures/F1-2.jpg, id=305, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1151,7 +1151,7 @@ although it is yet undefined on input line 119.
 
 
 [11]
-<figures/F1-3.jpg, id=314, 375.65344pt x 189.70876pt>
+<figures/F1-3.jpg, id=329, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
@@ -1193,7 +1193,7 @@ although it is yet undefined on input line 3.
 ]
 
 [23]
-<figures/F2-1.jpg, id=501, 868.24374pt x 549.05125pt>
+<figures/F2-1.jpg, id=516, 868.24374pt x 549.05125pt>
 File: figures/F2-1.jpg Graphic file (type jpg)
 <use figures/F2-1.jpg>
 Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
@@ -1205,7 +1205,7 @@ Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
 [25 <./figures/F2-1.jpg>]
 Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
 although it is yet undefined on input line 109.
-<figures/F2-2.jpg, id=546, 622.325pt x 250.9375pt>
+<figures/F2-2.jpg, id=561, 622.325pt x 250.9375pt>
 File: figures/F2-2.jpg Graphic file (type jpg)
 <use figures/F2-2.jpg>
 Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
@@ -1256,7 +1256,7 @@ although it is yet undefined on input line 421.
 [39]
 
 [40]
-<figures/F2-3.jpg, id=913, 1205.50375pt x 643.40375pt>
+<figures/F2-3.jpg, id=929, 1205.50375pt x 643.40375pt>
 File: figures/F2-3.jpg Graphic file (type jpg)
 <use figures/F2-3.jpg>
 Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
@@ -1270,7 +1270,7 @@ although it is yet undefined on input line 489.
 [42]
 
 [43]
-<figures/F2-4.jpg, id=970, 789.95125pt x 573.14125pt>
+<figures/F2-4.jpg, id=985, 789.95125pt x 573.14125pt>
 File: figures/F2-4.jpg Graphic file (type jpg)
 <use figures/F2-4.jpg>
 Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
@@ -1278,7 +1278,7 @@ Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
 
 
 [44 <./figures/F2-4.jpg>]
-<figures/F2-5.jpg, id=979, 2049.6575pt x 1261.71375pt>
+<figures/F2-5.jpg, id=994, 2049.6575pt x 1261.71375pt>
 File: figures/F2-5.jpg Graphic file (type jpg)
 <use figures/F2-5.jpg>
 Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
@@ -1286,17 +1286,17 @@ Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
 
 
 [45 <./figures/F2-5.jpg>]
-<figures/F2-6.jpg, id=989, 2036.60875pt x 1413.28pt>
+<figures/F2-6.jpg, id=1004, 2036.60875pt x 1413.28pt>
 File: figures/F2-6.jpg Graphic file (type jpg)
 <use figures/F2-6.jpg>
 Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
 (pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
-<figures/F2-7.jpg, id=993, 3011.25pt x 1261.71375pt>
+<figures/F2-7.jpg, id=1008, 3011.25pt x 1261.71375pt>
 File: figures/F2-7.jpg Graphic file (type jpg)
 <use figures/F2-7.jpg>
 Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
 (pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
-<figures/F2-8.jpg, id=994, 2812.5075pt x 1261.71375pt>
+<figures/F2-8.jpg, id=1009, 2812.5075pt x 1261.71375pt>
 File: figures/F2-8.jpg Graphic file (type jpg)
 <use figures/F2-8.jpg>
 Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
@@ -1304,12 +1304,12 @@ Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
 
 
 [46]
-<figures/F2-9.jpg, id=1007, 2416.02625pt x 1261.71375pt>
+<figures/F2-9.jpg, id=1022, 2416.02625pt x 1261.71375pt>
 File: figures/F2-9.jpg Graphic file (type jpg)
 <use figures/F2-9.jpg>
 Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
-<figures/F2-10.jpg, id=1008, 2416.02625pt x 1261.71375pt>
+<figures/F2-10.jpg, id=1023, 2416.02625pt x 1261.71375pt>
 File: figures/F2-10.jpg Graphic file (type jpg)
 <use figures/F2-10.jpg>
 Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
@@ -1317,7 +1317,7 @@ Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
 
 
 [47 <./figures/F2-6.jpg>]
-<figures/F2-11.jpg, id=1016, 2250.4075pt x 1261.71375pt>
+<figures/F2-11.jpg, id=1031, 2250.4075pt x 1261.71375pt>
 File: figures/F2-11.jpg Graphic file (type jpg)
 <use figures/F2-11.jpg>
 Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
@@ -1325,7 +1325,7 @@ Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
 
 
 [48 <./figures/F2-7.jpg>]
-<figures/F2-12.jpg, id=1026, 2250.4075pt x 1261.71375pt>
+<figures/F2-12.jpg, id=1042, 2250.4075pt x 1261.71375pt>
 File: figures/F2-12.jpg Graphic file (type jpg)
 <use figures/F2-12.jpg>
 Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
@@ -1341,7 +1341,7 @@ Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
 [52 <./figures/F2-11.jpg>]
 
 [53 <./figures/F2-12.jpg>]
-<figures/F2-13.jpg, id=1086, 823.075pt x 557.08125pt>
+<figures/F2-13.jpg, id=1101, 823.075pt x 557.08125pt>
 File: figures/F2-13.jpg Graphic file (type jpg)
 <use figures/F2-13.jpg>
 Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
@@ -1357,13 +1357,41 @@ Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
 [57])
 
 [58]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 3.
+Package acronym Info: Label `acro:CR' newly defined as it shall be overridden
+although it is yet undefined on input line 25.
+
+
+[59
+
+
+
+
+]
+<figures/F3-1.jpg, id=1234, 746.79pt x 746.79pt>
+File: figures/F3-1.jpg Graphic file (type jpg)
+<use figures/F3-1.jpg>
+Package pdftex.def Info: figures/F3-1.jpg  used on input line 52.
+(pdftex.def)             Requested size: 74.68336pt x 74.68336pt.
+
+
+[60]
+
+[61 <./figures/F3-1.jpg (PNG copy)>]
+
+[62])
+
+[63]
 \openout2 = `appendixa.aux'.
 
  (./appendixa.tex
 Appendix A.
 
 
-[59
+[64
 
 
 
@@ -1375,9 +1403,9 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 
-[60]
+[65]
 
-[61]
+[66]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Offers student-
  []
@@ -1684,7 +1712,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 104--104
 
 
 
-[62]
+[67]
 Underfull \hbox (badness 4036) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Use of avail-able
  []
@@ -1716,7 +1744,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 104--104
 
 
 
-[63]
+[68]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Students gain
  []
@@ -1818,7 +1846,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 
 
 
-[64]
+[69]
 Underfull \hbox (badness 5091) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) for the learn-ing
  []
@@ -1875,7 +1903,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 104--104
 
 
 
-[65]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Comparable or
  []
@@ -1962,7 +1990,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 104--104
 
 
 
-[66]
+[71]
 Underfull \hbox (badness 4595) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
  []
@@ -2449,7 +2477,7 @@ Underfull \hbox (badness 2762) in paragraph at lines 148--148
 
 
 
-[67]
+[72]
 Underfull \hbox (badness 2277) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Reported fail-ures,
  []
@@ -2559,7 +2587,7 @@ Overfull \vbox (187.36154pt too high) has occurred while \output is active []
 
 
 
-[68]
+[73]
 Underfull \hbox (badness 1107) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
  []
@@ -2626,7 +2654,7 @@ Underfull \hbox (badness 5403) in paragraph at lines 148--148
 
 
 
-[69]
+[74]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Increased Cog-
  []
@@ -2738,7 +2766,7 @@ Underfull \hbox (badness 6725) in paragraph at lines 148--148
 
 
 
-[70]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Results are not
  []
@@ -2795,7 +2823,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 148--148
 
 
 
-[71]
+[76]
 Underfull \hbox (badness 2644) in paragraph at lines 148--148
 \T1/cmr/m/n/12 (+20) the tool was re-
  []
@@ -2892,7 +2920,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 148--148
 
 
 
-[72]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Research de-sign
  []
@@ -2934,23 +2962,13 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 )
 
-[73]
+[78]
 
-[74
+[79
 
 
 
 ]
-
-[75]
-
-[76]
-
-[77]
-
-[78]
-
-[79]
 
 [80]
 
@@ -2970,7 +2988,19 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 [88]
 
-[89] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./appendixa.aux))
+[89]
+
+[90]
+
+[91]
+
+[92]
+
+[93]
+
+[94]
+
+[95] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./appendixa.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -2980,18 +3010,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36040 strings out of 467748
- 715464 string characters out of 5431138
- 2443017 words of memory out of 5000000
- 63720 multiletter control sequences out of 15000+600000
+ 36201 strings out of 467748
+ 719980 string characters out of 5431138
+ 2480865 words of memory out of 5000000
+ 63847 multiletter control sequences out of 15000+600000
  657241 words of font info for 209 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,16n,112p,4607b,5319s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (89 pages, 2025126 bytes).
+Output written on main.pdf (95 pages, 2207582 bytes).
 PDF statistics:
- 1748 PDF objects out of 2073 (max. 8388607)
- 1554 compressed objects within 16 object streams
- 395 named destinations out of 1000 (max. 500000)
- 55641 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1859 PDF objects out of 2073 (max. 8388607)
+ 1656 compressed objects within 17 object streams
+ 422 named destinations out of 1000 (max. 500000)
+ 55670 words of extra memory for PDF output out of 61914 (max. 10000000)
 

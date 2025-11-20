@@ -1567,6 +1567,45 @@
       \verb https://www.taylorfrancis.com/books/9781134954490
       \endverb
     \endentry
+    \entry{blackie_2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ba78d17bcf50b45d24d782554f8b124}{%
+           family={Blackie},
+           familyi={B\bibinitperiod},
+           given={Margaret\bibnamedelimb A.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{fullhash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{fullhashraw}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{bibnamehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authorbibnamehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authornamehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authorfullhash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authorfullhashraw}{2ba78d17bcf50b45d24d782554f8b124}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Chemistry}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Implications of a critical realism approach to chemistry research and education}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{1047\bibrangedash 1050}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/s41557-023-01274-2
+      \endverb
+    \endentry
     \entry{blackmore_2010}{book}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -1936,6 +1975,40 @@
       \verb https://www.jstor.org/stable/375331?origin=crossref
       \endverb
     \endentry
+    \entry{bryman_2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d1a09091846fab8f76004bc1289581d}{%
+           family={Bryman},
+           familyi={B\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{fullhash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{fullhashraw}{6d1a09091846fab8f76004bc1289581d}
+      \strng{bibnamehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authorbibnamehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authornamehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authorfullhash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authorfullhashraw}{6d1a09091846fab8f76004bc1289581d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Quantity and {Quality} in {Social} {Research}}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.4324/9780203410028
+      \endverb
+    \endentry
     \entry{buchs_2017}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=422d3bfeb060f1828fbc9dd2dc230ce2}{%
@@ -2104,6 +2177,43 @@
       \verb{url}
       \verb https://doi.org/10.1057/9781137476982_9
       \endverb
+    \endentry
+    \entry{carter_2004}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bb44bca8e5eb99cb20f5b40f58781e3}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f4e9a39761ea97e0a2f63142d6b3de7}{%
+           family={New},
+           familyi={N\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{fullhash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{fullhashraw}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{bibnamehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authorbibnamehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authornamehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authorfullhash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authorfullhashraw}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Making {Realism} {Work}}
+      \field{title}{Realist social theory and empirical research}
+      \field{year}{2004}
     \endentry
     \entry{cesar_2006}{article}{}{}
       \name{author}{2}{}{%
@@ -2545,6 +2655,65 @@
       \verb{url}
       \verb https://www.jstor.org/stable/40604395
       \endverb
+    \endentry
+    \entry{cober_2015}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=66a093e50e3687cbfc80a98adc796cf6}{%
+           family={Cober},
+           familyi={C\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c3f674ffcbcd20a2e619da40029d819}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=739e1787f595264f45fbbde7e9b8281b}{%
+           family={Slotta},
+           familyi={S\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e789c0c7133faacc70f37cdf55fbf5}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={Hyo-Jeong},
+           giveni={H\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=921de3f32739c1c025fb936a4adb0c87}{%
+           family={Könings},
+           familyi={K\bibinitperiod},
+           given={Karen\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c62a3fa096a08aaa48908d8694812a26}
+      \strng{fullhash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{fullhashraw}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{bibnamehash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{authorbibnamehash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{authornamehash}{c62a3fa096a08aaa48908d8694812a26}
+      \strng{authorfullhash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{authorfullhashraw}{407afaa75b1720f7eee9b7e117c07dc6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instructional Science}
+      \field{number}{2}
+      \field{title}{Teachers as participatory designers: Two case studies with technology-enhanced learning environments}
+      \field{volume}{43}
+      \field{year}{2015}
+      \field{pages}{203\bibrangedash 228}
+      \range{pages}{26}
     \endentry
     \entry{cochrane_2012}{article}{}{}
       \name{author}{1}{}{%
@@ -3485,6 +3654,45 @@
       \endverb
       \verb{url}
       \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-6967-2.ch004
+      \endverb
+    \endentry
+    \entry{easton_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27419cbadc316f232945ac4ed3411626}{%
+           family={Easton},
+           familyi={E\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{fullhash}{27419cbadc316f232945ac4ed3411626}
+      \strng{fullhashraw}{27419cbadc316f232945ac4ed3411626}
+      \strng{bibnamehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authorbibnamehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authornamehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authorfullhash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authorfullhashraw}{27419cbadc316f232945ac4ed3411626}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Marketing Management}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Critical realism in case study research}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{pages}{118\bibrangedash 128}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.indmarman.2008.06.004
       \endverb
     \endentry
     \entry{eden_2024}{article}{}{}
@@ -4579,6 +4787,56 @@
       \field{pages}{73\bibrangedash 86}
       \range{pages}{14}
     \endentry
+    \entry{grauer_2012}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e2bcb8b48feaaed3c743a3b437c3ce4}{%
+           family={Grauer},
+           familyi={G\bibinitperiod},
+           given={Kit},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7aada3ddad39d8fb932e5b434c2fbe48}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Sheri\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan US}%
+      }
+      \strng{namehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{fullhash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{fullhashraw}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{bibnamehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authorbibnamehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authornamehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authorfullhash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authorfullhashraw}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{editorbibnamehash}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \strng{editornamehash}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \strng{editorfullhash}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \strng{editorfullhashraw}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Action {Research} {Methods}: {Plain} and {Simple}}
+      \field{title}{A {Case} for {Case} {Study} {Research} in {Education}}
+      \field{year}{2012}
+      \field{pages}{69\bibrangedash 79}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/9781137046635_4
+      \endverb
+    \endentry
     \entry{griffin_2015}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=96203e362ae2e4deb7101199b44b4d9e}{%
@@ -4852,6 +5110,86 @@
       \field{year}{2022}
       \verb{doi}
       \verb 10.3390/ijerph191811278
+      \endverb
+    \endentry
+    \entry{hamilton_2013}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b628acfba23cd6b5233161a0df52817b}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={Lorna},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aa559900311abe665d3f38d13d3435b}{%
+           family={Corbett-Whittier},
+           familyi={C\bibinithyphendelim W\bibinitperiod},
+           given={Connie},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {SAGE}%
+      }
+      \strng{namehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{fullhash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{fullhashraw}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{bibnamehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authorbibnamehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authornamehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authorfullhash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authorfullhashraw}{dcbae81b68d1d9e066c768393a0c7432}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781446208175 9781446208168}
+      \field{series}{Research methods in education}
+      \field{title}{Using case study in education reserach}
+      \field{year}{2013}
+    \endentry
+    \entry{hastings_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d7b8a15d313286b1a6fac12352625a6}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{fullhash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{fullhashraw}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{bibnamehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authorbibnamehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authornamehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authorfullhash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authorfullhashraw}{7d7b8a15d313286b1a6fac12352625a6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Critical Realism}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{A critical realist methodology in empirical research: foundations, process, and payoffs}
+      \field{volume}{20}
+      \field{year}{2021}
+      \field{pages}{458\bibrangedash 473}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/14767430.2021.1958440
       \endverb
     \endentry
     \entry{healy_2011}{article}{}{}
@@ -6175,6 +6513,51 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/53713/
+      \endverb
+    \endentry
+    \entry{kiger_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cfefaa50062d750e70c339e6a2659dc2}{%
+           family={Kiger},
+           familyi={K\bibinitperiod},
+           given={Michelle\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8114c65dc46d291d09d702a508da93e}{%
+           family={Varpio},
+           familyi={V\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{fullhash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{fullhashraw}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{bibnamehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authorbibnamehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authornamehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authorfullhash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authorfullhashraw}{0e1f24422625eab617aa1cbe47b307cd}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Teacher}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Thematic analysis of qualitative data: {AMEE} {Guide} {No}. 131}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{pages}{846\bibrangedash 854}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/0142159X.2020.1755030
       \endverb
     \endentry
     \entry{kim_2017}{article}{}{}
@@ -8089,6 +8472,37 @@
       \verb http://www.ijmtss.com/PDF/IJMTSS-2021-15-03-07.pdf
       \endverb
     \endentry
+    \entry{neuendorf_2018}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d4967a6515ba82caeda36e8ce7d74d5}{%
+           family={Neuendorf},
+           familyi={N\bibinitperiod},
+           given={Kimberly\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{fullhash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{fullhashraw}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{bibnamehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authorbibnamehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authornamehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authorfullhash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authorfullhashraw}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advanced {Research} {Methods} for {Applied} {Psychology}}
+      \field{title}{Content analysis and thematic analysis}
+      \field{year}{2018}
+    \endentry
     \entry{newton_2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=12bd56fd8132c2dec3f759825e94ad83}{%
@@ -8729,6 +9143,57 @@
       \endverb
       \verb{url}
       \verb https://www.bmj.com/content/372/bmj.n160
+      \endverb
+    \endentry
+    \entry{parra_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=471899bdbf86611b347de772bd9727fb}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={Juan\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e9b8d3221a524c6755826c92b5143c8}{%
+           family={Said-Hung},
+           familyi={S\bibinithyphendelim H\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f4a34c8058b5d0e8da6f321be87ec2c}{%
+           family={Montoya-Vargas},
+           familyi={M\bibinithyphendelim V\bibinitperiod},
+           given={Juny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{46fde8c1a80a6d8967c0ed455aa4cfaa}
+      \strng{fullhash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{fullhashraw}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{bibnamehash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{authorbibnamehash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{authornamehash}{46fde8c1a80a6d8967c0ed455aa4cfaa}
+      \strng{authorfullhash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{authorfullhashraw}{7fb7991857b4dab400f8b411b8f238c8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Qualitative Studies in Education}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{({Re})introducing critical realism as a paradigm to inform qualitative content analysis in \textit{causal} educational research}
+      \field{volume}{34}
+      \field{year}{2021}
+      \field{pages}{168\bibrangedash 182}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/09518398.2020.1735555
       \endverb
     \endentry
     \entry{passey_2019}{article}{}{}
@@ -9759,6 +10224,66 @@
       \verb https://www.ejmste.com/article/enhancing-21st-century-skills-with-arusing-the-gradual-immersion-method-to-develop-collaborative-4675
       \endverb
     \endentry
+    \entry{wang_2021}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa1a1092e5677eabc5de0fcfccfb2acd}{%
+           family={Saxena},
+           familyi={S\bibinitperiod},
+           given={Deepak},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=233dbf99a3e2d9ddc744bc17b9a89eaa}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{fullhash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{fullhashraw}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{bibnamehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authorbibnamehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authornamehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authorfullhash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authorfullhashraw}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{editorbibnamehash}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \strng{editornamehash}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \strng{editorfullhash}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \strng{editorfullhashraw}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The case study is a widely used methodology among qualitative researchers irrespective of their philosophical orientation. While positivist and interpretive philosophies are the two most popular research philosophies across diverse research fields, critical realism offers a third alternative. Critical realism is a research philosophy that assumes the existence of an independent reality but also accepts that there may be varied interpretations of it due to a difference in context. Mechanisms are the theoretical building blocks of critical realism, and presence, absence, or interaction of certain mechanisms may result in the presence or absence of certain events. However, limited guidelines are available on conducting a critical realist case study. This chapter fills this gap by providing some practical guidelines on how a CR-based case study may be planned and executed. Practical guidelines are offered for framing the research question, data collection, writing a narrative, coding, and explanation building aligned with a critical realist philosophy.}
+      \field{booktitle}{Advances in {Knowledge} {Acquisition}, {Transfer}, and {Management}}
+      \field{isbn}{9781799876007 9781799876014}
+      \field{shorttitle}{Guidelines for {Conducting} a {Critical} {Realist} {Case} {Study}}
+      \field{title}{Guidelines for {Conducting} a {Critical} {Realist} {Case} {Study}:}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{38\bibrangedash 56}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.4018/978-1-7998-7600-7.ch003
+      \endverb
+      \verb{urlraw}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-7600-7.ch003
+      \endverb
+      \verb{url}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-7600-7.ch003
+      \endverb
+    \endentry
     \entry{schaper_2018}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=63446a3aac84fb7e681320caff452da0}{%
@@ -10096,6 +10621,80 @@
       \verb https://ieeexplore.ieee.org/document/10536568
       \endverb
       \keyw{Anatomical Visualization,Anatomy Seminars,Augmented Reality,Collaboration,Collaborative Learning,Conferences,Educational Technology in Medicine,Embryonic Heart Development,Heart,Interactive Learning Tools,Medical Education,Multi-Modal Interaction,Multi-User Learning Environment,Prototypes,Seminars,Shape,Three-dimensional displays,User-Centered Design}
+    \endentry
+    \entry{scott_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c881708c7ef642a11566bf5e10c6874d}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{fullhash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{fullhashraw}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{bibnamehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authorbibnamehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authornamehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authorfullhash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authorfullhashraw}{c881708c7ef642a11566bf5e10c6874d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Philosophy of Education}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Critical {Realism} and {Empirical} {Research} {Methods} in {Education}}
+      \field{volume}{39}
+      \field{year}{2005}
+      \field{pages}{633\bibrangedash 646}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1111/j.1467-9752.2005.00460.x
+      \endverb
+    \endentry
+    \entry{seale_2007}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=f83afea2681a1183652e4bd09ec12a62}{%
+           family={Seale},
+           familyi={S\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {SAGE}%
+      }
+      \strng{namehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{fullhash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{fullhashraw}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{bibnamehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editorbibnamehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editornamehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editorfullhash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editorfullhashraw}{f83afea2681a1183652e4bd09ec12a62}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781446204580}
+      \field{note}{OCLC: 847624808}
+      \field{title}{Qualitative research practice}
+      \field{year}{2007}
     \endentry
     \entry{selwyn_2009}{article}{}{}
       \name{author}{1}{}{%
@@ -10810,6 +11409,63 @@
       \endverb
       \verb{url}
       \verb https://doi.apa.org/doi/10.1037/0022-3514.86.6.849
+      \endverb
+    \endentry
+    \entry{tay_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8103ba53e195d92bffd40fea50a42f47}{%
+           family={Tay},
+           familyi={T\bibinitperiod},
+           given={Lee\bibnamedelima Yong},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff63675884774878952a9b87925978bc}{%
+           family={Melwani},
+           familyi={M\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbd1ca8b872915807e2ed49ee313aee4}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Jemuel\bibnamedelima Liangyu},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9b4f1cf0cbdd7c96445ccc90644b097}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Ken\bibnamedelima Renjie},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{618e2eec9fb33ba811bdbe690759f16f}
+      \strng{fullhash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{fullhashraw}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{bibnamehash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{authorbibnamehash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{authornamehash}{618e2eec9fb33ba811bdbe690759f16f}
+      \strng{authorfullhash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{authorfullhashraw}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning: Research and Practice}
+      \field{month}{7}
+      \field{number}{2}
+      \field{title}{A case study of designing technology-enhanced learning in an elementary school in {Singapore}}
+      \field{volume}{3}
+      \field{year}{2017}
+      \field{pages}{98\bibrangedash 113}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/23735082.2017.1350737
       \endverb
     \endentry
     \entry{thai_2020}{article}{}{}
@@ -14084,6 +14740,45 @@
       \verb https://www.taylorfrancis.com/books/9781134954490
       \endverb
     \endentry
+    \entry{blackie_2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ba78d17bcf50b45d24d782554f8b124}{%
+           family={Blackie},
+           familyi={B\bibinitperiod},
+           given={Margaret\bibnamedelimb A.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{fullhash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{fullhashraw}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{bibnamehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authorbibnamehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authornamehash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authorfullhash}{2ba78d17bcf50b45d24d782554f8b124}
+      \strng{authorfullhashraw}{2ba78d17bcf50b45d24d782554f8b124}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Chemistry}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Implications of a critical realism approach to chemistry research and education}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{1047\bibrangedash 1050}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/s41557-023-01274-2
+      \endverb
+    \endentry
     \entry{blackmore_2010}{book}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -14453,6 +15148,40 @@
       \verb https://www.jstor.org/stable/375331?origin=crossref
       \endverb
     \endentry
+    \entry{bryman_2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d1a09091846fab8f76004bc1289581d}{%
+           family={Bryman},
+           familyi={B\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{fullhash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{fullhashraw}{6d1a09091846fab8f76004bc1289581d}
+      \strng{bibnamehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authorbibnamehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authornamehash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authorfullhash}{6d1a09091846fab8f76004bc1289581d}
+      \strng{authorfullhashraw}{6d1a09091846fab8f76004bc1289581d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Quantity and {Quality} in {Social} {Research}}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.4324/9780203410028
+      \endverb
+    \endentry
     \entry{buchs_2017}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=422d3bfeb060f1828fbc9dd2dc230ce2}{%
@@ -14621,6 +15350,43 @@
       \verb{url}
       \verb https://doi.org/10.1057/9781137476982_9
       \endverb
+    \endentry
+    \entry{carter_2004}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bb44bca8e5eb99cb20f5b40f58781e3}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f4e9a39761ea97e0a2f63142d6b3de7}{%
+           family={New},
+           familyi={N\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{fullhash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{fullhashraw}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{bibnamehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authorbibnamehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authornamehash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authorfullhash}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \strng{authorfullhashraw}{bea53bc0fad7c179a6660c208ff8c9f0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Making {Realism} {Work}}
+      \field{title}{Realist social theory and empirical research}
+      \field{year}{2004}
     \endentry
     \entry{cesar_2006}{article}{}{}
       \name{author}{2}{}{%
@@ -15062,6 +15828,65 @@
       \verb{url}
       \verb https://www.jstor.org/stable/40604395
       \endverb
+    \endentry
+    \entry{cober_2015}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=66a093e50e3687cbfc80a98adc796cf6}{%
+           family={Cober},
+           familyi={C\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c3f674ffcbcd20a2e619da40029d819}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=739e1787f595264f45fbbde7e9b8281b}{%
+           family={Slotta},
+           familyi={S\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e789c0c7133faacc70f37cdf55fbf5}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={Hyo-Jeong},
+           giveni={H\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=921de3f32739c1c025fb936a4adb0c87}{%
+           family={Könings},
+           familyi={K\bibinitperiod},
+           given={Karen\bibnamedelima D},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c62a3fa096a08aaa48908d8694812a26}
+      \strng{fullhash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{fullhashraw}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{bibnamehash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{authorbibnamehash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{authornamehash}{c62a3fa096a08aaa48908d8694812a26}
+      \strng{authorfullhash}{407afaa75b1720f7eee9b7e117c07dc6}
+      \strng{authorfullhashraw}{407afaa75b1720f7eee9b7e117c07dc6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instructional Science}
+      \field{number}{2}
+      \field{title}{Teachers as participatory designers: Two case studies with technology-enhanced learning environments}
+      \field{volume}{43}
+      \field{year}{2015}
+      \field{pages}{203\bibrangedash 228}
+      \range{pages}{26}
     \endentry
     \entry{cochrane_2012}{article}{}{}
       \name{author}{1}{}{%
@@ -16002,6 +16827,45 @@
       \endverb
       \verb{url}
       \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-6967-2.ch004
+      \endverb
+    \endentry
+    \entry{easton_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27419cbadc316f232945ac4ed3411626}{%
+           family={Easton},
+           familyi={E\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{fullhash}{27419cbadc316f232945ac4ed3411626}
+      \strng{fullhashraw}{27419cbadc316f232945ac4ed3411626}
+      \strng{bibnamehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authorbibnamehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authornamehash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authorfullhash}{27419cbadc316f232945ac4ed3411626}
+      \strng{authorfullhashraw}{27419cbadc316f232945ac4ed3411626}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Marketing Management}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Critical realism in case study research}
+      \field{volume}{39}
+      \field{year}{2010}
+      \field{pages}{118\bibrangedash 128}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.indmarman.2008.06.004
       \endverb
     \endentry
     \entry{eden_2024}{article}{}{}
@@ -17096,6 +17960,56 @@
       \field{pages}{73\bibrangedash 86}
       \range{pages}{14}
     \endentry
+    \entry{grauer_2012}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e2bcb8b48feaaed3c743a3b437c3ce4}{%
+           family={Grauer},
+           familyi={G\bibinitperiod},
+           given={Kit},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7aada3ddad39d8fb932e5b434c2fbe48}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Sheri\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan US}%
+      }
+      \strng{namehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{fullhash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{fullhashraw}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{bibnamehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authorbibnamehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authornamehash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authorfullhash}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{authorfullhashraw}{1e2bcb8b48feaaed3c743a3b437c3ce4}
+      \strng{editorbibnamehash}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \strng{editornamehash}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \strng{editorfullhash}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \strng{editorfullhashraw}{7aada3ddad39d8fb932e5b434c2fbe48}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Action {Research} {Methods}: {Plain} and {Simple}}
+      \field{title}{A {Case} for {Case} {Study} {Research} in {Education}}
+      \field{year}{2012}
+      \field{pages}{69\bibrangedash 79}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/9781137046635_4
+      \endverb
+    \endentry
     \entry{griffin_2015}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=96203e362ae2e4deb7101199b44b4d9e}{%
@@ -17369,6 +18283,86 @@
       \field{year}{2022}
       \verb{doi}
       \verb 10.3390/ijerph191811278
+      \endverb
+    \endentry
+    \entry{hamilton_2013}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b628acfba23cd6b5233161a0df52817b}{%
+           family={Hamilton},
+           familyi={H\bibinitperiod},
+           given={Lorna},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aa559900311abe665d3f38d13d3435b}{%
+           family={Corbett-Whittier},
+           familyi={C\bibinithyphendelim W\bibinitperiod},
+           given={Connie},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {SAGE}%
+      }
+      \strng{namehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{fullhash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{fullhashraw}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{bibnamehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authorbibnamehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authornamehash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authorfullhash}{dcbae81b68d1d9e066c768393a0c7432}
+      \strng{authorfullhashraw}{dcbae81b68d1d9e066c768393a0c7432}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781446208175 9781446208168}
+      \field{series}{Research methods in education}
+      \field{title}{Using case study in education reserach}
+      \field{year}{2013}
+    \endentry
+    \entry{hastings_2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d7b8a15d313286b1a6fac12352625a6}{%
+           family={Hastings},
+           familyi={H\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{fullhash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{fullhashraw}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{bibnamehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authorbibnamehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authornamehash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authorfullhash}{7d7b8a15d313286b1a6fac12352625a6}
+      \strng{authorfullhashraw}{7d7b8a15d313286b1a6fac12352625a6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Critical Realism}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{A critical realist methodology in empirical research: foundations, process, and payoffs}
+      \field{volume}{20}
+      \field{year}{2021}
+      \field{pages}{458\bibrangedash 473}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/14767430.2021.1958440
       \endverb
     \endentry
     \entry{healy_2011}{article}{}{}
@@ -18692,6 +19686,51 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/53713/
+      \endverb
+    \endentry
+    \entry{kiger_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cfefaa50062d750e70c339e6a2659dc2}{%
+           family={Kiger},
+           familyi={K\bibinitperiod},
+           given={Michelle\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8114c65dc46d291d09d702a508da93e}{%
+           family={Varpio},
+           familyi={V\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{fullhash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{fullhashraw}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{bibnamehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authorbibnamehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authornamehash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authorfullhash}{0e1f24422625eab617aa1cbe47b307cd}
+      \strng{authorfullhashraw}{0e1f24422625eab617aa1cbe47b307cd}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Teacher}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Thematic analysis of qualitative data: {AMEE} {Guide} {No}. 131}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{pages}{846\bibrangedash 854}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/0142159X.2020.1755030
       \endverb
     \endentry
     \entry{kim_2017}{article}{}{}
@@ -20606,6 +21645,37 @@
       \verb http://www.ijmtss.com/PDF/IJMTSS-2021-15-03-07.pdf
       \endverb
     \endentry
+    \entry{neuendorf_2018}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d4967a6515ba82caeda36e8ce7d74d5}{%
+           family={Neuendorf},
+           familyi={N\bibinitperiod},
+           given={Kimberly\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{fullhash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{fullhashraw}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{bibnamehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authorbibnamehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authornamehash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authorfullhash}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \strng{authorfullhashraw}{2d4967a6515ba82caeda36e8ce7d74d5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advanced {Research} {Methods} for {Applied} {Psychology}}
+      \field{title}{Content analysis and thematic analysis}
+      \field{year}{2018}
+    \endentry
     \entry{newton_2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=12bd56fd8132c2dec3f759825e94ad83}{%
@@ -21246,6 +22316,57 @@
       \endverb
       \verb{url}
       \verb https://www.bmj.com/content/372/bmj.n160
+      \endverb
+    \endentry
+    \entry{parra_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=471899bdbf86611b347de772bd9727fb}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={Juan\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e9b8d3221a524c6755826c92b5143c8}{%
+           family={Said-Hung},
+           familyi={S\bibinithyphendelim H\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f4a34c8058b5d0e8da6f321be87ec2c}{%
+           family={Montoya-Vargas},
+           familyi={M\bibinithyphendelim V\bibinitperiod},
+           given={Juny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{46fde8c1a80a6d8967c0ed455aa4cfaa}
+      \strng{fullhash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{fullhashraw}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{bibnamehash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{authorbibnamehash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{authornamehash}{46fde8c1a80a6d8967c0ed455aa4cfaa}
+      \strng{authorfullhash}{7fb7991857b4dab400f8b411b8f238c8}
+      \strng{authorfullhashraw}{7fb7991857b4dab400f8b411b8f238c8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Qualitative Studies in Education}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{({Re})introducing critical realism as a paradigm to inform qualitative content analysis in \textit{causal} educational research}
+      \field{volume}{34}
+      \field{year}{2021}
+      \field{pages}{168\bibrangedash 182}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/09518398.2020.1735555
       \endverb
     \endentry
     \entry{passey_2019}{article}{}{}
@@ -22276,6 +23397,66 @@
       \verb https://www.ejmste.com/article/enhancing-21st-century-skills-with-arusing-the-gradual-immersion-method-to-develop-collaborative-4675
       \endverb
     \endentry
+    \entry{wang_2021}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa1a1092e5677eabc5de0fcfccfb2acd}{%
+           family={Saxena},
+           familyi={S\bibinitperiod},
+           given={Deepak},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=233dbf99a3e2d9ddc744bc17b9a89eaa}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{fullhash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{fullhashraw}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{bibnamehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authorbibnamehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authornamehash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authorfullhash}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{authorfullhashraw}{fa1a1092e5677eabc5de0fcfccfb2acd}
+      \strng{editorbibnamehash}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \strng{editornamehash}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \strng{editorfullhash}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \strng{editorfullhashraw}{233dbf99a3e2d9ddc744bc17b9a89eaa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The case study is a widely used methodology among qualitative researchers irrespective of their philosophical orientation. While positivist and interpretive philosophies are the two most popular research philosophies across diverse research fields, critical realism offers a third alternative. Critical realism is a research philosophy that assumes the existence of an independent reality but also accepts that there may be varied interpretations of it due to a difference in context. Mechanisms are the theoretical building blocks of critical realism, and presence, absence, or interaction of certain mechanisms may result in the presence or absence of certain events. However, limited guidelines are available on conducting a critical realist case study. This chapter fills this gap by providing some practical guidelines on how a CR-based case study may be planned and executed. Practical guidelines are offered for framing the research question, data collection, writing a narrative, coding, and explanation building aligned with a critical realist philosophy.}
+      \field{booktitle}{Advances in {Knowledge} {Acquisition}, {Transfer}, and {Management}}
+      \field{isbn}{9781799876007 9781799876014}
+      \field{shorttitle}{Guidelines for {Conducting} a {Critical} {Realist} {Case} {Study}}
+      \field{title}{Guidelines for {Conducting} a {Critical} {Realist} {Case} {Study}:}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{38\bibrangedash 56}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.4018/978-1-7998-7600-7.ch003
+      \endverb
+      \verb{urlraw}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-7600-7.ch003
+      \endverb
+      \verb{url}
+      \verb http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-7998-7600-7.ch003
+      \endverb
+    \endentry
     \entry{schaper_2018}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=63446a3aac84fb7e681320caff452da0}{%
@@ -22613,6 +23794,80 @@
       \verb https://ieeexplore.ieee.org/document/10536568
       \endverb
       \keyw{Anatomical Visualization,Anatomy Seminars,Augmented Reality,Collaboration,Collaborative Learning,Conferences,Educational Technology in Medicine,Embryonic Heart Development,Heart,Interactive Learning Tools,Medical Education,Multi-Modal Interaction,Multi-User Learning Environment,Prototypes,Seminars,Shape,Three-dimensional displays,User-Centered Design}
+    \endentry
+    \entry{scott_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c881708c7ef642a11566bf5e10c6874d}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{fullhash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{fullhashraw}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{bibnamehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authorbibnamehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authornamehash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authorfullhash}{c881708c7ef642a11566bf5e10c6874d}
+      \strng{authorfullhashraw}{c881708c7ef642a11566bf5e10c6874d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Philosophy of Education}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Critical {Realism} and {Empirical} {Research} {Methods} in {Education}}
+      \field{volume}{39}
+      \field{year}{2005}
+      \field{pages}{633\bibrangedash 646}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1111/j.1467-9752.2005.00460.x
+      \endverb
+    \endentry
+    \entry{seale_2007}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=f83afea2681a1183652e4bd09ec12a62}{%
+           family={Seale},
+           familyi={S\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {SAGE}%
+      }
+      \strng{namehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{fullhash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{fullhashraw}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{bibnamehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editorbibnamehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editornamehash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editorfullhash}{f83afea2681a1183652e4bd09ec12a62}
+      \strng{editorfullhashraw}{f83afea2681a1183652e4bd09ec12a62}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781446204580}
+      \field{note}{OCLC: 847624808}
+      \field{title}{Qualitative research practice}
+      \field{year}{2007}
     \endentry
     \entry{selwyn_2009}{article}{}{}
       \name{author}{1}{}{%
@@ -23327,6 +24582,63 @@
       \endverb
       \verb{url}
       \verb https://doi.apa.org/doi/10.1037/0022-3514.86.6.849
+      \endverb
+    \endentry
+    \entry{tay_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8103ba53e195d92bffd40fea50a42f47}{%
+           family={Tay},
+           familyi={T\bibinitperiod},
+           given={Lee\bibnamedelima Yong},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff63675884774878952a9b87925978bc}{%
+           family={Melwani},
+           familyi={M\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbd1ca8b872915807e2ed49ee313aee4}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Jemuel\bibnamedelima Liangyu},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9b4f1cf0cbdd7c96445ccc90644b097}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Ken\bibnamedelima Renjie},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{618e2eec9fb33ba811bdbe690759f16f}
+      \strng{fullhash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{fullhashraw}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{bibnamehash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{authorbibnamehash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{authornamehash}{618e2eec9fb33ba811bdbe690759f16f}
+      \strng{authorfullhash}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \strng{authorfullhashraw}{8ea26bde7de5ea8bf2983b68d3d6bae5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learning: Research and Practice}
+      \field{month}{7}
+      \field{number}{2}
+      \field{title}{A case study of designing technology-enhanced learning in an elementary school in {Singapore}}
+      \field{volume}{3}
+      \field{year}{2017}
+      \field{pages}{98\bibrangedash 113}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/23735082.2017.1350737
       \endverb
     \endentry
     \entry{thai_2020}{article}{}{}

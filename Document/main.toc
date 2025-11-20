@@ -28,5 +28,8 @@
 \contentsline {subsection}{\numberline {2.2.4}Discussion }{50}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Collaborative AR }{53}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Final Discussion }{58}{section.2.4}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{59}{appendix.A}%
-\contentsline {chapter}{References}{74}{appendix*.41}%
+\contentsline {chapter}{\numberline {3}Methodology }{59}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Strategy }{59}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Research Constraints and Limits }{63}{section.3.2}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{64}{appendix.A}%
+\contentsline {chapter}{References}{79}{appendix*.43}%

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1763545348.66877 "main.bcf" "main.bbl" "main" 1763545435.09156 0
+["biber main"] 1763622806.13014 "main.bcf" "main.bbl" "main" 1763622812.55747 0
   "main.bcf" 1763545434 158860 8cfffb9120a457d0babbeea83613b00f "pdflatex"
-  "references.bib" 1763544356 292595 a14772d221155d909514b8d467acb29a ""
+  "references.bib" 1763622709 293252 3f711e00e5b122fff8c3e4998eba595a ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1763545420.01274 "c:/Users/Usuario/Documents/github/Thesis-Document/Document/main.tex" "main.pdf" "main" 1763545435.09263 0
+["pdflatex"] 1763545420.01274 "c:/Users/Usuario/Documents/github/Thesis-Document/Document/main.tex" "main.pdf" "main" 1763622812.55776 0
   "abbreviations.aux" 1763545422 5168 3cb12d0ef47b926a21d2a8a7007d184a "pdflatex"
   "abbreviations.tex" 1763541823 653 e7d681241c5ebeea83bef22d6277021e ""
   "abstract.tex" 1759546707 1172 3709d932ac4b8b6d5d686d5681ea9253 ""
@@ -188,7 +188,7 @@
   "chapter2.aux" 1763545426 15518 1ba1ec2de7a815031d4e1a780e71f8d6 "pdflatex"
   "chapter2.tex" 1763541823 110180 0705763988fb818c34c34fe940ea7d1d ""
   "chapter3.aux" 1763545427 5600 e279701b0d413a65d222fd0a0332b277 "pdflatex"
-  "chapter3.tex" 1763545419 13194 4463ed86b9d1be0134d84dbd7ae78def ""
+  "chapter3.tex" 1763622804 13194 4463ed86b9d1be0134d84dbd7ae78def ""
   "figures/F1-1.jpg" 1757403853 249816 4e0188f71412d534d5901f01decf88e2 ""
   "figures/F1-2.jpg" 1761714491 27787 416a77d4a0dc932d1b943995db0f2d01 ""
   "figures/F1-3.jpg" 1757403853 29633 cc966f0daddf0d76d048979913aca60c ""
@@ -208,7 +208,7 @@
   "figures/F3-1.jpg" 1763542614 162921 2522b813d2affc95bba3ed1e81b5ee17 ""
   "fontsets/mitthesis-defaultfonts.tex" 1759546707 1043 c488d703f7b395cd2eac51f4128f6e87 ""
   "main.aux" 1763545434 76387 0c2f5ed8c3308f99295abd40ff75308c "pdflatex"
-  "main.bbl" 1763545354 1251505 a2698494ad00c23208d51b1e6c594dbb "biber main"
+  "main.bbl" 1763622812 1251505 a2698494ad00c23208d51b1e6c594dbb "biber main"
   "main.lof" 1763545434 2389 987d11518a612a924f46306b468429b8 "pdflatex"
   "main.lot" 1763545434 637 3b9a8f3b7f7574f8a8e4f5a0bc917fe0 "pdflatex"
   "main.run.xml" 1763545434 2427 d1bfcd6d722f5bf4e724fdcb22d9bbf2 "pdflatex"

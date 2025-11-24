@@ -3489,8 +3489,20 @@
     <bcf:citekey order="366" intorder="1">elbanna_2016</bcf:citekey>
     <bcf:citekey order="367" intorder="1">waldmann_2011</bcf:citekey>
     <bcf:citekey order="367" intorder="2">kula_2022</bcf:citekey>
-    <bcf:citekey order="368" intorder="1">fuchs_1982</bcf:citekey>
-    <bcf:citekey order="369" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="368" intorder="1">boonmoh_2021</bcf:citekey>
+    <bcf:citekey order="368" intorder="2">becirovic_2023</bcf:citekey>
+    <bcf:citekey order="368" intorder="3">ifinedo_2021</bcf:citekey>
+    <bcf:citekey order="369" intorder="1">bannister_2014</bcf:citekey>
+    <bcf:citekey order="369" intorder="2">delgado_2008</bcf:citekey>
+    <bcf:citekey order="370" intorder="1">disterer_2013</bcf:citekey>
+    <bcf:citekey order="371" intorder="1">imazeki_2014</bcf:citekey>
+    <bcf:citekey order="371" intorder="2">valjataga_2016</bcf:citekey>
+    <bcf:citekey order="372" intorder="1">medvidovic_2002</bcf:citekey>
+    <bcf:citekey order="373" intorder="1">netflix_2023</bcf:citekey>
+    <bcf:citekey order="374" intorder="1">andres_2017</bcf:citekey>
+    <bcf:citekey order="375" intorder="1">andres_2017</bcf:citekey>
+    <bcf:citekey order="376" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="377" intorder="1">fuchs_1982</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

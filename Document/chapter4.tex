@@ -1,0 +1,355 @@
+\chapter{WorkshopAR - Architectural Design \label{ch4}}
+
+The following chapter will discuss the architectural design of \emph{WorkshopAR}, the educational software developed to explore the research topic of this thesis and to
+gather data related to the research questions formulated. This and the following chapters are dedicated to the technical identity of this research and will discuss the
+development process followed, the technical analysis done to accommodate the educational context of the development, the technical issues found through the design and
+implementation stages, the results obtained and the path forward for future implementations.
+
+This chapter will focus on the description and analysis of the conception and design stages of WorkshopAR, a prototype implementation and proof of concept of an \ac{AR}
+technology for education. Specifically, the intention of this chapter is to discuss these  main points:
+
+\begin{itemize}
+    \item The architectural design of the software, the challenges that were present in the context of the research questions and the different solutions proposed to
+    tackle them.
+    \item The technology integrated into the proposal and used for the development process.
+    \item The changes in approach and solutions that had to be made in response to the learning design context, the challenges posed by the selected technology and the
+    data gathered during the testing stages.
+\end{itemize}
+
+As stated in Chapter \ref{ch1}, the educational pillar of the research has never been far from its software development counterpart. This is especially important in the
+conception-design-implementation cycle used for the development of \emph{WorkshopAR}. It was essential to stablish the proper motivation behind the software development in
+terms of educational research, its broader position in the field of \ac{TEL} and its more particular purpose in the context of the case study selected for this project.
+
+Chapter \ref{ch1} also offered a detailed explanation of the research questions that motivate the construction of a specialised software. To summarise that information,
+this thesis aims to identify what elements, unique to \ac{AR} technologies, can be used to enhance the classroom experience by offering benefits that are different or
+comparable to other technologies. Through an extensive review of the literature, which was detailed in section \ref{sec:2-3}, four main factors that distinguish \ac{AR}
+from other technologies emerged:
+
+\begin{itemize}
+    \item Visualising and interacting with abstract or difficult to come by concepts and objects.
+    \item The ability to keep and incorporate the immediate context as part of the experience.
+    \item A mobile-first deployment philosophy that eases development to an extent and proves to be more accessible to the end user.
+    \item Easy integration with other tools in the mobile environment like cameras, movement sensors, GPS and ubiquitous connectivity.
+\end{itemize}
+
+The literature review showed that there is an increasing tendency to develop \ac{AR} applications that leverage the capabilities of a mobile hardware. Access to diverse
+sensors detect the context and environment of the user and diverse image recognition tools are used to blend in it digital information that creates an experience that is
+unique to \ac{AR}. Nonetheless, most educational apps are single-user experiences, which undermines the equally powerful connectivity tools provided by the mobile
+ecosystem.
+
+Multi-user \ac{AR} experiences (educational or not) excel the most at co-located, in-person activities. GPS-based augmentation is also used to create strong experiences in
+shared spaces, building connectivity on top of a different framework in the mobile network infrastructure  and prioritising the sense of presence in a physical space
+rather than an abstract connection with other users.
+
+With this information it is possible to establish  one of the main motivations for the development of \emph{WorkshopAR}: to create an \ac{AR} application made for a
+multi-user interaction that explores the technology's capabilities for digital visualisation, context awareness, seamless connectivity and a strong link to the physical
+space shared by the users.
+
+The literature review was also used to provide an analysis of the TEL field. It was possible to identify two problems that proved to be the most relevant for this project.
+
+First, there is a clear trade-off when adapting any technology in the classroom between the benefits obtained and the issues that are related to the implementation, usage
+and management of the technology. In this relationship between technological development and learning design, it is important to consider all the instances in which one
+aspect informs the other, and it is even more important to be aware of all the issues that arise when there is a mismatch between both approaches.
+
+Available literature also shows a lot of instances in which a technological development was poorly received. Many studies pointed out the dangers and inefficiencies of a
+particular technology in learning scenarios, and it is possible to identify a push towards reconsidering the role of information technologies in the classroom
+\parencite{boonmoh_2021,becirovic_2023,ifinedo_2021}.
+
+The second area of motivation for WorkshopAR is to explore the synergy between the developer and the educator. Hopefully, the documentation of the design and development
+process followed for \emph{WorkshopAR} provides valuable insight of the challenges of creating educative technology, to the point of becoming useful for future projects in
+similar scenarios. A good step forward from this research would be to polish the positive experiences and to discuss the negatives in future work.
+
+Section \ref{sec:4-1} of this chapter will provide a general description of the context in which WorkshopAR was developed and the broad requirements that were identified.
+Section \ref{sec:4-2} will show a more detailed description of the use cases and scenarios designed for the tool and their relation to the overall research goals of this
+project. Section \ref{sec:4-3} is dedicated to the architectural design of the software, focused on the high-level decisions taken to accommodate the learning goals
+present in the development context and in the research objectives. Finally, section \ref{sec:4-4} offers a broad summary of the results obtained and the conclusions
+reached from the analysis process made throughout the chapter.
+
+\section{Project Description \label{sec:4-1}}
+
+From exploring the literature, it was possible to extract the idea that \ac{AR} experiences build around the connectivity tools available in the mobile-based deployment
+environment showed very positive results and interesting pathways for future research , but a lot of developments were not taking advantage of these tools. With those
+findings in mind it seems fair to propose a software development using \ac{AR} interactions in a multi-user environment as an avenue to gather data and build a case study
+that explores the use of technology that supports collaboration as a teaching tool.
+
+By setting the development in the proper scenario, it is possible to analyse how students use \ac{AR} technologies as an aid for the collaborative aspects of their
+projects. It would be of interest to identify what problems are the students solving or finding, how the technology shapes the structure of their work, the relationships
+between peers or the development of their learning process. By comparing these observations with the behaviours of other students in the same scenario, it would be
+possible to identify key behavioural changes promoted by the implemented tool, opening the possibilities for further analysis and pathways for future development.
+
+In general, the development of WorkshopAR aims to fulfil three main objectives, which are independent of the learning goals proposed by the case study context. These
+objectives will be labelled as Observation Objectives:
+
+\begin{displayquote}
+    OO1. Visualising my team. Sections \ref{sec:2-1} and \ref{sec:2-5} of the literature review exposed the challenges of teaching collaboration skills, and described the
+    process in terms of the time, guidance, and exposure to proper tools needed to succeed. WorkshopAR is meant to use \ac{AR} to graphically convey the information needed
+    to manage a group, for establishing a discussion or for organising a conversation. The idea is to offer tools that convey a good grasp of who the group members are and
+    what they are doing.
+\end{displayquote}
+
+\begin{displayquote}
+    OO2. Visualising decisions. \emph{WorkshopAR} should provide the ability to show digital representations of the learning material and allow the user to hold a
+    discussion around that. The discussion can derive in solidifying knowledge or building learning, or could help in managing decisions, debates with peers or giving a
+    visual representation to the workflow followed by the group. It should be possible to determine from the observations if interacting as a group with a digital
+    representation of the learning material promotes any change on how the group is learning, how the material itself is being used, or if the augmentation helps managing
+    the learning activity or not.
+\end{displayquote}
+
+\begin{displayquote}
+    OO3. Augmenting the workspace. \emph{WorkshopAR} was initially envisioned as a tool for presential collaboration with a physical shared space where the students are
+    working. The tool should be able to use that space as an anchor for the visualisations and use the capabilities of \ac{AR} to give extra meaning to that physical
+    context, either by identifying and using elements of the environment in the augmentation or by adding digital elements anchored to the space that can help the user to
+    create such meaning. In terms of research goals, observations should be able to identify if the ability to augment, visualise and customise digitally the physical
+    environment of a group helps with aspects related to team identity, productivity or team management.
+\end{displayquote}
+
+So far, these objectives are devoid of context. Their aim is to support the research questions proposed, especially SQ1 to SQ3. The objectives describe activities common
+in any collaborative situation, and the insights found in the case study can provide answers to questions related to the value of \ac{AR} in education. The main hypothesis
+does state that \ac{AR} offer advantages using clever visualisations and quick interactions with the context, and \emph{WorkshopAR} is proposed to offer such scenarios.
+
+\subsection{Context: Built Environments Industry Project Course \label{sec:4-1-1}}
+
+Industry Project (ENBU 79X/89X in the university's enrolment system) is the final course offered for a variety of programs under the Built Environments department at
+\ac{AUT}. This department includes the undergraduate programs of Architecture, Construction and Architectural Engineering, Civil Construction and Spatial Design.
+
+ENBU 79X/89X is described as a multi-disciplinary course focused on providing an industry project experience that bridges the academical studies of the program and the
+professional career of the students. In educational terms, this is a project-based course, providing the students a year-long case study that they must work out as a team
+to provide a solution design, a construction plan, and an estimation of costs. The course does not provide a conventional curriculum or study plan, as it is mostly devoid
+of content. Instead, the course acts more as a final opportunity to assess the skills and knowledge gained in previous courses, akin to a research project or thesis.
+Nonetheless, the course has very clear learning goals:
+
+\begin{itemize}
+    \item Propose, organise, design, execute and reflect on a multi-disciplinary project.
+    \item Apply existing knowledge and skills.
+    \item Demonstrate initiative and independence in decision making scenarios.
+    \item Deliver comprehensive client and progress reports.
+\end{itemize}
+
+The course has an overall focus on giving students opportunities to develop crucial soft skills related to teamwork, communication, planning and management. There is also
+a substantial emphasis on developing the relationship between client and team in terms of communication, progress and stakeholders. All course assessments move around the
+idea of reporting progress and decisions to the client. All elements of the project involve a two-way communication to understand views and requirements about relevant
+policies, possible designs and bits of information needed for the proposals.
+
+The course also promotes a strong multi-disciplinary approach. Four different roles are represented from the different bachelors that are part of the Built Environments
+department: \ac{AE}, \ac{CE}, \ac{CM}, and \ac{QS}. Each role represents an important aspect of the project, and every team is composed of at least one representative of
+each role. Every role has a particular set of goals inside the project and works towards specific learning outcomes. The project is built around constant communication
+within the group, distribution of tasks, and effective collaboration to succeed.
+
+In summary, ENBU 79X/89X is a course that focuses on developing crucial soft skills on students in the context of project development and management, emulating in
+different ways common processes and scenarios found on the construction industry. In general, the learning goals can be enunciated as:
+
+\begin{enumerate}
+    \item Develop, document and communicate the design, plan and cost estimation of a construction project, considering the expectations of the client and the limitations
+    exposed by the context, relevant policies and local constraints.
+    \item Participate in and contribute to the project as part of a team, considering the expectations of the role as well as the processes and tools agreed upon by the
+    group.
+    \item Create and use the proper tools to communicate decisions to the client, report progress, receive feedback and ask for information.
+\end{enumerate}
+
+The course provided other set of particularities and complexities that made it a very interesting case study to explore in detail. All that information can be found in
+Chapter \ref{ch5}. For this section, this is enough context to position the development of \emph{WorkshopAR}. The course provided an ideal scenario to test goals associated with
+teamwork and \ac{CL}, as well as to provide the opportunity to have evidence of this process in all the stages of development of both a collaborative
+project and a course, not only in an individual assessment or lesson.
+
+With this context at hand, we can position \emph{WorkshopAR} as an educational technology development meant to offer support to the students of the Industry Project course
+their coursework and the management of their team. It is possible then to elaborate on the educational and development goals of \emph{WorkshopAR} in relation to the
+research questions of this thesis, which is the objective of the following sections.
+
+\subsection{Learning Goals \label{sec:4-1-2}}
+
+The expected learning outcomes for the Industry Project course highlight teamwork and communication, and as such, the intervention designed around \emph{WorkshopAR} should
+focus on identifying the tools that \ac{AR} technologies can provide to facilitate or boost that collaborative process. The aim should be in facilitating group management,
+communication among members and aiding in the production of knowledge and materials for the project.
+
+The guiding prompt of \emph{WorkshopAR} is to provide students with a digital environment that helps in visualising the activities performed by the team and to highlight
+possible tools at their disposal for proper team management, discussion of ideas and effective decision making.
+
+By aligning these goals with those of the course, \emph{WorkshopAR} can provide a tangible feel of abstract concepts used in team management like participation, ideas and task
+allocation. It can also reinforce in the students the need to develop a strategy to deal with issues related to groupwork. It can also prompt ideas about self-reflection,
+evaluation of performance and the development of each individual role inside the group.
+
+The main goal can also be aligned to research questions SQ1 through SQ3. The case study around ENBU79X/89x provides an ideal observation environment to compare different
+approaches to collaboration, not only with those using \ac{AR} or not, but also behaviours related to the use of different types of technologies and to the circumstances
+fostered by the design of the course.
+
+Since the case study is complex and strongly based on observations, three scenarios have been selected to focus the development of \emph{WorkshopAR} and to simplify and direct
+observations, comparisons and analysis, making the data gathering process manageable for the timeframe of the research.
+
+These scenarios represent the general framework used to provide context to more specific and goal driven use cases in the future, which will be exposed in Section \ref{sec:4-3}.
+The scenarios are born from the learning goals of the course but not necessarily from the particularities of its development. They represent common instances of
+collaborative work and common roadblocks in the development of effective teamwork (see Section \ref{sec:2-1-4}). A deeper analysis of the implementation of the tool is
+described in Chapter \ref{ch5}, and a description of the changes and adaptations needed to properly incorporate \emph{WorkshopAR} as part of the observed cohort of
+ENBU 79X/89X can be found in Chapter \ref{ch6}.
+
+\subsubsection{Scenario 1: Team Management \label{sec:4-1-2-1}}
+
+The first scenario is about tools that can be used to manage the composition and dynamics of a group and to help in answering questions like: Who is my team? What are their
+roles? What is my role? \parencite{bannister_2014,delgado_2008}.
+
+The proposal is to use visual cues and digital constructs to represent information about team members and their work, offer the means to interact with such information and
+to share it with others. This \emph{digital profile} can help students to start a conversation around the structure of the group and the evolution of the dynamics of its
+members. The same reasoning can be applied to give a visual anchor to the tasks allocated and the roles assigned.
+
+A specific manifestation of this scenario is the first contact the members of the group have. \emph{WorkshopAR} can help in that first process of identifying who is who, to
+create the proper environment dialog and to establish the first rules of communication. It can also be extended to scenarios such as a new member trying to integrate into
+the group or as a management tool to experiment and consolidate the group's structure.
+
+\emph{WorkshopAR} can also provide a digital presence for the team itself and represent information about the work being done and who is doing it. This digital presence
+can be defined in terms of the physical space where the group is meeting. This will serve as the positional anchor for all the digital constructs that can be used as part
+of the team's activity. A digital room can be created for the team members to enter or connect which would signify the disposition to start working. The room will be
+constrained or superimposed to the physical space where the group is gathered and can be composed by the digital constructs the team is using to work and all the physical
+elements the application could recognise.
+
+This is a good moment to explain the first design constraint taken for this project. \emph{WorkshopAR} will provide support only to face-to-face collaboration. Online or
+asynchronous collaboration won't be considered.
+
+Sections \ref{sec:2-1} and \ref{sec:2-3} of the literature review exposed the importance of network technologies in the analysis of \ac{CL} and the
+expansive field of online collaboration. The opportunities of exploring the connectivity capabilities of mobile devices as part of \ac{AR} application was also part of the
+discussion, and a big focus of this development is to explore such possibilities and to leverage the ubiquitous connectivity offered by mobile devices to power seamless
+connectivity between users.
+
+It is also true that this research wants to understand the unique capabilities provided by \ac{AR} technologies in terms of augmentation of the physical space, a scenario
+that adapts easily to face-to-face interaction and connectivity with users in proximity. This does not mean that such elements cannot be together with online interactions,
+but they do add another degree of complexity to both the research and the development of the software, risking the possibility of taking the spotlight from the main
+objective of understanding \ac{CL} and the influence of \ac{AR} in the process.
+
+To conclude, Scenario 1 proposes a solution in which the team and each of the team members have a digital profile that can be interacted with. The information in the
+profile can be used as the main anchor for the software to provide the visualisation and augmentation tools that aid in the process of team management, communication,
+roles, task allocation and team structure.
+
+A visual representation of all these concepts can be seen in Figure \ref{fig:4-1}, where the room represent both the physical space used by the group to work and the
+current instance or session the group is participating in. The room will hold all the digital objects used during the session as well as framing all the other activities
+the team can perform.
+
+\begin{figure}
+    \centering{\includegraphics[scale=0.6,alt={Figure 4.1}]{figures/F4-1.jpg}}
+    \caption{Team Management Scenario \label{fig:4-1}}
+\end{figure}
+
+\subsubsection{Scenario 2: Work Session Management \label{sec:4-1-2-2}}
+
+For this scenario, we can define a work session as an activity the group decides to execute for a given time with a set of goals in mind. It can also be described as the
+group members participating in a lesson or a learning activity. The session would be composed by participants, the space the session is taking place in, and the goals
+proposed.
+
+It is envisioned that \emph{WorkshopAR} can provide tools to identify and manage aspects like:
+
+\begin{itemize}
+    \item The participants in the work session.
+    \item Status of the session.
+    \item Current objectives and the status of those objectives.
+    \item The resources at hand for the session.
+\end{itemize}
+
+Scenario 1 is about giving the room a digital representation that can be interacted with. Scenario 2 uses those elements to construct a digital representation of the work
+session, as shown in Figure \ref{fig:4-2}. The participants will connect to an active room in which a session is taking place. The room will be associated with a set of
+goals, active resources and a physical space to which is anchored.
+
+\begin{figure}
+    \centering{\includegraphics[scale=0.6,alt={Figure 4.2}]{figures/F4-2.jpg}}
+    \caption{Work Session Management Scenario \label{fig:4-2}}
+\end{figure}
+
+The second development constraint that can be analysed at this stage is related to resources. Ideally, WorkshopAR should be able to provide or interact with all the
+resources the group needs to perform their work. In just the context of ENBU 79X/89X, the list of available resources could comprise elements such as:
+
+\begin{itemize}
+    \item Tools for creating documents and presentations.
+    \item Tool for architectural design and analysis.
+    \item Spreadsheets for calculations and project management.
+    \item Visualisation of documents and design proposals.
+    \item Tools for digital modelling and design.
+\end{itemize}
+
+It is not feasible for the scope of the development to consider all the possibilities. Seamless interaction between tools is a valuable quality functionality but would not
+add significant insight into the research goals at hand. In contrast, observing how the students interact and integrate all the technological tools at their disposal, and
+how they evaluate their usefulness and functionalities, does align with the observation objectives of the research, providing insights for questions SQ4 and SQ5, which are
+trying to identify the specific value of \ac{AR} in learning scenarios, especially in comparison to other tools.
+
+\emph{WorkshopAR} will be limited to two resources that can be used as part of a working session:
+
+\begin{enumerate}
+    \item Visualisation of and interaction with simple digital models for planification and discussion.
+    \item Anchoring data or information to a digital object or physical space.
+\end{enumerate}
+
+These two resources offer general help for the most common activities of the course: proposing solutions to the spatial design of the project and organising discussions
+around such proposals. The purpose is to analyse how the students change (or not) their approach to collaborative work when they have access to more tangible
+representations of abstract concepts such as ideas, proposals and discussion, and how (if at all) the discussion is affected by the ideas being more visually anchored to
+the real world.
+
+\subsubsection{Scenario 3: Discussion and Debate Management \label{sec:4-1-2-3}}
+
+Scenario 3 is related to the activities that can be performed during a work session but that are not part of the team management. \emph{WorkshopAR} aims to offer tools for
+discussions and debates around the work done by the group and the decisions being taken. The tool can give visualisation and structure to elements like:
+
+\begin{itemize}
+    \item The object of debate or discussion.
+    \item The structure and flow of the discussion.
+    \item The responses and ideas generated.
+    \item The active participation of different team members.
+\end{itemize}
+
+The proposal is that \ac{AR} can offer a visual anchor or structure to the process, helping students in understanding it and managing its flow.
+
+To summarise, the three scenarios presented above illustrate the main learning objectives guiding the design of \emph{WorkshopAR}. The objective is to provide a tool that
+helps the students to identify and structure the most relevant aspects of their collaborative work such as team management, work management, communication and decision
+making.
+
+\subsection{Development goals \label{sec:4-1-3}}
+
+It is also possible to identify a set of points related to the technological and software development of \emph{WorkshopAR} that are worth analysing and that can offer
+insights on how the technology influences the achievement of the learning goals. Some constraints in the development process can also be discussed related to issues
+highlighted in this section.
+
+The first development goal is concerned with the multi-user \ac{AR} experience. This requirement implies some form of network infrastructure to support several users
+interacting at the same time, sharing resources and visualisations. Thanks to the information provided on the descriptions of scenarios 1 through 3 in the previous section,
+it is possible to summarise the main extent of the networking development into the following objectives:
+
+\begin{itemize}
+    \item Provide a lobby-like architecture for connectivity, allowing users to connect in and out of a work session in a seamless way.
+    \item Share and synchronise information about the digital profiles of the team, the room and the resources being used.
+    \item Share a synchronous interaction with the digital objects used and the augmentation created for the work session.
+\end{itemize}
+
+The main proposal of the research is not the software solution developed, rather the interaction design engineered to fulfil the networking requirements and the process
+followed to integrate the solution in the flow of a work session, considering some important requirements imposed by the context of the case study:
+
+\begin{itemize}
+    \item Offering a seamless connection with minimal or high-level configuration.
+    \item Disrupting the work of the students as little as possible, considering they are contributing to a graded project that is part of their professional education.
+\end{itemize}
+
+The second development goal is to provide a platform-independent solution that can support a \ac{BYOD} approach to the implementation of technology in the classroom
+\parencite{disterer_2013}. This considers that, in theory, the main platform for deployment of \ac{AR} solutions are mobile technologies, an ecosystem that is ideal for
+\ac{BYOD} initiatives \parencite{imazeki_2014,valjataga_2016} due to accessibility and ubiquity. Mobile devices also offer hardware solutions to several of the networking
+objectives proposed previously.
+
+Additionally, a solution that is platform-independent can also aim to accommodate \ac{AR} devices that are not based specifically on smartphones, such as specialised \ac{MR}
+headsets like the Meta Quest 3, Magic Leap or the HoloLens. This would create a challenge in design to adapt the control and interactions of the experience specifications
+that each participant has access throughout a session. Figure \ref{fig:4-3} shows a high-level architecture of a possible solution for this scenario, which is similar to
+other systems that offer cross-platform functionalities, commonly across a web deployment \parencite{medvidovic_2002}.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.3},scale=0.8]{figures/F4-3.jpg}}
+    \caption{Concept of a Multi-Platform Architecture \label{fig:4-3}}
+\end{figure}
+
+Similar to the way in which systems like Netflix balance access to content depending on the device used for access \parencite{netflix_2023}, a general architectural proposal for
+\emph{WorkshopAR} would consider an interface between each local participant and the shared interaction in the room. The interface can manage input interactions, data
+types and visualisation types before handling control to the shared room, and vice versa, handle responses and transform them to data that can be properly processed by
+every device connected to the session, akin to a system like \textcite{andres_2017}.
+
+With that analysis in mind, Chapter \ref{ch5} will describe in more detail the reasoning behind not  pursuing a full cross-platform architecture. In summary, the research
+value did not align properly with the value gained by this type of development. The \ac{BYOD} approach was instead tested by focusing on mobile devices which, paired with
+other technologies selected for the development, already covered any mobile architecture using Android or iOS, offering a wide spectrum of devices available to the users.
+
+The one element left behind by not pursuing a full cross-platform architecture was testing the integration of different means of interaction in the same work session. It
+was decided that, for the scope of the research, it was worth to focus first on other aspects of the development and probably relegate this aspect for future work.
+Nonetheless, the question of cross-platform will resurface in the analysis of the case study and during the user-centred design described in section \ref{sec:5-1-1}.
+
+In conclusion, the development of \emph{WorkshopAR} proposes architectural and implementation solutions for a multiuser \ac{AR} application deployed over cross-platform
+mobile technologies. These objectives provide opportunities to understand the technological challenges of implementing multiuser \ac{AR} applications and how they affect
+and are affected by the learning goals proposed previously.
+
+\section{Use Cases \label{sec:4-2}}

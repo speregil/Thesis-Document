@@ -40,5 +40,14 @@
 \contentsline {subsubsection}{User-Centred Design }{72}{section*.45}%
 \contentsline {subsubsection}{Software Engineering Process }{74}{section*.47}%
 \contentsline {section}{\numberline {3.4}Conclusions }{75}{section.3.4}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{77}{appendix.A}%
-\contentsline {chapter}{References}{92}{appendix*.51}%
+\contentsline {chapter}{\numberline {4}WorkshopAR - Architectural Design }{77}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Project Description }{79}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Context: Built Environments Industry Project Course }{80}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Learning Goals }{81}{subsection.4.1.2}%
+\contentsline {subsubsection}{Scenario 1: Team Management }{82}{section*.55}%
+\contentsline {subsubsection}{Scenario 2: Work Session Management }{83}{section*.57}%
+\contentsline {subsubsection}{Scenario 3: Discussion and Debate Management }{86}{section*.59}%
+\contentsline {subsection}{\numberline {4.1.3}Development goals }{87}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Use Cases }{89}{section.4.2}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{90}{appendix.A}%
+\contentsline {chapter}{References}{104}{appendix*.63}%

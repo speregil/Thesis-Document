@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  20 NOV 2025 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  25 NOV 2025 00:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -916,7 +916,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./appendixa.aux))
+ (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./appendixa.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -1123,7 +1123,7 @@ although it is yet undefined on input line 9.
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=246, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=288, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
@@ -1143,7 +1143,7 @@ although it is yet undefined on input line 38.
 [10 <./figures/F1-1.jpg>]
 
 [11]
-<figures/F1-2.jpg, id=323, 380.00032pt x 337.26pt>
+<figures/F1-2.jpg, id=366, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1153,7 +1153,7 @@ although it is yet undefined on input line 119.
 
 
 [12]
-<figures/F1-3.jpg, id=347, 375.65344pt x 189.70876pt>
+<figures/F1-3.jpg, id=389, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
@@ -1195,7 +1195,7 @@ although it is yet undefined on input line 3.
 ]
 
 [24]
-<figures/F2-1.jpg, id=534, 868.24374pt x 549.05125pt>
+<figures/F2-1.jpg, id=576, 868.24374pt x 549.05125pt>
 File: figures/F2-1.jpg Graphic file (type jpg)
 <use figures/F2-1.jpg>
 Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
@@ -1207,7 +1207,7 @@ Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
 [26 <./figures/F2-1.jpg>]
 Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
 although it is yet undefined on input line 109.
-<figures/F2-2.jpg, id=579, 622.325pt x 250.9375pt>
+<figures/F2-2.jpg, id=622, 622.325pt x 250.9375pt>
 File: figures/F2-2.jpg Graphic file (type jpg)
 <use figures/F2-2.jpg>
 Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
@@ -1258,7 +1258,7 @@ although it is yet undefined on input line 421.
 [40]
 
 [41]
-<figures/F2-3.jpg, id=947, 1205.50375pt x 643.40375pt>
+<figures/F2-3.jpg, id=989, 1205.50375pt x 643.40375pt>
 File: figures/F2-3.jpg Graphic file (type jpg)
 <use figures/F2-3.jpg>
 Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
@@ -1272,7 +1272,7 @@ although it is yet undefined on input line 489.
 [43]
 
 [44]
-<figures/F2-4.jpg, id=1003, 789.95125pt x 573.14125pt>
+<figures/F2-4.jpg, id=1045, 789.95125pt x 573.14125pt>
 File: figures/F2-4.jpg Graphic file (type jpg)
 <use figures/F2-4.jpg>
 Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
@@ -1280,7 +1280,7 @@ Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
 
 
 [45 <./figures/F2-4.jpg>]
-<figures/F2-5.jpg, id=1012, 2049.6575pt x 1261.71375pt>
+<figures/F2-5.jpg, id=1054, 2049.6575pt x 1261.71375pt>
 File: figures/F2-5.jpg Graphic file (type jpg)
 <use figures/F2-5.jpg>
 Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
@@ -1288,17 +1288,17 @@ Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
 
 
 [46 <./figures/F2-5.jpg>]
-<figures/F2-6.jpg, id=1022, 2036.60875pt x 1413.28pt>
+<figures/F2-6.jpg, id=1065, 2036.60875pt x 1413.28pt>
 File: figures/F2-6.jpg Graphic file (type jpg)
 <use figures/F2-6.jpg>
 Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
 (pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
-<figures/F2-7.jpg, id=1026, 3011.25pt x 1261.71375pt>
+<figures/F2-7.jpg, id=1069, 3011.25pt x 1261.71375pt>
 File: figures/F2-7.jpg Graphic file (type jpg)
 <use figures/F2-7.jpg>
 Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
 (pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
-<figures/F2-8.jpg, id=1027, 2812.5075pt x 1261.71375pt>
+<figures/F2-8.jpg, id=1070, 2812.5075pt x 1261.71375pt>
 File: figures/F2-8.jpg Graphic file (type jpg)
 <use figures/F2-8.jpg>
 Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
@@ -1306,12 +1306,12 @@ Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
 
 
 [47]
-<figures/F2-9.jpg, id=1040, 2416.02625pt x 1261.71375pt>
+<figures/F2-9.jpg, id=1083, 2416.02625pt x 1261.71375pt>
 File: figures/F2-9.jpg Graphic file (type jpg)
 <use figures/F2-9.jpg>
 Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
-<figures/F2-10.jpg, id=1041, 2416.02625pt x 1261.71375pt>
+<figures/F2-10.jpg, id=1084, 2416.02625pt x 1261.71375pt>
 File: figures/F2-10.jpg Graphic file (type jpg)
 <use figures/F2-10.jpg>
 Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
@@ -1319,7 +1319,7 @@ Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
 
 
 [48 <./figures/F2-6.jpg>]
-<figures/F2-11.jpg, id=1049, 2250.4075pt x 1261.71375pt>
+<figures/F2-11.jpg, id=1092, 2250.4075pt x 1261.71375pt>
 File: figures/F2-11.jpg Graphic file (type jpg)
 <use figures/F2-11.jpg>
 Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
@@ -1327,7 +1327,7 @@ Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
 
 
 [49 <./figures/F2-7.jpg>]
-<figures/F2-12.jpg, id=1061, 2250.4075pt x 1261.71375pt>
+<figures/F2-12.jpg, id=1103, 2250.4075pt x 1261.71375pt>
 File: figures/F2-12.jpg Graphic file (type jpg)
 <use figures/F2-12.jpg>
 Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
@@ -1343,7 +1343,7 @@ Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
 [53 <./figures/F2-11.jpg>]
 
 [54 <./figures/F2-12.jpg>]
-<figures/F2-13.jpg, id=1119, 823.075pt x 557.08125pt>
+<figures/F2-13.jpg, id=1161, 823.075pt x 557.08125pt>
 File: figures/F2-13.jpg Graphic file (type jpg)
 <use figures/F2-13.jpg>
 Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
@@ -1373,7 +1373,7 @@ although it is yet undefined on input line 25.
 
 
 ]
-<figures/F3-1.jpg, id=1252, 746.79pt x 746.79pt>
+<figures/F3-1.jpg, id=1294, 746.79pt x 746.79pt>
 File: figures/F3-1.jpg Graphic file (type jpg)
 <use figures/F3-1.jpg>
 Package pdftex.def Info: figures/F3-1.jpg  used on input line 52.
@@ -1407,7 +1407,7 @@ LaTeX Warning: Reference `ch6' on page 70 undefined on input line 314.
 [71]
 
 [72]
-<figures/F3-2.jpg, id=1427, 782.925pt x 521.95pt>
+<figures/F3-2.jpg, id=1470, 782.925pt x 521.95pt>
 File: figures/F3-2.jpg Graphic file (type jpg)
 <use figures/F3-2.jpg>
 Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
@@ -1417,12 +1417,12 @@ Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
 [73 <./figures/F3-2.jpg>]
 
 [74]
-<figures/F3-3.jpg, id=1455, 813.0375pt x 180.675pt>
+<figures/F3-3.jpg, id=1498, 813.0375pt x 180.675pt>
 File: figures/F3-3.jpg Graphic file (type jpg)
 <use figures/F3-3.jpg>
 Package pdftex.def Info: figures/F3-3.jpg  used on input line 484.
 (pdftex.def)             Requested size: 465.06004pt x 103.34695pt.
-<figures/F3-4.jpg, id=1457, 953.5625pt x 421.575pt>
+<figures/F3-4.jpg, id=1500, 953.5625pt x 421.575pt>
 File: figures/F3-4.jpg Graphic file (type jpg)
 <use figures/F3-4.jpg>
 Package pdftex.def Info: figures/F3-4.jpg  used on input line 496.
@@ -1432,13 +1432,112 @@ Package pdftex.def Info: figures/F3-4.jpg  used on input line 496.
 [75 <./figures/F3-3.jpg>])
 
 [76 <./figures/F3-4.jpg>]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+Chapter 4.
+
+
+[77
+
+
+
+
+]
+
+LaTeX Warning: Reference `sec:4-3' on page 78 undefined on input line 64.
+
+
+LaTeX Warning: Reference `sec:4-4' on page 78 undefined on input line 65.
+
+
+
+[78]
+
+LaTeX Warning: Reference `sec:2-5' on page 79 undefined on input line 84.
+
+
+
+[79]
+Package acronym Info: Label `acro:AUT' newly defined as it shall be overridden
+although it is yet undefined on input line 113.
+Package acronym Info: Label `acro:AE' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+Package acronym Info: Label `acro:CE' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+Package acronym Info: Label `acro:CM' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+Package acronym Info: Label `acro:QS' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+
+
+[80]
+
+LaTeX Warning: Reference `ch5' on page 81 undefined on input line 150.
+
+
+
+[81]
+
+LaTeX Warning: Reference `sec:4-3' on page 82 undefined on input line 178.
+
+
+LaTeX Warning: Reference `ch5' on page 82 undefined on input line 181.
+
+
+LaTeX Warning: Reference `ch6' on page 82 undefined on input line 182.
+
+
+
+[82]
+<figures/F4-1.jpg, id=1593, 672.5125pt x 752.8125pt>
+File: figures/F4-1.jpg Graphic file (type jpg)
+<use figures/F4-1.jpg>
+Package pdftex.def Info: figures/F4-1.jpg  used on input line 225.
+(pdftex.def)             Requested size: 403.5106pt x 451.69098pt.
+<figures/F4-2.jpg, id=1595, 642.4pt x 652.4375pt>
+File: figures/F4-2.jpg Graphic file (type jpg)
+<use figures/F4-2.jpg>
+Package pdftex.def Info: figures/F4-2.jpg  used on input line 249.
+(pdftex.def)             Requested size: 385.44298pt x 391.46552pt.
+
+
+[83]
+
+[84 <./figures/F4-1.jpg>]
+
+[85 <./figures/F4-2.jpg>]
+
+[86]
+Package acronym Info: Label `acro:BYOD' newly defined as it shall be overridden
+although it is yet undefined on input line 323.
+
+
+[87]
+<figures/F4-3.jpg, id=1635, 411.5375pt x 531.9875pt>
+File: figures/F4-3.jpg Graphic file (type jpg)
+<use figures/F4-3.jpg>
+Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
+(pdftex.def)             Requested size: 329.23045pt x 425.59058pt.
+
+
+[88 <./figures/F4-3.jpg>]
+
+LaTeX Warning: Reference `ch5' on page 89 undefined on input line 343.
+
+
+LaTeX Warning: Reference `sec:5-1-1' on page 89 undefined on input line 349.
+
+)
+
+[89]
 \openout2 = `appendixa.aux'.
 
  (./appendixa.tex
 Appendix A.
 
 
-[77
+[90
 
 
 
@@ -1450,9 +1549,9 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 
-[78]
+[91]
 
-[79]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Offers student-
  []
@@ -1759,7 +1858,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 104--104
 
 
 
-[80]
+[93]
 Underfull \hbox (badness 4036) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Use of avail-able
  []
@@ -1791,7 +1890,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 104--104
 
 
 
-[81]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Students gain
  []
@@ -1893,7 +1992,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 
 
 
-[82]
+[95]
 Underfull \hbox (badness 5091) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) for the learn-ing
  []
@@ -1950,7 +2049,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 104--104
 
 
 
-[83]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Comparable or
  []
@@ -2037,7 +2136,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 104--104
 
 
 
-[84]
+[97]
 Underfull \hbox (badness 4595) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
  []
@@ -2059,12 +2158,12 @@ Underfull \hbox (badness 2452) in paragraph at lines 148--148
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Problems re-lated
+[]\T1/cmr/m/n/12 (+20) The AR im-age
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) recog-ni-tion be-ing
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion is
  []
 
 
@@ -2078,68 +2177,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) the se-lected plat-
- []
-
-
 Underfull \hbox (badness 1454) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Impractical mark-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Problems re-lated
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) with the se-lected
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) recog-ni-tion, in-
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) con-ve-nient us-age,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) lost or sim-i-lar
- []
-
-
-Underfull \hbox (badness 4429) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) lo-cal or in-ter-net
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) con-nec-tion, the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) con-nec-tion was
- []
-
-
-Underfull \hbox (badness 2547) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) un-sta-ble, lost or
- []
-
-
-Underfull \hbox (badness 6032) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) in-con-ve-nience for
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) the us-age of the
+Underfull \hbox (badness 3525) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tion are in-con-
  []
 
 
@@ -2175,6 +2219,11 @@ Underfull \hbox (badness 2856) in paragraph at lines 148--148
 
 Underfull \hbox (badness 1721) in paragraph at lines 148--148
 \T1/cmr/m/n/12 (+20) con-tent pre-sented
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or the ac-tiv-i-ties
  []
 
 
@@ -2238,58 +2287,13 @@ Underfull \hbox (badness 7064) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) load of the stu-
- []
-
-
-Underfull \hbox (badness 6510) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) dents, ei-ther as
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) per-ceived by the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) stu-dents them-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) selves or tested
- []
-
-
-Underfull \hbox (badness 7273) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) us-ing any other
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tech-nol-ogy
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) cor-rectly the in-
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ten-tions or ideas
- []
-
-
-Underfull \hbox (badness 2856) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) de-sign, ei-ther in
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) num-ber of users
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the ped-a-gog-i-cal
  []
 
 
@@ -2308,23 +2312,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) them-selves and
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) to their peers or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) the con-text in
- []
-
-
-Underfull \hbox (badness 6725) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) which the ped-a-
+Underfull \hbox (badness 3271) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) pay at-ten-tion to
  []
 
 
@@ -2348,18 +2337,23 @@ Underfull \hbox (badness 7099) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ther due to gen-
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Initial in-ter-est
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) i-cal level or any
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the tool lost
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ob-served to have
+Underfull \hbox (badness 1122) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ac-tiv-ity ended or
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in a sub-se-quent
  []
 
 
@@ -2393,13 +2387,13 @@ Underfull \hbox (badness 1590) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Researchers re-
+Underfull \hbox (badness 3209) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) get, time or re-
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ported dif-fi-cul-ties
+Underfull \hbox (badness 1701) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sources to cre-ate
  []
 
 
@@ -2408,23 +2402,18 @@ Underfull \hbox (badness 4060) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) The tool is re-
- []
-
-
-Underfull \hbox (badness 7344) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ported by users
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Hard to learn
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) to be hard to
+\T1/cmr/m/n/12 (+20) and/or use, or
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) learn and/or use,
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) us-ing the tool
  []
 
 
@@ -2435,21 +2424,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Physical ex-haus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Using the tool
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) causes ex-haust-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) even in short
  []
 
 
@@ -2485,16 +2459,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 Underfull \hbox (badness 7379) in paragraph at lines 148--148
 \T1/cmr/m/n/12 (+20) the re-search de-
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) what ex-actly the
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) AR tool does or
  []
 
 
@@ -2524,7 +2488,7 @@ Underfull \hbox (badness 2762) in paragraph at lines 148--148
 
 
 
-[85]
+[98]
 Underfull \hbox (badness 2277) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Reported fail-ures,
  []
@@ -2536,12 +2500,12 @@ Underfull \hbox (badness 2452) in paragraph at lines 148--148
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Problems re-lated
+[]\T1/cmr/m/n/12 (+20) The AR im-age
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) recog-ni-tion be-ing
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion is
  []
 
 
@@ -2555,68 +2519,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) the se-lected plat-
- []
-
-
 Underfull \hbox (badness 1454) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Impractical mark-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Problems re-lated
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) with the se-lected
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) recog-ni-tion, in-
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) con-ve-nient us-age,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) lost or sim-i-lar
- []
-
-
-Underfull \hbox (badness 4429) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) lo-cal or in-ter-net
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) con-nec-tion, the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) con-nec-tion was
- []
-
-
-Underfull \hbox (badness 2547) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) un-sta-ble, lost or
- []
-
-
-Underfull \hbox (badness 6032) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) in-con-ve-nience for
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) the us-age of the
+Underfull \hbox (badness 3525) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tion are in-con-
  []
 
 
@@ -2630,11 +2539,11 @@ Underfull \hbox (badness 4316) in paragraph at lines 148--148
  []
 
 
-Overfull \vbox (187.36154pt too high) has occurred while \output is active []
+Overfull \vbox (27.86154pt too high) has occurred while \output is active []
 
 
 
-[86]
+[99]
 Underfull \hbox (badness 1107) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
  []
@@ -2657,6 +2566,11 @@ Underfull \hbox (badness 2856) in paragraph at lines 148--148
 
 Underfull \hbox (badness 1721) in paragraph at lines 148--148
 \T1/cmr/m/n/12 (+20) con-tent pre-sented
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or the ac-tiv-i-ties
  []
 
 
@@ -2700,8 +2614,6 @@ Underfull \hbox (badness 5403) in paragraph at lines 148--148
  []
 
 
-
-[87]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Increased Cog-
  []
@@ -2722,58 +2634,15 @@ Underfull \hbox (badness 7064) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) load of the stu-
- []
 
-
-Underfull \hbox (badness 6510) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) dents, ei-ther as
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) per-ceived by the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) stu-dents them-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) selves or tested
- []
-
-
-Underfull \hbox (badness 7273) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) us-ing any other
- []
-
-
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tech-nol-ogy
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) cor-rectly the in-
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ten-tions or ideas
- []
-
-
-Underfull \hbox (badness 2856) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) de-sign, ei-ther in
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) num-ber of users
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the ped-a-gog-i-cal
  []
 
 
@@ -2792,28 +2661,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) them-selves and
+Underfull \hbox (badness 3271) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) pay at-ten-tion to
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) to their peers or
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) the con-text in
- []
-
-
-Underfull \hbox (badness 6725) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) which the ped-a-
- []
-
-
-
-[88]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Results are not
  []
@@ -2834,18 +2686,23 @@ Underfull \hbox (badness 7099) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ther due to gen-
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Initial in-ter-est
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) i-cal level or any
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the tool lost
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ob-served to have
+Underfull \hbox (badness 1122) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ac-tiv-ity ended or
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in a sub-se-quent
  []
 
 
@@ -2859,6 +2716,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
  []
 
 
+
+[101]
 Underfull \hbox (badness 1490) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tool harmed
  []
@@ -2869,8 +2728,6 @@ Underfull \hbox (badness 1038) in paragraph at lines 148--148
  []
 
 
-
-[89]
 Underfull \hbox (badness 2644) in paragraph at lines 148--148
 \T1/cmr/m/n/12 (+20) the tool was re-
  []
@@ -2881,13 +2738,13 @@ Underfull \hbox (badness 1590) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Researchers re-
+Underfull \hbox (badness 3209) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) get, time or re-
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ported dif-fi-cul-ties
+Underfull \hbox (badness 1701) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sources to cre-ate
  []
 
 
@@ -2896,23 +2753,18 @@ Underfull \hbox (badness 4060) in paragraph at lines 148--148
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) The tool is re-
- []
-
-
-Underfull \hbox (badness 7344) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) ported by users
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Hard to learn
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) to be hard to
+\T1/cmr/m/n/12 (+20) and/or use, or
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) learn and/or use,
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) us-ing the tool
  []
 
 
@@ -2923,21 +2775,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Physical ex-haus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]\T1/cmr/m/n/12 (+20) Using the tool
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) causes ex-haust-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) even in short
  []
 
 
@@ -2967,7 +2804,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 148--148
 
 
 
-[90]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Research de-sign
  []
@@ -2975,16 +2812,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 Underfull \hbox (badness 7379) in paragraph at lines 148--148
 \T1/cmr/m/n/12 (+20) the re-search de-
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) what ex-actly the
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 148--148
-\T1/cmr/m/n/12 (+20) AR tool does or
  []
 
 
@@ -3009,37 +2836,13 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 )
 
-[91]
+[103]
 
-[92
+[104
 
 
 
 ]
-
-[93]
-
-[94]
-
-[95]
-
-[96]
-
-[97]
-
-[98]
-
-[99]
-
-[100]
-
-[101]
-
-[102]
-
-[103]
-
-[104]
 
 [105]
 
@@ -3051,7 +2854,33 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 [109]
 
-[110] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./appendixa.aux))
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+
+[118]
+
+[119]
+
+[120]
+
+[121]
+
+[122]
+
+[123] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./appendixa.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -3065,18 +2894,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36543 strings out of 467748
- 730118 string characters out of 5431138
- 2562186 words of memory out of 5000000
- 64115 multiletter control sequences out of 15000+600000
- 657500 words of font info for 212 fonts, out of 8000000 for 9000
+ 36790 strings out of 467748
+ 735303 string characters out of 5431138
+ 2600676 words of memory out of 5000000
+ 64294 multiletter control sequences out of 15000+600000
+ 657968 words of font info for 216 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,16n,112p,4607b,5319s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (110 pages, 2408873 bytes).
+Output written on main.pdf (123 pages, 2590594 bytes).
 PDF statistics:
- 2112 PDF objects out of 2487 (max. 8388607)
- 1889 compressed objects within 19 object streams
- 490 named destinations out of 1000 (max. 500000)
- 55717 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2334 PDF objects out of 2487 (max. 8388607)
+ 2093 compressed objects within 21 object streams
+ 543 named destinations out of 1000 (max. 500000)
+ 55780 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -729,6 +729,58 @@
       \verb https://eduq.info/xmlui/handle/11515/18345
       \endverb
     \endentry
+    \entry{andres_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b383f004c9ebaf5173903f18d518d60d}{%
+           family={Andrés},
+           familyi={A\bibinitperiod},
+           given={Bastidas\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4469194ef59d882706b23c0f94c0655a}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={María},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{fullhash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{fullhashraw}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{bibnamehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authorbibnamehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authornamehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authorfullhash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authorfullhashraw}{e49781551e5d744532d8b83b94bd26f3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Transpiler is a set of tools that take the source code developed in a high-level programming language (source language), and after a transpilation process, it generates a translated source code written in another programming language (target language), that is syntactically equivalent. In this paper, it is presented a new approach for software architecture design, which uses a Transpiler (Haxe) as a programming language and as a generator of the business logic and service layer. The goal is that software developers write the business logic only once and transpile it to equivalent server layers for C\#, Java, and PHP, making them reusable and runnable on several platforms. An experimental prototype was developed to test the idea (published on GitHub with the codename “Cornerstone”), that implements a benchmark to compare when running on different Operating Systems and Application Servers combinations. A single web interface is developed, using HTML, CSS, Javascript, and XML-HttpRequest, which connect to any of the transpiled services regardless of the deployment platform. Cloud instances were used to assure comparability. Preliminary results were obtained and analyzed to show the concept validity and which platform combination provided the highest performance.}
+      \field{journaltitle}{2017 {IEEE} {Second} {Ecuador} {Technical} {Chapters} {Meeting} ({ETCM})}
+      \field{month}{10}
+      \field{title}{Transpiler-based architecture for multi-platform web applications}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ETCM.2017.8247456
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/8247456
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/8247456
+      \endverb
+      \keyw{Benchmark,Business,Business Logic,C\#,Computer architecture,Haxe,Java,Multi-Platform,Nickel,PHP,Servers,Software,Software Architecture,Software Design,Transpiler,Web Applications}
+    \endentry
     \entry{andrews_2015}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=2a5ef0debee636cf15ec96f8122ac6e3}{%
@@ -1383,6 +1435,133 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
       \endverb
     \endentry
+    \entry{bannister_2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25dbef14de342f58146d51b8a7112468}{%
+           family={Bannister},
+           familyi={B\bibinitperiod},
+           given={Susan\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4cedd41cbd3fc89321e31f629da0379}{%
+           family={Wickenheiser},
+           familyi={W\bibinitperiod},
+           given={Hayley\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a71f5aea5e9dd2616efa7a45ada1a672}{%
+           family={Keegan},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{427a70e7be70609b57f44e510e733541}
+      \strng{fullhash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{fullhashraw}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{bibnamehash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{authorbibnamehash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{authornamehash}{427a70e7be70609b57f44e510e733541}
+      \strng{authorfullhash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{authorfullhashraw}{46d8209d7b487e40eff65bc09c6a89bd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-4005, 1098-4275}
+      \field{journaltitle}{Pediatrics}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Key {Elements} of {Highly} {Effective} {Teams}}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{133}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{184\bibrangedash 186}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1542/peds.2013-3734
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.aap.org/pediatrics/article/133/2/184/30836/Key-Elements-of-Highly-Effective-Teams
+      \endverb
+      \verb{url}
+      \verb https://publications.aap.org/pediatrics/article/133/2/184/30836/Key-Elements-of-Highly-Effective-Teams
+      \endverb
+    \endentry
+    \entry{becirovic_2023}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fed46558e2243e8a0bf469732d71130f}{%
+           family={Bećirović},
+           familyi={B\bibinitperiod},
+           given={Senad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=fed46558e2243e8a0bf469732d71130f}{%
+           family={Bećirović},
+           familyi={B\bibinitperiod},
+           given={Senad},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{fullhash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{fullhashraw}{fed46558e2243e8a0bf469732d71130f}
+      \strng{bibnamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authorbibnamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authornamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authorfullhash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authorfullhashraw}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editorbibnamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editornamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editorfullhash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editorfullhashraw}{fed46558e2243e8a0bf469732d71130f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the use of digital technologies in education has increased significantly in recent years around the globe, the problems and challenges of integrating them into teaching differ from country to country. Using modern technologies in teaching in an effective way requires support, motivation, relevant knowledge, skills, competencies, and access to necessary technologies. This chapter discusses why teachers struggle with using technology in the classroom. It also examines why access to technology is a barrier to successful integration, why teachers' professional development is a prerequisite for effective technology use in the classroom, and the ways in which technology is often misused.}
+      \field{booktitle}{Digital {Pedagogy}: {The} {Use} of {Digital} {Technologies} in {Contemporary} {Education}}
+      \field{isbn}{9789819904440}
+      \field{title}{Challenges and {Barriers} for {Effective} {Integration} of {Technologies} into {Teaching} and {Learning}}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{123\bibrangedash 133}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/978-981-99-0444-0_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-981-99-0444-0_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-981-99-0444-0_10
+      \endverb
+    \endentry
     \entry{bergin_2016}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5a65ed3e300c1382db670a80624750c5}{%
@@ -1915,6 +2094,65 @@
       \endverb
       \verb{url}
       \verb http://www.tandfonline.com/doi/abs/10.1080/13636820.2013.834954
+      \endverb
+    \endentry
+    \entry{boonmoh_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3fd3ba7a657c16b3c21783855f966774}{%
+           family={Boonmoh},
+           familyi={B\bibinitperiod},
+           given={Atipat},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=345ab6e3f853924e03b7096dc2c8d022}{%
+           family={Jumpakate},
+           familyi={J\bibinitperiod},
+           given={Thidaporn},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7805a97be03ac0c67f89c0c482ec5e17}{%
+           family={Karpklon},
+           familyi={K\bibinitperiod},
+           given={Sodsai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{627ae402f7c7d7012f6a27e000f08299}
+      \strng{fullhash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{fullhashraw}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{bibnamehash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{authorbibnamehash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{authornamehash}{627ae402f7c7d7012f6a27e000f08299}
+      \strng{authorfullhash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{authorfullhashraw}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the digital era, technology plays an important role in the creation and exchange of knowledge and information in the field of education. When technology is applied in educational settings, it may increase teacher knowledge and support students’ learning and motivation. Over the last decade, social networking (including its integration with online games and educational content) has been introduced in classrooms to support teaching (Johnson \&amp; Germain-Froese, 2016). Many of these tools are free and easy for teachers to use to create learning content. However, these tools may not have an educational value in and of themselves. They only become important when teachers use them as part of the learning and teaching process. The decision about whether to use technology in the classroom often depends on the perceptions of each teacher. This study, therefore, investigated how teachers in secondary schools use technology in their classrooms and their perceptions of the use of technology. The participants in this study were 126 Thai secondary teachers supported by the Ministry of Education’s Secondary Educational Service Area Office 33 (Surin Province). These teachers were language teachers from 58 secondary schools in 17 districts of Surin, Thailand. They were asked to complete questionnaires to report on their use and perceptions of technology use in the classroom. The findings revealed that most of the teachers had knowledge of technological tools and had integrated technologies in their classes. Certain types of tools were already used by all the teachers, while networked educational technology tools were only being integrated in some classrooms. The findings also revealed factors affecting the use and non-use of technology. On the basis of these findings, pedagogical implications are discussed.}
+      \field{issn}{2187-9036}
+      \field{journaltitle}{Computer-Assisted Language Learning Electronic Journal}
+      \field{number}{1}
+      \field{title}{Teachers' perceptions and experience in using technology for the classroom}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{urlraw}
+      \verb https://callej.org/index.php/journal/article/view/320
+      \endverb
+      \verb{url}
+      \verb https://callej.org/index.php/journal/article/view/320
       \endverb
     \endentry
     \entry{brown_1991}{article}{}{}
@@ -3529,6 +3767,69 @@
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
     \endentry
+    \entry{delgado_2008}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2e95a1ddb49c682883fca15683d569c9}{%
+           family={Delgado\bibnamedelima Piña},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={María\bibnamedelima Isabel},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7243d50edba92721e4f318c7753c2da}{%
+           family={María\bibnamedelimb Romero\bibnamedelima Martínez},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c68421d9a31ed7e9f6f64cd57e21913d}{%
+           family={Gómez\bibnamedelima Martínez},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{04a080d493c05777d6a2d3448c11b9e7}
+      \strng{fullhash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{fullhashraw}{4e34e04a84c886d67388dd481290ad09}
+      \strng{bibnamehash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{authorbibnamehash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{authornamehash}{04a080d493c05777d6a2d3448c11b9e7}
+      \strng{authorfullhash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{authorfullhashraw}{4e34e04a84c886d67388dd481290ad09}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1352-7592}
+      \field{journaltitle}{Team Performance Management: An International Journal}
+      \field{month}{3}
+      \field{number}{1/2}
+      \field{shorttitle}{Teams in organizations}
+      \field{title}{Teams in organizations: a review on team effectiveness}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 21}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1108/13527590810860177
+      \endverb
+      \verb{urlraw}
+      \verb http://www.emerald.com/tpm/article/14/1-2/7-21/380654
+      \endverb
+      \verb{url}
+      \verb http://www.emerald.com/tpm/article/14/1-2/7-21/380654
+      \endverb
+    \endentry
     \entry{dey_2018}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f7108a9df7e7cc38e52c28489ca8c06d}{%
@@ -3617,6 +3918,60 @@
       \field{year}{2007}
       \field{pages}{111\bibrangedash 130}
       \range{pages}{20}
+    \endentry
+    \entry{disterer_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7aff1c03e4512d90fabc3fe2db7f4a5f}{%
+           family={Disterer},
+           familyi={D\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed4d0d937d4c16ca99a63cb16bf4c2b7}{%
+           family={Kleiner},
+           familyi={K\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{fullhash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{fullhashraw}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{bibnamehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authorbibnamehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authornamehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authorfullhash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authorfullhashraw}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{22120173}
+      \field{journaltitle}{Procedia Technology}
+      \field{title}{{BYOD} {Bring} {Your} {Own} {Device}}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{9}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{43\bibrangedash 53}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.protcy.2013.12.005
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S221201731300159X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S221201731300159X
+      \endverb
     \endentry
     \entry{drejer_2005}{article}{}{}
       \name{author}{2}{}{%
@@ -6333,6 +6688,62 @@
       \verb https://jltr.academypublication.com/index.php/jltr/article/view/8956
       \endverb
     \endentry
+    \entry{ifinedo_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=697ac4b9caa2ee9ddfba14191127503a}{%
+           family={Ifinedo},
+           familyi={I\bibinitperiod},
+           given={Eloho},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e57560a3ec7781153f8223813eb506}{%
+           family={Kankaanranta},
+           familyi={K\bibinitperiod},
+           given={Marja},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{fullhash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{fullhashraw}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{bibnamehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authorbibnamehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authornamehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authorfullhash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authorfullhashraw}{808c976b8794e5c4d7972ae7da1da333}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1475-939X, 1747-5139}
+      \field{journaltitle}{Technology, Pedagogy and Education}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Understanding the influence of context in technology integration from teacher educators’ perspective}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{30}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{201\bibrangedash 215}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/1475939X.2020.1867231
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1475939X.2020.1867231
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1475939X.2020.1867231
+      \endverb
+    \endentry
     \entry{cyberpunk_2022}{misc}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cf6a595fd48238914e8433521588bfca}{%
@@ -6390,6 +6801,57 @@
       \field{month}{9}
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
+    \endentry
+    \entry{imazeki_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=41d8dfaa08f37a7dfdedf79b1fbba6a3}{%
+           family={Imazeki},
+           familyi={I\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{fullhash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{fullhashraw}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{bibnamehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authorbibnamehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authornamehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authorfullhash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authorfullhashraw}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0022-0485, 2152-4068}
+      \field{journaltitle}{The Journal of Economic Education}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{Bring-{Your}-{Own}-{Device}}
+      \field{title}{Bring-{Your}-{Own}-{Device}: {Turning} {Cell} {Phones} into {Forces} for {Good}}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{45}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{240\bibrangedash 250}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/00220485.2014.917898
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00220485.2014.917898
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00220485.2014.917898
+      \endverb
     \endentry
     \entry{ivanova_2018}{article}{}{}
       \name{author}{1}{}{%
@@ -9009,6 +9471,60 @@
       \field{year}{2004}
       \field{pages}{73\bibrangedash 81}
       \range{pages}{9}
+    \endentry
+    \entry{medvidovic_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=887a7799f49dc721aad68aa4e6f27988}{%
+           family={Medvidovic},
+           familyi={M\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Ischia Italy}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{fullhash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{fullhashraw}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{bibnamehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authorbibnamehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authornamehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authorfullhash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authorfullhashraw}{887a7799f49dc721aad68aa4e6f27988}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781581135565}
+      \field{journaltitle}{Proceedings of the 14th international conference on {Software} engineering and knowledge engineering}
+      \field{month}{7}
+      \field{title}{On the role of middleware in architecture-based software development}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{299\bibrangedash 306}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/568760.568814
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/568760.568814
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/568760.568814
+      \endverb
     \endentry
     \entry{milgram_1995}{article}{}{}
       \name{author}{4}{}{%
@@ -12586,6 +13102,31 @@
       \verb 10.1080/1463631022000005016
       \endverb
     \endentry
+    \entry{netflix_2023}{misc}{}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Your All-in-One Learning Portal: GeeksforGeeks is a comprehensive educational platform that empowers learners across domains-spanning computer science and programming, school education, upskilling, commerce, software tools, competitive exams, and more.}
+      \field{journaltitle}{GeeksforGeeks}
+      \field{month}{5}
+      \field{title}{System {Design} {Netflix} {|} {A} {Complete} {Architecture}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/
+      \endverb
+    \endentry
     \entry{tang_2003}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=d1b0285421ef1c01aca94112e4b9aaf7}{%
@@ -13161,6 +13702,77 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0003687024001376
+      \endverb
+    \endentry
+    \entry{valjataga_2016}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=763d1bba2daafa1b6c20f2186688098f}{%
+           family={Väljataga},
+           familyi={V\bibinitperiod},
+           given={Terje},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=715e5b63475d5baa65941203e35c0995}{%
+           family={Jesmin},
+           familyi={J\bibinitperiod},
+           given={Triinu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92edfb30a138bd087a4b5c2ac8283698}{%
+           family={Ruiz\bibnamedelima Calleja},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Adolfo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3034cd67850b92d33ff3e76dffc214fd}{%
+           family={Kesa},
+           familyi={K\bibinitperiod},
+           given={Lili},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c93ed9f7e3dcf8bc2090a2ef4b7e8c8f}{%
+           family={Ülle\bibnamedelima Juuse-Tumak},
+           familyi={Ü\bibinitperiod\bibinitdelim J\bibinithyphendelim T\bibinitperiod},
+           given={Ülle},
+           giveni={Ü\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Barcelona, Spain}%
+      }
+      \strng{namehash}{f39830f91fe473f90acf8f266e262d19}
+      \strng{fullhash}{209b09329554c414d7770a4129135ff4}
+      \strng{fullhashraw}{209b09329554c414d7770a4129135ff4}
+      \strng{bibnamehash}{209b09329554c414d7770a4129135ff4}
+      \strng{authorbibnamehash}{209b09329554c414d7770a4129135ff4}
+      \strng{authornamehash}{f39830f91fe473f90acf8f266e262d19}
+      \strng{authorfullhash}{209b09329554c414d7770a4129135ff4}
+      \strng{authorfullhashraw}{209b09329554c414d7770a4129135ff4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{7}
+      \field{shorttitle}{{BRING} {YOUR} {OWN} {DEVICE} {TO} {A} {CLASSROOM}}
+      \field{title}{{BRING} {YOUR} {OWN} {DEVICE} {TO} {A} {CLASSROOM}: {CHALLENGES} {FOR} {TEACHERS} {AND} {STUDENTS}}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{2566\bibrangedash 2571}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.21125/edulearn.2016.1550
+      \endverb
+      \verb{urlraw}
+      \verb http://library.iated.org/view/VALJATAGA2016BRI
+      \endverb
+      \verb{url}
+      \verb http://library.iated.org/view/VALJATAGA2016BRI
       \endverb
     \endentry
     \entry{van-der-vegt_2010}{article}{}{}
@@ -15467,6 +16079,58 @@
       \verb https://eduq.info/xmlui/handle/11515/18345
       \endverb
     \endentry
+    \entry{andres_2017}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b383f004c9ebaf5173903f18d518d60d}{%
+           family={Andrés},
+           familyi={A\bibinitperiod},
+           given={Bastidas\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4469194ef59d882706b23c0f94c0655a}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={María},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{fullhash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{fullhashraw}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{bibnamehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authorbibnamehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authornamehash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authorfullhash}{e49781551e5d744532d8b83b94bd26f3}
+      \strng{authorfullhashraw}{e49781551e5d744532d8b83b94bd26f3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Transpiler is a set of tools that take the source code developed in a high-level programming language (source language), and after a transpilation process, it generates a translated source code written in another programming language (target language), that is syntactically equivalent. In this paper, it is presented a new approach for software architecture design, which uses a Transpiler (Haxe) as a programming language and as a generator of the business logic and service layer. The goal is that software developers write the business logic only once and transpile it to equivalent server layers for C\#, Java, and PHP, making them reusable and runnable on several platforms. An experimental prototype was developed to test the idea (published on GitHub with the codename “Cornerstone”), that implements a benchmark to compare when running on different Operating Systems and Application Servers combinations. A single web interface is developed, using HTML, CSS, Javascript, and XML-HttpRequest, which connect to any of the transpiled services regardless of the deployment platform. Cloud instances were used to assure comparability. Preliminary results were obtained and analyzed to show the concept validity and which platform combination provided the highest performance.}
+      \field{journaltitle}{2017 {IEEE} {Second} {Ecuador} {Technical} {Chapters} {Meeting} ({ETCM})}
+      \field{month}{10}
+      \field{title}{Transpiler-based architecture for multi-platform web applications}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ETCM.2017.8247456
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/8247456
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/8247456
+      \endverb
+      \keyw{Benchmark,Business,Business Logic,C\#,Computer architecture,Haxe,Java,Multi-Platform,Nickel,PHP,Servers,Software,Software Architecture,Software Design,Transpiler,Web Applications}
+    \endentry
     \entry{andrews_2015}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=2a5ef0debee636cf15ec96f8122ac6e3}{%
@@ -16121,6 +16785,133 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/02607476.2017.1319513
       \endverb
     \endentry
+    \entry{bannister_2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25dbef14de342f58146d51b8a7112468}{%
+           family={Bannister},
+           familyi={B\bibinitperiod},
+           given={Susan\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4cedd41cbd3fc89321e31f629da0379}{%
+           family={Wickenheiser},
+           familyi={W\bibinitperiod},
+           given={Hayley\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a71f5aea5e9dd2616efa7a45ada1a672}{%
+           family={Keegan},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{427a70e7be70609b57f44e510e733541}
+      \strng{fullhash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{fullhashraw}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{bibnamehash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{authorbibnamehash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{authornamehash}{427a70e7be70609b57f44e510e733541}
+      \strng{authorfullhash}{46d8209d7b487e40eff65bc09c6a89bd}
+      \strng{authorfullhashraw}{46d8209d7b487e40eff65bc09c6a89bd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-4005, 1098-4275}
+      \field{journaltitle}{Pediatrics}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Key {Elements} of {Highly} {Effective} {Teams}}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{133}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{184\bibrangedash 186}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1542/peds.2013-3734
+      \endverb
+      \verb{urlraw}
+      \verb https://publications.aap.org/pediatrics/article/133/2/184/30836/Key-Elements-of-Highly-Effective-Teams
+      \endverb
+      \verb{url}
+      \verb https://publications.aap.org/pediatrics/article/133/2/184/30836/Key-Elements-of-Highly-Effective-Teams
+      \endverb
+    \endentry
+    \entry{becirovic_2023}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fed46558e2243e8a0bf469732d71130f}{%
+           family={Bećirović},
+           familyi={B\bibinitperiod},
+           given={Senad},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=fed46558e2243e8a0bf469732d71130f}{%
+           family={Bećirović},
+           familyi={B\bibinitperiod},
+           given={Senad},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{fullhash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{fullhashraw}{fed46558e2243e8a0bf469732d71130f}
+      \strng{bibnamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authorbibnamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authornamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authorfullhash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{authorfullhashraw}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editorbibnamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editornamehash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editorfullhash}{fed46558e2243e8a0bf469732d71130f}
+      \strng{editorfullhashraw}{fed46558e2243e8a0bf469732d71130f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although the use of digital technologies in education has increased significantly in recent years around the globe, the problems and challenges of integrating them into teaching differ from country to country. Using modern technologies in teaching in an effective way requires support, motivation, relevant knowledge, skills, competencies, and access to necessary technologies. This chapter discusses why teachers struggle with using technology in the classroom. It also examines why access to technology is a barrier to successful integration, why teachers' professional development is a prerequisite for effective technology use in the classroom, and the ways in which technology is often misused.}
+      \field{booktitle}{Digital {Pedagogy}: {The} {Use} of {Digital} {Technologies} in {Contemporary} {Education}}
+      \field{isbn}{9789819904440}
+      \field{title}{Challenges and {Barriers} for {Effective} {Integration} of {Technologies} into {Teaching} and {Learning}}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{123\bibrangedash 133}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/978-981-99-0444-0_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-981-99-0444-0_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-981-99-0444-0_10
+      \endverb
+    \endentry
     \entry{bergin_2016}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5a65ed3e300c1382db670a80624750c5}{%
@@ -16653,6 +17444,65 @@
       \endverb
       \verb{url}
       \verb http://www.tandfonline.com/doi/abs/10.1080/13636820.2013.834954
+      \endverb
+    \endentry
+    \entry{boonmoh_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3fd3ba7a657c16b3c21783855f966774}{%
+           family={Boonmoh},
+           familyi={B\bibinitperiod},
+           given={Atipat},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=345ab6e3f853924e03b7096dc2c8d022}{%
+           family={Jumpakate},
+           familyi={J\bibinitperiod},
+           given={Thidaporn},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7805a97be03ac0c67f89c0c482ec5e17}{%
+           family={Karpklon},
+           familyi={K\bibinitperiod},
+           given={Sodsai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{627ae402f7c7d7012f6a27e000f08299}
+      \strng{fullhash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{fullhashraw}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{bibnamehash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{authorbibnamehash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{authornamehash}{627ae402f7c7d7012f6a27e000f08299}
+      \strng{authorfullhash}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \strng{authorfullhashraw}{3f3cacb7d338354b1c6bda7f8c14afd9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the digital era, technology plays an important role in the creation and exchange of knowledge and information in the field of education. When technology is applied in educational settings, it may increase teacher knowledge and support students’ learning and motivation. Over the last decade, social networking (including its integration with online games and educational content) has been introduced in classrooms to support teaching (Johnson \&amp; Germain-Froese, 2016). Many of these tools are free and easy for teachers to use to create learning content. However, these tools may not have an educational value in and of themselves. They only become important when teachers use them as part of the learning and teaching process. The decision about whether to use technology in the classroom often depends on the perceptions of each teacher. This study, therefore, investigated how teachers in secondary schools use technology in their classrooms and their perceptions of the use of technology. The participants in this study were 126 Thai secondary teachers supported by the Ministry of Education’s Secondary Educational Service Area Office 33 (Surin Province). These teachers were language teachers from 58 secondary schools in 17 districts of Surin, Thailand. They were asked to complete questionnaires to report on their use and perceptions of technology use in the classroom. The findings revealed that most of the teachers had knowledge of technological tools and had integrated technologies in their classes. Certain types of tools were already used by all the teachers, while networked educational technology tools were only being integrated in some classrooms. The findings also revealed factors affecting the use and non-use of technology. On the basis of these findings, pedagogical implications are discussed.}
+      \field{issn}{2187-9036}
+      \field{journaltitle}{Computer-Assisted Language Learning Electronic Journal}
+      \field{number}{1}
+      \field{title}{Teachers' perceptions and experience in using technology for the classroom}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{urlraw}
+      \verb https://callej.org/index.php/journal/article/view/320
+      \endverb
+      \verb{url}
+      \verb https://callej.org/index.php/journal/article/view/320
       \endverb
     \endentry
     \entry{brown_1991}{article}{}{}
@@ -18267,6 +19117,69 @@
       \verb https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0357
       \endverb
     \endentry
+    \entry{delgado_2008}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2e95a1ddb49c682883fca15683d569c9}{%
+           family={Delgado\bibnamedelima Piña},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={María\bibnamedelima Isabel},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7243d50edba92721e4f318c7753c2da}{%
+           family={María\bibnamedelimb Romero\bibnamedelima Martínez},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c68421d9a31ed7e9f6f64cd57e21913d}{%
+           family={Gómez\bibnamedelima Martínez},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{04a080d493c05777d6a2d3448c11b9e7}
+      \strng{fullhash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{fullhashraw}{4e34e04a84c886d67388dd481290ad09}
+      \strng{bibnamehash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{authorbibnamehash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{authornamehash}{04a080d493c05777d6a2d3448c11b9e7}
+      \strng{authorfullhash}{4e34e04a84c886d67388dd481290ad09}
+      \strng{authorfullhashraw}{4e34e04a84c886d67388dd481290ad09}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1352-7592}
+      \field{journaltitle}{Team Performance Management: An International Journal}
+      \field{month}{3}
+      \field{number}{1/2}
+      \field{shorttitle}{Teams in organizations}
+      \field{title}{Teams in organizations: a review on team effectiveness}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 21}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1108/13527590810860177
+      \endverb
+      \verb{urlraw}
+      \verb http://www.emerald.com/tpm/article/14/1-2/7-21/380654
+      \endverb
+      \verb{url}
+      \verb http://www.emerald.com/tpm/article/14/1-2/7-21/380654
+      \endverb
+    \endentry
     \entry{dey_2018}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f7108a9df7e7cc38e52c28489ca8c06d}{%
@@ -18355,6 +19268,60 @@
       \field{year}{2007}
       \field{pages}{111\bibrangedash 130}
       \range{pages}{20}
+    \endentry
+    \entry{disterer_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7aff1c03e4512d90fabc3fe2db7f4a5f}{%
+           family={Disterer},
+           familyi={D\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed4d0d937d4c16ca99a63cb16bf4c2b7}{%
+           family={Kleiner},
+           familyi={K\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{fullhash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{fullhashraw}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{bibnamehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authorbibnamehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authornamehash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authorfullhash}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \strng{authorfullhashraw}{12189fac3fb3d9a8e87808cfc6fca0d2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{22120173}
+      \field{journaltitle}{Procedia Technology}
+      \field{title}{{BYOD} {Bring} {Your} {Own} {Device}}
+      \field{urlday}{12}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{9}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{43\bibrangedash 53}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.protcy.2013.12.005
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S221201731300159X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S221201731300159X
+      \endverb
     \endentry
     \entry{drejer_2005}{article}{}{}
       \name{author}{2}{}{%
@@ -21071,6 +22038,62 @@
       \verb https://jltr.academypublication.com/index.php/jltr/article/view/8956
       \endverb
     \endentry
+    \entry{ifinedo_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=697ac4b9caa2ee9ddfba14191127503a}{%
+           family={Ifinedo},
+           familyi={I\bibinitperiod},
+           given={Eloho},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e57560a3ec7781153f8223813eb506}{%
+           family={Kankaanranta},
+           familyi={K\bibinitperiod},
+           given={Marja},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{fullhash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{fullhashraw}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{bibnamehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authorbibnamehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authornamehash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authorfullhash}{808c976b8794e5c4d7972ae7da1da333}
+      \strng{authorfullhashraw}{808c976b8794e5c4d7972ae7da1da333}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1475-939X, 1747-5139}
+      \field{journaltitle}{Technology, Pedagogy and Education}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{Understanding the influence of context in technology integration from teacher educators’ perspective}
+      \field{urlday}{9}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{30}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{201\bibrangedash 215}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/1475939X.2020.1867231
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1475939X.2020.1867231
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1475939X.2020.1867231
+      \endverb
+    \endentry
     \entry{cyberpunk_2022}{misc}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=cf6a595fd48238914e8433521588bfca}{%
@@ -21128,6 +22151,57 @@
       \field{month}{9}
       \field{title}{Cyberpunk: Edgerunners (Episode 1)}
       \field{year}{2022}
+    \endentry
+    \entry{imazeki_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=41d8dfaa08f37a7dfdedf79b1fbba6a3}{%
+           family={Imazeki},
+           familyi={I\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{fullhash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{fullhashraw}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{bibnamehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authorbibnamehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authornamehash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authorfullhash}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \strng{authorfullhashraw}{41d8dfaa08f37a7dfdedf79b1fbba6a3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0022-0485, 2152-4068}
+      \field{journaltitle}{The Journal of Economic Education}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{Bring-{Your}-{Own}-{Device}}
+      \field{title}{Bring-{Your}-{Own}-{Device}: {Turning} {Cell} {Phones} into {Forces} for {Good}}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{45}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{240\bibrangedash 250}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/00220485.2014.917898
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00220485.2014.917898
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00220485.2014.917898
+      \endverb
     \endentry
     \entry{ivanova_2018}{article}{}{}
       \name{author}{1}{}{%
@@ -23747,6 +24821,60 @@
       \field{year}{2004}
       \field{pages}{73\bibrangedash 81}
       \range{pages}{9}
+    \endentry
+    \entry{medvidovic_2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=887a7799f49dc721aad68aa4e6f27988}{%
+           family={Medvidovic},
+           familyi={M\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Ischia Italy}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{fullhash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{fullhashraw}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{bibnamehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authorbibnamehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authornamehash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authorfullhash}{887a7799f49dc721aad68aa4e6f27988}
+      \strng{authorfullhashraw}{887a7799f49dc721aad68aa4e6f27988}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781581135565}
+      \field{journaltitle}{Proceedings of the 14th international conference on {Software} engineering and knowledge engineering}
+      \field{month}{7}
+      \field{title}{On the role of middleware in architecture-based software development}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{299\bibrangedash 306}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/568760.568814
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/568760.568814
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/568760.568814
+      \endverb
     \endentry
     \entry{milgram_1995}{article}{}{}
       \name{author}{4}{}{%
@@ -27324,6 +28452,31 @@
       \verb 10.1080/1463631022000005016
       \endverb
     \endentry
+    \entry{netflix_2023}{misc}{}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Your All-in-One Learning Portal: GeeksforGeeks is a comprehensive educational platform that empowers learners across domains-spanning computer science and programming, school education, upskilling, commerce, software tools, competitive exams, and more.}
+      \field{journaltitle}{GeeksforGeeks}
+      \field{month}{5}
+      \field{title}{System {Design} {Netflix} {|} {A} {Complete} {Architecture}}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/
+      \endverb
+    \endentry
     \entry{tang_2003}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=d1b0285421ef1c01aca94112e4b9aaf7}{%
@@ -27899,6 +29052,77 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0003687024001376
+      \endverb
+    \endentry
+    \entry{valjataga_2016}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=763d1bba2daafa1b6c20f2186688098f}{%
+           family={Väljataga},
+           familyi={V\bibinitperiod},
+           given={Terje},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=715e5b63475d5baa65941203e35c0995}{%
+           family={Jesmin},
+           familyi={J\bibinitperiod},
+           given={Triinu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92edfb30a138bd087a4b5c2ac8283698}{%
+           family={Ruiz\bibnamedelima Calleja},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Adolfo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3034cd67850b92d33ff3e76dffc214fd}{%
+           family={Kesa},
+           familyi={K\bibinitperiod},
+           given={Lili},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c93ed9f7e3dcf8bc2090a2ef4b7e8c8f}{%
+           family={Ülle\bibnamedelima Juuse-Tumak},
+           familyi={Ü\bibinitperiod\bibinitdelim J\bibinithyphendelim T\bibinitperiod},
+           given={Ülle},
+           giveni={Ü\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Barcelona, Spain}%
+      }
+      \strng{namehash}{f39830f91fe473f90acf8f266e262d19}
+      \strng{fullhash}{209b09329554c414d7770a4129135ff4}
+      \strng{fullhashraw}{209b09329554c414d7770a4129135ff4}
+      \strng{bibnamehash}{209b09329554c414d7770a4129135ff4}
+      \strng{authorbibnamehash}{209b09329554c414d7770a4129135ff4}
+      \strng{authornamehash}{f39830f91fe473f90acf8f266e262d19}
+      \strng{authorfullhash}{209b09329554c414d7770a4129135ff4}
+      \strng{authorfullhashraw}{209b09329554c414d7770a4129135ff4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{7}
+      \field{shorttitle}{{BRING} {YOUR} {OWN} {DEVICE} {TO} {A} {CLASSROOM}}
+      \field{title}{{BRING} {YOUR} {OWN} {DEVICE} {TO} {A} {CLASSROOM}: {CHALLENGES} {FOR} {TEACHERS} {AND} {STUDENTS}}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{2566\bibrangedash 2571}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.21125/edulearn.2016.1550
+      \endverb
+      \verb{urlraw}
+      \verb http://library.iated.org/view/VALJATAGA2016BRI
+      \endverb
+      \verb{url}
+      \verb http://library.iated.org/view/VALJATAGA2016BRI
       \endverb
     \endentry
     \entry{van-der-vegt_2010}{article}{}{}

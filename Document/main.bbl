@@ -14368,6 +14368,56 @@
       \verb 10.1016/j.chest.2020.03.012
       \endverb
     \endentry
+    \entry{wang_2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=f33f3227549c749aa65d7377346cd4c1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi-Hsuan},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{fullhash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{fullhashraw}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{bibnamehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authorbibnamehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authornamehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authorfullhash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authorfullhashraw}{f33f3227549c749aa65d7377346cd4c1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, whether using Augment Reality (AR)-based learning materials could benefit high school students in the process of Chinese writing was explored, along with the pros and cons of using AR for acquiring Chinese writing skills. In order to reduce the gap between the designers and practitioner teachers, Chinese instructors were invited to co-design the AR-based writing materials to achieve the integration of learners, teachers and educational system technology developers in a collaborative process. The AR-based writing support system was provided to a total of 30 twelfth-grade students who participated in the experiment. The students in the experimental group participated in the writing activity using both AR-based learning material and paper-based supports, while the control group worked with only paper-based writing support materials. The results revealed that the AR techniques helped the intermediate-level students the most in their writing performance of content control, article structure and wording. The students, especially the low-achievers, reflected that the functions of the AR system supported them to start writing the first paragraph more quickly, and enriched their ideas. A possible mode for integrating AR techniques in writing courses is proposed. This paper could serve as a reference for educators and learning technology researchers who wish to design AR-guided writing learning materials or courses with the goal of encouraging learners to experience the writing process in a variety of settings.}
+      \field{issn}{0360-1315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{10}
+      \field{title}{Exploring the effectiveness of integrating augmented reality-based materials to support writing activities}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{113}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{162\bibrangedash 176}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2017.04.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131517300969
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131517300969
+      \endverb
+      \keyw{Applications in subject areas,Improving classroom teaching,Interactive learning environments,Interdisciplinary projects}
+    \endentry
     \entry{warburton_2009}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d1374588c56a3b4d737c445c0967900a}{%
@@ -15365,6 +15415,115 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/00131881.2020.1755605
+      \endverb
+    \endentry
+    \entry{zund_2015}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3c5356e00f33972277054448ebcfa7ea}{%
+           family={Zünd},
+           familyi={Z\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f0cf20114c25f7cc70a95d96622f9cb}{%
+           family={Ryffel},
+           familyi={R\bibinitperiod},
+           given={Mattia},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6746a55bf5327ab107e8086d745e74f5}{%
+           family={Magnenat},
+           familyi={M\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d65847bdc74233cfdb2ec3f026e2ea}{%
+           family={Marra},
+           familyi={M\bibinitperiod},
+           given={Alessia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b217e0bd1414b001e0680b6d9fe5979f}{%
+           family={Nitti},
+           familyi={N\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa610001b2cd08ab92d019525964b76f}{%
+           family={Kapadia},
+           familyi={K\bibinitperiod},
+           given={Mubbasir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=535df81ff5aa08e7851e0b3e66e6e213}{%
+           family={Noris},
+           familyi={N\bibinitperiod},
+           given={Gioacchino},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed1ae31bc6fd83f50af0a901109386da}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Kenny},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89835485884945e38712de8162277435}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=399c990379a618316b5bf9c0979af528}{%
+           family={Sumner},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Kobe Japan}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d2e4a5a3dada7ef8c9339d1861ccd2a9}
+      \strng{fullhash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{fullhashraw}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{bibnamehash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{authorbibnamehash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{authornamehash}{d2e4a5a3dada7ef8c9339d1861ccd2a9}
+      \strng{authorfullhash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{authorfullhashraw}{8f48d5362711c7213086ac7ee91579e9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781450339285}
+      \field{journaltitle}{{SIGGRAPH} {Asia} 2015 {Mobile} {Graphics} and {Interactive} {Applications}}
+      \field{month}{11}
+      \field{shorttitle}{Augmented creativity}
+      \field{title}{Augmented creativity: bridging the real and virtual worlds to enhance creative play}
+      \field{urlday}{15}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/2818427.2818460
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2818427.2818460
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2818427.2818460
       \endverb
     \endentry
   \enddatalist
@@ -29718,6 +29877,56 @@
       \verb 10.1016/j.chest.2020.03.012
       \endverb
     \endentry
+    \entry{wang_2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=f33f3227549c749aa65d7377346cd4c1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi-Hsuan},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{fullhash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{fullhashraw}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{bibnamehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authorbibnamehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authornamehash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authorfullhash}{f33f3227549c749aa65d7377346cd4c1}
+      \strng{authorfullhashraw}{f33f3227549c749aa65d7377346cd4c1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, whether using Augment Reality (AR)-based learning materials could benefit high school students in the process of Chinese writing was explored, along with the pros and cons of using AR for acquiring Chinese writing skills. In order to reduce the gap between the designers and practitioner teachers, Chinese instructors were invited to co-design the AR-based writing materials to achieve the integration of learners, teachers and educational system technology developers in a collaborative process. The AR-based writing support system was provided to a total of 30 twelfth-grade students who participated in the experiment. The students in the experimental group participated in the writing activity using both AR-based learning material and paper-based supports, while the control group worked with only paper-based writing support materials. The results revealed that the AR techniques helped the intermediate-level students the most in their writing performance of content control, article structure and wording. The students, especially the low-achievers, reflected that the functions of the AR system supported them to start writing the first paragraph more quickly, and enriched their ideas. A possible mode for integrating AR techniques in writing courses is proposed. This paper could serve as a reference for educators and learning technology researchers who wish to design AR-guided writing learning materials or courses with the goal of encouraging learners to experience the writing process in a variety of settings.}
+      \field{issn}{0360-1315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{10}
+      \field{title}{Exploring the effectiveness of integrating augmented reality-based materials to support writing activities}
+      \field{urlday}{6}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{113}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{162\bibrangedash 176}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2017.04.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131517300969
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360131517300969
+      \endverb
+      \keyw{Applications in subject areas,Improving classroom teaching,Interactive learning environments,Interdisciplinary projects}
+    \endentry
     \entry{warburton_2009}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d1374588c56a3b4d737c445c0967900a}{%
@@ -30715,6 +30924,115 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/00131881.2020.1755605
+      \endverb
+    \endentry
+    \entry{zund_2015}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3c5356e00f33972277054448ebcfa7ea}{%
+           family={Zünd},
+           familyi={Z\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f0cf20114c25f7cc70a95d96622f9cb}{%
+           family={Ryffel},
+           familyi={R\bibinitperiod},
+           given={Mattia},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6746a55bf5327ab107e8086d745e74f5}{%
+           family={Magnenat},
+           familyi={M\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d65847bdc74233cfdb2ec3f026e2ea}{%
+           family={Marra},
+           familyi={M\bibinitperiod},
+           given={Alessia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b217e0bd1414b001e0680b6d9fe5979f}{%
+           family={Nitti},
+           familyi={N\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa610001b2cd08ab92d019525964b76f}{%
+           family={Kapadia},
+           familyi={K\bibinitperiod},
+           given={Mubbasir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=535df81ff5aa08e7851e0b3e66e6e213}{%
+           family={Noris},
+           familyi={N\bibinitperiod},
+           given={Gioacchino},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed1ae31bc6fd83f50af0a901109386da}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Kenny},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89835485884945e38712de8162277435}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=399c990379a618316b5bf9c0979af528}{%
+           family={Sumner},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Kobe Japan}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d2e4a5a3dada7ef8c9339d1861ccd2a9}
+      \strng{fullhash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{fullhashraw}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{bibnamehash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{authorbibnamehash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{authornamehash}{d2e4a5a3dada7ef8c9339d1861ccd2a9}
+      \strng{authorfullhash}{8f48d5362711c7213086ac7ee91579e9}
+      \strng{authorfullhashraw}{8f48d5362711c7213086ac7ee91579e9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781450339285}
+      \field{journaltitle}{{SIGGRAPH} {Asia} 2015 {Mobile} {Graphics} and {Interactive} {Applications}}
+      \field{month}{11}
+      \field{shorttitle}{Augmented creativity}
+      \field{title}{Augmented creativity: bridging the real and virtual worlds to enhance creative play}
+      \field{urlday}{15}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/2818427.2818460
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2818427.2818460
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2818427.2818460
       \endverb
     \endentry
   \enddatalist

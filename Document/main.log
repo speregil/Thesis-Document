@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  25 NOV 2025 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  29 NOV 2025 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1130,7 +1130,7 @@ although it is yet undefined on input line 9.
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=293, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=315, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
@@ -1147,7 +1147,7 @@ Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
 [11 <./figures/F1-1.jpg>]
 
 [12]
-<figures/F1-2.jpg, id=371, 380.00032pt x 337.26pt>
+<figures/F1-2.jpg, id=393, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1157,7 +1157,7 @@ although it is yet undefined on input line 119.
 
 
 [13]
-<figures/F1-3.jpg, id=395, 375.65344pt x 189.70876pt>
+<figures/F1-3.jpg, id=417, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
@@ -1197,7 +1197,7 @@ Chapter 2.
 ]
 
 [25]
-<figures/F2-1.jpg, id=582, 868.24374pt x 549.05125pt>
+<figures/F2-1.jpg, id=605, 868.24374pt x 549.05125pt>
 File: figures/F2-1.jpg Graphic file (type jpg)
 <use figures/F2-1.jpg>
 Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
@@ -1209,7 +1209,7 @@ Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
 [27 <./figures/F2-1.jpg>]
 Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
 although it is yet undefined on input line 109.
-<figures/F2-2.jpg, id=627, 622.325pt x 250.9375pt>
+<figures/F2-2.jpg, id=649, 622.325pt x 250.9375pt>
 File: figures/F2-2.jpg Graphic file (type jpg)
 <use figures/F2-2.jpg>
 Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
@@ -1260,7 +1260,7 @@ although it is yet undefined on input line 421.
 [41]
 
 [42]
-<figures/F2-3.jpg, id=994, 1205.50375pt x 643.40375pt>
+<figures/F2-3.jpg, id=1016, 1205.50375pt x 643.40375pt>
 File: figures/F2-3.jpg Graphic file (type jpg)
 <use figures/F2-3.jpg>
 Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
@@ -1274,7 +1274,7 @@ although it is yet undefined on input line 489.
 [44]
 
 [45]
-<figures/F2-4.jpg, id=1050, 789.95125pt x 573.14125pt>
+<figures/F2-4.jpg, id=1073, 789.95125pt x 573.14125pt>
 File: figures/F2-4.jpg Graphic file (type jpg)
 <use figures/F2-4.jpg>
 Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
@@ -1282,7 +1282,7 @@ Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
 
 
 [46 <./figures/F2-4.jpg>]
-<figures/F2-5.jpg, id=1060, 2049.6575pt x 1261.71375pt>
+<figures/F2-5.jpg, id=1082, 2049.6575pt x 1261.71375pt>
 File: figures/F2-5.jpg Graphic file (type jpg)
 <use figures/F2-5.jpg>
 Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
@@ -1290,17 +1290,17 @@ Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
 
 
 [47 <./figures/F2-5.jpg>]
-<figures/F2-6.jpg, id=1070, 2036.60875pt x 1413.28pt>
+<figures/F2-6.jpg, id=1092, 2036.60875pt x 1413.28pt>
 File: figures/F2-6.jpg Graphic file (type jpg)
 <use figures/F2-6.jpg>
 Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
 (pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
-<figures/F2-7.jpg, id=1074, 3011.25pt x 1261.71375pt>
+<figures/F2-7.jpg, id=1096, 3011.25pt x 1261.71375pt>
 File: figures/F2-7.jpg Graphic file (type jpg)
 <use figures/F2-7.jpg>
 Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
 (pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
-<figures/F2-8.jpg, id=1075, 2812.5075pt x 1261.71375pt>
+<figures/F2-8.jpg, id=1097, 2812.5075pt x 1261.71375pt>
 File: figures/F2-8.jpg Graphic file (type jpg)
 <use figures/F2-8.jpg>
 Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
@@ -1308,12 +1308,12 @@ Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
 
 
 [48]
-<figures/F2-9.jpg, id=1088, 2416.02625pt x 1261.71375pt>
+<figures/F2-9.jpg, id=1110, 2416.02625pt x 1261.71375pt>
 File: figures/F2-9.jpg Graphic file (type jpg)
 <use figures/F2-9.jpg>
 Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
-<figures/F2-10.jpg, id=1089, 2416.02625pt x 1261.71375pt>
+<figures/F2-10.jpg, id=1111, 2416.02625pt x 1261.71375pt>
 File: figures/F2-10.jpg Graphic file (type jpg)
 <use figures/F2-10.jpg>
 Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
@@ -1321,7 +1321,7 @@ Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
 
 
 [49 <./figures/F2-6.jpg>]
-<figures/F2-11.jpg, id=1098, 2250.4075pt x 1261.71375pt>
+<figures/F2-11.jpg, id=1120, 2250.4075pt x 1261.71375pt>
 File: figures/F2-11.jpg Graphic file (type jpg)
 <use figures/F2-11.jpg>
 Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
@@ -1329,7 +1329,7 @@ Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
 
 
 [50 <./figures/F2-7.jpg>]
-<figures/F2-12.jpg, id=1108, 2250.4075pt x 1261.71375pt>
+<figures/F2-12.jpg, id=1130, 2250.4075pt x 1261.71375pt>
 File: figures/F2-12.jpg Graphic file (type jpg)
 <use figures/F2-12.jpg>
 Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
@@ -1345,7 +1345,7 @@ Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
 [54 <./figures/F2-11.jpg>]
 
 [55 <./figures/F2-12.jpg>]
-<figures/F2-13.jpg, id=1167, 823.075pt x 557.08125pt>
+<figures/F2-13.jpg, id=1190, 823.075pt x 557.08125pt>
 File: figures/F2-13.jpg Graphic file (type jpg)
 <use figures/F2-13.jpg>
 Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
@@ -1375,7 +1375,7 @@ although it is yet undefined on input line 25.
 
 
 ]
-<figures/F3-1.jpg, id=1300, 746.79pt x 746.79pt>
+<figures/F3-1.jpg, id=1322, 746.79pt x 746.79pt>
 File: figures/F3-1.jpg Graphic file (type jpg)
 <use figures/F3-1.jpg>
 Package pdftex.def Info: figures/F3-1.jpg  used on input line 52.
@@ -1409,7 +1409,7 @@ LaTeX Warning: Reference `ch6' on page 71 undefined on input line 314.
 [72]
 
 [73]
-<figures/F3-2.jpg, id=1476, 782.925pt x 521.95pt>
+<figures/F3-2.jpg, id=1498, 782.925pt x 521.95pt>
 File: figures/F3-2.jpg Graphic file (type jpg)
 <use figures/F3-2.jpg>
 Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
@@ -1419,12 +1419,12 @@ Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
 [74 <./figures/F3-2.jpg>]
 
 [75]
-<figures/F3-3.jpg, id=1503, 813.0375pt x 180.675pt>
+<figures/F3-3.jpg, id=1525, 813.0375pt x 180.675pt>
 File: figures/F3-3.jpg Graphic file (type jpg)
 <use figures/F3-3.jpg>
 Package pdftex.def Info: figures/F3-3.jpg  used on input line 484.
 (pdftex.def)             Requested size: 465.06004pt x 103.34695pt.
-<figures/F3-4.jpg, id=1505, 953.5625pt x 421.575pt>
+<figures/F3-4.jpg, id=1527, 953.5625pt x 421.575pt>
 File: figures/F3-4.jpg Graphic file (type jpg)
 <use figures/F3-4.jpg>
 Package pdftex.def Info: figures/F3-4.jpg  used on input line 496.
@@ -1446,9 +1446,6 @@ Chapter 4.
 
 
 ]
-
-LaTeX Warning: Reference `sec:4-3' on page 79 undefined on input line 64.
-
 
 LaTeX Warning: Reference `sec:4-4' on page 79 undefined on input line 65.
 
@@ -1481,9 +1478,6 @@ LaTeX Warning: Reference `ch5' on page 82 undefined on input line 150.
 
 [82]
 
-LaTeX Warning: Reference `sec:4-3' on page 83 undefined on input line 178.
-
-
 LaTeX Warning: Reference `ch5' on page 83 undefined on input line 181.
 
 
@@ -1492,12 +1486,12 @@ LaTeX Warning: Reference `ch6' on page 83 undefined on input line 182.
 
 
 [83]
-<figures/F4-1.jpg, id=1598, 672.5125pt x 752.8125pt>
+<figures/F4-1.jpg, id=1622, 672.5125pt x 752.8125pt>
 File: figures/F4-1.jpg Graphic file (type jpg)
 <use figures/F4-1.jpg>
 Package pdftex.def Info: figures/F4-1.jpg  used on input line 225.
 (pdftex.def)             Requested size: 403.5106pt x 451.69098pt.
-<figures/F4-2.jpg, id=1600, 642.4pt x 652.4375pt>
+<figures/F4-2.jpg, id=1624, 642.4pt x 652.4375pt>
 File: figures/F4-2.jpg Graphic file (type jpg)
 <use figures/F4-2.jpg>
 Package pdftex.def Info: figures/F4-2.jpg  used on input line 249.
@@ -1516,7 +1510,7 @@ although it is yet undefined on input line 323.
 
 
 [88]
-<figures/F4-3.jpg, id=1640, 411.5375pt x 531.9875pt>
+<figures/F4-3.jpg, id=1664, 411.5375pt x 531.9875pt>
 File: figures/F4-3.jpg Graphic file (type jpg)
 <use figures/F4-3.jpg>
 Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
@@ -1530,16 +1524,26 @@ LaTeX Warning: Reference `ch5' on page 90 undefined on input line 343.
 
 LaTeX Warning: Reference `sec:5-1-1' on page 90 undefined on input line 349.
 
-)
+
 
 [90]
+
+[91]
+
+[92]
+
+[93]
+
+[94])
+
+[95]
 \openout2 = `appendixa.aux'.
 
  (./appendixa.tex
 Appendix A.
 
 
-[91
+[96
 
 
 
@@ -1551,9 +1555,9 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 
-[92]
+[97]
 
-[93]
+[98]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Offers student-
  []
@@ -1860,7 +1864,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 104--104
 
 
 
-[94]
+[99]
 Underfull \hbox (badness 4036) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Use of avail-able
  []
@@ -1892,7 +1896,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 104--104
 
 
 
-[95]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Students gain
  []
@@ -1994,7 +1998,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 
 
 
-[96]
+[101]
 Underfull \hbox (badness 5091) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) for the learn-ing
  []
@@ -2051,7 +2055,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 104--104
 
 
 
-[97]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Comparable or
  []
@@ -2138,7 +2142,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 104--104
 
 
 
-[98]
+[103]
 Underfull \hbox (badness 4595) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
  []
@@ -2490,7 +2494,7 @@ Underfull \hbox (badness 2762) in paragraph at lines 148--148
 
 
 
-[99]
+[104]
 Underfull \hbox (badness 2277) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Reported fail-ures,
  []
@@ -2545,7 +2549,7 @@ Overfull \vbox (27.86154pt too high) has occurred while \output is active []
 
 
 
-[100]
+[105]
 Underfull \hbox (badness 1107) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
  []
@@ -2637,7 +2641,7 @@ Underfull \hbox (badness 7064) in paragraph at lines 148--148
 
 
 
-[101]
+[106]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tech-nol-ogy
  []
@@ -2719,7 +2723,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 
 
-[102]
+[107]
 Underfull \hbox (badness 1490) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tool harmed
  []
@@ -2806,7 +2810,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 148--148
 
 
 
-[103]
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Research de-sign
  []
@@ -2838,23 +2842,13 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 )
 
-[104]
+[109]
 
-[105
+[110
 
 
 
 ]
-
-[106]
-
-[107]
-
-[108]
-
-[109]
-
-[110]
 
 [111]
 
@@ -2882,7 +2876,17 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 [123]
 
-[124] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./appendixa.aux))
+[124]
+
+[125]
+
+[126]
+
+[127]
+
+[128]
+
+[129] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./appendixa.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -2896,18 +2900,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36777 strings out of 467748
- 735134 string characters out of 5431138
- 2599578 words of memory out of 5000000
- 64289 multiletter control sequences out of 15000+600000
- 656309 words of font info for 211 fonts, out of 8000000 for 9000
+ 36848 strings out of 467748
+ 736250 string characters out of 5431138
+ 2612944 words of memory out of 5000000
+ 64324 multiletter control sequences out of 15000+600000
+ 656948 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,16n,112p,4607b,5319s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (124 pages, 2570913 bytes).
+Output written on main.pdf (129 pages, 2594002 bytes).
 PDF statistics:
- 2327 PDF objects out of 2487 (max. 8388607)
- 2091 compressed objects within 21 object streams
- 543 named destinations out of 1000 (max. 500000)
- 51684 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2418 PDF objects out of 2487 (max. 8388607)
+ 2176 compressed objects within 22 object streams
+ 561 named destinations out of 1000 (max. 500000)
+ 51772 words of extra memory for PDF output out of 61914 (max. 10000000)
 

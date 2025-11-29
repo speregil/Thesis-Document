@@ -353,3 +353,210 @@ mobile technologies. These objectives provide opportunities to understand the te
 and are affected by the learning goals proposed previously.
 
 \section{Use Cases \label{sec:4-2}}
+
+The scenarios described in the previous section represent the general goals for which WorkshopAR will be used as an intervention in a learning setting. To start the
+software design process, the first step is to identify and describe the specific functional requirements to be developed. The following section will describe the most
+relevant requirements identified for the research intervention of ENBU 79X/89X. This information is going to be described in the form of use cases, or user stories, to
+emphasise three aspects:
+
+\begin{itemize}
+    \item The general interactions performed by the users, not the particularities that have to be developed.
+    \item The development goal being fulfilled by the use case, or at least any technological challenge that could be of interest for the analysis process.
+    \item The learning goal being fulfilled and how it is related to the educational objectives of the research.
+\end{itemize}
+
+Before exposing the use cases, it is necessary to discuss some of the vocabulary that is going to be used in the descriptions. These are terms referring to common elements
+of the interaction with the app, the activities enabled by it and the resources used to create the experience.
+
+A \emph{user} is any student using the app. Every user has a personal profile that is shared between sessions. Although in the context of ENBU 79X/89X all students belong
+to a particular group for the development of the course's project, the app is not going to enforce that organisation, and a user can become a participant in any session
+available.
+
+A \emph{participant} is a user that has joined a \emph{digital room} and now is part of a \emph{work session} with other users. As a participant, a user has a role and a set of assigned
+tasks, which are only valid inside a particular session.
+
+A \emph{digital room} is the space created by the app and used by the participants to hold the session. The room doesn't need to be a closed space. The app creates a
+\emph{workspace} for the room and associate the session information to a room anchor, a digital object situated in the space selected.
+
+A \emph{work session} is the work done by the participants that enter a \emph{digital room}. The session has a general goal associated, which can be modified and updated.
+
+A \emph{workspace} is a digital object representing a space in which the participants can position and interact with digital objects. In conjunction with the \emph{room anchor},
+it also creates a visual representation of the \emph{digital room} in which the \emph{work session} is taking place.
+
+\subsection{Create a Shared Digital Room \label{sec:4-2-1}}
+
+\textbf{Description:} A user must be able to initiate a \emph{work session} by creating a new \emph{digital room} for the group. The \emph{digital room} is identified by a unique
+name and described by a set of goals for the session. The user can configure all these elements before launching the session. Upon opening the \emph{digital room}, any
+other user can search the name of the room and join it, adding themselves as participants to the \emph{work session}.
+
+A \emph{room anchor} will be added to the \emph{digital room} which will present information about the \emph{work session} upon interaction.
+
+\noindent
+\textbf{Development goal:} The \emph{digital room} represents the main point for the multiuser experience. All the participants in the \emph{digital room} will share the
+same visualisations and will be able to interact simultaneously with the same digital objects. Ideally, the connection to the \emph{digital room} is seamless, requiring
+only the initial configuration for setup and run.
+
+\noindent
+\textbf{Educational goal:} The \emph{digital room} will be linked to the concept of a \emph{work session}. When a room is active it means that the group is working, and all
+the participants share a current goal. The \emph{digital room} provides the students the opportunity to have a structured \emph{work session}, and the digital markers
+used provide a tangible and interactable representation of the goal and the room itself.
+
+\subsection{Create a Shared Workspace \label{sec:4-2-2}}
+
+\textbf{Description:} Upon creating a \emph{digital room}, a participant needs to define a space in the physical environment that will be used as the shared \emph{workspace}
+for the session. \emph{WorkshopAR} will identify suitable horizontal spaces like tables, desks or the floor, and overlay a digital plane over them. The participant can
+select one of the detected planes and modify it to convenience to suit the preferences of the group or the needs of the current session.
+
+\noindent
+\textbf{Development goal:} The \emph{workspace} will be the base augmentation provided by \emph{WorkshopAR} to give a visual representation to the \emph{digital room}. The
+\emph{room anchor} gives basic information about the session, while the \emph{workspace} facilitates the interactions with other digital objects, constraining the movement
+and location of all the interactive 3D models and providing a reference point for any other digital constructs.
+
+\noindent
+\textbf{Educational goal:} The \emph{workspace} gives a location for the shared resources of the group, elements that are public to everyone and could be used as inputs in
+each task. The \emph{workspace} anchors all the digital objects to a common point and the group itself, creating a visual representation of the \emph{digital room} while
+keeping the constrains of the physical space used. These constraints are more malleable than in a normal room, and the group can use the digital elements of the app to
+explore or expand what is provided by the physical space.
+
+\subsection{Create a Profile \label{sec:4-2-3}}
+
+\textbf{Description:} A user can create a digital profile to use in a \emph{digital room}. The profile is linked to the instance of \emph{WorkshopAR} installed on their
+device. When not connected to a \emph{digital room}, the profile consists of a preferred name and a colour that represents the user. When connected, a user can also be
+described by a role and a set of current tasks.
+
+\noindent
+\textbf{Development goal:} The profile is a representation of the users in the when connected to a \emph{digital room}. It also serves as an anchor for interactions with
+other participants and provides a form of digital avatar that carries the information of the profile.
+
+\noindent
+\textbf{Educational goal:} The participant's anchor gives visual structure and prompts the discussion around different topics like team management, assigned roles and
+allocation of tasks.
+
+\subsection{Point to Something or Someone in the Digital Room \label{sec:4-2-4}}
+
+\textbf{Description:} This case is related to provide basic communication tools to the students, specially to convey information about the resources available and the
+users connected to the \emph{digital room}. Participants should be able to specify the person or object (physical or digital) they are referring to in a conversation or
+instruction. This clarification in the communication process is going to be referred as \emph{pointing}.
+
+\noindent
+\textbf{Development goal:} This interaction is meant mostly for digital objects and has an important role in the multiuser experience. It is a simple tool to facilitate
+communication and helps to mitigate any ambiguity or confusion. It is also an interesting technical challenge to account for both digital objects and the physical context
+of the room. 
+
+\noindent
+\textbf{Educational goal:} This is a simple tool to promote and facilitate communication. It is one of many ideas to explore the concept of \emph{augmented collaboration}
+by providing digital tools to visualise the communication process and analyse its impact in the behaviour of the students regarding learning, group dynamics and team
+management.
+
+\subsection{Check the Status of Other Participants \label{sec:4-2-5}}
+
+\textbf{Description:} A participant should be able to access information about everyone connected to  the same \emph{digital room}. This information is related to their
+profile and their status, described by their role, assigned tasks and participation state in the activity.
+
+\noindent
+\textbf{Development goal:} The technical challenge of this use case is related to the way the information present in the profile can be transmitted and synchronised on the
+network, as well as the proper interaction methods to access it. These interactions can also be extended to accessing the information and current state of the \emph{digital room}.
+
+\noindent
+\textbf{Educational goal:} This is an opportunity to understand the role and influence of technology as part of the collaboration process. Ideally, the tool provides quick
+access to information about the current state of the session and the team members, but it could also become an unnecessary barrier for something that should be verbally
+communicated. It should be possible to observe how students use this functionality, how it affects different communication processes inside the group and how \emph{WorkshopAR}
+compares to other IT tools that mediate in communication.
+
+\subsection{Share and Pin an Idea \label{sec:4-2-6}}
+
+\textbf{Description:} A participant should be able to type an idea and pin the text representing it somewhere in the \emph{digital room}, making it public and accessible
+to all the other participants. Similarly, a user should be able to see and interact with all the ideas pinned by them and other users.
+
+\noindent
+\textbf{Development goal:} This use case also belongs in the \emph{augmented collaboration} category and offers the opportunity to record and visualise ideas and
+information in the same way a whiteboard would do. This is a way to experiment with the idea of offering a relationship between the digital representation of the
+information and the physical space \parencite{zund_2015,wang_2017}. The objective is to prompt discussion, associations and structure to a conversation while sharing and
+recording ideas between participants.
+
+\noindent
+\textbf{Educational goal:} In the same spirit, it is another tool to visualise and interact with information, making communication visible. The idea is that, by adding a
+relationship between the space of the conversation and the ideas proposed by the group it will open the possibilities to get deeper, different or more structured types of
+discussions.
+
+\subsection{Add and Interact with a Model in the Digital Room \label{sec:4-2-7}}
+
+\textbf{Description:} This interaction is related to simple digital models either build in external tools and imported to \emph{WorkshopAR} for visualisation or built in
+the tool using simple construction blocks. Since the main objective of ENBU 79X/89X is related to architectural design, this interaction with digital models is meant to
+facilitate communication and discussions related to this field. This communication can be centre d around collaborative creation of a design or discussing ideas, getting
+feedback or proposing changes. This use case considers all the interactions needed to add the models to the app, share them in the \emph{digital room} and perform simple
+interactions with them like moving, selecting and transforming (e.g., moving, rotating, scaling) the models.
+
+\noindent
+\textbf{Development goal:} More than a technical challenge, the focus of this use case is on the interaction design needed to propose a solution. For one, there is an
+interesting opportunity to analyse the design and usability of the interactions needed for this task, considering that the app will use a mobile phone deployment. A set of
+conventions in interaction and visual language are expected for both the selected hardware and the AR nature of the tool, and it is important to analyse those conventions,
+implement them, expand them or revaluate them if needed.
+
+Second, this interaction must consider the multiuser scenario of the project and the necessity to coordinate interactions of shared objects over the network. Although the
+technical implementations of these requirements are interesting, it is more important for the research goals to observe how the user experience proposed forces or promotes
+different behaviours in the users, and how those behaviours affect the learning and collaborative processes.
+
+\noindent
+\textbf{Educational goal:} The interaction between participants is again the focus rather than the activity itself. Since the main objective of the course was design and
+construction planning, it was considered interesting to provide a flexible enough interaction that promoted discussions around different elements of the design process and
+the ideas proposed by the students around space and structures. The building blocks metaphor was chosen to promote a visual and physical anchor of those elements of the
+architectural design as part of the \ac{AR} experience.
+
+A more explicit goal for the development of this functionality is to organise and structure the work of the students around digital and physical tools that boost the
+idea-discussion-decision loop with \ac{AR} and communication technologies. This is, again, guided by the principle of augmented collaboration.
+
+\subsection{Participate in a Debate or a Vote \label{sec:4-2-8}}
+
+\textbf{Description:} A participant must be able to propose or be part of a group vote or debate. Both cases will be defined as instances in the \emph{work session} in
+which the input of the participants is needed to take a decision. A vote is a decision to be taken among a possible group of options, while a debate has an open input
+nature.
+
+\noindent
+\textbf{Development goal:} This is an interaction design that allows the users to visualise in the augmented space all the elements taking place in the decision-making
+process. This idea explores possible implementations for the tool to manage a debate and to storage, compile and show the results of the activity.
+
+\noindent
+\textbf{Educational goal:} This use case reinforces the most prominent activities in which communication skills are developed thanks to the classroom groupwork. \emph{WorkshopAR}
+is not expected to be used as the sole manager for the communication and planning needs of the group, as other tools probably already fulfil those roles. The idea is to
+offer a different approach to the communication interactions that happen when taking decisions, specifically in face-to-face scenarios. This type of discussions is prone
+to be more informal, unstructured and with no archive of the activity itself. Once more, the aim is to offer a different type of solution based on visualisation and
+context augmentation.
+
+\subsection{Pause the Current Participation \label{sec:4-2-9}}
+
+\textbf{Description:} A participant should be able to signal the group that he/she is not actively participating in the session and that progress in the current tasks is in pause.
+
+\noindent
+\textbf{Development goal:} The reasoning behind this use case is to create a distinction between the physical presence of a participant in the \emph{digital room} and
+their activities in the group, giving more depth to the status of a participant, also helping to visualise and symbolise some social cues that are hard to verbalise. In a
+more technical sense, it is also a function that helps in pausing the use of the device without finishing the session.
+
+\noindent
+\textbf{Educational goal:} This option is the best example of a tool for group management that has more significance than simple actions like checking a list of
+participants or managing access to the digital room. This functionality aims at giving visual presence to the work of the user, to establish boundaries, proper
+communication habits and prompting discussions around time and space management.
+
+\subsection{Conclusions \label{sec:4-2-10}}
+
+The exposed use cases represent the most important functionalities that \emph{WorkshopAR} should be able to fulfil to provide insights for the research goals of the
+project. These scenarios present the most common instances in which the students can develop collaborative skills or in which their collaborative work is the key aspect of
+their work. These actions include diverse aspects of activities such as team management, task planning, effective communication and decision making.
+
+The main proposal that this software development is meant to explore is that through \ac{AR} it is possible to create a visual representation of the work that the users
+are doing and of the resources in use. The plan is to design simple interactions that create a relationship between the ideas explored with the tool and the collaborative
+skills that the students need to develop.
+
+The plan also relies on offering the proper environment to think or discuss issues around the structure used to work and plan, rather than to force a specific way of
+working. This approach can create the opportunity for students to reformulate their current way of working and find alternatives that incorporate new information into
+their processes, but it can also cause the students to completely ignore the tool.
+
+This is an acceptable risk scenario. In first instance, it creates the least amount of friction with the teaching approach of the course, giving the students a technology
+that they can freely use to enhance their work, and not a forced experience they could resent or that can even inhibit their work. It was decided that a free exploration
+of the tool offered a better and healthier experience.
+
+It is also acceptable in terms of the research goals. A scenario in which a group did not interact with the tool also offers interesting insights. Paired with the case
+study, a failure engagement with \emph{WorkshopAR} can elicit questions regarding the tools that the group is using for communication and planning, how the group is
+structuring their work and managing their time, among other possibilities. Answers to these questions can help in constructing an interesting case study.
+
+\section{Architectural Design \label{sec:4-3}}

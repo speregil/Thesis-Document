@@ -2155,6 +2155,44 @@
       \verb https://callej.org/index.php/journal/article/view/320
       \endverb
     \endentry
+    \entry{bowtiedrobin_2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b28e79b64c0b26d246581b36e91ddfc}{%
+           family={{BowTiedRobin}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{fullhash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{fullhashraw}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{bibnamehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authorbibnamehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authornamehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authorfullhash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authorfullhashraw}{5b28e79b64c0b26d246581b36e91ddfc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Meta's worst nightmare?}
+      \field{journaltitle}{Child Labor Investments}
+      \field{month}{12}
+      \field{title}{The unstoppable rise of {Niantic}}
+      \field{type}{Substack newsletter}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bowtiedrobin.substack.com/p/the-unstoppable-rise-of-niantic
+      \endverb
+      \verb{url}
+      \verb https://bowtiedrobin.substack.com/p/the-unstoppable-rise-of-niantic
+      \endverb
+    \endentry
     \entry{brown_1991}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ba3c0fa94135bbee7f9cd5e2c54c11d8}{%
@@ -3212,6 +3250,44 @@
       \verb https://journal.alt.ac.uk/index.php/rlt/article/view/1354
       \endverb
       \keyw{confrontingReality,heutagogy,mlearning,noSignificantDifference,pedagogy}
+    \endentry
+    \entry{codemonkey_2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19c887c140071a04718fc4babe33c75a}{%
+           family={CodeMonkey},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{fullhash}{19c887c140071a04718fc4babe33c75a}
+      \strng{fullhashraw}{19c887c140071a04718fc4babe33c75a}
+      \strng{bibnamehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authorbibnamehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authornamehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authorfullhash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authorfullhashraw}{19c887c140071a04718fc4babe33c75a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Unity for {NOT} {Game} {Dev}?}
+      \field{urlday}{28}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=yo7sFIahYQo
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=yo7sFIahYQo
+      \endverb
     \endentry
     \entry{coleman_2017}{book}{}{}
       \name{author}{2}{}{%
@@ -5371,6 +5447,75 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
       \endverb
     \endentry
+    \entry{good_1984}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ef84bba4cf418bb37f3128eb35457845}{%
+           family={Good},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24ce9496f437086f68fc2c019ea050c4}{%
+           family={Whiteside},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10ffa6a7e7a816f9110cba6774fe4cd5}{%
+           family={Wixon},
+           familyi={W\bibinitperiod},
+           given={Dennis\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5c1296831518bc406711e7099878bdc}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Sandra\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cf944ed530de3b519a875431ca7dbc76}
+      \strng{fullhash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{fullhashraw}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{bibnamehash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{authorbibnamehash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{authornamehash}{cf944ed530de3b519a875431ca7dbc76}
+      \strng{authorfullhash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{authorfullhashraw}{8c32be46e726ec153d0b310cb608f9f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many human-computer interfaces are designed with the assumption that the user must adapt to the system, that users must be trained and their behavior altered to fit a given interface. The research presented here proceeds from the alternative assumption: Novice behavior is inherently sensible, and the computer system can be made to adapt to it. Specifically, a measurably easy-to-use interface was built to accommodate the actual behavior of novice users. Novices attempted an electronic mail task using a command-line interface containing no help, no menus, no documentation, and no instruction. A hidden operator intercepted commands when necessary, creating the illusion of an interactive session. The software was repeatedly revised to recognize users' new commands; in essence, the interface was derived from user behavior. This procedure was used on 67 subjects. The first version of the software could recognize only 7 percent of all the subjects' spontaneously generated commands; the final version could recognize 76 percent of these commands. This experience contradicts the idea that user input is irrelevant to the design of command languages. Through careful observation and analysis of user behavior, a mail interface unusable by novices evolved into one that let novices do useful work within minutes.}
+      \field{issn}{0001-0782, 1557-7317}
+      \field{journaltitle}{Communications of the ACM}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Building a user-derived interface}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{1984}
+      \field{urldateera}{ce}
+      \field{pages}{1032\bibrangedash 1043}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/358274.358284
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/358274.358284
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/358274.358284
+      \endverb
+    \endentry
     \entry{goodman-deane_2010}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f1af09a1257629d13f1f3eae8ac01b00}{%
@@ -6608,6 +6753,62 @@
       \verb{doi}
       \verb 10.1007/978-3-642-40483-2_5
       \endverb
+    \endentry
+    \entry{hussain_2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=add64af03dc09e3ae838db9248ecff93}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Afzal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7be3163fb10618c782864b5530f52ec9}{%
+           family={Shakeel},
+           familyi={S\bibinitperiod},
+           given={Haad},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d25758281f25008435f045a7cf832b53}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Faizan},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c61bdf75dc713a8145a008132f2ce4b1}{%
+           family={Uddin},
+           familyi={U\bibinitperiod},
+           given={Nasir},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33bb345651fd5c82b7a3d59990cb9404}{%
+           family={Ghouri},
+           familyi={G\bibinitperiod},
+           given={Turab\bibnamedelima Latif},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{327a964a34617a01afd31c719ac379db}
+      \strng{fullhash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{fullhashraw}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{bibnamehash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{authorbibnamehash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{authornamehash}{327a964a34617a01afd31c719ac379db}
+      \strng{authorfullhash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{authorfullhashraw}{b0bbac0541ec7cf24aceab257c7105da}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Univ. Sindh J. Inf. Commun. Technol}
+      \field{number}{2}
+      \field{title}{Unity game development engine: {A} technical survey}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{73\bibrangedash 81}
+      \range{pages}{9}
     \endentry
     \entry{huynh_2024}{article}{}{}
       \name{author}{6}{}{%
@@ -8606,12 +8807,12 @@
     \endentry
     \entry{lee_2021}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5422ce05df1b617607b696045923ed48}{%
+        {{un=1,uniquepart=given,hash=5422ce05df1b617607b696045923ed48}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={I-Jui},
            giveni={I\bibinithyphendelim J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{5422ce05df1b617607b696045923ed48}
       \strng{fullhash}{5422ce05df1b617607b696045923ed48}
@@ -8625,7 +8826,6 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Children with autism spectrum disorder (ASD) often find it difficult to communicate using body language and facial expressions to respond appropriately socially. This negatively affects the quality of their everyday social life. Children with ASD can learn to socially interact with virtual three-dimensional (3D) characters in animated games enhanced with augmented reality (AR). They can learn about body language and facial expressions through roleplay. This teaching method can effectively improve the interactive social skills of children with ASD and reduce the fear and anxiety which they typically experience when they face real people. However, most current virtual roleplay models focus only on predefined body language and facial expressions limited by the training system. These systems lack immediacy and a sense of genuine interaction for children with ASD. Therefore, we wanted to create a system that will allow trainers and therapists to control 3D virtual characters that are able to produce in real time the full range of natural body language and facial expressions appropriate for males, females, and even special cartoon characters. Based on the multiple baseline design across subjects, the data indicated that real-time Kinect Skeletal Tracking (KST) System can help the children with ASD improved their social interaction.}
@@ -8653,6 +8853,49 @@
       \verb https://doi.org/10.1080/10494820.2019.1710851
       \endverb
       \keyw{Autism spectrum disorder,Wizard of Oz experiment,augmented reality,interactive learning environment,real-time Kinect Skeletal Tracking System}
+    \endentry
+    \entry{lee_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=f8dcb8af8ad00b5199ab9cbe22fb9c30}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Leanna},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{fullhash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{fullhashraw}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{bibnamehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authorbibnamehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authornamehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authorfullhash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authorfullhashraw}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Niantic is taking things a giant leap further: leading the world in augmented reality development.}
+      \field{journaltitle}{Marketing Dive}
+      \field{month}{7}
+      \field{title}{Creating the future of {AR} with {Niantic} and 8th {Wall}}
+      \field{type}{News}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.marketingdive.com/spons/creating-the-future-of-ar-with-niantic-and-8th-wall/626363/
+      \endverb
+      \verb{url}
+      \verb https://www.marketingdive.com/spons/creating-the-future-of-ar-with-niantic-and-8th-wall/626363/
+      \endverb
     \endentry
     \entry{lehtinen_1999}{article}{}{}
       \name{author}{5}{}{%
@@ -9054,6 +9297,69 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{macaranas_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=141369437e9086965666f49b9bc03125}{%
+           family={Macaranas},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6deb14dd059c9cfc5fd119bb985da9d4}{%
+           family={Antle},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dcc98f46e27016edb1258a470090d3c}{%
+           family={Riecke},
+           familyi={R\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3423bcc3eac29e35123fae858f05414b}
+      \strng{fullhash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{fullhashraw}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{bibnamehash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{authorbibnamehash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{authornamehash}{3423bcc3eac29e35123fae858f05414b}
+      \strng{authorfullhash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{authorfullhashraw}{2af016499c2b1e921468ebb22f53cc3f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0953-5438, 1873-7951}
+      \field{journaltitle}{Interacting with Computers}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{What is {Intuitive} {Interaction}?}
+      \field{title}{What is {Intuitive} {Interaction}? {Balancing} {Users}' {Performance} and {Satisfaction} with {Natural} {User} {Interfaces}}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 370}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1093/iwc/iwv003
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/iwc/article-lookup/doi/10.1093/iwc/iwv003
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/iwc/article-lookup/doi/10.1093/iwc/iwv003
       \endverb
     \endentry
     \entry{madden_2020}{inbook}{}{}
@@ -9526,6 +9832,66 @@
       \verb https://dl.acm.org/doi/10.1145/568760.568814
       \endverb
     \endentry
+    \entry{messaoudi_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c311136386901be6df932a2c0764c70a}{%
+           family={Messaoudi},
+           familyi={M\bibinitperiod},
+           given={Farouk},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=813f11dbaf45adc039bb6b1edb0f8aa9}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Gwendal},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a4314866bfc9e9a165ec1171cd71b6}{%
+           family={Ksentini},
+           familyi={K\bibinitperiod},
+           given={Adlen},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06bbb0c2a40ca9427687647e78a382d4}
+      \strng{fullhash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{fullhashraw}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{bibnamehash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{authorbibnamehash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{authornamehash}{06bbb0c2a40ca9427687647e78a382d4}
+      \strng{authorfullhash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{authorfullhashraw}{5c39fcd599d158b41c3194e4c7f8db41}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Recent trends on how video games are played have pushed for the need to revise the game engine architecture. Indeed, game players are more mobile, using smartphones and tablets that lack CPU resources compared to PC and dedicated box. Two emerging solutions, cloud gaming and computing offload, would represent the next steps toward improving game player experience. By consequence, dissecting and analyzing game engines performances would help to better understand how to move to these new directions, which is so far missing in the literature. In this paper, we fill this gap by analyzing and evaluating one of the most popular game engine, namely Unity3D. First, we dissected the Unity3D architecture and modules. A benchmark was then used to evaluate the CPU and GPU performances of the different modules constituting Unity3D, for five representative games.}
+      \field{journaltitle}{2015 {International} {Workshop} on {Network} and {Systems} {Support} for {Games} ({NetGames})}
+      \field{month}{12}
+      \field{note}{ISSN: 2156-8146}
+      \field{shorttitle}{Dissecting games engines}
+      \field{title}{Dissecting games engines: {The} case of {Unity3D}}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/NetGames.2015.7382990
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7382990
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7382990
+      \endverb
+      \keyw{Engines,Games,Graphics processing units,Hardware,Pipelines,Rendering (computer graphics),Three-dimensional displays}
+    \endentry
     \entry{milgram_1995}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=d57f1b339e2089ac1411a8c32cef1cb7}{%
@@ -9967,6 +10333,28 @@
       \verb https://www.emerald.com/insight/content/doi/10.1108/ET-08-2020-0231/full/html
       \endverb
     \endentry
+    \entry{niantic_nodate}{misc}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Niantic Spatial is a leader in geospatial AI, built on a next-generation digital map that enables both humans and machines to understand the physical world with centimeter-level precision.}
+      \field{journaltitle}{Niantic Spatial, Inc.}
+      \field{title}{Niantic {Spatial}}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nianticspatial.com/
+      \endverb
+      \verb{url}
+      \verb https://www.nianticspatial.com/
+      \endverb
+    \endentry
     \entry{nissen_2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=32f830541fd459dc1bdb042b35ab60b7}{%
@@ -10224,6 +10612,30 @@
       \field{year}{2012}
       \field{pages}{549\bibrangedash 564}
       \range{pages}{16}
+    \endentry
+    \entry{openxr_2016}{misc}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Khronos Group}
+      \field{month}{12}
+      \field{title}{{OpenXR} - {High}-performance access to {AR} and {VR} —collectively known as {XR}— platforms and devices}
+      \field{urlday}{28}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.khronos.org/openxr/
+      \endverb
+      \verb{url}
+      \verb https://www.khronos.org/openxr/
+      \endverb
     \endentry
     \entry{ozgen_2021}{article}{}{}
       \name{author}{3}{}{%
@@ -12527,6 +12939,29 @@
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
     \endentry
+    \entry{shared_nodate}{misc}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Shared AR enables seamless real-time interactions among users without the need for complex infrastructure or maintenance, whether used ad hoc or alongside VPS. It supports co-localized cooperative and competitive experiences for up to ten simultaneous users.}
+      \field{journaltitle}{Niantic Spatial, Inc.}
+      \field{shorttitle}{Shared {AR}}
+      \field{title}{Shared {AR}: {Build} {Real}-{Time}, {Multi}-{User} {AR} {Experiences}}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nianticspatial.com/products/shared-ar
+      \endverb
+      \verb{url}
+      \verb https://www.nianticspatial.com/products/shared-ar
+      \endverb
+    \endentry
     \entry{shen_2010}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c683dca86043405be8fb1d3009bc1604}{%
@@ -13008,6 +13443,69 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2227-7102/6/4/37
+      \endverb
+    \endentry
+    \entry{strijbos_2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e1438cf9d3fec14bd6d1ea7dca856aa1}{%
+           family={Strijbos},
+           familyi={S\bibinitperiod},
+           given={J.W.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae8622705cd1521b9c5c8330754c311d}{%
+           family={Martens},
+           familyi={M\bibinitperiod},
+           given={R.L.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1177b8b993a974600fc5211c590938b0}{%
+           family={Jochems},
+           familyi={J\bibinitperiod},
+           given={W.M.G.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ad7c3262c70bfc3e0b9ce9d14f3481b4}
+      \strng{fullhash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{fullhashraw}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{bibnamehash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{authorbibnamehash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{authornamehash}{ad7c3262c70bfc3e0b9ce9d14f3481b4}
+      \strng{authorfullhash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{authorfullhashraw}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{5}
+      \field{number}{4}
+      \field{shorttitle}{Designing for interaction}
+      \field{title}{Designing for interaction: {Six} steps to designing computer-supported group-based learning}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{42}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{403\bibrangedash 424}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2003.10.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131503001118
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131503001118
       \endverb
     \endentry
     \entry{sutipitakwong_2020}{article}{}{}
@@ -14738,6 +15236,50 @@
       \field{labeltitlesource}{title}
       \field{title}{Research methods {ı}n education: an {ı}ntroduction}
       \field{year}{2000}
+    \endentry
+    \entry{wigdor_2011}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a1d167c2e159bbe494e59e21a3fb2dbb}{%
+           family={Wigdor},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d07abd669ba921106d63b04a8590dc8}{%
+           family={Wixon},
+           familyi={W\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{fullhash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{fullhashraw}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{bibnamehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authorbibnamehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authornamehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authorfullhash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authorfullhashraw}{4ee6f12e87ef44bd62a029feba26dc03}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Brave NUI World is the first practical guide for designing touch- and gesture-based user interfaces. Written by the team from Microsoft that developed the multi-touch, multi-user Surface® tabletop product, it introduces the reader to natural user interfaces (NUI). It gives readers the necessary tools and information to integrate touch and gesture practices into daily work, presenting scenarios, problem solving, metaphors, and techniques intended to avoid making mistakes. This book considers diverse user needs and context, real world successes and failures, and the future of NUI. It presents thirty scenarios, giving practitioners a multitude of considerations for making informed design decisions and helping to ensure that missteps are never made again. The book will be of value to game designers as well as practitioners, researchers, and students interested in learning about user experience design, user interface design, interaction design, software design, human computer interaction, human factors, information design, and information architecture. - Provides easy-to-apply design guidance for the unique challenge of creating touch- and gesture-based user interfaces - Considers diverse user needs and context, real world successes and failures, and a look into the future of NUI - Presents thirty scenarios, giving practitioners a multitude of considerations for making informed design decisions and helping to ensure that missteps are never made again}
+      \field{isbn}{9780123822321}
+      \field{month}{4}
+      \field{shorttitle}{Brave {NUI} {World}}
+      \field{title}{Brave {NUI} {World}: {Designing} {Natural} {User} {Interfaces} for {Touch} and {Gesture}}
+      \field{year}{2011}
+      \keyw{Computers / Human-Computer Interaction (HCI)}
     \endentry
     \entry{wilson_2014}{article}{}{}
       \name{author}{1}{}{%
@@ -17664,6 +18206,44 @@
       \verb https://callej.org/index.php/journal/article/view/320
       \endverb
     \endentry
+    \entry{bowtiedrobin_2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b28e79b64c0b26d246581b36e91ddfc}{%
+           family={{BowTiedRobin}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{fullhash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{fullhashraw}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{bibnamehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authorbibnamehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authornamehash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authorfullhash}{5b28e79b64c0b26d246581b36e91ddfc}
+      \strng{authorfullhashraw}{5b28e79b64c0b26d246581b36e91ddfc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Meta's worst nightmare?}
+      \field{journaltitle}{Child Labor Investments}
+      \field{month}{12}
+      \field{title}{The unstoppable rise of {Niantic}}
+      \field{type}{Substack newsletter}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bowtiedrobin.substack.com/p/the-unstoppable-rise-of-niantic
+      \endverb
+      \verb{url}
+      \verb https://bowtiedrobin.substack.com/p/the-unstoppable-rise-of-niantic
+      \endverb
+    \endentry
     \entry{brown_1991}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ba3c0fa94135bbee7f9cd5e2c54c11d8}{%
@@ -18721,6 +19301,44 @@
       \verb https://journal.alt.ac.uk/index.php/rlt/article/view/1354
       \endverb
       \keyw{confrontingReality,heutagogy,mlearning,noSignificantDifference,pedagogy}
+    \endentry
+    \entry{codemonkey_2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19c887c140071a04718fc4babe33c75a}{%
+           family={CodeMonkey},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{fullhash}{19c887c140071a04718fc4babe33c75a}
+      \strng{fullhashraw}{19c887c140071a04718fc4babe33c75a}
+      \strng{bibnamehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authorbibnamehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authornamehash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authorfullhash}{19c887c140071a04718fc4babe33c75a}
+      \strng{authorfullhashraw}{19c887c140071a04718fc4babe33c75a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Unity for {NOT} {Game} {Dev}?}
+      \field{urlday}{28}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=yo7sFIahYQo
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=yo7sFIahYQo
+      \endverb
     \endentry
     \entry{coleman_2017}{book}{}{}
       \name{author}{2}{}{%
@@ -20880,6 +21498,75 @@
       \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
       \endverb
     \endentry
+    \entry{good_1984}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ef84bba4cf418bb37f3128eb35457845}{%
+           family={Good},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24ce9496f437086f68fc2c019ea050c4}{%
+           family={Whiteside},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10ffa6a7e7a816f9110cba6774fe4cd5}{%
+           family={Wixon},
+           familyi={W\bibinitperiod},
+           given={Dennis\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5c1296831518bc406711e7099878bdc}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Sandra\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cf944ed530de3b519a875431ca7dbc76}
+      \strng{fullhash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{fullhashraw}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{bibnamehash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{authorbibnamehash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{authornamehash}{cf944ed530de3b519a875431ca7dbc76}
+      \strng{authorfullhash}{8c32be46e726ec153d0b310cb608f9f1}
+      \strng{authorfullhashraw}{8c32be46e726ec153d0b310cb608f9f1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many human-computer interfaces are designed with the assumption that the user must adapt to the system, that users must be trained and their behavior altered to fit a given interface. The research presented here proceeds from the alternative assumption: Novice behavior is inherently sensible, and the computer system can be made to adapt to it. Specifically, a measurably easy-to-use interface was built to accommodate the actual behavior of novice users. Novices attempted an electronic mail task using a command-line interface containing no help, no menus, no documentation, and no instruction. A hidden operator intercepted commands when necessary, creating the illusion of an interactive session. The software was repeatedly revised to recognize users' new commands; in essence, the interface was derived from user behavior. This procedure was used on 67 subjects. The first version of the software could recognize only 7 percent of all the subjects' spontaneously generated commands; the final version could recognize 76 percent of these commands. This experience contradicts the idea that user input is irrelevant to the design of command languages. Through careful observation and analysis of user behavior, a mail interface unusable by novices evolved into one that let novices do useful work within minutes.}
+      \field{issn}{0001-0782, 1557-7317}
+      \field{journaltitle}{Communications of the ACM}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Building a user-derived interface}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{1984}
+      \field{urldateera}{ce}
+      \field{pages}{1032\bibrangedash 1043}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/358274.358284
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/358274.358284
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/358274.358284
+      \endverb
+    \endentry
     \entry{goodman-deane_2010}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f1af09a1257629d13f1f3eae8ac01b00}{%
@@ -22117,6 +22804,62 @@
       \verb{doi}
       \verb 10.1007/978-3-642-40483-2_5
       \endverb
+    \endentry
+    \entry{hussain_2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=add64af03dc09e3ae838db9248ecff93}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Afzal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7be3163fb10618c782864b5530f52ec9}{%
+           family={Shakeel},
+           familyi={S\bibinitperiod},
+           given={Haad},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d25758281f25008435f045a7cf832b53}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Faizan},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c61bdf75dc713a8145a008132f2ce4b1}{%
+           family={Uddin},
+           familyi={U\bibinitperiod},
+           given={Nasir},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33bb345651fd5c82b7a3d59990cb9404}{%
+           family={Ghouri},
+           familyi={G\bibinitperiod},
+           given={Turab\bibnamedelima Latif},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{327a964a34617a01afd31c719ac379db}
+      \strng{fullhash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{fullhashraw}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{bibnamehash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{authorbibnamehash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{authornamehash}{327a964a34617a01afd31c719ac379db}
+      \strng{authorfullhash}{b0bbac0541ec7cf24aceab257c7105da}
+      \strng{authorfullhashraw}{b0bbac0541ec7cf24aceab257c7105da}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Univ. Sindh J. Inf. Commun. Technol}
+      \field{number}{2}
+      \field{title}{Unity game development engine: {A} technical survey}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{73\bibrangedash 81}
+      \range{pages}{9}
     \endentry
     \entry{huynh_2024}{article}{}{}
       \name{author}{6}{}{%
@@ -24115,12 +24858,12 @@
     \endentry
     \entry{lee_2021}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5422ce05df1b617607b696045923ed48}{%
+        {{un=1,uniquepart=given,hash=5422ce05df1b617607b696045923ed48}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={I-Jui},
            giveni={I\bibinithyphendelim J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{5422ce05df1b617607b696045923ed48}
       \strng{fullhash}{5422ce05df1b617607b696045923ed48}
@@ -24134,7 +24877,6 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Children with autism spectrum disorder (ASD) often find it difficult to communicate using body language and facial expressions to respond appropriately socially. This negatively affects the quality of their everyday social life. Children with ASD can learn to socially interact with virtual three-dimensional (3D) characters in animated games enhanced with augmented reality (AR). They can learn about body language and facial expressions through roleplay. This teaching method can effectively improve the interactive social skills of children with ASD and reduce the fear and anxiety which they typically experience when they face real people. However, most current virtual roleplay models focus only on predefined body language and facial expressions limited by the training system. These systems lack immediacy and a sense of genuine interaction for children with ASD. Therefore, we wanted to create a system that will allow trainers and therapists to control 3D virtual characters that are able to produce in real time the full range of natural body language and facial expressions appropriate for males, females, and even special cartoon characters. Based on the multiple baseline design across subjects, the data indicated that real-time Kinect Skeletal Tracking (KST) System can help the children with ASD improved their social interaction.}
@@ -24162,6 +24904,49 @@
       \verb https://doi.org/10.1080/10494820.2019.1710851
       \endverb
       \keyw{Autism spectrum disorder,Wizard of Oz experiment,augmented reality,interactive learning environment,real-time Kinect Skeletal Tracking System}
+    \endentry
+    \entry{lee_2022}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=f8dcb8af8ad00b5199ab9cbe22fb9c30}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Leanna},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{fullhash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{fullhashraw}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{bibnamehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authorbibnamehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authornamehash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authorfullhash}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \strng{authorfullhashraw}{f8dcb8af8ad00b5199ab9cbe22fb9c30}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Niantic is taking things a giant leap further: leading the world in augmented reality development.}
+      \field{journaltitle}{Marketing Dive}
+      \field{month}{7}
+      \field{title}{Creating the future of {AR} with {Niantic} and 8th {Wall}}
+      \field{type}{News}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.marketingdive.com/spons/creating-the-future-of-ar-with-niantic-and-8th-wall/626363/
+      \endverb
+      \verb{url}
+      \verb https://www.marketingdive.com/spons/creating-the-future-of-ar-with-niantic-and-8th-wall/626363/
+      \endverb
     \endentry
     \entry{lehtinen_1999}{article}{}{}
       \name{author}{5}{}{%
@@ -24563,6 +25348,69 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{macaranas_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=141369437e9086965666f49b9bc03125}{%
+           family={Macaranas},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6deb14dd059c9cfc5fd119bb985da9d4}{%
+           family={Antle},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dcc98f46e27016edb1258a470090d3c}{%
+           family={Riecke},
+           familyi={R\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3423bcc3eac29e35123fae858f05414b}
+      \strng{fullhash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{fullhashraw}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{bibnamehash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{authorbibnamehash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{authornamehash}{3423bcc3eac29e35123fae858f05414b}
+      \strng{authorfullhash}{2af016499c2b1e921468ebb22f53cc3f}
+      \strng{authorfullhashraw}{2af016499c2b1e921468ebb22f53cc3f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0953-5438, 1873-7951}
+      \field{journaltitle}{Interacting with Computers}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{What is {Intuitive} {Interaction}?}
+      \field{title}{What is {Intuitive} {Interaction}? {Balancing} {Users}' {Performance} and {Satisfaction} with {Natural} {User} {Interfaces}}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{27}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 370}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1093/iwc/iwv003
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/iwc/article-lookup/doi/10.1093/iwc/iwv003
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/iwc/article-lookup/doi/10.1093/iwc/iwv003
       \endverb
     \endentry
     \entry{madden_2020}{inbook}{}{}
@@ -25035,6 +25883,66 @@
       \verb https://dl.acm.org/doi/10.1145/568760.568814
       \endverb
     \endentry
+    \entry{messaoudi_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c311136386901be6df932a2c0764c70a}{%
+           family={Messaoudi},
+           familyi={M\bibinitperiod},
+           given={Farouk},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=813f11dbaf45adc039bb6b1edb0f8aa9}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Gwendal},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a4314866bfc9e9a165ec1171cd71b6}{%
+           family={Ksentini},
+           familyi={K\bibinitperiod},
+           given={Adlen},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06bbb0c2a40ca9427687647e78a382d4}
+      \strng{fullhash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{fullhashraw}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{bibnamehash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{authorbibnamehash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{authornamehash}{06bbb0c2a40ca9427687647e78a382d4}
+      \strng{authorfullhash}{5c39fcd599d158b41c3194e4c7f8db41}
+      \strng{authorfullhashraw}{5c39fcd599d158b41c3194e4c7f8db41}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Recent trends on how video games are played have pushed for the need to revise the game engine architecture. Indeed, game players are more mobile, using smartphones and tablets that lack CPU resources compared to PC and dedicated box. Two emerging solutions, cloud gaming and computing offload, would represent the next steps toward improving game player experience. By consequence, dissecting and analyzing game engines performances would help to better understand how to move to these new directions, which is so far missing in the literature. In this paper, we fill this gap by analyzing and evaluating one of the most popular game engine, namely Unity3D. First, we dissected the Unity3D architecture and modules. A benchmark was then used to evaluate the CPU and GPU performances of the different modules constituting Unity3D, for five representative games.}
+      \field{journaltitle}{2015 {International} {Workshop} on {Network} and {Systems} {Support} for {Games} ({NetGames})}
+      \field{month}{12}
+      \field{note}{ISSN: 2156-8146}
+      \field{shorttitle}{Dissecting games engines}
+      \field{title}{Dissecting games engines: {The} case of {Unity3D}}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/NetGames.2015.7382990
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7382990
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7382990
+      \endverb
+      \keyw{Engines,Games,Graphics processing units,Hardware,Pipelines,Rendering (computer graphics),Three-dimensional displays}
+    \endentry
     \entry{milgram_1995}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=d57f1b339e2089ac1411a8c32cef1cb7}{%
@@ -25476,6 +26384,28 @@
       \verb https://www.emerald.com/insight/content/doi/10.1108/ET-08-2020-0231/full/html
       \endverb
     \endentry
+    \entry{niantic_nodate}{misc}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Niantic Spatial is a leader in geospatial AI, built on a next-generation digital map that enables both humans and machines to understand the physical world with centimeter-level precision.}
+      \field{journaltitle}{Niantic Spatial, Inc.}
+      \field{title}{Niantic {Spatial}}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nianticspatial.com/
+      \endverb
+      \verb{url}
+      \verb https://www.nianticspatial.com/
+      \endverb
+    \endentry
     \entry{nissen_2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=32f830541fd459dc1bdb042b35ab60b7}{%
@@ -25733,6 +26663,30 @@
       \field{year}{2012}
       \field{pages}{549\bibrangedash 564}
       \range{pages}{16}
+    \endentry
+    \entry{openxr_2016}{misc}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Khronos Group}
+      \field{month}{12}
+      \field{title}{{OpenXR} - {High}-performance access to {AR} and {VR} —collectively known as {XR}— platforms and devices}
+      \field{urlday}{28}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.khronos.org/openxr/
+      \endverb
+      \verb{url}
+      \verb https://www.khronos.org/openxr/
+      \endverb
     \endentry
     \entry{ozgen_2021}{article}{}{}
       \name{author}{3}{}{%
@@ -28036,6 +28990,29 @@
       \field{pages}{2\bibrangedash 12}
       \range{pages}{11}
     \endentry
+    \entry{shared_nodate}{misc}{}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Shared AR enables seamless real-time interactions among users without the need for complex infrastructure or maintenance, whether used ad hoc or alongside VPS. It supports co-localized cooperative and competitive experiences for up to ten simultaneous users.}
+      \field{journaltitle}{Niantic Spatial, Inc.}
+      \field{shorttitle}{Shared {AR}}
+      \field{title}{Shared {AR}: {Build} {Real}-{Time}, {Multi}-{User} {AR} {Experiences}}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nianticspatial.com/products/shared-ar
+      \endverb
+      \verb{url}
+      \verb https://www.nianticspatial.com/products/shared-ar
+      \endverb
+    \endentry
     \entry{shen_2010}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=c683dca86043405be8fb1d3009bc1604}{%
@@ -28517,6 +29494,69 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2227-7102/6/4/37
+      \endverb
+    \endentry
+    \entry{strijbos_2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e1438cf9d3fec14bd6d1ea7dca856aa1}{%
+           family={Strijbos},
+           familyi={S\bibinitperiod},
+           given={J.W.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae8622705cd1521b9c5c8330754c311d}{%
+           family={Martens},
+           familyi={M\bibinitperiod},
+           given={R.L.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1177b8b993a974600fc5211c590938b0}{%
+           family={Jochems},
+           familyi={J\bibinitperiod},
+           given={W.M.G.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ad7c3262c70bfc3e0b9ce9d14f3481b4}
+      \strng{fullhash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{fullhashraw}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{bibnamehash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{authorbibnamehash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{authornamehash}{ad7c3262c70bfc3e0b9ce9d14f3481b4}
+      \strng{authorfullhash}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \strng{authorfullhashraw}{330031115ebc692cdf2d5e0e2c43dcbf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{month}{5}
+      \field{number}{4}
+      \field{shorttitle}{Designing for interaction}
+      \field{title}{Designing for interaction: {Six} steps to designing computer-supported group-based learning}
+      \field{urlday}{25}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{volume}{42}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{403\bibrangedash 424}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2003.10.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131503001118
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131503001118
       \endverb
     \endentry
     \entry{sutipitakwong_2020}{article}{}{}
@@ -30247,6 +31287,50 @@
       \field{labeltitlesource}{title}
       \field{title}{Research methods {ı}n education: an {ı}ntroduction}
       \field{year}{2000}
+    \endentry
+    \entry{wigdor_2011}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a1d167c2e159bbe494e59e21a3fb2dbb}{%
+           family={Wigdor},
+           familyi={W\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d07abd669ba921106d63b04a8590dc8}{%
+           family={Wixon},
+           familyi={W\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{fullhash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{fullhashraw}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{bibnamehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authorbibnamehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authornamehash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authorfullhash}{4ee6f12e87ef44bd62a029feba26dc03}
+      \strng{authorfullhashraw}{4ee6f12e87ef44bd62a029feba26dc03}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Brave NUI World is the first practical guide for designing touch- and gesture-based user interfaces. Written by the team from Microsoft that developed the multi-touch, multi-user Surface® tabletop product, it introduces the reader to natural user interfaces (NUI). It gives readers the necessary tools and information to integrate touch and gesture practices into daily work, presenting scenarios, problem solving, metaphors, and techniques intended to avoid making mistakes. This book considers diverse user needs and context, real world successes and failures, and the future of NUI. It presents thirty scenarios, giving practitioners a multitude of considerations for making informed design decisions and helping to ensure that missteps are never made again. The book will be of value to game designers as well as practitioners, researchers, and students interested in learning about user experience design, user interface design, interaction design, software design, human computer interaction, human factors, information design, and information architecture. - Provides easy-to-apply design guidance for the unique challenge of creating touch- and gesture-based user interfaces - Considers diverse user needs and context, real world successes and failures, and a look into the future of NUI - Presents thirty scenarios, giving practitioners a multitude of considerations for making informed design decisions and helping to ensure that missteps are never made again}
+      \field{isbn}{9780123822321}
+      \field{month}{4}
+      \field{shorttitle}{Brave {NUI} {World}}
+      \field{title}{Brave {NUI} {World}: {Designing} {Natural} {User} {Interfaces} for {Touch} and {Gesture}}
+      \field{year}{2011}
+      \keyw{Computers / Human-Computer Interaction (HCI)}
     \endentry
     \entry{wilson_2014}{article}{}{}
       \name{author}{1}{}{%

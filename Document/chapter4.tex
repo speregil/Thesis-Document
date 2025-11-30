@@ -81,7 +81,7 @@ In general, the development of WorkshopAR aims to fulfil three main objectives, 
 objectives will be labelled as Observation Objectives:
 
 \begin{displayquote}
-    OO1. Visualising my team. Sections \ref{sec:2-1} and \ref{sec:2-5} of the literature review exposed the challenges of teaching collaboration skills, and described the
+    OO1. Visualising my team. Sections \ref{sec:2-1-1} and \ref{sec:2-1-4} of the literature review exposed the challenges of teaching collaboration skills, and described the
     process in terms of the time, guidance, and exposure to proper tools needed to succeed. WorkshopAR is meant to use \ac{AR} to graphically convey the information needed
     to manage a group, for establishing a discussion or for organising a conversation. The idea is to offer tools that convey a good grasp of who the group members are and
     what they are doing.
@@ -560,3 +560,345 @@ study, a failure engagement with \emph{WorkshopAR} can elicit questions regardin
 structuring their work and managing their time, among other possibilities. Answers to these questions can help in constructing an interesting case study.
 
 \section{Architectural Design \label{sec:4-3}}
+
+The following section will discuss the main ideas guiding the architectural design of \emph{WorkshopAR} and the reasoning behind the decisions taken. The whole process 
+ill be described using the most important quality requirements identified for the development of the tool, the most important functional components designed, and the
+available frameworks and technologies selected to help in the construction of the tool. For this purpose, several architectural and structural diagrams were created to
+explain and visualise the design decisions taken and the software architecture discussed throughout this section.
+
+A common visual language was used that loosely follows the structure and rules proposed by UML, but it was not strictly followed nor are any of the diagrams in this
+section UML-compliant. The main objective was to offer a quick visual representation of software components and behaviours that facilitated the communication of concepts
+and the discussion of the decisions taken, while keeping the diagrams simple and easy to read. The main rule was to keep consistency between diagrams, especially with
+colour coded information as follows:
+
+\begin{itemize}
+    \item \sethlcolor{lightgray}\hl{Grey} elements represent hardware and devices, physical instances where software is deployed.
+    \item \sethlcolor{yellow}\hl{Yellow} elements represent software components, entities or a set of entities that have a common purpose and functionality. They could be
+    zoomed-in for more detail, but that is not necessary to understand the idea conveyed by the diagram overall.
+    \item \sethlcolor{cyan}\hl{Blue} elements represent more abstract entities, either because they represent big complex functionalities which serve several purposes or
+    because they represent a state or logical concept in the execution of the software that is achieved by the interaction of several other components. As with yellow
+    elements, the component can be described in more detail, but it is not important or necessary for the purposes of the  diagram.
+    \item \sethlcolor{green}\hl{Green} elements are specific instances of an object (a class or a game object in Unity) used to show the composition of an important scene
+    or the flow of data in a use case scenario.
+    \item \textbf{White} elements are used for data or information being used, created or transmitted between other software components.
+    \item \textbf{Arrows} are used to signify relationships and associations between components, or messages sent from one component to another, depending on the context
+    of the diagram.
+\end{itemize}
+
+\subsection{Quality Requirements \label{sec:4-3-1}}
+
+\emph{WorkshopAR} is a prototype that helps in promoting proper work habits in the students for communication and collaboration. Independent of the specific functionalities
+to be built, the software needs to achieve these objectives through the architectural design proposed:
+
+\begin{enumerate}
+    \item \textbf{Multiuser interaction:} \emph{WorkshopAR} is a cooperative experience for the synchronous interaction of small groups of 2 to 6 students. All the
+    participants in the interaction will be present in the same physical space and will share the same digital augmentation of the environment, but with different points
+    of view and instances of interaction. Digital objects in the space will also be shared and interactions with them must be synchronised and coordinated between users.
+    The participants will have a digital presence in the shared environment that can also be interacted with, and that interaction also needs to be synchronised and
+    coordinated.
+    \item \textbf{Multi-platform deployment:} To support a \ac{BYOD} approach, it is necessary to build a solution with a multi-platform deployment. \emph{WorkshopAR} must
+    work independent of any specific mobile platform and aim for the most common \ac{AR} capabilities of devices currently in the market. Ideally, the tool should also
+    support any other \ac{AR} capable device, specifically, headsets available in the market like HoloLens, Magic Leap or Meta Quest 3. This implies that the tool must
+    consider all the diverse input methods available, display varieties and processing capabilities, and coordinate them within the shared experience.
+
+    This idea can be also expanded to a multi-role interaction, in which the activities are taking place in a room, consider different roles that any participant can take,
+    and tailor how the user sees information and participates in the experience in accordance with that role. Different roles also open the possibility to interact within
+    the room through mediums that are not necessarily \ac{AR}.
+    \item \textbf{Spatial interactivity:} Due to the multi-platform approach taken and the irregular nature of the \ac{AR} capabilities found in current available devices,
+    it was necessary to make decisions about the minimal capabilities needed for the \ac{AR} experience to function across different devices. It was decided that the core
+    experience was in the augmentation of the communication process, and the relationship built between the group and the \emph{workspace}. It was necessary to identify minimum
+    features common in most devices and decide which aspects of the experience could rely on the available technology and tool, and which needed a solution through a more
+    complex development.
+\end{enumerate}
+
+The following quality requirements are not directly related to the outcomes needed for the research goals but are equally important to support a good development flow or
+to accommodate the particularities found in the execution of the case study.
+
+\begin{enumerate}
+    \setcounter{enumi}{3}
+    \item \textbf{Flexibility:} Given the interactive nature of the development proposed and the exploratory approach of the research, the general component architecture
+    of the tool needs to be as flexible and decoupled as possible. Particularly, it is important for the input system and interaction methods and processes to be easily
+    swappable without affecting the core functionality of the software. These are the most fluid elements of the design, and from the very beginning, they are meant to be
+    part of the main experimentation with the software. A flexible approach is necessary to facilitate testing and different ideas and approaches.
+
+    Solutions related to the network communication and the creation of a shared space also needs to be flexible. Ideally the main utility of the tool is independent of the
+    networking architecture.
+    \item \textbf{Extendibility:} Independent of the differences between the design and the implementation, component development will aim for cohesion and extendibility.
+    The purpose is to support a small and incremental development that is easy to extend into full functionality over time. This will also support the user-centred
+    approach proposed, where the users can experiment with a simpler version of a functionality, provide feedback and incorporate that information in the extension and
+    refinement of the functionality.
+    \item \textbf{Easy-to-learn:} One of the core issues identified in section \ref{sec:2-2-3-2} in the implementation of \ac{AR} in classroom is the all the extra time
+    needed for students to learn the proper use of the tool. Lessons and plans had to accommodate, sometimes unsuccessfully, enough time to teach how to use the tool,
+    coordinate its use in the planned activity and solve issues appearing when mishandling the tool.
+
+    This issue is a complicated task worthy of its own focus research. The design of \emph{WorkshopAR} can leverage the common knowledge that students possess of their
+    phones and the common interactions with them to propose interactions that emerge from the natural use of the technology. This can be achieved by exposing the users
+    to small samples of the software and incorporate a systematic analysis of their feedback in the design process.
+\end{enumerate}
+
+It was important to follow a formal approach to the analysis and development of the easy-to-learn design, taking decisions based on principles found in the literature and
+approaches proven successful in similar scenarios. The most relevant guiding principles are based on the work of \textcite{wigdor_2011} who state that a design based on
+natural interaction is characterised by:
+
+\begin{itemize}
+    \item The feel of a natural extension of the body.
+    \item Offering the same natural experience for novice and for expert users.
+    \item An experience tailored for the medium (mobile devices), not a mimicry of the real world.
+    \item The proper use of context, previous knowledge, metaphors and input/output devices.
+    \item Using paradigms when needed but not being afraid to ignore them.
+\end{itemize}
+
+Other ideas were summarised from works like \textcite{macaranas_2015,strijbos_2004,good_1984} that state general good approaches such as:
+
+\begin{itemize}
+    \item Test different metaphoric mappings depending on the content of the interaction.
+    \item High usability is achieved through careful analysis of feedback.
+    \item Manage and consider user's expectations and knowledge.
+    \item The changing expectations of the participants depending on the context of the experience and the tools available for the interaction.
+\end{itemize}
+
+\subsection{Technological Frameworks \label{sec:4-3-2}}
+
+A set of tools were selected to implement current available technologies and frameworks to simplify the constructions of the basic functionalities of the application,
+support the solutions for more complex problems and provide a pipeline for testing and deployment. The tools selected helped in the implementation of basic \ac{AR}
+functions and worked as stepping stones for more complicated interactions, for the networking development and for the multi-platform deployment.
+
+The Unity engine was selected as the main building platform. Similar to other tools and environments like Unreal and Godot, the initial use case of Unity is in the
+development of videogames, but the tool can also be adapted to be the engine behind any type of multimedia interaction software \parencite{hussain_2020,codemonkey_2024}.
+Unity was selected due to convenience and to leverage previous expertise with the tool.
+
+Unity was used to handle the implementation of digital content and the interactions with it. Unity also helped in the management of diverse input methods and the
+multi-platform deployment of the software. Some of the issues related to networking were also solved using the Netcode utility. This package allows for basic network
+configuration and provides a framework to communicate information or to coordinate states of the objects across a network.
+
+Finally, one of the biggest advantages of using Unity (and other similar tools) is that it provides an implementation of the OpenXR framework \parencite{openxr_2016}.
+This framework is and open-source implementation that abstracts into a common language all the specifics of different \ac{VR}, \ac{AR} and \ac{MR} devices in the market.
+OpenXR provides a platform-agnostic implementation of different features like tracking management, display, environment tracking, input handling, among other things. This
+is a useful tool that helps in maintaining a single code base for the application and easily deploys it on different platforms at the same time. The project can then focus
+on solving specific problems without having to deal with issues at the hardware level.
+
+Additional to the tools provided by the Unity engine, two other frameworks were integrated to the development to help with functionalities related to \ac{AR} and the
+shared interactions in the network, as described in the following sections.
+
+\subsubsection{ARFoundation \label{sec:4-3-2-1}}
+
+ARFoundation is an implementation by Unity that provides a similar level of abstraction as OpenXR but specifically tailored to the \ac{AR} environment and the mobile
+devices ecosystem. This is an important tool that helps in dealing with the most important frameworks in the market for \ac{AR} development: ARCore and ARkit for Android
+and iOS devices respectively. These two frameworks cover most of the mobile devices available in the market, while more specialised technology uses APIs or frameworks that
+are either a derivation of the two main ones or can be handled with the OpenXR framework.
+
+ARFoundation strongly influences the architecture of \emph{WorkshopAR}. ARFoundation provides a set of manager utilities that act as a front-end configuration for several
+common functionalities of \ac{AR} such as image processing, feature detection, point-of-view tracking or image composition. The managers communicate with a series of
+subsystems that abstract the specific hardware implementations of ARCore, ARKit or other similar toolkits. This means that all the functionalities of \emph{WorkshopAR} are
+built by coordinating the managers provided by ARFoundation with the proprietary code developed for the application. Additionally, any implementation communicates with the
+hardware layer via the subsystems available, allowing the creation of a single code base for every platform. Figure \ref{fig:4-4} shows the component architecture of
+\emph{WorkshopAR} when deployed in a generic mobile device, differentiating between the code found in the core Unity implementation vs the local toolkit used to provide \ac{AR}
+functionalities in the device.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.4},scale=0.7]{figures/F4-4.jpg}}
+    \caption{Integration with ARFoundation \label{fig:4-4}}
+\end{figure}
+
+This solution facilitates a deployment that is, at least in theory, independent of any platform. In practice, it is not that simple. It is possible to support any mobile
+device that implements ARCore or ARkit, and there is also the possibility to deploy in any other \ac{AR}-capable device if there is a subsystem in the ARFoundation toolkit that
+supports it or if the device supports the OpenXR framework. The problem is that all these implementations do not communicate smoothly, and to support a proper
+platform-agnostic single code base, it is necessary to identify all the intended platforms that are going to be used and coordinate all the low-level communication
+elements of the code to properly function. Other element to consider is that if used as-is, ARFoundation only offers functionalities exposed by the managers, which can
+obscure more updated versions of the lower-level systems or not show them at all.
+
+\subsubsection{Lightship \label{sec:4-3-2-2}}
+
+This component is part of the Niantic Spatial SDK suit \parencite{niantic_nodate} and the set of solutions present in the Shared \ac{AR} product \parencite{shared_nodate}. Niantic
+has pioneered the commercial use of \ac{AR} in mobile environments through successful implementations in entertainment, educational and industrial contexts \parencite{lee_2022,bowtiedrobin_2021}.
+The SDK offered through Niantic Spatial is a set of solutions compatible with most development environments to create and manage complex \ac{AR} interactions like life
+meshing, semantic detection, complex image recognition and networking.
+
+For the development of \emph{WorkshopAR}, the component integrated into the architecture is Lightship, a tool for the creation of shared \ac{AR} experiences without the
+need of a complex backend network infrastructure. This tool is meant for small scale connectivity, supporting up to ten concurrent users. Lightship eases the development
+of the multiuser requirements and offers a scalable and flexible architecture that can be expanded and build upon in future work.
+
+In isolation, Lightship works by using a simple client-server architecture. Any instance of Lightship can be connected to another one through an internet connection if
+they are using the same application ID. The architecture allows for the implementation of a dedicated server that controls the experience or for a distributed connection
+with one of the client instances acting as a host. At the network level, it is possible to use any tool at the developer's disposal, abstracting as much as possible the
+connection with the transport layer.
+
+At the application layer, Lightship provides three important concepts to manage the shared interactions:
+
+\begin{itemize}
+    \item \textbf{Room:} Parallel to the concept of a \emph{digital room} provided in the use case definitions, Lightship defines a room as an abstraction for the main
+    connection point for the users that are going to share an interaction. A room is identified by a unique ID within the rooms created for a unique application ID. Any
+    client can see and connect to all the rooms available for that application. The rooms are created and managed by the service itself. They are hosted in an
+    infrastructure provided by Niantic and can only be configured via the functionalities exposed in the SDK.
+    \item \textbf{Shared Origin:} To create the functionality of a shared \ac{AR} space, a host client first needs to create a room by providing an ID, configuration data
+    and a point in space relative to the client that is going to be used as the origin point of the experience. This point can be obtained in different ways: image
+    recognition, spatial features recognition, the relative position of the device or geospatial localisation. Upon connection with other clients, each instance of the
+    shared space is coordinated through the network using the shared origin. If a new object is added to the interaction, its position is always relative to the shared
+    origin and coordinated through the network.
+    \item \textbf{Anchors:} As optional additions to the shared origin, the host or the clients can create (if the deployment platform has the capabilities) detected
+    features in the real space as anchor points. An anchor can be used to provide visual reference points in the space to maintain a smooth \ac{AR} experience, especially
+    when a lot of movement and points of view changes are expected, or when the network connection is not stable. An anchor is also shared through the network and helps in
+    stabilising the room and the different points of view.
+\end{itemize}
+
+It is easy to integrate the main architectural points of Lightship into the architecture of \emph{WorkshopAR}, mirroring the use of rooms to signify the connection of
+users to the group, the detection and analysis of features in the physical space and the coordination of data between interactions. The architecture proposed by Lightship
+also provides a simple and transparent networking component that allows a seamless connectivity on the side of the user with an easy process and minimal configuration,
+while also allowing the developer some control over the process. Figure \ref{fig:4-5} shows the architecture of the shared space as integrated with the core elements of
+\emph{WorkshopAR}.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.5},width=0.99\textwidth]{figures/F4-5.jpg}}
+    \caption{Integration with Lightship \label{fig:4-5}}
+\end{figure}
+
+There is no necessity to go in deep detail about the general architecture of Unity as it is an extensive topic outside the scope of this document that offers little value
+to the research. Suffice to say that Unity encourages a modular component approach based around a core engine in charge of the coordination of resources and the
+communication with the local device. More information can be found in \textcite{messaoudi_2015}.
+
+As for ARFoundation and Lightship, Figure \ref{fig:4-6} shows a relational model among their most important components, the core development of \emph{WorkshopAR} and the
+external elements that interact with the frameworks in the execution of the experience.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.6},scale=0.75]{figures/F4-6.jpg}}
+    \caption{Relational Model with External Frameworks \label{fig:4-6}}
+\end{figure}
+
+\subsection{Component Architecture \label{sec:4-3-3}}
+
+\emph{WorkshopAR} uses two major components in its architecture: the \emph{Session Manager}, in charge of the flow of activities in a single session for one participant,
+and the \emph{Tracking Manager}, in charge of managing the \ac{AR} interactions. Additional components are added to manage profile data and UI interactions. \emph{WorkshopAR}
+relies on the Unity engine framework for deployment in mobile devices, on the ARFoundation package to communicate with the local implementation of \ac{AR} and uses
+Lightship in coordination with some proprietary Netcode development to create the shared room and to coordinate interactions.
+
+\emph{WorkshopAR} follows the recommended architecture for general Unity projects, in which the experience follows the execution of one or more scenes which in turn are
+composed by a set of game objects. Each object has a specific behaviour determined by its interaction with the engine, other objects and the actions scripted by its
+modular components. Following this architecture, \emph{WorkshopAR} creates a \emph{work session} for the users and manages the tracking of all the \ac{AR} elements through
+three main objects in a single scene:
+
+\begin{itemize}
+    \item The \emph{User Anchor} acts as the visual representation of each participant in the \emph{digital room} and the main control point of each individual action
+    through the \emph{Session Manager} component.
+    \item The \emph{AR Session} is part of the ARFoundation implementation and provides all the AR functionalities to integrate the scene with the camera image captured in
+    the deployment device as well as the detection and management of features in the real space.
+    \item The \emph{Network Manager} helps with the implementation of Shared AR and manages all the Netcode used to create the shared experience.
+\end{itemize}
+
+Other objects are part to the scene to facilitate the visualisation of UI elements and to manage local data. Figure \ref{fig:4-7} shows a relational model of the
+previously described elements in the scene.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.7},width=0.99\textwidth]{figures/F4-7.jpg}}
+    \caption{Unity Scene Relational Model \label{fig:4-7}}
+\end{figure}
+
+\subsubsection{Session Manager \label{sec:4-3-3-1}}
+
+The architecture of \emph{WorkshopAR} divides its functionality into two parts: the collaborative session and the \ac{AR} tracking. The \emph{Session Manager} is in charge
+of coordinating three elements of the experience: access to the local profile of the user, configuration of the shared room, and coordination of interactions with the room
+and with other participants through the network. Other less prominent components are used to provide networking functionalities not managed by Shared AR as well as the
+interactions with the UI. The component functionality can be overall described by the following process:
+
+\begin{itemize}
+    \item Get the local user profile.
+    \item Configure the connection to a room.
+    \item Coordinate network behaviours to fulfil the different interactions.
+    \item Coordinate interaction calls through the network.
+    \item Coordinate local interactions with the necessary data to show in the UI.
+\end{itemize}
+
+The \emph{Session Manager} is also associated with the \emph{User Anchor}. The Anchor is the visual and logical representation of the user in the room and provides
+different behaviours that show a visual representation  of the user profile (position, name, current task, role) and social cues such as emotes and the user's gaze
+direction, all meant to be visual elements for the augmented collaboration design. The \emph{Session Manager} coordinates the creation of \emph{User Anchors} in the
+network, bridges local data between users and controls the flow of the session. Figure \ref{fig:4-8} shows a relational model of the most important components involved
+with the \emph{Session Manager}.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.8},width=0.99\textwidth]{figures/F4-8.jpg}}
+    \caption{Session Manager Relational Model \label{fig:4-8}}
+\end{figure}
+
+\subsubsection{Tracking Manager \label{sec:4-3-3-2}}
+
+The \emph{Tracking Manager} is part of the \ac{AR} Session game object in charge of controlling the visualisation of digital objects, their behaviour and life cycle. For
+purposes of the current prototype of \emph{WorkshopAR}, the available digital objects are play models and annotations. Each object has a unique behaviour that will
+interact with the \emph{Session Manager} or the \emph{Tracking Manager} as needed.
+
+The \emph{Tracking Manager} is the bridge between \emph{WorkshopAR} and the ARFoundation framework. It connects all the components needed to create an \ac{AR} scene and
+configures the components that provide \ac{AR} functionalities like image composition using the feed of the camera and plane detection in the real space. The manager is
+also associated with the XR Origin object, a component needed in the OpenXR framework to abstract the XR device in which the app is going to be deployed. ARFoundation uses
+this component to communicate with the functionalities of the mobile device. In summary, the \emph{Tracking Manager} is in charge of:
+
+\begin{itemize}
+    \item Initializing the \ac{AR} device.
+    \item Managing the behaviour of the main camera.
+    \item Managing the digital objects on the scene.
+    \item Configuring the \ac{AR} functionalities provided by ARFoundation.
+\end{itemize}
+
+The \emph{Tracking Manager} specifically pulls the functionalities related to plane detection and the creation of visual anchors from the ARFoundation framework. The
+manager configures these components and keeps track of the game objects used for the visual composition of the scene with the information of the camera. A similar
+coordination is done with the \emph{Session Manager}, which keeps track of the life cycle of the objects in the network and the data that needs to be coordinated between
+participants. Figure \ref{fig:4-9} shows a relational model of all the components related to the \emph{Tracking Manager}.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.9},width=0.99\textwidth]{figures/F4-9.jpg}}
+    \caption{Tracking Manager Relational Model \label{fig:4-9}}
+\end{figure}
+
+\subsubsection{Interaction Pipeline \label{sec:4-3-3-3}}
+
+The connection between the hardware layer of the device and the \emph{digital room} created by \emph{WorkshopAR} follows the architecture proposed by OpenXR. Figure \ref{fig:4-10}
+shows the interaction flow between components in case of a local interaction with a digital object, like a play model or an annotation.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.10},width=0.99\textwidth]{figures/F4-10.jpg}}
+    \caption{Device Interaction Flow \label{fig:4-10}}
+\end{figure}
+
+The local device is in charge of detecting interactions at a hardware level, most commonly inputs in the touch screen, the relative position of the device (accelerometer,
+gyroscope, etc.) and the image feed of the camera. All the input information is then related to the context of the \ac{AR} application thanks to the local framework
+present in the device (ARCore or ARkit i.e.) which relays the raw data of the input to the Unity core engine. In here, the ARFoundation framework uses the Input System
+provided by Unity to read the raw information of the device and maps it to designated functions implemented by the \emph{Tracking Manager}, which coordinates all the
+components, either from ARFoundation or from \emph{WorkshopAR}, needed to respond to the input.
+
+Independent of the components involved in the response, it is first necessary to determine if the interaction changes the state of a shared object. Any change to a shared
+object is handled by the \emph{Session Manager}, who coordinates the remote network procedures that propagate the relevant information to all the users, and reacts locally
+when a change is received from other user. The \emph{Session Manager} is in charge of updating the state of all the shared objects, while the \emph{Tracking Manager} only
+reads the information for visualisation purposes and to manage interactions.
+
+SharedAR supports both server-authoritative and client-authoritative network architectures, as well as the possibility to have dedicated servers or host/client dynamics.
+\emph{WorkshopAR} follows a host/client architecture with no dedicated server controlling the experience. The users must decide who is going to act as the host. Then, the
+selected user needs to configure the \emph{digital room} and open it, while the other users connect as clients. If the initial host leaves the \emph{digital room}, it is
+easy to pass the host authority to any other connected user.
+
+In terms of authority architecture, the host holds server authority for the configuration of the \emph{digital room}, state of the \emph{digital room}, the detected
+physical plane used as the shared \emph{workspace}, and the physical features detected as visual anchors. Meanwhile, the \emph{User Anchors}, the play models and the
+annotations are client-authoritative, with ownership given to the user that initially spawned the object in the network.
+
+A final consideration is that, despite being designed as a serverless architecture, \emph{WorkshopAR} needs to follow the architecture enforced by SharedAR, which works as
+a central server that hosts the shared room and manage the connections of the clients to it. This element is outside the architecture of \emph{WorkshopAR}, and for the end
+user, they just need to worry about the connection with the host. Figure \ref{fig:4-11} shows a diagram that represents the main components in the network architecture,
+the objects over which each component holds authority and the most important procedures being transmitted over the network.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.11},width=0.99\textwidth]{figures/F4-11.jpg}}
+    \caption{Network Authority Architecture \label{fig:4-11}}
+\end{figure}
+
+In the case that an interaction does not involve digital objects, the pipeline maintains the same architecture. \emph{WorkshopAR} relies on the services provided by
+ARFoundation for the detection of features using the camera present in the mobile device, as it is shown in Figure \ref{fig:4-4}. The specific subsystems used by the
+prototype are the plane detector, the anchor manager and the \ac{AR} raycast functionalities.
+
+The plane detector is used to identify flat surfaces in the physical space, one of the steps in the configuration of a \emph{digital room}. Similarly, the position of a
+digital object can be used to create an anchor in the digital space, which helps improve the quality and stability of the \ac{AR} visualisation. A new anchor is created in
+the room every time a new user connects, and these anchors are managed by the host's \emph{Session Manager}. The \ac{AR} raycaster is needed to interact with digital
+objects in the \ac{AR} space or with features in the \ac{AR} space created by other subsystems. This is a local operation, so it does not need to be propagated in the
+network. Figure \ref{fig:4-12} shows the interactions of the previously described components in the network architecture of \emph{WorkshopAR}.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.12},scale=0.75]{figures/F4-12.jpg}}
+    \caption{Interaction Pipeline with ARFoundation Subsystems \label{fig:4-12}}
+\end{figure}
+
+\subsection{Data Architecture \label{sec:4-3-4}}

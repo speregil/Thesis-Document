@@ -1,64 +1,73 @@
 \contentsline {frontmatter}{List of Figures}{7}{listoffigures}%
-\contentsline {frontmatter}{List of Tables}{8}{listoftables}%
-\contentsline {chapter}{List of Acronyms}{9}{section*.10}%
-\contentsline {chapter}{\numberline {1}Introduction }{10}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Context }{13}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Research Structure }{16}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Research Questions }{17}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Scope and Limitations }{19}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Significance and Contributions }{20}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Document Structure }{23}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Literature Review }{24}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Collaborative Learning }{25}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Collaboration as a Transversal Skill }{25}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Communities of Practice }{28}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Communities of Practice and Education }{30}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Learning Teamwork and Collaboration }{33}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.1.5}Conclusion: Approach to Collaborative Learning }{36}{subsection.2.1.5}%
-\contentsline {section}{\numberline {2.2}Augmented Reality in Technology Enhanced Learning }{40}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Context }{40}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Systematic Literature Review Methodology }{42}{subsection.2.2.2}%
-\contentsline {subsubsection}{Selection Phase }{44}{section*.24}%
-\contentsline {subsubsection}{Filtering Phase }{44}{section*.25}%
-\contentsline {subsubsection}{Codification phase }{45}{section*.26}%
-\contentsline {subsection}{\numberline {2.2.3}Analysis Phase }{46}{subsection.2.2.3}%
-\contentsline {subsubsection}{Demographics, educational levels and target fields }{47}{section*.28}%
-\contentsline {subsubsection}{Positive and Negative outcomes }{48}{section*.31}%
-\contentsline {subsubsection}{Distribution of Learning Goals }{50}{section*.36}%
-\contentsline {subsection}{\numberline {2.2.4}Discussion }{52}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Collaborative AR }{55}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Final Discussion }{60}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Methodology }{61}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Research Strategy }{61}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Research Constraints and Limits }{65}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Theoretical Framework }{67}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Educational Approach }{67}{subsection.3.3.1}%
-\contentsline {subsubsection}{Collaborative Learning Structure }{67}{section*.42}%
-\contentsline {subsubsection}{Social Constructionism }{69}{section*.43}%
-\contentsline {subsubsection}{Andragogy and Educational Design }{70}{section*.44}%
-\contentsline {subsection}{\numberline {3.3.2}Technical Approach }{72}{subsection.3.3.2}%
-\contentsline {subsubsection}{User-Centred Design }{73}{section*.45}%
-\contentsline {subsubsection}{Software Engineering Process }{75}{section*.47}%
-\contentsline {section}{\numberline {3.4}Conclusions }{76}{section.3.4}%
-\contentsline {chapter}{\numberline {4}WorkshopAR - Architectural Design }{78}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Project Description }{80}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Context: Built Environments Industry Project Course }{81}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Learning Goals }{82}{subsection.4.1.2}%
-\contentsline {subsubsection}{Scenario 1: Team Management }{83}{section*.55}%
-\contentsline {subsubsection}{Scenario 2: Work Session Management }{84}{section*.57}%
-\contentsline {subsubsection}{Scenario 3: Discussion and Debate Management }{87}{section*.59}%
-\contentsline {subsection}{\numberline {4.1.3}Development goals }{88}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}Use Cases }{90}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Create a Shared Digital Room }{91}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Create a Shared Workspace }{91}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Create a Profile }{92}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Point to Something or Someone in the Digital Room }{92}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}Check the Status of Other Participants }{92}{subsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.2.6}Share and Pin an Idea }{93}{subsection.4.2.6}%
-\contentsline {subsection}{\numberline {4.2.7}Add and Interact with a Model in the Digital Room }{93}{subsection.4.2.7}%
-\contentsline {subsection}{\numberline {4.2.8}Participate in a Debate or a Vote }{94}{subsection.4.2.8}%
-\contentsline {subsection}{\numberline {4.2.9}Pause the Current Participation }{94}{subsection.4.2.9}%
-\contentsline {subsection}{\numberline {4.2.10}Conclusions }{95}{subsection.4.2.10}%
-\contentsline {section}{\numberline {4.3}Architectural Design }{95}{section.4.3}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{96}{appendix.A}%
-\contentsline {chapter}{References}{110}{appendix*.63}%
+\contentsline {frontmatter}{List of Tables}{9}{listoftables}%
+\contentsline {chapter}{List of Acronyms}{10}{section*.10}%
+\contentsline {chapter}{\numberline {1}Introduction }{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Context }{14}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Structure }{17}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Research Questions }{18}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Scope and Limitations }{20}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Significance and Contributions }{21}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Document Structure }{24}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Literature Review }{25}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Collaborative Learning }{26}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Collaboration as a Transversal Skill }{26}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Communities of Practice }{29}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Communities of Practice and Education }{31}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Learning Teamwork and Collaboration }{34}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Conclusion: Approach to Collaborative Learning }{37}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Augmented Reality in Technology Enhanced Learning }{41}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Context }{41}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Systematic Literature Review Methodology }{43}{subsection.2.2.2}%
+\contentsline {subsubsection}{Selection Phase }{45}{section*.24}%
+\contentsline {subsubsection}{Filtering Phase }{45}{section*.25}%
+\contentsline {subsubsection}{Codification phase }{46}{section*.26}%
+\contentsline {subsection}{\numberline {2.2.3}Analysis Phase }{47}{subsection.2.2.3}%
+\contentsline {subsubsection}{Demographics, educational levels and target fields }{48}{section*.28}%
+\contentsline {subsubsection}{Positive and Negative outcomes }{49}{section*.31}%
+\contentsline {subsubsection}{Distribution of Learning Goals }{51}{section*.36}%
+\contentsline {subsection}{\numberline {2.2.4}Discussion }{53}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Collaborative AR }{56}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Final Discussion }{61}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Methodology }{62}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Strategy }{62}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Research Constraints and Limits }{66}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Theoretical Framework }{68}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Educational Approach }{68}{subsection.3.3.1}%
+\contentsline {subsubsection}{Collaborative Learning Structure }{68}{section*.42}%
+\contentsline {subsubsection}{Social Constructionism }{70}{section*.43}%
+\contentsline {subsubsection}{Andragogy and Educational Design }{71}{section*.44}%
+\contentsline {subsection}{\numberline {3.3.2}Technical Approach }{73}{subsection.3.3.2}%
+\contentsline {subsubsection}{User-Centred Design }{74}{section*.45}%
+\contentsline {subsubsection}{Software Engineering Process }{76}{section*.47}%
+\contentsline {section}{\numberline {3.4}Conclusions }{77}{section.3.4}%
+\contentsline {chapter}{\numberline {4}WorkshopAR - Architectural Design }{79}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Project Description }{81}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Context: Built Environments Industry Project Course }{82}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Learning Goals }{83}{subsection.4.1.2}%
+\contentsline {subsubsection}{Scenario 1: Team Management }{84}{section*.55}%
+\contentsline {subsubsection}{Scenario 2: Work Session Management }{85}{section*.57}%
+\contentsline {subsubsection}{Scenario 3: Discussion and Debate Management }{88}{section*.59}%
+\contentsline {subsection}{\numberline {4.1.3}Development goals }{89}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Use Cases }{91}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Create a Shared Digital Room }{92}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Create a Shared Workspace }{92}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Create a Profile }{93}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Point to Something or Someone in the Digital Room }{93}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Check the Status of Other Participants }{93}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Share and Pin an Idea }{94}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Add and Interact with a Model in the Digital Room }{94}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}Participate in a Debate or a Vote }{95}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.2.9}Pause the Current Participation }{95}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4.2.10}Conclusions }{96}{subsection.4.2.10}%
+\contentsline {section}{\numberline {4.3}Architectural Design }{96}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Quality Requirements }{97}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Technological Frameworks }{99}{subsection.4.3.2}%
+\contentsline {subsubsection}{ARFoundation }{100}{section*.62}%
+\contentsline {subsubsection}{Lightship }{102}{section*.64}%
+\contentsline {subsection}{\numberline {4.3.3}Component Architecture }{103}{subsection.4.3.3}%
+\contentsline {subsubsection}{Session Manager }{105}{section*.68}%
+\contentsline {subsubsection}{Tracking Manager }{106}{section*.70}%
+\contentsline {subsubsection}{Interaction Pipeline }{107}{section*.72}%
+\contentsline {subsection}{\numberline {4.3.4}Data Architecture }{110}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{111}{appendix.A}%
+\contentsline {chapter}{References}{125}{appendix*.77}%

@@ -3520,8 +3520,40 @@
     <bcf:citekey order="385" intorder="2">bowtiedrobin_2021</bcf:citekey>
     <bcf:citekey order="386" intorder="1">messaoudi_2015</bcf:citekey>
     <bcf:citekey order="387" intorder="1">messaoudi_2015</bcf:citekey>
-    <bcf:citekey order="388" intorder="1">fuchs_1982</bcf:citekey>
-    <bcf:citekey order="389" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="388" intorder="1">wells_2020</bcf:citekey>
+    <bcf:citekey order="389" intorder="1">wells_2020</bcf:citekey>
+    <bcf:citekey order="390" intorder="1">galbraith_2013</bcf:citekey>
+    <bcf:citekey order="390" intorder="2">gardner_1998</bcf:citekey>
+    <bcf:citekey order="391" intorder="1">galbraith_2013</bcf:citekey>
+    <bcf:citekey order="391" intorder="2">gardner_1998</bcf:citekey>
+    <bcf:citekey order="392" intorder="1">babar_2009</bcf:citekey>
+    <bcf:citekey order="393" intorder="1">wang_2003</bcf:citekey>
+    <bcf:citekey order="394" intorder="1">barr_1990</bcf:citekey>
+    <bcf:citekey order="395" intorder="1">liu_2022</bcf:citekey>
+    <bcf:citekey order="396" intorder="1">kowalewski_2017</bcf:citekey>
+    <bcf:citekey order="397" intorder="1">kowalewski_2017</bcf:citekey>
+    <bcf:citekey order="398" intorder="1">nmanifest_2022</bcf:citekey>
+    <bcf:citekey order="399" intorder="1">meta_horizon_2025</bcf:citekey>
+    <bcf:citekey order="400" intorder="1">boy_2017</bcf:citekey>
+    <bcf:citekey order="401" intorder="1">chang_2023</bcf:citekey>
+    <bcf:citekey order="402" intorder="1">piumsomboon_2013</bcf:citekey>
+    <bcf:citekey order="402" intorder="2">wobbrock_2009</bcf:citekey>
+    <bcf:citekey order="403" intorder="1">piumsomboon_2013</bcf:citekey>
+    <bcf:citekey order="403" intorder="2">wobbrock_2009</bcf:citekey>
+    <bcf:citekey order="404" intorder="1">piumsomboon_2013</bcf:citekey>
+    <bcf:citekey order="405" intorder="1">piumsomboon_2013</bcf:citekey>
+    <bcf:citekey order="406" intorder="1">pinelle_2003</bcf:citekey>
+    <bcf:citekey order="406" intorder="2">scoular_2020</bcf:citekey>
+    <bcf:citekey order="407" intorder="1">reilly_2014</bcf:citekey>
+    <bcf:citekey order="407" intorder="2">lebeck_2018</bcf:citekey>
+    <bcf:citekey order="408" intorder="1">lebeck_2018</bcf:citekey>
+    <bcf:citekey order="408" intorder="2">reilly_2014</bcf:citekey>
+    <bcf:citekey order="409" intorder="1">zigurs_2006</bcf:citekey>
+    <bcf:citekey order="410" intorder="1">lu_2022</bcf:citekey>
+    <bcf:citekey order="410" intorder="2">gavgiotaki_2023</bcf:citekey>
+    <bcf:citekey order="411" intorder="1">wobbrock_2005</bcf:citekey>
+    <bcf:citekey order="412" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="413" intorder="1">fuchs_1982</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

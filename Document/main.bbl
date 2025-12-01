@@ -1291,6 +1291,52 @@
       \verb https://direct.mit.edu/pvar/article/6/4/355-385/18336
       \endverb
     \endentry
+    \entry{babar_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff9793c70e5ecb5e7e6d5edea08868fe}{%
+           family={Babar},
+           familyi={B\bibinitperiod},
+           given={Muhammad\bibnamedelima Ali},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{fullhash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{fullhashraw}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{bibnamehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authorbibnamehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authornamehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authorfullhash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authorfullhashraw}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Agile software development approaches have recently gained popularity as a mechanism for reducing cost and increasing ability to handle change in dynamic market conditions. However, there is also a significant concern about the role and importance of the issues related to the software architecture of a system being developed using agile approaches. There is to date little empirical evidence available on what software architecture related practices are followed by teams using agile approaches and the kinds of architectural challenges resulting from using agile approaches. This paper reports a case study aimed to empirically identify and understand the architectural practices and challenges of teams using agile approaches. The findings provide useful information about the researched issues and also highlight the areas that need to be focused on for integrating agile and architecture-centric approaches.}
+      \field{journaltitle}{2009 {Joint} {Working} {IEEE}/{IFIP} {Conference} on {Software} {Architecture} \& {European} {Conference} on {Software} {Architecture}}
+      \field{month}{9}
+      \field{title}{An exploratory study of architectural practices and challenges in using agile software development approaches}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{81\bibrangedash 90}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/WICSA.2009.5290794
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/5290794
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/5290794
+      \endverb
+      \keyw{Bridges,Computer architecture,Computer industry,Costs,Data analysis,Large-scale systems,Programming,Software architecture,Software systems,agile approaches,empirical studies,qualitative research}
+    \endentry
     \entry{baber_2021}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=66ef39b22ac08da018fe7002b7ccdc58}{%
@@ -1495,6 +1541,56 @@
       \endverb
       \verb{url}
       \verb https://publications.aap.org/pediatrics/article/133/2/184/30836/Key-Elements-of-Highly-Effective-Teams
+      \endverb
+    \endentry
+    \entry{barr_1990}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=727c963895acf58dced92d8eb7080e9d}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{fullhash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{fullhashraw}{727c963895acf58dced92d8eb7080e9d}
+      \strng{bibnamehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authorbibnamehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authornamehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authorfullhash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authorfullhashraw}{727c963895acf58dced92d8eb7080e9d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0162-3532, 2162-9501}
+      \field{journaltitle}{Journal for the Education of the Gifted}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{A {Solution} in {Search} of a {Problem}: {The} {Role} of {Technology} in {Educational} {Reform}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{1990}
+      \field{urldateera}{ce}
+      \field{pages}{79\bibrangedash 95}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1177/016235329001400109
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/016235329001400109
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/016235329001400109
       \endverb
     \endentry
     \entry{becirovic_2023}{inbook}{}{}
@@ -2193,6 +2289,56 @@
       \verb https://bowtiedrobin.substack.com/p/the-unstoppable-rise-of-niantic
       \endverb
     \endentry
+    \entry{boy_2017}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=0404c50df476e3cbe82d8e522d669bf3}{%
+           family={Boy},
+           familyi={B\bibinitperiod},
+           given={Guy\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{fullhash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{fullhashraw}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{bibnamehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editorbibnamehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editornamehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editorfullhash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editorfullhashraw}{0404c50df476e3cbe82d8e522d669bf3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1}
+      \field{isbn}{9781315557380}
+      \field{month}{11}
+      \field{shorttitle}{The {Handbook} of {Human}-{Machine} {Interaction}}
+      \field{title}{The {Handbook} of {Human}-{Machine} {Interaction}: {A} {Human}-{Centered} {Design} {Approach}}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1201/9781315557380
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/9781317029472
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/9781317029472
+      \endverb
+    \endentry
     \entry{brown_1991}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ba3c0fa94135bbee7f9cd5e2c54c11d8}{%
@@ -2837,6 +2983,71 @@
       \verb{doi}
       \verb 10.1016/j.promfg.2015.07.656
       \endverb
+    \endentry
+    \entry{chang_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=21bb7fb6a85624c94d837b4aa9770299}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chu-Yang},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96a467acc2d70a4a73047fbae240af91}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Hsu-Chan},
+           giveni={H\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12806c28cd603ce106508d3e20df7e5a}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zhengyi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{78b9aba0d3e09e8bc295dbfaba755949}
+      \strng{fullhash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{fullhashraw}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{bibnamehash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{authorbibnamehash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{authornamehash}{78b9aba0d3e09e8bc295dbfaba755949}
+      \strng{authorfullhash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{authorfullhashraw}{bb6b4b05be4e69ff94bee9df19e78531}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study aims to bridge the gap between extended reality (XR) and digital literacy (DL) in popular science education and further develop a DL–XR framework. XR includes augmented, virtual, and mixed reality (AR, VR, and MR), which has received increased attention and has been used for educational purposes in recent years. However, the studies of XR in popular science education and its impact on students are scant. It is also challenging to find studies entailing XR and DL in education. This study not only offers an overview of the status quo of XR education but also is the first research presenting a referential framework that systematically integrates the many dimensions of XR and DL for future research and educational practices. XR has been extensively used in museums, benefiting users with immersive, authentic, hands-on, and interactive experiences. In the DL–XR framework, based on the variations of “individual-group” and “passive consumption-active creation”, eight dimensions of DL linked to XR are proposed, including “access and understanding”, “evaluation”, “ethics and well-being”, “interaction”, “collaboration”, “creation”, “problem-solving”, and “civic engagement and responsibility”. In the nurturing of DL, evidence revealed that XR is mostly used for learners to access knowledge/information and interact with virtual items; nonetheless, its applications for active creation, problem-solving, and collaboration are seldom prioritised. This study further proposes integrating project-based learning into XR pedagogical practices, which can maximise its impact on learning and empower the learners to achieve advanced levels of DL.}
+      \field{issn}{1434-9957}
+      \field{journaltitle}{Virtual Reality}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{The role of digital literacy in augmented, virtual, and mixed reality in popular science education}
+      \field{title}{The role of digital literacy in augmented, virtual, and mixed reality in popular science education: a review study and an educational framework development}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{27}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{2461\bibrangedash 2479}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s10055-023-00817-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10055-023-00817-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10055-023-00817-9
+      \endverb
+      \keyw{Augmented reality,Digital literacy,Mixed reality,Popular science education,Virtual reality}
     \endentry
     \entry{checa_2020}{article}{}{}
       \name{author}{2}{}{%
@@ -5042,6 +5253,62 @@
       \endverb
       \keyw{Behavioral Objectives,Educational Objectives,Higher Education,Learning Modules,Learning Strategies,Mainstreaming,Preservice Teacher Education,Teacher Education Curriculum,Teacher Educators}
     \endentry
+    \entry{galbraith_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c8bef4cffe91480a1ea03792b0114da0}{%
+           family={Galbraith},
+           familyi={G\bibinitperiod},
+           given={Diane\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6787ddd382a9b6e10c8de30a34e40d8}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Fred\bibnamedelima L.},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{fullhash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{fullhashraw}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{bibnamehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authorbibnamehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authornamehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authorfullhash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authorfullhashraw}{069ddd17ffea1d47115f67f701d129b5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Organizations today often require collaboration in the form of work teams. Many tasks completed within organizations, whether in the workplace or in academia, however, can be beyond the capabilities of individuals alone. Productive teamwork and cooperative activities in business are expected and can begin very early in a person's career. The pedagogy for teamwork instruction in the classroom may not simulate real workplace events or parallel organizational behavior in order to attain a successful outcome. In universities, teamwork often breeds frustration and dysfunction, since the teams often do not perform at a high level or reach their full potential. This paper will provide best practices for creating productive teams in the classroom in preparation for the workforce. This insight will include ideas that will bond team members through collective values and goals, resulting in effective teams and a productive environment.}
+      \field{issn}{1942-2504}
+      \field{journaltitle}{American Journal of Business Education}
+      \field{note}{ERIC Number: EJ1054339}
+      \field{number}{2}
+      \field{shorttitle}{Teams {That} {Work}}
+      \field{title}{Teams {That} {Work}: {Preparing} {Student} {Teams} for the {Workplace}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{223\bibrangedash 234}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=EJ1054339
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=EJ1054339
+      \endverb
+      \keyw{Barriers,Best Practices,Business Administration Education,Classroom Techniques,Educational Practices,Educational Strategies,Group Dynamics,Labor Force Development,Teaching Methods,Team Training,Teamwork}
+    \endentry
     \entry{garbett_2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a3a41a44d0cd6bfbf19bc4365d3572a9}{%
@@ -5101,6 +5368,62 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0926580520310670
+      \endverb
+    \endentry
+    \entry{gardner_1998}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=67969648945b49685b2f6092fdd7af43}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={Brenda\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a07504986ddf96083fa682cf5965a68c}{%
+           family={Korth},
+           familyi={K\bibinitperiod},
+           given={Sharon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{fullhash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{fullhashraw}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{bibnamehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authorbibnamehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authornamehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authorfullhash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authorfullhashraw}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0883-2323, 1940-3356}
+      \field{journaltitle}{Journal of Education for Business}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{A {Framework} for {Learning} to {Work} in {Teams}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{74}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{28\bibrangedash 33}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1080/08832329809601657
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/08832329809601657
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/08832329809601657
       \endverb
     \endentry
     \entry{garst_2019}{article}{}{}
@@ -5296,6 +5619,70 @@
       \endverb
       \verb{url}
       \verb https://dl.acm.org/doi/10.1145/3411764.3445576
+      \endverb
+    \endentry
+    \entry{gavgiotaki_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=94aa4aa4ee7c79536e683b57ec3a0c46}{%
+           family={Gavgiotaki},
+           familyi={G\bibinitperiod},
+           given={Despoina},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=916955234e5ad6a2814b8827d48ce1bf}{%
+           family={Ntoa},
+           familyi={N\bibinitperiod},
+           given={Stavroula},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcefd8479d96f7fb522c230e33a0307a}{%
+           family={Margetis},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=710db889dc20458e1c73253e36112ff0}{%
+           family={Apostolakis},
+           familyi={A\bibinitperiod},
+           given={Konstantinos\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24eede26cf84a8d622e5673c93b91295}{%
+           family={Stephanidis},
+           familyi={S\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{71df7bef6afe5eb93968358cbfee9c10}
+      \strng{fullhash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{fullhashraw}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{bibnamehash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{authorbibnamehash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{authornamehash}{71df7bef6afe5eb93968358cbfee9c10}
+      \strng{authorfullhash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{authorfullhashraw}{4d87157bd0ea10817a295882c2b8a69f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}}
+      \field{month}{7}
+      \field{title}{Gesture-based {Interaction} for {AR} {Systems}: {A} {Short} {Review}}
+      \field{year}{2023}
+      \field{pages}{284\bibrangedash 292}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3594806.3594815
       \endverb
     \endentry
     \entry{gerring_2004}{article}{}{}
@@ -6453,6 +6840,47 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7344043/
+      \endverb
+    \endentry
+    \entry{meta_horizon_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ac8e8bbfe12f279e67e739891421e798}{%
+           family={Horizon},
+           familyi={H\bibinitperiod},
+           given={Meta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \strng{namehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{fullhash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{fullhashraw}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{bibnamehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authorbibnamehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authornamehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authorfullhash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authorfullhashraw}{ac8e8bbfe12f279e67e739891421e798}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Meta Developers}
+      \field{title}{Meta {Horizon} {OS} {UI} {Set} overview}
+      \field{urlday}{27}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developers.meta.com/horizon/documentation/spatial-sdk/spatial-sdk-ui-overview
+      \endverb
+      \verb{url}
+      \verb https://developers.meta.com/horizon/documentation/spatial-sdk/spatial-sdk-ui-overview
       \endverb
     \endentry
     \entry{hsu_2019}{article}{}{}
@@ -8431,6 +8859,104 @@
       \field{title}{The adult learner: {The} definitive classic in adult education and human resource development}
       \field{year}{2014}
     \endentry
+    \entry{kowalewski_2017}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=80aad4f7bd3bad979d87cdbc771b839e}{%
+           family={Kowalewski},
+           familyi={K\bibinitperiod},
+           given={Karl-Friedrich},
+           giveni={K\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a7190f61ba942e5c32ca56177f8d116}{%
+           family={Hendrie},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96cbb86b5e33d93a048ec0eb1425bdd8}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Mona\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a057be9fa3e80fda1774e90bd9e3218f}{%
+           family={Proctor},
+           familyi={P\bibinitperiod},
+           given={Tanja},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d23496eea52fd7fe6497a2aa933443c}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Sai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4b5ed7485672325975bb6ca3c51c910}{%
+           family={Garrow},
+           familyi={G\bibinitperiod},
+           given={Carly\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20a9eafe9c76ce9e196cf3f42dd14573}{%
+           family={Kenngott},
+           familyi={K\bibinitperiod},
+           given={Hannes\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=812b802cd6604b57c6b8b492d6f823f1}{%
+           family={Müller-Stich},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={Beat\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dd2fc906950de9d42ca39c3917fd5c5}{%
+           family={Nickel},
+           familyi={N\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{85697aa535e4cb42950a2c04d4e780cf}
+      \strng{fullhash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{fullhashraw}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{bibnamehash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{authorbibnamehash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{authornamehash}{85697aa535e4cb42950a2c04d4e780cf}
+      \strng{authorfullhash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{authorfullhashraw}{04d0eb78b575908bb217869a71d8bee8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0930-2794, 1432-2218}
+      \field{journaltitle}{Surgical Endoscopy}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Validation of the mobile serious game application {Touch} {Surgery}™ for cognitive training and assessment of laparoscopic cholecystectomy}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{4058\bibrangedash 4066}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s00464-017-5452-x
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00464-017-5452-x
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00464-017-5452-x
+      \endverb
+    \endentry
     \entry{kowalski_2019}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e51df65175d28fa7ec9ba65cd7d31dcd}{%
@@ -8803,6 +9329,76 @@
       \range{pages}{3}
       \verb{doi}
       \verb 10.1080/140360902321122824
+      \endverb
+    \endentry
+    \entry{lebeck_2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=790a78010e4ae594bca416fbb0d25406}{%
+           family={Lebeck},
+           familyi={L\bibinitperiod},
+           given={Kiron},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b30ca2bcd7b5c02174aabb9251729f5}{%
+           family={Ruth},
+           familyi={R\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac531ee83558be0e3798db153ad74d17}{%
+           family={Kohno},
+           familyi={K\bibinitperiod},
+           given={Tadayoshi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f8f5a22b3eba624c1912040accfd0e9}{%
+           family={Roesner},
+           familyi={R\bibinitperiod},
+           given={Franziska},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6bd4adc1b9719c3e49afd8181a03d2d5}
+      \strng{fullhash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{fullhashraw}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{bibnamehash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{authorbibnamehash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{authornamehash}{6bd4adc1b9719c3e49afd8181a03d2d5}
+      \strng{authorfullhash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{authorfullhashraw}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781538643532}
+      \field{journaltitle}{2018 {IEEE} {Symposium} on {Security} and {Privacy} ({SP})}
+      \field{month}{5}
+      \field{shorttitle}{Towards {Security} and {Privacy} for {Multi}-user {Augmented} {Reality}}
+      \field{title}{Towards {Security} and {Privacy} for {Multi}-user {Augmented} {Reality}: {Foundations} with {End} {Users}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{392\bibrangedash 408}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/SP.2018.00051
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8418615/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8418615/
       \endverb
     \endentry
     \entry{lee_2021}{article}{}{}
@@ -9261,12 +9857,12 @@
     \endentry
     \entry{lu_2013}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ea2acbfa454e023189d3a6658b8b0e2a}{%
+        {{un=1,uniquepart=given,hash=ea2acbfa454e023189d3a6658b8b0e2a}{%
            family={Lu},
            familyi={L\bibinitperiod},
            given={Jie},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=b143761769b8ae2e17e5cfd09dd495bd}{%
            family={Churchill},
            familyi={C\bibinitperiod},
@@ -9286,7 +9882,6 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{2013 {IEEE} 63rd {Annual} {Conference} {International} {Council} for {Education} {Media} ({ICEM})}
@@ -9297,6 +9892,79 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{lu_2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=82ecbae219cd3e89336a57aaa4226294}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9867a7a569c8411dbfe6ab93dc782f86}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoye},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6916e7557346cb34849269a3f4b7679e}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Jiangtao},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=703ebb9444b2d7434443ad8b8c192394}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Lejia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38784d37e8393dbb44a65e32a19055bf}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3c7d0f46776893206908192820b4f676}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Sweta},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9daa5d342a30fdacf1963bc46a1d954f}
+      \strng{fullhash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{fullhashraw}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{bibnamehash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{authorbibnamehash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{authornamehash}{9daa5d342a30fdacf1963bc46a1d954f}
+      \strng{authorfullhash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{authorfullhashraw}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{editorbibnamehash}{3c7d0f46776893206908192820b4f676}
+      \strng{editornamehash}{3c7d0f46776893206908192820b4f676}
+      \strng{editorfullhash}{3c7d0f46776893206908192820b4f676}
+      \strng{editorfullhashraw}{3c7d0f46776893206908192820b4f676}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1687-7268, 1687-725X}
+      \field{journaltitle}{Journal of Sensors}
+      \field{month}{10}
+      \field{title}{Classification, {Application}, {Challenge}, and {Future} of {Midair} {Gestures} in {Augmented} {Reality}}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1155/2022/3208047
       \endverb
     \endentry
     \entry{macaranas_2015}{article}{}{}
@@ -9406,6 +10074,30 @@
       \field{year}{2020}
       \field{pages}{211\bibrangedash 225}
       \range{pages}{15}
+    \endentry
+    \entry{nmanifest_2022}{misc}{}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Manifest® is the AI-powered AR platform that enables deskless workers to create, follow, and share step-by-step digital work instructions. Capture expert knowledge, ensure accuracy, and improve operational performance in any environment.}
+      \field{month}{8}
+      \field{title}{Manifest {AR} {Work} {Instruction} {Platform}}
+      \field{urlday}{25}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://taqtile.com/manifest/
+      \endverb
+      \verb{url}
+      \verb https://taqtile.com/manifest/
+      \endverb
     \endentry
     \entry{marasi_2019}{article}{}{}
       \name{author}{1}{}{%
@@ -11333,6 +12025,141 @@
       \verb 10.1177/0273475302250571
       \endverb
     \endentry
+    \entry{pinelle_2003}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f7bd8d7e772211d8b9e28dbe580ac37b}{%
+           family={Pinelle},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45ce5781688007549e1d1ea0b737f80d}{%
+           family={Gutwin},
+           familyi={G\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=235c46d06eaf0fbe7ff9c72d756b03a9}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Saul},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d736f6d63d95f95d89a94642d05dc1c7}
+      \strng{fullhash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{fullhashraw}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{bibnamehash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{authorbibnamehash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{authornamehash}{d736f6d63d95f95d89a94642d05dc1c7}
+      \strng{authorfullhash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{authorfullhashraw}{0c37f846fc381f9caffec8c7cdadb514}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1073-0516, 1557-7325}
+      \field{journaltitle}{ACM Transactions on Computer-Human Interaction}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Task analysis for groupware usability evaluation}
+      \field{title}{Task analysis for groupware usability evaluation: {Modeling} shared-workspace tasks with the mechanics of collaboration}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{281\bibrangedash 311}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1145/966930.966932
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/966930.966932
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/966930.966932
+      \endverb
+    \endentry
+    \entry{piumsomboon_2013}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0fc90431ba71b7341990200176296a40}{%
+           family={Piumsomboon},
+           familyi={P\bibinitperiod},
+           given={Thammathip},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=397a40f3a8c30fbe20a4682b1610f0e2}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99db9681218f9f3b317f9a5aa016d284}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Paris France}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{a08fb9d52034e2598ac774e841edef2d}
+      \strng{fullhash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{fullhashraw}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{bibnamehash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{authorbibnamehash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{authornamehash}{a08fb9d52034e2598ac774e841edef2d}
+      \strng{authorfullhash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{authorfullhashraw}{09ef66e99437dd0e9261983efac1b47b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781450319522}
+      \field{journaltitle}{{CHI} '13 {Extended} {Abstracts} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{User-defined gestures for augmented reality}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{955\bibrangedash 960}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2468356.2468527
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2468356.2468527
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2468356.2468527
+      \endverb
+    \endentry
     \entry{pooryousef_2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a96d36d4d022105f0ef0660fe9a9b30b}{%
@@ -11657,6 +12484,91 @@
       \endverb
       \verb{url}
       \verb http://link.springer.com/10.1007/s100550200016
+      \endverb
+    \endentry
+    \entry{reilly_2014}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9b1c4c3c0f1d5e6944632885d2c1dbec}{%
+           family={Reilly},
+           familyi={R\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb68d809f9ea8dc5ad3d2cd85117af24}{%
+           family={Salimian},
+           familyi={S\bibinitperiod},
+           given={Mohamad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef9d29d1050c5ebad59fbe291325ec7b}{%
+           family={MacKay},
+           familyi={M\bibinitperiod},
+           given={Bonnie},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d6ec83be6cf01241995d859a6a01506}{%
+           family={Mathiasen},
+           familyi={M\bibinitperiod},
+           given={Niels},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c139f38a5e1f1721d73f541cb66a4925}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={W.\bibnamedelimi Keith},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb5b55d472ff3ed026cf99a3c1b989ad}{%
+           family={Franz},
+           familyi={F\bibinitperiod},
+           given={Juliano},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rome Italy}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{515952ac1cbfc4a547f5f19e69a722ec}
+      \strng{fullhash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{fullhashraw}{4ac75d08090fbe9ea31755702caab328}
+      \strng{bibnamehash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{authorbibnamehash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{authornamehash}{515952ac1cbfc4a547f5f19e69a722ec}
+      \strng{authorfullhash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{authorfullhashraw}{4ac75d08090fbe9ea31755702caab328}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781450327251}
+      \field{journaltitle}{Proceedings of the 2014 {ACM} {SIGCHI} symposium on {Engineering} interactive computing systems}
+      \field{month}{6}
+      \field{shorttitle}{{SecSpace}}
+      \field{title}{{SecSpace}: prototyping usable privacy and security for mixed reality collaborative environments}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{273\bibrangedash 282}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/2607023.2607039
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2607023.2607039
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2607023.2607039
       \endverb
     \endentry
     \entry{reinius_2021}{article}{}{}
@@ -12821,6 +13733,57 @@
       \verb{doi}
       \verb 10.1111/j.1467-9752.2005.00460.x
       \endverb
+    \endentry
+    \entry{scoular_2020}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=62ef0274e6fd6d4392b1925c642e3ced}{%
+           family={Scoular},
+           familyi={S\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=155539065d0a9644391c13d7f024c6f4}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77054f45edd4d22eb237c82b29b157ee}{%
+           family={Heard},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Camberwell, Victoria}%
+      }
+      \list{publisher}{1}{%
+        {Australian Council for Educational Research}%
+      }
+      \strng{namehash}{829b607e0b62acb2d79fc8729e586b81}
+      \strng{fullhash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{fullhashraw}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{bibnamehash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{authorbibnamehash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{authornamehash}{829b607e0b62acb2d79fc8729e586b81}
+      \strng{authorfullhash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{authorfullhashraw}{620ab25a3aea74fa031e88b6abda0b12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781742865898}
+      \field{note}{OCLC: 1420410460}
+      \field{shorttitle}{Collaboration}
+      \field{title}{Collaboration: {Definition} and {Structure}.}
+      \field{year}{2020}
     \endentry
     \entry{seale_2007}{book}{}{}
       \name{editor}{1}{}{%
@@ -14722,6 +15685,62 @@
       \verb 10.1109/RE.2011.6051626
       \endverb
     \endentry
+    \entry{wang_2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=ee2b4a15025ecfaafcb95983b2d2623d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7f5def6361a2f18e8f2a4deafbc4baf6}{%
+           family={Reeves},
+           familyi={R\bibinitperiod},
+           given={Thomas\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ac69552b19168431d083e144d8707b82}
+      \strng{fullhash}{ac69552b19168431d083e144d8707b82}
+      \strng{fullhashraw}{ac69552b19168431d083e144d8707b82}
+      \strng{bibnamehash}{ac69552b19168431d083e144d8707b82}
+      \strng{authorbibnamehash}{ac69552b19168431d083e144d8707b82}
+      \strng{authornamehash}{ac69552b19168431d083e144d8707b82}
+      \strng{authorfullhash}{ac69552b19168431d083e144d8707b82}
+      \strng{authorfullhashraw}{ac69552b19168431d083e144d8707b82}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0738-0569, 1528-7033}
+      \field{journaltitle}{Computers in the Schools}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Why {Do} {Teachers} {Need} to {Use} {Technology} in {Their} {Classrooms}?}
+      \field{title}{Why {Do} {Teachers} {Need} to {Use} {Technology} in {Their} {Classrooms}? {Issues}, {Problems}, and {Solutions}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{20}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{49\bibrangedash 65}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1300/J025v20n04_05
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1300/J025v20n04_05
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1300/J025v20n04_05
+      \endverb
+    \endentry
     \entry{wang_2009}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=71a005c67f40c23db6bb74bde78f88db}{%
@@ -15048,6 +16067,66 @@
       \endverb
       \verb{url}
       \verb https://www.scientificamerican.com/article/the-computer-for-the-21st-century
+      \endverb
+    \endentry
+    \entry{wells_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0797168aaeed8dbab03b1f9d7bfede4e}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e66d41b65cba8a2a69434805252ee8c6}{%
+           family={Houben},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Honolulu HI USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{fullhash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{fullhashraw}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{bibnamehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authorbibnamehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authornamehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authorfullhash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authorfullhashraw}{f5353da52a27523fdccf63af4b65bacb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781450367080}
+      \field{journaltitle}{Proceedings of the 2020 {CHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{{CollabAR} {Investigating} the {Mediating} {Role} of {Mobile} {AR} {Interfaces} on {Co}-{Located} {Group} {Collaboration}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3313831.3376541
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3313831.3376541
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3313831.3376541
       \endverb
     \endentry
     \entry{wenger_1998}{book}{}{}
@@ -15411,6 +16490,146 @@
       \verb https://ieeexplore.ieee.org/document/8797682
       \endverb
       \keyw{Biomedical optical imaging,Calibration,H.5.1 [Information Interfaces And Presentation]: Multimedia Information Systems—Artificial,augmented,and virtual realities,I.2.1 [Artificial Intelligence] Applications and Expert Systems—Medicine and science,I.2.10 [Artificial Intelligence]: Vision and Scene Understanding—3D/stereo scene analysis,I.4.8 [Image Processing And Computer Vision]: Scene Analysis—Stereo,J.3 [Computer Applications]: Life And Medical Sciences—Medical information systems,Microscopy,Optical imaging,Optical microscopy,Surgery,Three-dimensional displays}
+    \endentry
+    \entry{wobbrock_2005}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2b5f7007239862c98855817d78941ae9}{%
+           family={Wobbrock},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelima O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b15ff30a43d35c4767e6f485b870b7ce}{%
+           family={Aung},
+           familyi={A\bibinitperiod},
+           given={Htet\bibnamedelima Htet},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f0a48ceb962fd7c0a7d40b10c5c5929}{%
+           family={Rothrock},
+           familyi={R\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f3139b9d8c689d2ae47ba9be98a69f0}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Brad\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Portland OR USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{fullhash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{fullhashraw}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{bibnamehash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{authorbibnamehash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{authornamehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{authorfullhash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{authorfullhashraw}{9d0764efdad8a719b73c88e8f0613762}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781595930026}
+      \field{journaltitle}{{CHI} '05 {Extended} {Abstracts} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{Maximizing the guessability of symbolic input}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{1869\bibrangedash 1872}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/1056808.1057043
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1056808.1057043
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1056808.1057043
+      \endverb
+    \endentry
+    \entry{wobbrock_2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2b5f7007239862c98855817d78941ae9}{%
+           family={Wobbrock},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelima O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5283a53c5c081c04252a659743f886e1}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Meredith\bibnamedelima Ringel},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44a173a4c0ff442bac216e39b38cfc82}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Boston MA USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{fullhash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{fullhashraw}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{bibnamehash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{authorbibnamehash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{authornamehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{authorfullhash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{authorfullhashraw}{61dabf6de69f9bf00351ea72b81d28a0}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781605582467}
+      \field{journaltitle}{Proceedings of the {SIGCHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{User-defined gestures for surface computing}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{1083\bibrangedash 1092}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1518701.1518866
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1518701.1518866
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1518701.1518866
+      \endverb
     \endentry
     \entry{auer_2019}{inbook}{}{}
       \name{author}{3}{}{%
@@ -15889,6 +17108,47 @@
       \verb{url}
       \verb https://link.springer.com/10.1057/s41299-023-00169-9
       \endverb
+    \endentry
+    \entry{zigurs_2006}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bf463094b53198d97ff30e75b67a3bb2}{%
+           family={Zigurs},
+           familyi={Z\bibinitperiod},
+           given={Ilze},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc4f3c1e98b2444af333edff3415c3cb}{%
+           family={Munkvold},
+           familyi={M\bibinitperiod},
+           given={Bjørn\bibnamedelima Erik},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{fullhash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{fullhashraw}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{bibnamehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authorbibnamehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authornamehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authorfullhash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authorfullhashraw}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Human-{Computer} {Interaction} and {Management} {Information} {Systems}: {Applications}. {Advances} in {Management} {Information} {Systems}}
+      \field{edition}{1st Edition}
+      \field{isbn}{9781315703626}
+      \field{title}{Collaboration {Technologies}, {Tasks}, and {Contexts}: {Evolution} and {Opportunity}}
+      \field{year}{2006}
+      \field{pages}{28}
+      \range{pages}{1}
     \endentry
     \entry{zubiri-esnaola_2020}{article}{}{}
       \name{author}{4}{}{%
@@ -17342,6 +18602,52 @@
       \verb https://direct.mit.edu/pvar/article/6/4/355-385/18336
       \endverb
     \endentry
+    \entry{babar_2009}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff9793c70e5ecb5e7e6d5edea08868fe}{%
+           family={Babar},
+           familyi={B\bibinitperiod},
+           given={Muhammad\bibnamedelima Ali},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{fullhash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{fullhashraw}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{bibnamehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authorbibnamehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authornamehash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authorfullhash}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \strng{authorfullhashraw}{ff9793c70e5ecb5e7e6d5edea08868fe}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Agile software development approaches have recently gained popularity as a mechanism for reducing cost and increasing ability to handle change in dynamic market conditions. However, there is also a significant concern about the role and importance of the issues related to the software architecture of a system being developed using agile approaches. There is to date little empirical evidence available on what software architecture related practices are followed by teams using agile approaches and the kinds of architectural challenges resulting from using agile approaches. This paper reports a case study aimed to empirically identify and understand the architectural practices and challenges of teams using agile approaches. The findings provide useful information about the researched issues and also highlight the areas that need to be focused on for integrating agile and architecture-centric approaches.}
+      \field{journaltitle}{2009 {Joint} {Working} {IEEE}/{IFIP} {Conference} on {Software} {Architecture} \& {European} {Conference} on {Software} {Architecture}}
+      \field{month}{9}
+      \field{title}{An exploratory study of architectural practices and challenges in using agile software development approaches}
+      \field{urlday}{7}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{81\bibrangedash 90}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/WICSA.2009.5290794
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/5290794
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/5290794
+      \endverb
+      \keyw{Bridges,Computer architecture,Computer industry,Costs,Data analysis,Large-scale systems,Programming,Software architecture,Software systems,agile approaches,empirical studies,qualitative research}
+    \endentry
     \entry{baber_2021}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=66ef39b22ac08da018fe7002b7ccdc58}{%
@@ -17546,6 +18852,56 @@
       \endverb
       \verb{url}
       \verb https://publications.aap.org/pediatrics/article/133/2/184/30836/Key-Elements-of-Highly-Effective-Teams
+      \endverb
+    \endentry
+    \entry{barr_1990}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=727c963895acf58dced92d8eb7080e9d}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{fullhash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{fullhashraw}{727c963895acf58dced92d8eb7080e9d}
+      \strng{bibnamehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authorbibnamehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authornamehash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authorfullhash}{727c963895acf58dced92d8eb7080e9d}
+      \strng{authorfullhashraw}{727c963895acf58dced92d8eb7080e9d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0162-3532, 2162-9501}
+      \field{journaltitle}{Journal for the Education of the Gifted}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{A {Solution} in {Search} of a {Problem}: {The} {Role} of {Technology} in {Educational} {Reform}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{1990}
+      \field{urldateera}{ce}
+      \field{pages}{79\bibrangedash 95}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1177/016235329001400109
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/016235329001400109
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/016235329001400109
       \endverb
     \endentry
     \entry{becirovic_2023}{inbook}{}{}
@@ -18244,6 +19600,56 @@
       \verb https://bowtiedrobin.substack.com/p/the-unstoppable-rise-of-niantic
       \endverb
     \endentry
+    \entry{boy_2017}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=0404c50df476e3cbe82d8e522d669bf3}{%
+           family={Boy},
+           familyi={B\bibinitperiod},
+           given={Guy\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{fullhash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{fullhashraw}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{bibnamehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editorbibnamehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editornamehash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editorfullhash}{0404c50df476e3cbe82d8e522d669bf3}
+      \strng{editorfullhashraw}{0404c50df476e3cbe82d8e522d669bf3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1}
+      \field{isbn}{9781315557380}
+      \field{month}{11}
+      \field{shorttitle}{The {Handbook} of {Human}-{Machine} {Interaction}}
+      \field{title}{The {Handbook} of {Human}-{Machine} {Interaction}: {A} {Human}-{Centered} {Design} {Approach}}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1201/9781315557380
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/9781317029472
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/9781317029472
+      \endverb
+    \endentry
     \entry{brown_1991}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ba3c0fa94135bbee7f9cd5e2c54c11d8}{%
@@ -18888,6 +20294,71 @@
       \verb{doi}
       \verb 10.1016/j.promfg.2015.07.656
       \endverb
+    \endentry
+    \entry{chang_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=21bb7fb6a85624c94d837b4aa9770299}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chu-Yang},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96a467acc2d70a4a73047fbae240af91}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Hsu-Chan},
+           giveni={H\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12806c28cd603ce106508d3e20df7e5a}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zhengyi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{78b9aba0d3e09e8bc295dbfaba755949}
+      \strng{fullhash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{fullhashraw}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{bibnamehash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{authorbibnamehash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{authornamehash}{78b9aba0d3e09e8bc295dbfaba755949}
+      \strng{authorfullhash}{bb6b4b05be4e69ff94bee9df19e78531}
+      \strng{authorfullhashraw}{bb6b4b05be4e69ff94bee9df19e78531}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study aims to bridge the gap between extended reality (XR) and digital literacy (DL) in popular science education and further develop a DL–XR framework. XR includes augmented, virtual, and mixed reality (AR, VR, and MR), which has received increased attention and has been used for educational purposes in recent years. However, the studies of XR in popular science education and its impact on students are scant. It is also challenging to find studies entailing XR and DL in education. This study not only offers an overview of the status quo of XR education but also is the first research presenting a referential framework that systematically integrates the many dimensions of XR and DL for future research and educational practices. XR has been extensively used in museums, benefiting users with immersive, authentic, hands-on, and interactive experiences. In the DL–XR framework, based on the variations of “individual-group” and “passive consumption-active creation”, eight dimensions of DL linked to XR are proposed, including “access and understanding”, “evaluation”, “ethics and well-being”, “interaction”, “collaboration”, “creation”, “problem-solving”, and “civic engagement and responsibility”. In the nurturing of DL, evidence revealed that XR is mostly used for learners to access knowledge/information and interact with virtual items; nonetheless, its applications for active creation, problem-solving, and collaboration are seldom prioritised. This study further proposes integrating project-based learning into XR pedagogical practices, which can maximise its impact on learning and empower the learners to achieve advanced levels of DL.}
+      \field{issn}{1434-9957}
+      \field{journaltitle}{Virtual Reality}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{The role of digital literacy in augmented, virtual, and mixed reality in popular science education}
+      \field{title}{The role of digital literacy in augmented, virtual, and mixed reality in popular science education: a review study and an educational framework development}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{27}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{2461\bibrangedash 2479}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s10055-023-00817-9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10055-023-00817-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10055-023-00817-9
+      \endverb
+      \keyw{Augmented reality,Digital literacy,Mixed reality,Popular science education,Virtual reality}
     \endentry
     \entry{checa_2020}{article}{}{}
       \name{author}{2}{}{%
@@ -21093,6 +22564,62 @@
       \endverb
       \keyw{Behavioral Objectives,Educational Objectives,Higher Education,Learning Modules,Learning Strategies,Mainstreaming,Preservice Teacher Education,Teacher Education Curriculum,Teacher Educators}
     \endentry
+    \entry{galbraith_2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c8bef4cffe91480a1ea03792b0114da0}{%
+           family={Galbraith},
+           familyi={G\bibinitperiod},
+           given={Diane\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6787ddd382a9b6e10c8de30a34e40d8}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Fred\bibnamedelima L.},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{fullhash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{fullhashraw}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{bibnamehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authorbibnamehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authornamehash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authorfullhash}{069ddd17ffea1d47115f67f701d129b5}
+      \strng{authorfullhashraw}{069ddd17ffea1d47115f67f701d129b5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Organizations today often require collaboration in the form of work teams. Many tasks completed within organizations, whether in the workplace or in academia, however, can be beyond the capabilities of individuals alone. Productive teamwork and cooperative activities in business are expected and can begin very early in a person's career. The pedagogy for teamwork instruction in the classroom may not simulate real workplace events or parallel organizational behavior in order to attain a successful outcome. In universities, teamwork often breeds frustration and dysfunction, since the teams often do not perform at a high level or reach their full potential. This paper will provide best practices for creating productive teams in the classroom in preparation for the workforce. This insight will include ideas that will bond team members through collective values and goals, resulting in effective teams and a productive environment.}
+      \field{issn}{1942-2504}
+      \field{journaltitle}{American Journal of Business Education}
+      \field{note}{ERIC Number: EJ1054339}
+      \field{number}{2}
+      \field{shorttitle}{Teams {That} {Work}}
+      \field{title}{Teams {That} {Work}: {Preparing} {Student} {Teams} for the {Workplace}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{6}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{223\bibrangedash 234}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://eric.ed.gov/?id=EJ1054339
+      \endverb
+      \verb{url}
+      \verb https://eric.ed.gov/?id=EJ1054339
+      \endverb
+      \keyw{Barriers,Best Practices,Business Administration Education,Classroom Techniques,Educational Practices,Educational Strategies,Group Dynamics,Labor Force Development,Teaching Methods,Team Training,Teamwork}
+    \endentry
     \entry{garbett_2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a3a41a44d0cd6bfbf19bc4365d3572a9}{%
@@ -21152,6 +22679,62 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0926580520310670
+      \endverb
+    \endentry
+    \entry{gardner_1998}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=67969648945b49685b2f6092fdd7af43}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={Brenda\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a07504986ddf96083fa682cf5965a68c}{%
+           family={Korth},
+           familyi={K\bibinitperiod},
+           given={Sharon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{fullhash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{fullhashraw}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{bibnamehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authorbibnamehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authornamehash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authorfullhash}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \strng{authorfullhashraw}{b0c0ee4975e2849c52c302a9e5584f5a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0883-2323, 1940-3356}
+      \field{journaltitle}{Journal of Education for Business}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{A {Framework} for {Learning} to {Work} in {Teams}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{74}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{28\bibrangedash 33}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1080/08832329809601657
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/08832329809601657
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/08832329809601657
       \endverb
     \endentry
     \entry{garst_2019}{article}{}{}
@@ -21347,6 +22930,70 @@
       \endverb
       \verb{url}
       \verb https://dl.acm.org/doi/10.1145/3411764.3445576
+      \endverb
+    \endentry
+    \entry{gavgiotaki_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=94aa4aa4ee7c79536e683b57ec3a0c46}{%
+           family={Gavgiotaki},
+           familyi={G\bibinitperiod},
+           given={Despoina},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=916955234e5ad6a2814b8827d48ce1bf}{%
+           family={Ntoa},
+           familyi={N\bibinitperiod},
+           given={Stavroula},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcefd8479d96f7fb522c230e33a0307a}{%
+           family={Margetis},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=710db889dc20458e1c73253e36112ff0}{%
+           family={Apostolakis},
+           familyi={A\bibinitperiod},
+           given={Konstantinos\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24eede26cf84a8d622e5673c93b91295}{%
+           family={Stephanidis},
+           familyi={S\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{71df7bef6afe5eb93968358cbfee9c10}
+      \strng{fullhash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{fullhashraw}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{bibnamehash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{authorbibnamehash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{authornamehash}{71df7bef6afe5eb93968358cbfee9c10}
+      \strng{authorfullhash}{4d87157bd0ea10817a295882c2b8a69f}
+      \strng{authorfullhashraw}{4d87157bd0ea10817a295882c2b8a69f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 16th {International} {Conference} on {PErvasive} {Technologies} {Related} to {Assistive} {Environments}}
+      \field{month}{7}
+      \field{title}{Gesture-based {Interaction} for {AR} {Systems}: {A} {Short} {Review}}
+      \field{year}{2023}
+      \field{pages}{284\bibrangedash 292}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3594806.3594815
       \endverb
     \endentry
     \entry{gerring_2004}{article}{}{}
@@ -22504,6 +24151,47 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7344043/
+      \endverb
+    \endentry
+    \entry{meta_horizon_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ac8e8bbfe12f279e67e739891421e798}{%
+           family={Horizon},
+           familyi={H\bibinitperiod},
+           given={Meta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \strng{namehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{fullhash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{fullhashraw}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{bibnamehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authorbibnamehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authornamehash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authorfullhash}{ac8e8bbfe12f279e67e739891421e798}
+      \strng{authorfullhashraw}{ac8e8bbfe12f279e67e739891421e798}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Meta Developers}
+      \field{title}{Meta {Horizon} {OS} {UI} {Set} overview}
+      \field{urlday}{27}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developers.meta.com/horizon/documentation/spatial-sdk/spatial-sdk-ui-overview
+      \endverb
+      \verb{url}
+      \verb https://developers.meta.com/horizon/documentation/spatial-sdk/spatial-sdk-ui-overview
       \endverb
     \endentry
     \entry{hsu_2019}{article}{}{}
@@ -24482,6 +26170,104 @@
       \field{title}{The adult learner: {The} definitive classic in adult education and human resource development}
       \field{year}{2014}
     \endentry
+    \entry{kowalewski_2017}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=80aad4f7bd3bad979d87cdbc771b839e}{%
+           family={Kowalewski},
+           familyi={K\bibinitperiod},
+           given={Karl-Friedrich},
+           giveni={K\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a7190f61ba942e5c32ca56177f8d116}{%
+           family={Hendrie},
+           familyi={H\bibinitperiod},
+           given={Jonathan\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96cbb86b5e33d93a048ec0eb1425bdd8}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Mona\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a057be9fa3e80fda1774e90bd9e3218f}{%
+           family={Proctor},
+           familyi={P\bibinitperiod},
+           given={Tanja},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d23496eea52fd7fe6497a2aa933443c}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Sai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4b5ed7485672325975bb6ca3c51c910}{%
+           family={Garrow},
+           familyi={G\bibinitperiod},
+           given={Carly\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20a9eafe9c76ce9e196cf3f42dd14573}{%
+           family={Kenngott},
+           familyi={K\bibinitperiod},
+           given={Hannes\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=812b802cd6604b57c6b8b492d6f823f1}{%
+           family={Müller-Stich},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={Beat\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1dd2fc906950de9d42ca39c3917fd5c5}{%
+           family={Nickel},
+           familyi={N\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{85697aa535e4cb42950a2c04d4e780cf}
+      \strng{fullhash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{fullhashraw}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{bibnamehash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{authorbibnamehash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{authornamehash}{85697aa535e4cb42950a2c04d4e780cf}
+      \strng{authorfullhash}{04d0eb78b575908bb217869a71d8bee8}
+      \strng{authorfullhashraw}{04d0eb78b575908bb217869a71d8bee8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0930-2794, 1432-2218}
+      \field{journaltitle}{Surgical Endoscopy}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Validation of the mobile serious game application {Touch} {Surgery}™ for cognitive training and assessment of laparoscopic cholecystectomy}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{4058\bibrangedash 4066}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s00464-017-5452-x
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00464-017-5452-x
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00464-017-5452-x
+      \endverb
+    \endentry
     \entry{kowalski_2019}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e51df65175d28fa7ec9ba65cd7d31dcd}{%
@@ -24854,6 +26640,76 @@
       \range{pages}{3}
       \verb{doi}
       \verb 10.1080/140360902321122824
+      \endverb
+    \endentry
+    \entry{lebeck_2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=790a78010e4ae594bca416fbb0d25406}{%
+           family={Lebeck},
+           familyi={L\bibinitperiod},
+           given={Kiron},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b30ca2bcd7b5c02174aabb9251729f5}{%
+           family={Ruth},
+           familyi={R\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac531ee83558be0e3798db153ad74d17}{%
+           family={Kohno},
+           familyi={K\bibinitperiod},
+           given={Tadayoshi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f8f5a22b3eba624c1912040accfd0e9}{%
+           family={Roesner},
+           familyi={R\bibinitperiod},
+           given={Franziska},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6bd4adc1b9719c3e49afd8181a03d2d5}
+      \strng{fullhash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{fullhashraw}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{bibnamehash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{authorbibnamehash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{authornamehash}{6bd4adc1b9719c3e49afd8181a03d2d5}
+      \strng{authorfullhash}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \strng{authorfullhashraw}{76d1678ece5d3ac01818ac2b3b5b0e87}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781538643532}
+      \field{journaltitle}{2018 {IEEE} {Symposium} on {Security} and {Privacy} ({SP})}
+      \field{month}{5}
+      \field{shorttitle}{Towards {Security} and {Privacy} for {Multi}-user {Augmented} {Reality}}
+      \field{title}{Towards {Security} and {Privacy} for {Multi}-user {Augmented} {Reality}: {Foundations} with {End} {Users}}
+      \field{urlday}{5}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{392\bibrangedash 408}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/SP.2018.00051
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8418615/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8418615/
       \endverb
     \endentry
     \entry{lee_2021}{article}{}{}
@@ -25312,12 +27168,12 @@
     \endentry
     \entry{lu_2013}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ea2acbfa454e023189d3a6658b8b0e2a}{%
+        {{un=1,uniquepart=given,hash=ea2acbfa454e023189d3a6658b8b0e2a}{%
            family={Lu},
            familyi={L\bibinitperiod},
            given={Jie},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=b143761769b8ae2e17e5cfd09dd495bd}{%
            family={Churchill},
            familyi={C\bibinitperiod},
@@ -25337,7 +27193,6 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{2013 {IEEE} 63rd {Annual} {Conference} {International} {Council} for {Education} {Media} ({ICEM})}
@@ -25348,6 +27203,79 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CICEM.2013.6820194
+      \endverb
+    \endentry
+    \entry{lu_2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=82ecbae219cd3e89336a57aaa4226294}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9867a7a569c8411dbfe6ab93dc782f86}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoye},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6916e7557346cb34849269a3f4b7679e}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Jiangtao},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=703ebb9444b2d7434443ad8b8c192394}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Lejia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38784d37e8393dbb44a65e32a19055bf}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3c7d0f46776893206908192820b4f676}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Sweta},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9daa5d342a30fdacf1963bc46a1d954f}
+      \strng{fullhash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{fullhashraw}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{bibnamehash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{authorbibnamehash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{authornamehash}{9daa5d342a30fdacf1963bc46a1d954f}
+      \strng{authorfullhash}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{authorfullhashraw}{1f25f9c0f88b3864d1169385566a9b0b}
+      \strng{editorbibnamehash}{3c7d0f46776893206908192820b4f676}
+      \strng{editornamehash}{3c7d0f46776893206908192820b4f676}
+      \strng{editorfullhash}{3c7d0f46776893206908192820b4f676}
+      \strng{editorfullhashraw}{3c7d0f46776893206908192820b4f676}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1687-7268, 1687-725X}
+      \field{journaltitle}{Journal of Sensors}
+      \field{month}{10}
+      \field{title}{Classification, {Application}, {Challenge}, and {Future} of {Midair} {Gestures} in {Augmented} {Reality}}
+      \field{volume}{2022}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1155/2022/3208047
       \endverb
     \endentry
     \entry{macaranas_2015}{article}{}{}
@@ -25457,6 +27385,30 @@
       \field{year}{2020}
       \field{pages}{211\bibrangedash 225}
       \range{pages}{15}
+    \endentry
+    \entry{nmanifest_2022}{misc}{}{}
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Manifest® is the AI-powered AR platform that enables deskless workers to create, follow, and share step-by-step digital work instructions. Capture expert knowledge, ensure accuracy, and improve operational performance in any environment.}
+      \field{month}{8}
+      \field{title}{Manifest {AR} {Work} {Instruction} {Platform}}
+      \field{urlday}{25}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://taqtile.com/manifest/
+      \endverb
+      \verb{url}
+      \verb https://taqtile.com/manifest/
+      \endverb
     \endentry
     \entry{marasi_2019}{article}{}{}
       \name{author}{1}{}{%
@@ -27384,6 +29336,141 @@
       \verb 10.1177/0273475302250571
       \endverb
     \endentry
+    \entry{pinelle_2003}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f7bd8d7e772211d8b9e28dbe580ac37b}{%
+           family={Pinelle},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45ce5781688007549e1d1ea0b737f80d}{%
+           family={Gutwin},
+           familyi={G\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=235c46d06eaf0fbe7ff9c72d756b03a9}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Saul},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d736f6d63d95f95d89a94642d05dc1c7}
+      \strng{fullhash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{fullhashraw}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{bibnamehash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{authorbibnamehash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{authornamehash}{d736f6d63d95f95d89a94642d05dc1c7}
+      \strng{authorfullhash}{0c37f846fc381f9caffec8c7cdadb514}
+      \strng{authorfullhashraw}{0c37f846fc381f9caffec8c7cdadb514}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1073-0516, 1557-7325}
+      \field{journaltitle}{ACM Transactions on Computer-Human Interaction}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Task analysis for groupware usability evaluation}
+      \field{title}{Task analysis for groupware usability evaluation: {Modeling} shared-workspace tasks with the mechanics of collaboration}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{281\bibrangedash 311}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1145/966930.966932
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/966930.966932
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/966930.966932
+      \endverb
+    \endentry
+    \entry{piumsomboon_2013}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0fc90431ba71b7341990200176296a40}{%
+           family={Piumsomboon},
+           familyi={P\bibinitperiod},
+           given={Thammathip},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=397a40f3a8c30fbe20a4682b1610f0e2}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99db9681218f9f3b317f9a5aa016d284}{%
+           family={Cockburn},
+           familyi={C\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Paris France}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{a08fb9d52034e2598ac774e841edef2d}
+      \strng{fullhash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{fullhashraw}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{bibnamehash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{authorbibnamehash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{authornamehash}{a08fb9d52034e2598ac774e841edef2d}
+      \strng{authorfullhash}{09ef66e99437dd0e9261983efac1b47b}
+      \strng{authorfullhashraw}{09ef66e99437dd0e9261983efac1b47b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781450319522}
+      \field{journaltitle}{{CHI} '13 {Extended} {Abstracts} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{User-defined gestures for augmented reality}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{955\bibrangedash 960}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2468356.2468527
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2468356.2468527
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2468356.2468527
+      \endverb
+    \endentry
     \entry{pooryousef_2024}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a96d36d4d022105f0ef0660fe9a9b30b}{%
@@ -27708,6 +29795,91 @@
       \endverb
       \verb{url}
       \verb http://link.springer.com/10.1007/s100550200016
+      \endverb
+    \endentry
+    \entry{reilly_2014}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9b1c4c3c0f1d5e6944632885d2c1dbec}{%
+           family={Reilly},
+           familyi={R\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb68d809f9ea8dc5ad3d2cd85117af24}{%
+           family={Salimian},
+           familyi={S\bibinitperiod},
+           given={Mohamad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef9d29d1050c5ebad59fbe291325ec7b}{%
+           family={MacKay},
+           familyi={M\bibinitperiod},
+           given={Bonnie},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d6ec83be6cf01241995d859a6a01506}{%
+           family={Mathiasen},
+           familyi={M\bibinitperiod},
+           given={Niels},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c139f38a5e1f1721d73f541cb66a4925}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={W.\bibnamedelimi Keith},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb5b55d472ff3ed026cf99a3c1b989ad}{%
+           family={Franz},
+           familyi={F\bibinitperiod},
+           given={Juliano},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rome Italy}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{515952ac1cbfc4a547f5f19e69a722ec}
+      \strng{fullhash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{fullhashraw}{4ac75d08090fbe9ea31755702caab328}
+      \strng{bibnamehash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{authorbibnamehash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{authornamehash}{515952ac1cbfc4a547f5f19e69a722ec}
+      \strng{authorfullhash}{4ac75d08090fbe9ea31755702caab328}
+      \strng{authorfullhashraw}{4ac75d08090fbe9ea31755702caab328}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781450327251}
+      \field{journaltitle}{Proceedings of the 2014 {ACM} {SIGCHI} symposium on {Engineering} interactive computing systems}
+      \field{month}{6}
+      \field{shorttitle}{{SecSpace}}
+      \field{title}{{SecSpace}: prototyping usable privacy and security for mixed reality collaborative environments}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{273\bibrangedash 282}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/2607023.2607039
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/2607023.2607039
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/2607023.2607039
       \endverb
     \endentry
     \entry{reinius_2021}{article}{}{}
@@ -28872,6 +31044,57 @@
       \verb{doi}
       \verb 10.1111/j.1467-9752.2005.00460.x
       \endverb
+    \endentry
+    \entry{scoular_2020}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=62ef0274e6fd6d4392b1925c642e3ced}{%
+           family={Scoular},
+           familyi={S\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=155539065d0a9644391c13d7f024c6f4}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77054f45edd4d22eb237c82b29b157ee}{%
+           family={Heard},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Camberwell, Victoria}%
+      }
+      \list{publisher}{1}{%
+        {Australian Council for Educational Research}%
+      }
+      \strng{namehash}{829b607e0b62acb2d79fc8729e586b81}
+      \strng{fullhash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{fullhashraw}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{bibnamehash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{authorbibnamehash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{authornamehash}{829b607e0b62acb2d79fc8729e586b81}
+      \strng{authorfullhash}{620ab25a3aea74fa031e88b6abda0b12}
+      \strng{authorfullhashraw}{620ab25a3aea74fa031e88b6abda0b12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781742865898}
+      \field{note}{OCLC: 1420410460}
+      \field{shorttitle}{Collaboration}
+      \field{title}{Collaboration: {Definition} and {Structure}.}
+      \field{year}{2020}
     \endentry
     \entry{seale_2007}{book}{}{}
       \name{editor}{1}{}{%
@@ -30773,6 +32996,62 @@
       \verb 10.1109/RE.2011.6051626
       \endverb
     \endentry
+    \entry{wang_2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=ee2b4a15025ecfaafcb95983b2d2623d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7f5def6361a2f18e8f2a4deafbc4baf6}{%
+           family={Reeves},
+           familyi={R\bibinitperiod},
+           given={Thomas\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ac69552b19168431d083e144d8707b82}
+      \strng{fullhash}{ac69552b19168431d083e144d8707b82}
+      \strng{fullhashraw}{ac69552b19168431d083e144d8707b82}
+      \strng{bibnamehash}{ac69552b19168431d083e144d8707b82}
+      \strng{authorbibnamehash}{ac69552b19168431d083e144d8707b82}
+      \strng{authornamehash}{ac69552b19168431d083e144d8707b82}
+      \strng{authorfullhash}{ac69552b19168431d083e144d8707b82}
+      \strng{authorfullhashraw}{ac69552b19168431d083e144d8707b82}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0738-0569, 1528-7033}
+      \field{journaltitle}{Computers in the Schools}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Why {Do} {Teachers} {Need} to {Use} {Technology} in {Their} {Classrooms}?}
+      \field{title}{Why {Do} {Teachers} {Need} to {Use} {Technology} in {Their} {Classrooms}? {Issues}, {Problems}, and {Solutions}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{20}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{49\bibrangedash 65}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1300/J025v20n04_05
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1300/J025v20n04_05
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1300/J025v20n04_05
+      \endverb
+    \endentry
     \entry{wang_2009}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=71a005c67f40c23db6bb74bde78f88db}{%
@@ -31099,6 +33378,66 @@
       \endverb
       \verb{url}
       \verb https://www.scientificamerican.com/article/the-computer-for-the-21st-century
+      \endverb
+    \endentry
+    \entry{wells_2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0797168aaeed8dbab03b1f9d7bfede4e}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e66d41b65cba8a2a69434805252ee8c6}{%
+           family={Houben},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Honolulu HI USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{fullhash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{fullhashraw}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{bibnamehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authorbibnamehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authornamehash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authorfullhash}{f5353da52a27523fdccf63af4b65bacb}
+      \strng{authorfullhashraw}{f5353da52a27523fdccf63af4b65bacb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781450367080}
+      \field{journaltitle}{Proceedings of the 2020 {CHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{{CollabAR} {Investigating} the {Mediating} {Role} of {Mobile} {AR} {Interfaces} on {Co}-{Located} {Group} {Collaboration}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3313831.3376541
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3313831.3376541
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3313831.3376541
       \endverb
     \endentry
     \entry{wenger_1998}{book}{}{}
@@ -31462,6 +33801,146 @@
       \verb https://ieeexplore.ieee.org/document/8797682
       \endverb
       \keyw{Biomedical optical imaging,Calibration,H.5.1 [Information Interfaces And Presentation]: Multimedia Information Systems—Artificial,augmented,and virtual realities,I.2.1 [Artificial Intelligence] Applications and Expert Systems—Medicine and science,I.2.10 [Artificial Intelligence]: Vision and Scene Understanding—3D/stereo scene analysis,I.4.8 [Image Processing And Computer Vision]: Scene Analysis—Stereo,J.3 [Computer Applications]: Life And Medical Sciences—Medical information systems,Microscopy,Optical imaging,Optical microscopy,Surgery,Three-dimensional displays}
+    \endentry
+    \entry{wobbrock_2005}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2b5f7007239862c98855817d78941ae9}{%
+           family={Wobbrock},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelima O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b15ff30a43d35c4767e6f485b870b7ce}{%
+           family={Aung},
+           familyi={A\bibinitperiod},
+           given={Htet\bibnamedelima Htet},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f0a48ceb962fd7c0a7d40b10c5c5929}{%
+           family={Rothrock},
+           familyi={R\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f3139b9d8c689d2ae47ba9be98a69f0}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Brad\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Portland OR USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{fullhash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{fullhashraw}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{bibnamehash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{authorbibnamehash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{authornamehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{authorfullhash}{9d0764efdad8a719b73c88e8f0613762}
+      \strng{authorfullhashraw}{9d0764efdad8a719b73c88e8f0613762}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781595930026}
+      \field{journaltitle}{{CHI} '05 {Extended} {Abstracts} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{Maximizing the guessability of symbolic input}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{1869\bibrangedash 1872}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/1056808.1057043
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1056808.1057043
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1056808.1057043
+      \endverb
+    \endentry
+    \entry{wobbrock_2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2b5f7007239862c98855817d78941ae9}{%
+           family={Wobbrock},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelima O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5283a53c5c081c04252a659743f886e1}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Meredith\bibnamedelima Ringel},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44a173a4c0ff442bac216e39b38cfc82}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Boston MA USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{fullhash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{fullhashraw}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{bibnamehash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{authorbibnamehash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{authornamehash}{7929def7a3d8dd40c17a27e55034b42a}
+      \strng{authorfullhash}{61dabf6de69f9bf00351ea72b81d28a0}
+      \strng{authorfullhashraw}{61dabf6de69f9bf00351ea72b81d28a0}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781605582467}
+      \field{journaltitle}{Proceedings of the {SIGCHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}
+      \field{month}{4}
+      \field{title}{User-defined gestures for surface computing}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{1083\bibrangedash 1092}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1518701.1518866
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1518701.1518866
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1518701.1518866
+      \endverb
     \endentry
     \entry{auer_2019}{inbook}{}{}
       \name{author}{3}{}{%
@@ -31940,6 +34419,47 @@
       \verb{url}
       \verb https://link.springer.com/10.1057/s41299-023-00169-9
       \endverb
+    \endentry
+    \entry{zigurs_2006}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bf463094b53198d97ff30e75b67a3bb2}{%
+           family={Zigurs},
+           familyi={Z\bibinitperiod},
+           given={Ilze},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc4f3c1e98b2444af333edff3415c3cb}{%
+           family={Munkvold},
+           familyi={M\bibinitperiod},
+           given={Bjørn\bibnamedelima Erik},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{fullhash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{fullhashraw}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{bibnamehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authorbibnamehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authornamehash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authorfullhash}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \strng{authorfullhashraw}{91f5dd1fb3b4ca51410bdfa8039daaca}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Human-{Computer} {Interaction} and {Management} {Information} {Systems}: {Applications}. {Advances} in {Management} {Information} {Systems}}
+      \field{edition}{1st Edition}
+      \field{isbn}{9781315703626}
+      \field{title}{Collaboration {Technologies}, {Tasks}, and {Contexts}: {Evolution} and {Opportunity}}
+      \field{year}{2006}
+      \field{pages}{28}
+      \range{pages}{1}
     \endentry
     \entry{zubiri-esnaola_2020}{article}{}{}
       \name{author}{4}{}{%

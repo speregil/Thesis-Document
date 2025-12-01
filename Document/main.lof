@@ -34,4 +34,27 @@
 \contentsline {figure}{\numberline {4.10}{\ignorespaces Device Interaction Flow }}{108}{figure.caption.73}%
 \contentsline {figure}{\numberline {4.11}{\ignorespaces Network Authority Architecture }}{109}{figure.caption.74}%
 \contentsline {figure}{\numberline {4.12}{\ignorespaces Interaction Pipeline with ARFoundation Subsystems }}{110}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Data Persistence and Ownership }}{112}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Data Persistence and Ownership with a Centralised Server }}{112}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Room Configuration Data Flow }}{114}{figure.caption.79}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces User Profile Data Flow }}{115}{figure.caption.81}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Use Case Diagram - Create and Join a Digital Room }}{117}{figure.caption.83}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Use Case Diagram - Add and Interact with a Play Model }}{119}{figure.caption.85}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Add and Interact with an Annotation }}{120}{figure.caption.87}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Propose and Participate in a Debate }}{122}{figure.caption.89}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Setups for Scenario 1 (using a smartphone, left) and Scenario 2 (using a HoloLens, right) }}{129}{figure.caption.91}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Example Views of the Share an Object (left) and Vote with Objects (right) Tasks }}{131}{figure.caption.93}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Total Agreement Scores for Each Task, Separated by Scenario }}{133}{figure.caption.94}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Agreement scores for unique gestures in Task 1 }}{134}{figure.caption.96}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Point at an object - Pointing Index (left) and Tapping Motion (right) }}{135}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Agreement scores for unique gestures in Task 2 }}{136}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Point at a place - Extended hand gesture }}{136}{figure.caption.99}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Agreement scores for unique gestures in Task 3 }}{137}{figure.caption.100}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Hold an Object - Closed Fist (left), Contour (middle) and Pinch (right) gestures }}{138}{figure.caption.101}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Share an Object - Pass over (left) and Toss (right) gestures }}{138}{figure.caption.102}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Agreement scores for unique gestures in Task 4 (top) and Task 5 (bottom) }}{140}{figure.caption.103}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Put an Object in Private Space - Fist hold Inwards (left), Pinch Hold Inwards (middle) and Screen Swipe (right) gestures }}{141}{figure.caption.104}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Undo a Task - Push Sideways (left) and Wave (right) gestures }}{142}{figure.caption.105}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Agreement scores for unique gestures in Task 7 }}{142}{figure.caption.106}%
 \addvspace {10\p@ }

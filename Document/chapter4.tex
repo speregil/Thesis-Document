@@ -902,3 +902,324 @@ network. Figure \ref{fig:4-12} shows the interactions of the previously describe
 \end{figure}
 
 \subsection{Data Architecture \label{sec:4-3-4}}
+
+For the implementation of \emph{WorkshopAR}'s prototype, each use session is meant to be a single contained experience with little to no persistence between activities. In terms of the
+intended use of the application, it makes sense to have continuity of the work done, track progress and log the activities for future consultation. This is not a trivial design. In the
+simplest scenario, it would be ideal to keep the state of the \emph{digital room} in every work session performed by the group, keeping track of elements like:
+
+\begin{itemize}
+    \item The users participating in the session.
+    \item Roles and tasks assigned to each participant.
+    \item Goals for the session.
+    \item Digital objects (models and annotations) present in the \emph{digital room} and their current state.
+\end{itemize}
+
+In technical terms, the challenge lies in managing the ownership of digital objects and keeping the layout of the \emph{digital room} even if the original owner is not present in a new session.
+This can be solved by establishing a protocol to deal with orphaned objects while keeping them in the \emph{digital room}.
+
+There are important architectural considerations in this scenario. First is the responsibility to store the necessary information to rebuild the room in the future. The central server
+provided by the Lightship service is in charge of hosting the shared room, but does not have the capability of managing all the process necessary for running \emph{WorkshopAR}, including
+persistence. In this approach it would be necessary to decide where to store the data and who has the responsibility to reconstruct the \emph{digital room} in each session.
+
+If the data is the responsibility of the selected host device, the reconstruction process is simple, but the role of the host users acquires some permanency and there is the possibility of
+a scenario in which the group cannot continue their work because the assigned host is not present. This puts too much responsibility on a single user.
+
+If each client is responsible for its own data, the architecture is then respected and the host does not have unnecessary responsibility. However, the \emph{digital room} reconstruction
+becomes more complex and has the risk of not being complete if a participant is missing.
+
+A proper solution would consider the needs of the educational design. In the case of this research project, it is important to give the students the ability to have a flexible group,
+either because groups are fluid during the classroom's activities, or because different \emph{work sessions} do not necessarily happen with the same participants. The key is to provide the
+users with the ability to quickly jump into the tool and start working in the session goals, with the application itself and its configuration being as transparent as possible.
+
+In this case, providing the ability to boot up the \emph{digital room} with minimal configuration and previous planning or coordination is the best approach, even at the risk of losing
+information. Figure \ref{fig:4-13} shows a data flow architecture for this scenario.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.13},scale=0.6]{figures/F4-13.jpg}}
+    \caption{Data Persistence and Ownership \label{fig:4-13}}
+\end{figure}
+
+An alternative solution is to drop the serverless approach and add a central server. Its main responsibility would be to save and coordinate the data needed to reconstruct a \emph{digital room}.
+Since the Lightship server is outside the architecture of \emph{WorkshopAR}, it only provides services to control the creation of a room and the connection of clients to it, and a second
+server would be needed to provide both the persistence of data and the networking services to coordinate the shared interactions.
+
+The role of the educator in the experience can become relevant in this scenario that provides a centralised view of all the activities of a classroom composed of several \emph{digital rooms}.
+A main server could take the responsibility of storing the state of each room and would coordinate its reconstruction in further sessions without involving the figure of a host or running
+the risk of losing information. Figure \ref{fig:4-14} shows the same data flow architecture if a central server is included.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.14},scale=0.6]{figures/F4-14.jpg}}
+    \caption{Data Persistence and Ownership with a Centralised Server \label{fig:4-14}}
+\end{figure}
+
+For the prototype, no actual persistence of each individual session was implemented, but the general architecture established leaned into the solution proposed in Figure \ref{fig:4-13}. The
+only persistent information of the session was the configuration of the \emph{digital room}, which will be explored in the next section.
+
+\subsubsection{Room Configuration \label{sec:4-3-4-1}}
+
+To simplify the development process and to accommodate the group dynamics observed in the execution of the Industry Project course, it was decided that the information of each individual
+\emph{work session} would not persist over time. In this way the \emph{digital room} creation process would be quicker and the students would not need to organise and sort out information
+and activities that happened several sessions in the past when the last observation activity took place, a situation that became common due to the data gathering process undertaken and
+described in section \ref{sec:6-3-2}.
+
+In this simplified scenario, the \emph{digital room} is described by its ID, by the image used to determine the shared origin point and by the maximum number of users allowed to connect.
+This information is required by the SharedAR framework and is managed by the Lightship server. \emph{WorkshopAR} manages the configuration process and signals the creation of the room, the
+start of a session, its end, and the eventual deletion of a room.
+
+The user designated as host also needs to provide a list of session goals to share with the group. This information is not mandatory, and it can be provided and changed during the
+execution of the session itself or completely ignored by the group. This information is stored and managed by the host, and in the end, it would be the current host's decision to use
+information locally stored to reconstruct a session or start anew. This acts as a middle ground solution between forcing the host to always fill that role in the group and forcing to start
+the session form zero every time. Figure \ref{fig:4-15} shows a simple data flow of this scenario.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.15},width=0.99\textwidth]{figures/F4-15.jpg}}
+    \caption{Room Configuration Data Flow \label{fig:4-15}}
+\end{figure}
+
+The image colocalization process is a system used by SharedAR based on the image recognition subsystem of ARFoundation. The process requires a base image to be recognised by each client
+connecting to the \emph{digital room} which will be used as the physical anchor for the shared origin of the room. This means that no positioning information is being stored, instead, the
+localisation of the origin point is calculated every time a room is booted. The only information stored is the target image in a raw binary data format. This encourages physical and
+synchronous gatherings, but if information about the room ID and the target image is shared, remote collaboration is also possible, at least in terms of the visualisation of the digital
+objects being added to the \emph{digital room}, but without much of the local context of the experience. That particular scenario was not tested during the data gathering process.
+
+To create a consistent view of the \emph{digital room} for all participants, the shared origin has to be consistent in terms of position and orientation. SharedAR offers the option to use
+image recognition or geolocalisation to provide the shared origin initialisation. Geolocalisation is precise to a degree but cumbersome and requires a lot of previous setup. It would also
+limit the execution of a group session to the same physical space every time. \emph{WorkshopAR} uses image recognition to simplify the colocalisation process by using a simple image marker
+that needs to be scanned. This provides flexibility at the cost of a less precise visualisation.
+
+A client device would only need the room ID to initiate the connection and access to the target image to initiate the visualisation. It is possible to type the ID of the \emph{digital room}
+if the information is externally shared by the users, or it is also possible to ask the system to provide a list of all the available rooms, those associated to the particular application
+ID of \emph{WorkshopAR}. This configuration allows to easily hop in and out of session between different groups, a behaviour identified in the observation stage of the Industry Project
+course.
+
+\subsubsection{User Profile \label{sec:4-3-4-2}}
+
+The second element that is persistent between sessions is the individual profile of the user. Each user is identified by a nickname and a preferred colour. Both elements are used to create
+a unique \emph{User Anchor} in the room that is shared and coordinated in the network. This information only acts as an aesthetical choice and does not uniquely identify the user in the
+session. It is also the only data locally stored in the user's device.
+
+When connected to a \emph{digital room}, each user is identified by a unique ID linked to the current session. The ID is assigned and managed by the host on connection. Once in session, a
+user can define a current task, also linked to a single session. This is not a mandatory process and is the sole responsibility of each user to manage this information after being
+discussed by the group. With this setting, \emph{WorkshopAR} emphasises the need to discuss and consider issues related to task allocation, but does not force a particular implementation,
+and puts the responsibility of discussing the matter in the physical communication process of the group.
+
+Finally, each \emph{User Anchor} offers two visual cues to all other participants: a nameplate with the current nickname and a set of visual markers representing the gaze of the
+participant, that is, the direction the camera on the user's device is pointing at. These elements represent information about the participant and about the current activities in the \emph{digital room}.
+Both are also optional, and each participant can turn off or on the visualisation of these elements. Figure \ref{fig:4-16} shows a simple data structure of the user profile.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.16},width=0.99\textwidth]{figures/F4-16.jpg}}
+    \caption{User Profile Data Flow \label{fig:4-16}}
+\end{figure}
+
+\subsection{Use Case Diagrams \label{sec:4-3-5}}
+
+The following section will detail the intended flow of the most prominent use case scenarios for \emph{WorkshopAR}, giving emphasis to the components involved and the data transmitted
+through the network. The main objective is to understand the macro functions of \emph{WorkshopAR} in terms of the components needed to start the development process and quickly identify
+the most crucial elements that need to be tested. This activity was also a useful tool for the interaction design process and for the initial generation of ideas about how students could
+be using the software, what collaborative activities should be supported and the behaviours that could be promoted by the experience.
+
+\subsubsection{Digital Room creation and join \label{sec:4-3-5-1}}
+
+The most basic interaction between users is to create a \emph{digital room} and start a work session. The idea is to distribute responsibilities between what is provided by the tool and
+what the group must coordinate and discuss physically. Taking this philosophy in consideration, the process of creating a \emph{digital room} can be described in the following steps:
+
+\begin{enumerate}
+    \item Decide the overall objective of the work session.
+    \item Determine who is going to act as a host and any other roles needed or relevant for the session.
+\end{enumerate}
+
+At this point \emph{WorkshopAR} is not involved yet, but its architecture enforces the user to discuss and plan the session in terms of objectives and roles. The first software related
+step involves the configuration of the \emph{digital room}, meant to be as detached from the host as possible in order to not force unnecessary responsibilities on the role:
+
+\begin{enumerate}
+    \setcounter{enumi}{2}
+    \item The host creates a \emph{digital room} by providing an ID, the tracking image and an optional session goal.
+    \item The host communicates the \emph{digital room} ID to the rest of the group.
+    \item Each client finds the \emph{digital room} using the correct ID and joins it, becoming a participant in the session.
+    \item Each client (including the host) scans the tracking image to establish the shared origin, initiating the visualisation of the \emph{digital room}.
+    \item Each participant specifies a role and a current task if needed or desired.
+\end{enumerate}
+
+Each user is responsible for providing the information needed for the session, depending on how much the students have structured their work around \emph{WorkshopAR}. This information can
+be changed and updated at will. It is also possible for each user to have access to as much information as desired from their teammates, opting for turning on and off visual elements like
+nameplates and gaze representation, and accessing information about goals and tasks only upon direct interaction.
+
+\begin{enumerate}
+    \setcounter{enumi}{7}
+    \item If the current host leaves, the responsibility is transferred to the  next client in the list.
+    \item The session finishes and the room stops when all clients have disconnected.
+\end{enumerate}
+
+\emph{WorkshopAR} provides the opportunity to visualise elements about the organisation and planning of the \emph{work session} but is the responsibility of the users to properly discuss
+and determine that information and its evolution across the session. Figure \ref{fig:4-17} shows a use case diagram detailing the most important components involved in the process and the
+data flowing between them.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.17},width=0.99\textwidth]{figures/F4-17.jpg}}
+    \caption{Use Case Diagram - Create and Join a Digital Room \label{fig:4-17}}
+\end{figure}
+
+Thanks to the diagram, it is possible to realise that the bulk of the communication and coordination of information is done through the host and client devices, specifically through the
+coordination of remote process in the \emph{Session Manager} component. Communication with the Lightship server itself is only done through the host device and is mostly used to
+initialise the connection of new clients and the initial configuration of the shared origin and all the objects already in the session.
+
+\subsubsection{Add and Interact with a Play Model \label{sec:4-3-5-2}}
+
+To give support to the activities in the core of the Industry Project educational goals, it was decided that \emph{WorkshopAR} was best as a tool for communication and planning, helping
+in the initial steps of the architectural, engineering and management process that are part of the course's activities. The interaction with digital play models is a simple implementation
+that facilitates ideation and exploration. This resource provides visualisations of the discussions taking place about space, the relationship between different physical entities,
+positioning of elements and sketching ideas. These interactions are meant to be used when:
+
+\begin{itemize}
+    \item Architectural and construction engineers want to discuss initial ideas of a design in a high level of detail, using the play models as stand-ins for spaces and constructions.
+    \item Construction managers or quantity surveyors need to understand any aspect of the proposed design and need a simple-to-use visual tool to communicate a concept, a question or an idea.
+    \item The group wants to have a shared visualisation or discussion of a custom model that has been imported to \emph{WorkshopAR}.
+\end{itemize}
+
+The most straightforward version of this scenario involves a participant adding a set of play models to the \emph{digital room} in a particular position and configuration to convey the desired idea,
+which can then be interacted with by other participants using direct transformations, pointers or annotations. This scenario follows the following process:
+
+\begin{enumerate}
+    \item The participant selects the desired play model from the play models menu.
+    \item The participant uses the camera pointer to position the model in the shared \emph{workspace}.
+    \item The participant can tweak the position, orientation and scale of the model. The model is now shared by the group, and its state is being coordinated over the network.
+\end{enumerate}
+
+Once the model is shared over the network the matter of ownership and shared interaction becomes important. Determining the ownership of a model is a technical issue and can be boiled
+down to decide if the host holds the ownership and the authority of the state of every model in the \emph{digital room} or if the responsibility lies with every client, with the host only
+communicating the changes in state. Considering the size of the groups expected for the data gathering process, the difference between both approaches is negligible.
+
+It was decided that the client should have the ownership over every object spawned and that its state should be client-authoritative, a configuration that would ease the processing load
+on the host device, but that would require the construction of a protocol to manage the ownership of an object in different scenarios, as discussed previously.
+
+The most important architectural decision related to this scenario is related to the coordination of interactions between a participant and a single model. The interaction needs to
+consider who is transforming a play model in any given time to avoid conflicts of the state of the object over the network. This requires a proper protocol to request the permission of
+transforming a model and blocking its use while another participant is actively manipulating it (\textcite{wells_2020} is a good example of a very similar solution). This protocol is
+implemented via software, needs a visual signal in the UI and can be enforced by a parallel protocol in the physical space implemented by the users themselves. Figure \ref{fig:4-18} shows
+the use case diagram of this scenario.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.18},width=0.99\textwidth]{figures/F4-18.jpg}}
+    \caption{Use Case Diagram - Add and Interact with a Play Model \label{fig:4-18}}
+\end{figure}
+
+\subsubsection{Add an Annotation \label{sec:4-3-5-3}}
+
+The concept of an annotation is used to communicate ideas between the participants of a session and have that information linked to the \emph{digital room}. The physical space can act as
+a whiteboard of concepts, or the position of an annotation could be linked with some element of the physical space to convey meaning.
+
+The general process in this scenario is the same as with the play models, the main difference is in the degree of interaction any user can have with the annotations. As with the play
+models, any participant can create an annotation using mainly text, although the system can easily be expanded to also use images. The annotation is placed in the room using the Raytracing
+Manager and the best approximation of the position detected in relation to the shared origin of the \emph{digital room}. This process is important because the position of an annotation
+cannot be relative to the workspace like with the play models to allow more freedom of where to put the annotation, so it needs to be relative to the space or to a real object detected in
+the room. Figure \ref{fig:4-19} shows the use case diagram for the creation of and interaction with annotations.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.19},width=0.99\textwidth]{figures/F4-19.jpg}}
+    \caption{Add and Interact with an Annotation \label{fig:4-19}}
+\end{figure}
+
+It is important to notice that, unlike the play models, each local \emph{Tracking Manager} needs to calculate the position of the annotation before transmitting it to the host, which
+creates discrepancies when updating the information in each client. Additionally, all interactions with the annotation are local because they only concern with each participant's
+visualisation of them.
+
+\subsubsection{Propose and Participate in a Debate \label{sec:4-3-5-4}}
+
+The final big interaction with \emph{WorkshopAR} is to support a debate or vote in the group, to mediate the discussion and to visualise the data being used in the conversation. The role
+of the software itself is minimal, letting the participants handle the flow of the process themselves. The application limits itself to show a visual indication of the objective of the
+discussion, the current state of the process and the responses proposed by the participants. \emph{WorkshopAR} uses simple and quick to read emotes for this purpose and proposes this
+three-step process for the whole activity:
+
+\begin{enumerate}
+    \item One of the participants creates the debate by providing a question and possible options. All participants receive the debate prompt and have access to the questions and the
+    possible answers.
+    \item Each participant can select an option, and the selection is shown to all other participants.
+    \item When every participant has answered the prompt, there is an opportunity to discuss the answers and change emotes if desired. This process is coordinated by the participants and
+    not the application.
+\end{enumerate}
+
+At this point the participants can opt to continue with the debate or conversation outside the control of \emph{WorkshopAR}, referencing the information displayed by the app if they wish
+so. On the other hand, the group can structure the activity around the software and keep editing the debate or creating new ones to keep the conversation flowing. Either approach is valid
+and an interesting analysis point in the future.
+
+The decision to create the emote system, or at least a simple prototype of it, derives from the feedback gathered from the users. They proposed the idea as a more interesting and involved
+way of handling the responses of the debate, as well as a tool that could be used outside this one scenario. In the end, the whole debate process is simple and hints the users at a
+structure they can use but without forcing them into it, which is the main philosophy for the entire design of \emph{WorkshopAR}. Figure \ref{fig:4-20} shows the use case diagram for this
+scenario.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 4.20},width=0.99\textwidth]{figures/F4-20.jpg}}
+    \caption{Propose and Participate in a Debate \label{fig:4-20}}
+\end{figure}
+
+\section{Final Thoughts \label{sec:4-4}}
+
+The exercise in architectural design described through this chapter had the main objective of establishing the guiding principles behind the development of \emph{WorkshopAR} and the way
+they aligned with the goals established for the research and the educational design, as well as informing the decisions taken to facilitate development and reach a satisfactory set of
+conclusions for the research.
+
+From the architectural design process, it was possible to identify key elements of analysis related to the research questions, specifically SQ5 and SQ6, those related to identify the
+elements in the technological intervention that influence the most in the learning design. All the different use scenarios and the technologies implemented to solve them required to be
+aligned to the activities done in the Industry Project course. The analysis focused on understanding as soon as possible how \emph{WorkshopAR} could be integrated to the expected workflow
+of the classroom and what possible effects could be foreseen in the behaviours of the students.
+
+One of the most relevant examples presented itself during the analysis of the debate/voting use case. Initially, the proposed approach considered information found in the literature about
+collaborative work by establishing a process that the users could lean into if the communication in the group was poor or lacking purpose (\textcite{galbraith_2013,gardner_1998} for
+example). The process that the users had to follow was initially in the likeness of:
+
+\begin{enumerate}
+    \item Launch the debate activity
+    \item Wait for the participants to confirm
+    \item Show an \ac{AR} representation of the debate
+    \item Prompt for an introductory question
+    \item Wait for votes
+    \item Show an \ac{AR} representation of the results
+    \item Prompt for discussion
+    \item Close debate activity
+\end{enumerate}
+
+This process was also initially adapted to different types of debates, like those based around yes/no questions, multiple options or open discussions. At one point it was also important
+to distinguish between a vote using the UI or using models in the \ac{AR} space. It is possible to see remnants of this approach in the task design of the gestures analysis described in
+section 5.1, as well in the general structure of the process shown in this chapter, but overall, the approach to implementation changed substantially.
+
+The main source of change came from the data obtained during the architectural analysis paired with the previously mentioned research. The result was a simpler process more focused on
+flexibility and options rather than on structure. In that way, the final users could adapt the tool into the more unstructured flow of the classroom.
+
+Other instances of redesign and adjustments to the original ideas behind \emph{WorkshopAR} were a direct result of investing time into the architectural design, and of testing and
+revising such design. Early interactions with users and revisiting the architectural plan during the iterative implementation of the software were key activities to obtain these results,
+as can be seen on sections \ref{sec:6-4-1} and \ref{sec:6-7}. Some other aspects of the functionality of \emph{WorkshopAR} that were refined by comparing the architectural proposal with
+the needs of the learning design were:
+
+\begin{itemize}
+    \item The responsibilities of the student taking the role of host, which ended acting as the leader of the session or the group. This clashed with the more open structure of the
+    course and the way the students were required to work.
+    \item The structure imposed on the ownership of objects, which, in contrast to the previous point, was given more structure to facilitate development and give more clarity to the use
+    of the application.
+    \item The lack of persistence of data, that, in a different tangent from the previous points, prompted the students to improvise on tools and processes to keep track of the information
+    between sessions.
+\end{itemize}
+
+Overall, the architectural design process was flexible and was evaluated in each iteration. Akin to the role that software architecture takes in more agile-focused developments, the
+architecture of \emph{WorkshopAR} focused more on creating a birds-eye-view plan for production, aligning that plan with the objectives of the development and documenting the process with
+just the necessary elements to facilitate communication and evaluation \parencite{babar_2009}. An effort was made to create enough documentation to reflect the development process of
+\emph{WorkshopAR} without overfocussing on formality or on an exhaustive coverage of all the details of the final product.
+
+The aim of this chapter was to provided enough insight in the development process followed for \emph{WorkshopAR}, on the reasoning followed for the decisions taken in matters of
+technology and the plan proposed to tackle the implementation stage. The architectural design also reflects the changes and adjustments that took place thanks to the data obtained from
+testing. Finally, it is possible to draw some preliminary conclusions about the technical aspect of the overall research:
+
+First, as with any exercise within the \ac{TEL} context, the learning design process and the execution itself of that plan, will be heavily influenced by elements of the technical
+development. It is very difficult to create a generic, one-size-fits-all technology that covers every problem in a learning scenario. The available literature shows the pitfalls of
+overpromising the benefits of any technology \parencite{wang_2003}, and the most successful approaches are those that align the learning context and the technology used before any
+development starts \parencite{barr_1990}.
+
+Second, for this project, in which \ac{AR} was the core technology involved, it was important to follow a rigorous design process for the interactions proposed that considers what the
+market is converging to and the expectations that the users are starting to develop. \ac{AR} technology is entering little by little into commercial maturity, creating a set of design
+tropes and a common language that must be considered, studied, and obviously, worked upon and challenged \parencite{liu_2022}.
+
+Third, the design stage helps to idenify how the users will likely approach the usage of a tool. If the design process is paired with early testing and a substantial analysis of the
+involved users and stakeholders, it is easier to gather data and start drawing conclusions as soon as possible. It is important to consider how a technology is achieving a particular
+objective, if at all, and how it is integrated into the bigger context of the classroom, the activities that is supposed to support and all the other goals, behaviours and tangential
+learning that is promoting. Teaching technology deals with a very complex context that is both, easy to misunderstand and underestimate. As shown in this chapter, it is possible to go
+over a good deal of these hurdles by following the proper process and creating the right mindset in the development team.

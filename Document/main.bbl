@@ -2387,6 +2387,50 @@
       \verb https://www.jstor.org/stable/2634938
       \endverb
     \endentry
+    \entry{brudy_2013}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9bd1792c99a387de8bd3b0342cc6e027}{%
+           family={Brudy},
+           familyi={B\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \list{publisher}{1}{%
+        {University of Munich}%
+      }
+      \strng{namehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{fullhash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{fullhashraw}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{bibnamehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authorbibnamehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authornamehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authorfullhash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authorfullhashraw}{9bd1792c99a387de8bd3b0342cc6e027}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Beyond the {Desktop}}
+      \field{isbn}{1862-5207}
+      \field{series}{Hauptseminar {Medieninformatik} {WS}}
+      \field{title}{Interactive {Menus} in {Augmented} {Reality} {Environments}}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.medien.ifi.lmu.de/pubdb/publications/pub/palleis2012BeyondDesktopHS/palleis2012BeyondDesktopHS.pdf#page=9
+      \endverb
+      \verb{url}
+      \verb https://www.medien.ifi.lmu.de/pubdb/publications/pub/palleis2012BeyondDesktopHS/palleis2012BeyondDesktopHS.pdf#page=9
+      \endverb
+    \endentry
     \entry{bruffee_1973}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d7b490abfab5753c7343d4ad9af86708}{%
@@ -19696,6 +19740,50 @@
       \endverb
       \verb{url}
       \verb https://www.jstor.org/stable/2634938
+      \endverb
+    \endentry
+    \entry{brudy_2013}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9bd1792c99a387de8bd3b0342cc6e027}{%
+           family={Brudy},
+           familyi={B\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \list{publisher}{1}{%
+        {University of Munich}%
+      }
+      \strng{namehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{fullhash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{fullhashraw}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{bibnamehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authorbibnamehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authornamehash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authorfullhash}{9bd1792c99a387de8bd3b0342cc6e027}
+      \strng{authorfullhashraw}{9bd1792c99a387de8bd3b0342cc6e027}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Beyond the {Desktop}}
+      \field{isbn}{1862-5207}
+      \field{series}{Hauptseminar {Medieninformatik} {WS}}
+      \field{title}{Interactive {Menus} in {Augmented} {Reality} {Environments}}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.medien.ifi.lmu.de/pubdb/publications/pub/palleis2012BeyondDesktopHS/palleis2012BeyondDesktopHS.pdf#page=9
+      \endverb
+      \verb{url}
+      \verb https://www.medien.ifi.lmu.de/pubdb/publications/pub/palleis2012BeyondDesktopHS/palleis2012BeyondDesktopHS.pdf#page=9
       \endverb
     \endentry
     \entry{bruffee_1973}{article}{}{}

@@ -3552,8 +3552,10 @@
     <bcf:citekey order="410" intorder="1">lu_2022</bcf:citekey>
     <bcf:citekey order="410" intorder="2">gavgiotaki_2023</bcf:citekey>
     <bcf:citekey order="411" intorder="1">wobbrock_2005</bcf:citekey>
-    <bcf:citekey order="412" intorder="1">fuchs_1982</bcf:citekey>
-    <bcf:citekey order="413" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="412" intorder="1">brudy_2013</bcf:citekey>
+    <bcf:citekey order="413" intorder="1">arcore_2025</bcf:citekey>
+    <bcf:citekey order="414" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="415" intorder="1">fuchs_1982</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

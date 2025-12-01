@@ -82,5 +82,14 @@
 \contentsline {subsection}{\numberline {5.1.1}Collaborative interactions in AR }{127}{subsection.5.1.1}%
 \contentsline {subsubsection}{Research Methodology }{128}{section*.90}%
 \contentsline {subsubsection}{Proposed Interaction Gestures }{133}{section*.95}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{143}{appendix.A}%
-\contentsline {chapter}{References}{157}{appendix*.108}%
+\contentsline {subsubsection}{Analysis and Conclusions }{144}{section*.112}%
+\contentsline {subsection}{\numberline {5.1.2}Implications for the implementation of WorkshopAR }{148}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Implementation Process }{151}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}First Development Iteration }{151}{subsection.5.2.1}%
+\contentsline {subsubsection}{The Digital Room and the Workspace }{152}{section*.114}%
+\contentsline {subsubsection}{The User Anchor }{155}{section*.119}%
+\contentsline {subsubsection}{Positioning Play Models }{158}{section*.122}%
+\contentsline {subsection}{\numberline {5.2.2}Analysis of the First Iteration }{161}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Second Development Iteration }{169}{subsection.5.2.3}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{170}{appendix.A}%
+\contentsline {chapter}{References}{184}{appendix*.125}%

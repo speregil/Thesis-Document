@@ -1,44 +1,44 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.1)  1 DEC 2025 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  2 DEC 2025 00:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/github/Thesis-Document/Document/main.tex
-(d:/github/Thesis-Document/Document/main.tex
+**c:/Users/Usuario/Documents/github/Thesis-Document/Document/main.tex
+(c:/Users/Usuario/Documents/github/Thesis-Document/Document/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
-(d:/texlive/2025/texmf-dist/tex/latex/latex-lab/documentmetadata-support.ltx (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-testphase.sty
+(c:/texlive/2025/texmf-dist/tex/latex/latex-lab/documentmetadata-support.ltx (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-testphase.sty
 Package: pdfmanagement-testphase 2025-08-05 v0.96v LaTeX PDF management bundle
- (d:/texlive/2025/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty
-Package: tagpdf-base 2025-07-16 v0.99u part of tagpdf - provide base, no-op versions of the user commands 
+ (c:/texlive/2025/texmf-dist/tex/latex/tagpdf/tagpdf-base.sty
+Package: tagpdf-base 2025-10-02 v0.99v part of tagpdf - provide base, no-op versions of the user commands 
 \c@g__tag_MCID_abs_int=\count275
 \c@g__tag_struct_abs_int=\count276
-) (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement.ltx
+) (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement.ltx
 File: pdfmanagement.ltx 2025-08-05 v0.96v PDF management code
 \g__pdfmanagement_EmbeddedFiles_int=\count277
 \l__pdfmeta_xmp_indent_int=\count278
 \g_pdffile_embed_pdfa_int=\count279
 \g_pdffile_embed_nonpdfa_int=\count280
-))) (d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+))) (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
-) (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/l3backend-testphase-pdftex.def
+) (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/l3backend-testphase-pdftex.def
 File: l3backend-testphase-pdftex.def 2025-08-05 v0.96s LaTeX PDF management bundle backend support:PDFoutput(pdfTeX)
 \l__pdf_backend_tmpa_box=\box53
 \l__pdf_backend_tmpb_box=\box54
 \g__pdf_backend_resourceid_int=\count282
 \g__pdf_backend_name_int=\count283
 \g__pdf_backend_page_int=\count284
-) (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty
 Package: pdfmanagement-firstaid 2025-08-05 v0.96v LaTeX PDF management bundle / firstaid-patches
 
 Package pdfmanagement Info: loading pdfmanagement firstaid code for pgf
 
 ) (./mitthesis.cls
 Document Class: mitthesis 2025/05/02 MIT Thesis Template (JHL)
-(d:/texlive/2025/texmf-dist/tex/latex/base/report.cls
+(c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(d:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+(c:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count285
@@ -53,17 +53,17 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (d:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+) (c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count294
-) (d:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (d:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (d:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (d:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count295
@@ -78,9 +78,9 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen155
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
-) (d:/texlive/2025/texmf-dist/tex/latex/mathtools/mathtools.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
- (d:/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count298
 \calc@Bcount=\count299
@@ -92,23 +92,23 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count300
 \calc@Cskip=\skip53
-) (d:/texlive/2025/texmf-dist/tex/latex/mathtools/mhsetup.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
-) (d:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
 \@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(d:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (d:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen159
-)) (d:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen160
-) (d:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count301
@@ -170,30 +170,30 @@ LaTeX Info: Redefining \] on input line 2950.
 \l_MT_below_shortintertext_sep=\dimen174
 \xmathstrut@box=\box57
 \xmathstrut@dim=\dimen175
-) (d:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (d:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (d:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (d:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (d:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen176
 \Gin@req@width=\dimen177
 ) (./mydesign.tex
 File: mydesign.tex 2025/04/24 v1.06 Typographic design options for thesis
- (d:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (d:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (d:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -203,17 +203,17 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/xcolor-patches-tmp-ltx.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/xcolor-patches-tmp-ltx.sty
 Package: xcolor-patches-tmp-ltx 2025-08-05 v0.96v patch xcolor for l3color
-) (d:/texlive/2025/texmf-dist/tex/latex/graphics/dvipsnam.def
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-) (d:/texlive/2025/texmf-dist/tex/latex/xcolor/svgnam.def
+) (c:/texlive/2025/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2024/09/29 v3.02 Predefined colors according to SVG 1.1 (UK)
-) (d:/texlive/2025/texmf-dist/tex/latex/xcolor/x11nam.def
+) (c:/texlive/2025/texmf-dist/tex/latex/xcolor/x11nam.def
 File: x11nam.def 2024/09/29 v3.02 Predefined colors according to Unix/X11 (UK)
-) (d:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (d:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen178
 \captionmargin=\dimen179
@@ -227,7 +227,7 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count314
 \c@continuedfloat=\count315
-) (d:/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count316
@@ -243,66 +243,66 @@ File: mitthesis-defaultfonts.tex 2024/09/14 v1.05 Load Computer/Latin Modern tex
 
 Class mitthesis Info: Loading Computer Modern text and math fonts (default for pdftex).
 
-(d:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-) (d:/texlive/2025/texmf-dist/tex/latex/tools/bm.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
 Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-)) (d:/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (d:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (d:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (d:/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (d:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (c:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (d:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (d:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (c:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (d:/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (d:/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (d:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (d:/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (d:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count318
-) (d:/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen186
 \Hy@linkcounter=\count319
 \Hy@pagecounter=\count320
- (d:/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (c:/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (d:/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count321
- (d:/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+ (c:/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `psdextra' set `true' on input line 4066.
- (d:/texlive/2025/texmf-dist/tex/latex/hyperref/psdextra.def
+ (c:/texlive/2025/texmf-dist/tex/latex/hyperref/psdextra.def
 File: psdextra.def 2025-07-12 v7.01o Hyperref: Additions to PDF string support
 )
 Package hyperref Info: Hyper figures OFF on input line 4195.
@@ -313,15 +313,15 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count322
- (d:/texlive/2025/texmf-dist/tex/latex/url/url.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen187
- (d:/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+ (c:/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (d:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count323
@@ -339,9 +339,9 @@ Package hyperref Info: PDF/A mode ON on input line 6106.
 \c@Hfootnote=\count326
 )
 Package hyperref Info: Driver (custom): hgeneric-testphase.
- (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/hgeneric-testphase.def
+ (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/hgeneric-testphase.def
 File: hgeneric-testphase.def 2025-08-05 v0.96v generic Hyperref driver for the LaTeX PDF management bundle
- (d:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/hyperref-colorschemes.def)
+ (c:/texlive/2025/texmf-dist/tex/latex/pdfmanagement-testphase/hyperref-colorschemes.def)
 LaTeX Info: Redefining \href on input line 274.
 LaTeX Info: Redefining \url on input line 360.
 \l__hyp_tmpa_box=\box58
@@ -351,7 +351,7 @@ LaTeX Info: Redefining \url on input line 360.
 \HyAnn@Count=\count329
 \Fld@listcount=\count330
 \Hy@SectionHShift=\skip58
-) (d:/texlive/2025/texmf-dist/tex/latex/doi/doi.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/doi/doi.sty
 Package: doi 2018/09/09 handle doi numbers
 )
 \g_author_authorcnt_int=\count331
@@ -363,7 +363,7 @@ Package: doi 2018/09/09 handle doi numbers
 \l__degree_departmentno_int=\count337
 \nomenwidth=\skip59
 \savitemsep=\skip60
-) (d:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen190
 \lightrulewidth=\dimen191
@@ -382,13 +382,13 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count340
 \@lastruleclass=\count341
 \@thisrulewidth=\dimen258
-) (d:/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip61
 \multirow@cntb=\count342
 \multirow@dima=\skip62
 \bigstrutjot=\dimen259
-) (d:/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \c@tracingmulticols=\count343
 \mult@box=\box60
@@ -458,9 +458,9 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \colbreak@box=\box105
 \mc@col@check@num=\count352
 \g__mc_curr_col_int=\count353
-) (d:/texlive/2025/texmf-dist/tex/latex/makecell/makecell.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
- (d:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen269
 \ar@mcellbox=\box106
@@ -473,7 +473,7 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \rotheadsize=\dimen271
 \c@nlinenum=\count354
 \TeXr@lab=\toks25
-) (d:/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen272
 \TX@old@table=\dimen273
@@ -482,11 +482,11 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen276
 \TX@cols=\count355
 \TX@ftn=\toks26
-) (d:/texlive/2025/texmf-dist/tex/latex/tabularray/tabularray.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/tabularray/tabularray.sty
 Package: tabularray 2025-08-29 v2025B Typeset tabulars and arrays with LaTeX3
- (d:/texlive/2025/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
- (d:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (d:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2025-09-02 L3 programming layer (loader) 
 )
 Package: xparse 2024-08-16 L3 Experimental document command parser
@@ -611,7 +611,7 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen329
 \l__tblr_last_vline_wd_dim=\dimen330
 \l__tblr_tikz_node_box=\box135
-) (d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
 \MT@toks=\toks27
 \MT@tempbox=\box136
@@ -625,29 +625,29 @@ LaTeX Info: Redefining \textls on input line 1449.
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count395
- (d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+ (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip67
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (d:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
+ (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
-) (d:/texlive/2025/texmf-dist/tex/latex/acronym/acronym.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/acronym/acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
- (d:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
-) (d:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty (d:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
+) (c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
 \xs_counta=\count396
 \xs_countb=\count397
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
 \AC@clearlist=\toks29
-) (d:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count398
 \csq@gtype=\count399
@@ -656,16 +656,16 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@maxlvl=\count402
 \csq@tshold=\count403
 \csq@ltx@everypar=\toks30
- (d:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
+ (c:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (d:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
+ (c:/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-)) (d:/texlive/2025/texmf-dist/tex/generic/soul/soul.sty
+)) (c:/texlive/2025/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
- (d:/texlive/2025/texmf-dist/tex/generic/soul/soul-ori.sty
+ (c:/texlive/2025/texmf-dist/tex/generic/soul/soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@word=\toks31
 \SOUL@lasttoken=\toks32
@@ -687,16 +687,16 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen338
 \SOUL@uldp=\dimen339
 \SOUL@ulht=\dimen340
-) (d:/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (c:/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)) (d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
- (d:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count408
- (d:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
+ (c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (d:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count409
@@ -758,12 +758,12 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \c@mincompwidth=\count454
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/apa.dbx
 File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -862,12 +862,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip90
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count533
 \c@textcitetotal=\count534
@@ -885,11 +885,11 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/apa.bbx
 File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count542
 \c@bbx:relatedtotal=\count543
@@ -901,7 +901,7 @@ Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already 
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/apa.cbx
 File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
@@ -923,7 +923,7 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -932,11 +932,11 @@ Package biblatex Info: ... and expl3
 (biblatex)             2025-09-02 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-)) (d:/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
- (d:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+ (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count544
 ))
@@ -998,7 +998,7 @@ LaTeX Font Info:    ... okay on input line 49.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(d:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count545
 \scratchdimen=\dimen341
@@ -1011,10 +1011,10 @@ LaTeX Font Info:    ... okay on input line 49.
 \MPnumerator=\count549
 \makeMPintoPDFobject=\count550
 \everyMPtoPDFconversion=\toks38
-) (d:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (d:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -1038,29 +1038,29 @@ Package microtype Info: Patching command `\showhyphens'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (d:/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+ (c:/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
 File: american-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/american.lbx
 File: american.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (d:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1084,7 +1084,7 @@ Package biblatex Info: Reference segment=0 on input line 49.
 [1
 
 
-{d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./abstract.tex
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./abstract.tex
 Package acronym Info: Label `acro:AR' newly defined as it shall be overridden
 although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:CL' newly defined as it shall be overridden
@@ -1158,7 +1158,7 @@ although it is yet undefined on input line 9.
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=406, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=451, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
@@ -1175,7 +1175,7 @@ Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
 [12 <./figures/F1-1.jpg>]
 
 [13]
-<figures/F1-2.jpg, id=484, 380.00032pt x 337.26pt>
+<figures/F1-2.jpg, id=530, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1185,7 +1185,7 @@ although it is yet undefined on input line 119.
 
 
 [14]
-<figures/F1-3.jpg, id=508, 375.65344pt x 189.70876pt>
+<figures/F1-3.jpg, id=553, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
@@ -1225,7 +1225,7 @@ Chapter 2.
 ]
 
 [26]
-<figures/F2-1.jpg, id=695, 868.24374pt x 549.05125pt>
+<figures/F2-1.jpg, id=740, 868.24374pt x 549.05125pt>
 File: figures/F2-1.jpg Graphic file (type jpg)
 <use figures/F2-1.jpg>
 Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
@@ -1237,7 +1237,7 @@ Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
 [28 <./figures/F2-1.jpg>]
 Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
 although it is yet undefined on input line 109.
-<figures/F2-2.jpg, id=739, 622.325pt x 250.9375pt>
+<figures/F2-2.jpg, id=784, 622.325pt x 250.9375pt>
 File: figures/F2-2.jpg Graphic file (type jpg)
 <use figures/F2-2.jpg>
 Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
@@ -1288,7 +1288,7 @@ although it is yet undefined on input line 421.
 [42]
 
 [43]
-<figures/F2-3.jpg, id=1108, 1205.50375pt x 643.40375pt>
+<figures/F2-3.jpg, id=1153, 1205.50375pt x 643.40375pt>
 File: figures/F2-3.jpg Graphic file (type jpg)
 <use figures/F2-3.jpg>
 Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
@@ -1302,7 +1302,7 @@ although it is yet undefined on input line 489.
 [45]
 
 [46]
-<figures/F2-4.jpg, id=1163, 789.95125pt x 573.14125pt>
+<figures/F2-4.jpg, id=1208, 789.95125pt x 573.14125pt>
 File: figures/F2-4.jpg Graphic file (type jpg)
 <use figures/F2-4.jpg>
 Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
@@ -1310,7 +1310,7 @@ Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
 
 
 [47 <./figures/F2-4.jpg>]
-<figures/F2-5.jpg, id=1172, 2049.6575pt x 1261.71375pt>
+<figures/F2-5.jpg, id=1217, 2049.6575pt x 1261.71375pt>
 File: figures/F2-5.jpg Graphic file (type jpg)
 <use figures/F2-5.jpg>
 Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
@@ -1318,17 +1318,17 @@ Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
 
 
 [48 <./figures/F2-5.jpg>]
-<figures/F2-6.jpg, id=1182, 2036.60875pt x 1413.28pt>
+<figures/F2-6.jpg, id=1227, 2036.60875pt x 1413.28pt>
 File: figures/F2-6.jpg Graphic file (type jpg)
 <use figures/F2-6.jpg>
 Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
 (pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
-<figures/F2-7.jpg, id=1186, 3011.25pt x 1261.71375pt>
+<figures/F2-7.jpg, id=1231, 3011.25pt x 1261.71375pt>
 File: figures/F2-7.jpg Graphic file (type jpg)
 <use figures/F2-7.jpg>
 Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
 (pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
-<figures/F2-8.jpg, id=1187, 2812.5075pt x 1261.71375pt>
+<figures/F2-8.jpg, id=1232, 2812.5075pt x 1261.71375pt>
 File: figures/F2-8.jpg Graphic file (type jpg)
 <use figures/F2-8.jpg>
 Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
@@ -1336,12 +1336,12 @@ Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
 
 
 [49]
-<figures/F2-9.jpg, id=1201, 2416.02625pt x 1261.71375pt>
+<figures/F2-9.jpg, id=1247, 2416.02625pt x 1261.71375pt>
 File: figures/F2-9.jpg Graphic file (type jpg)
 <use figures/F2-9.jpg>
 Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
-<figures/F2-10.jpg, id=1202, 2416.02625pt x 1261.71375pt>
+<figures/F2-10.jpg, id=1248, 2416.02625pt x 1261.71375pt>
 File: figures/F2-10.jpg Graphic file (type jpg)
 <use figures/F2-10.jpg>
 Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
@@ -1349,7 +1349,7 @@ Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
 
 
 [50 <./figures/F2-6.jpg>]
-<figures/F2-11.jpg, id=1210, 2250.4075pt x 1261.71375pt>
+<figures/F2-11.jpg, id=1256, 2250.4075pt x 1261.71375pt>
 File: figures/F2-11.jpg Graphic file (type jpg)
 <use figures/F2-11.jpg>
 Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
@@ -1357,7 +1357,7 @@ Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
 
 
 [51 <./figures/F2-7.jpg>]
-<figures/F2-12.jpg, id=1221, 2250.4075pt x 1261.71375pt>
+<figures/F2-12.jpg, id=1266, 2250.4075pt x 1261.71375pt>
 File: figures/F2-12.jpg Graphic file (type jpg)
 <use figures/F2-12.jpg>
 Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
@@ -1373,7 +1373,7 @@ Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
 [55 <./figures/F2-11.jpg>]
 
 [56 <./figures/F2-12.jpg>]
-<figures/F2-13.jpg, id=1280, 823.075pt x 557.08125pt>
+<figures/F2-13.jpg, id=1325, 823.075pt x 557.08125pt>
 File: figures/F2-13.jpg Graphic file (type jpg)
 <use figures/F2-13.jpg>
 Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
@@ -1403,7 +1403,7 @@ although it is yet undefined on input line 25.
 
 
 ]
-<figures/F3-1.jpg, id=1413, 746.79pt x 746.79pt>
+<figures/F3-1.jpg, id=1458, 746.79pt x 746.79pt>
 File: figures/F3-1.jpg Graphic file (type jpg)
 <use figures/F3-1.jpg>
 Package pdftex.def Info: figures/F3-1.jpg  used on input line 52.
@@ -1437,7 +1437,7 @@ LaTeX Warning: Reference `ch6' on page 72 undefined on input line 314.
 [73]
 
 [74]
-<figures/F3-2.jpg, id=1588, 782.925pt x 521.95pt>
+<figures/F3-2.jpg, id=1633, 782.925pt x 521.95pt>
 File: figures/F3-2.jpg Graphic file (type jpg)
 <use figures/F3-2.jpg>
 Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
@@ -1447,12 +1447,12 @@ Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
 [75 <./figures/F3-2.jpg>]
 
 [76]
-<figures/F3-3.jpg, id=1615, 813.0375pt x 180.675pt>
+<figures/F3-3.jpg, id=1661, 813.0375pt x 180.675pt>
 File: figures/F3-3.jpg Graphic file (type jpg)
 <use figures/F3-3.jpg>
 Package pdftex.def Info: figures/F3-3.jpg  used on input line 484.
 (pdftex.def)             Requested size: 465.06004pt x 103.34695pt.
-<figures/F3-4.jpg, id=1617, 953.5625pt x 421.575pt>
+<figures/F3-4.jpg, id=1663, 953.5625pt x 421.575pt>
 File: figures/F3-4.jpg Graphic file (type jpg)
 <use figures/F3-4.jpg>
 Package pdftex.def Info: figures/F3-4.jpg  used on input line 496.
@@ -1499,12 +1499,12 @@ LaTeX Warning: Reference `ch6' on page 84 undefined on input line 182.
 
 
 [84]
-<figures/F4-1.jpg, id=1716, 672.5125pt x 752.8125pt>
+<figures/F4-1.jpg, id=1762, 672.5125pt x 752.8125pt>
 File: figures/F4-1.jpg Graphic file (type jpg)
 <use figures/F4-1.jpg>
 Package pdftex.def Info: figures/F4-1.jpg  used on input line 225.
 (pdftex.def)             Requested size: 403.5106pt x 451.69098pt.
-<figures/F4-2.jpg, id=1718, 642.4pt x 652.4375pt>
+<figures/F4-2.jpg, id=1764, 642.4pt x 652.4375pt>
 File: figures/F4-2.jpg Graphic file (type jpg)
 <use figures/F4-2.jpg>
 Package pdftex.def Info: figures/F4-2.jpg  used on input line 249.
@@ -1523,7 +1523,7 @@ although it is yet undefined on input line 323.
 
 
 [89]
-<figures/F4-3.jpg, id=1759, 411.5375pt x 531.9875pt>
+<figures/F4-3.jpg, id=1804, 411.5375pt x 531.9875pt>
 File: figures/F4-3.jpg Graphic file (type jpg)
 <use figures/F4-3.jpg>
 Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
@@ -1551,7 +1551,7 @@ Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
 [99]
 
 [100]
-<figures/F4-4.jpg, id=1865, 501.875pt x 552.0625pt>
+<figures/F4-4.jpg, id=1910, 501.875pt x 552.0625pt>
 File: figures/F4-4.jpg Graphic file (type jpg)
 <use figures/F4-4.jpg>
 Package pdftex.def Info: figures/F4-4.jpg  used on input line 699.
@@ -1561,12 +1561,12 @@ Package pdftex.def Info: figures/F4-4.jpg  used on input line 699.
 [101 <./figures/F4-4.jpg>]
 
 [102]
-<figures/F4-5.jpg, id=1891, 803.0pt x 190.7125pt>
+<figures/F4-5.jpg, id=1936, 803.0pt x 190.7125pt>
 File: figures/F4-5.jpg Graphic file (type jpg)
 <use figures/F4-5.jpg>
 Package pdftex.def Info: figures/F4-5.jpg  used on input line 751.
 (pdftex.def)             Requested size: 465.06004pt x 110.45326pt.
-<figures/F4-6.jpg, id=1894, 511.9125pt x 622.325pt>
+<figures/F4-6.jpg, id=1939, 511.9125pt x 622.325pt>
 File: figures/F4-6.jpg Graphic file (type jpg)
 <use figures/F4-6.jpg>
 Package pdftex.def Info: figures/F4-6.jpg  used on input line 763.
@@ -1576,7 +1576,7 @@ Package pdftex.def Info: figures/F4-6.jpg  used on input line 763.
 [103 <./figures/F4-5.jpg>]
 
 [104 <./figures/F4-6.jpg>]
-<figures/F4-7.jpg, id=1909, 853.1875pt x 421.575pt>
+<figures/F4-7.jpg, id=1954, 853.1875pt x 421.575pt>
 File: figures/F4-7.jpg Graphic file (type jpg)
 <use figures/F4-7.jpg>
 Package pdftex.def Info: figures/F4-7.jpg  used on input line 791.
@@ -1584,7 +1584,7 @@ Package pdftex.def Info: figures/F4-7.jpg  used on input line 791.
 
 
 [105 <./figures/F4-7.jpg>]
-<figures/F4-8.jpg, id=1917, 702.625pt x 341.275pt>
+<figures/F4-8.jpg, id=1962, 702.625pt x 341.275pt>
 File: figures/F4-8.jpg Graphic file (type jpg)
 <use figures/F4-8.jpg>
 Package pdftex.def Info: figures/F4-8.jpg  used on input line 817.
@@ -1592,12 +1592,12 @@ Package pdftex.def Info: figures/F4-8.jpg  used on input line 817.
 
 
 [106 <./figures/F4-8.jpg>]
-<figures/F4-9.jpg, id=1929, 1013.7875pt x 542.025pt>
+<figures/F4-9.jpg, id=1974, 1013.7875pt x 542.025pt>
 File: figures/F4-9.jpg Graphic file (type jpg)
 <use figures/F4-9.jpg>
 Package pdftex.def Info: figures/F4-9.jpg  used on input line 845.
 (pdftex.def)             Requested size: 465.06004pt x 248.63979pt.
-<figures/F4-10.jpg, id=1931, 1124.2pt x 587.19376pt>
+<figures/F4-10.jpg, id=1976, 1124.2pt x 587.19376pt>
 File: figures/F4-10.jpg Graphic file (type jpg)
 <use figures/F4-10.jpg>
 Package pdftex.def Info: figures/F4-10.jpg  used on input line 855.
@@ -1607,7 +1607,7 @@ Package pdftex.def Info: figures/F4-10.jpg  used on input line 855.
 [107 <./figures/F4-9.jpg>]
 
 [108 <./figures/F4-10.jpg>]
-<figures/F4-11.jpg, id=1943, 612.2875pt x 381.425pt>
+<figures/F4-11.jpg, id=1989, 612.2875pt x 381.425pt>
 File: figures/F4-11.jpg Graphic file (type jpg)
 <use figures/F4-11.jpg>
 Package pdftex.def Info: figures/F4-11.jpg  used on input line 885.
@@ -1615,7 +1615,7 @@ Package pdftex.def Info: figures/F4-11.jpg  used on input line 885.
 
 
 [109 <./figures/F4-11.jpg>]
-<figures/F4-12.jpg, id=1956, 421.575pt x 542.025pt>
+<figures/F4-12.jpg, id=2002, 421.575pt x 542.025pt>
 File: figures/F4-12.jpg Graphic file (type jpg)
 <use figures/F4-12.jpg>
 Package pdftex.def Info: figures/F4-12.jpg  used on input line 900.
@@ -1623,12 +1623,12 @@ Package pdftex.def Info: figures/F4-12.jpg  used on input line 900.
 
 
 [110 <./figures/F4-12.jpg>]
-<figures/F4-13.jpg, id=1962, 572.1375pt x 391.4625pt>
+<figures/F4-13.jpg, id=2008, 572.1375pt x 391.4625pt>
 File: figures/F4-13.jpg Graphic file (type jpg)
 <use figures/F4-13.jpg>
 Package pdftex.def Info: figures/F4-13.jpg  used on input line 938.
 (pdftex.def)             Requested size: 343.28514pt x 234.8793pt.
-<figures/F4-14.jpg, id=1964, 602.25pt x 521.95pt>
+<figures/F4-14.jpg, id=2010, 602.25pt x 521.95pt>
 File: figures/F4-14.jpg Graphic file (type jpg)
 <use figures/F4-14.jpg>
 Package pdftex.def Info: figures/F4-14.jpg  used on input line 951.
@@ -1641,7 +1641,7 @@ Package pdftex.def Info: figures/F4-14.jpg  used on input line 951.
 
 LaTeX Warning: Reference `sec:6-3-2' on page 113 undefined on input line 963.
 
-<figures/F4-15.jpg, id=1976, 873.2625pt x 501.875pt>
+<figures/F4-15.jpg, id=2021, 873.2625pt x 501.875pt>
 File: figures/F4-15.jpg Graphic file (type jpg)
 <use figures/F4-15.jpg>
 Package pdftex.def Info: figures/F4-15.jpg  used on input line 975.
@@ -1649,7 +1649,7 @@ Package pdftex.def Info: figures/F4-15.jpg  used on input line 975.
 
 
 [113]
-<figures/F4-16.jpg, id=1983, 1003.75pt x 592.2125pt>
+<figures/F4-16.jpg, id=2028, 1003.75pt x 592.2125pt>
 File: figures/F4-16.jpg Graphic file (type jpg)
 <use figures/F4-16.jpg>
 Package pdftex.def Info: figures/F4-16.jpg  used on input line 1011.
@@ -1659,7 +1659,7 @@ Package pdftex.def Info: figures/F4-16.jpg  used on input line 1011.
 [114 <./figures/F4-15.jpg>]
 
 [115 <./figures/F4-16.jpg>]
-<figures/F4-17.jpg, id=1998, 1063.975pt x 853.1875pt>
+<figures/F4-17.jpg, id=2043, 1063.975pt x 853.1875pt>
 File: figures/F4-17.jpg Graphic file (type jpg)
 <use figures/F4-17.jpg>
 Package pdftex.def Info: figures/F4-17.jpg  used on input line 1059.
@@ -1669,7 +1669,7 @@ Package pdftex.def Info: figures/F4-17.jpg  used on input line 1059.
 [116]
 
 [117 <./figures/F4-17.jpg>]
-<figures/F4-18.jpg, id=2017, 923.45pt x 853.1875pt>
+<figures/F4-18.jpg, id=2062, 923.45pt x 853.1875pt>
 File: figures/F4-18.jpg Graphic file (type jpg)
 <use figures/F4-18.jpg>
 Package pdftex.def Info: figures/F4-18.jpg  used on input line 1103.
@@ -1679,7 +1679,7 @@ Package pdftex.def Info: figures/F4-18.jpg  used on input line 1103.
 [118]
 
 [119 <./figures/F4-18.jpg>]
-<figures/F4-19.jpg, id=2031, 923.45pt x 662.475pt>
+<figures/F4-19.jpg, id=2076, 923.45pt x 662.475pt>
 File: figures/F4-19.jpg Graphic file (type jpg)
 <use figures/F4-19.jpg>
 Package pdftex.def Info: figures/F4-19.jpg  used on input line 1119.
@@ -1687,7 +1687,7 @@ Package pdftex.def Info: figures/F4-19.jpg  used on input line 1119.
 
 
 [120 <./figures/F4-19.jpg>]
-<figures/F4-20.jpg, id=2038, 923.45pt x 642.4pt>
+<figures/F4-20.jpg, id=2083, 923.45pt x 642.4pt>
 File: figures/F4-20.jpg Graphic file (type jpg)
 <use figures/F4-20.jpg>
 Package pdftex.def Info: figures/F4-20.jpg  used on input line 1152.
@@ -1721,9 +1721,6 @@ Chapter 5.
 
 ]
 
-LaTeX Warning: Reference `sec:5-2' on page 126 undefined on input line 33.
-
-
 LaTeX Warning: Reference `sec:5-3' on page 126 undefined on input line 34.
 
 
@@ -1731,12 +1728,12 @@ LaTeX Warning: Reference `sec:5-3' on page 126 undefined on input line 34.
 [126]
 
 [127]
-<figures/F5-1A.jpg, id=2134, 1228.59pt x 1193.96063pt>
+<figures/F5-1A.jpg, id=2180, 1228.59pt x 1193.96063pt>
 File: figures/F5-1A.jpg Graphic file (type jpg)
 <use figures/F5-1A.jpg>
 Package pdftex.def Info: figures/F5-1A.jpg  used on input line 112.
 (pdftex.def)             Requested size: 230.17259pt x 214.48462pt.
-<figures/F5-1B.jpg, id=2135, 1242.89343pt x 1196.97188pt>
+<figures/F5-1B.jpg, id=2181, 1242.89343pt x 1196.97188pt>
 File: figures/F5-1B.jpg Graphic file (type jpg)
 <use figures/F5-1B.jpg>
 Package pdftex.def Info: figures/F5-1B.jpg  used on input line 113.
@@ -1750,12 +1747,12 @@ Package pdftex.def Info: figures/F5-1B.jpg  used on input line 113.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 158.
 
-<figures/F5-2A.jpg, id=2165, 1084.05pt x 2409.0pt>
+<figures/F5-2A.jpg, id=2211, 1084.05pt x 2409.0pt>
 File: figures/F5-2A.jpg Graphic file (type jpg)
 <use figures/F5-2A.jpg>
 Package pdftex.def Info: figures/F5-2A.jpg  used on input line 186.
 (pdftex.def)             Requested size: 230.1715pt x 390.0059pt.
-<figures/F5-2B.jpg, id=2166, 1084.05pt x 2409.0pt>
+<figures/F5-2B.jpg, id=2212, 1084.05pt x 2409.0pt>
 File: figures/F5-2B.jpg Graphic file (type jpg)
 <use figures/F5-2B.jpg>
 Package pdftex.def Info: figures/F5-2B.jpg  used on input line 187.
@@ -1767,7 +1764,7 @@ Package pdftex.def Info: figures/F5-2B.jpg  used on input line 187.
 [131 <./figures/F5-2A.jpg> <./figures/F5-2B.jpg>]
 
 [132]
-<figures/F5-3.jpg, id=2190, 648.021pt x 302.877pt>
+<figures/F5-3.jpg, id=2237, 648.021pt x 302.877pt>
 File: figures/F5-3.jpg Graphic file (type jpg)
 <use figures/F5-3.jpg>
 Package pdftex.def Info: figures/F5-3.jpg  used on input line 232.
@@ -1779,7 +1776,7 @@ LaTeX Warning: Reference `appendix:b' on page 133 undefined on input line 248.
 
 
 [133 <./figures/F5-3.jpg>]
-<figures/F5-4.jpg, id=2205, 647.145pt x 333.756pt>
+<figures/F5-4.jpg, id=2252, 647.145pt x 333.756pt>
 File: figures/F5-4.jpg Graphic file (type jpg)
 <use figures/F5-4.jpg>
 Package pdftex.def Info: figures/F5-4.jpg  used on input line 255.
@@ -1787,27 +1784,27 @@ Package pdftex.def Info: figures/F5-4.jpg  used on input line 255.
 
 
 [134 <./figures/F5-4.jpg>]
-<figures/F5-5A.jpg, id=2213, 697.8572pt x 703.12688pt>
+<figures/F5-5A.jpg, id=2260, 697.8572pt x 703.12688pt>
 File: figures/F5-5A.jpg Graphic file (type jpg)
 <use figures/F5-5A.jpg>
 Package pdftex.def Info: figures/F5-5A.jpg  used on input line 275.
 (pdftex.def)             Requested size: 230.17645pt x 214.49094pt.
-<figures/F5-5B.jpg, id=2214, 754.31813pt x 702.37407pt>
+<figures/F5-5B.jpg, id=2261, 754.31813pt x 702.37407pt>
 File: figures/F5-5B.jpg Graphic file (type jpg)
 <use figures/F5-5B.jpg>
 Package pdftex.def Info: figures/F5-5B.jpg  used on input line 276.
 (pdftex.def)             Requested size: 234.8721pt x 214.49707pt.
-<figures/F5-6.jpg, id=2216, 660.942pt x 375.147pt>
+<figures/F5-6.jpg, id=2263, 660.942pt x 375.147pt>
 File: figures/F5-6.jpg Graphic file (type jpg)
 <use figures/F5-6.jpg>
 Package pdftex.def Info: figures/F5-6.jpg  used on input line 284.
 (pdftex.def)             Requested size: 465.06004pt x 263.96347pt.
-<figures/F5-7.jpg, id=2218, 614.295pt x 470.50781pt>
+<figures/F5-7.jpg, id=2265, 614.295pt x 470.50781pt>
 File: figures/F5-7.jpg Graphic file (type jpg)
 <use figures/F5-7.jpg>
 Package pdftex.def Info: figures/F5-7.jpg  used on input line 292.
 (pdftex.def)             Requested size: 307.14674pt x 235.25333pt.
-<figures/F5-8.jpg, id=2221, 663.789pt x 348.21pt>
+<figures/F5-8.jpg, id=2268, 663.789pt x 348.21pt>
 File: figures/F5-8.jpg Graphic file (type jpg)
 <use figures/F5-8.jpg>
 Package pdftex.def Info: figures/F5-8.jpg  used on input line 302.
@@ -1817,27 +1814,27 @@ Package pdftex.def Info: figures/F5-8.jpg  used on input line 302.
 [135 <./figures/F5-5A.jpg> <./figures/F5-5B.jpg>]
 
 [136 <./figures/F5-6.jpg> <./figures/F5-7.jpg>]
-<figures/F5-9A.jpg, id=2232, 770.88pt x 627.84563pt>
+<figures/F5-9A.jpg, id=2278, 770.88pt x 627.84563pt>
 File: figures/F5-9A.jpg Graphic file (type jpg)
 <use figures/F5-9A.jpg>
 Package pdftex.def Info: figures/F5-9A.jpg  used on input line 319.
 (pdftex.def)             Requested size: 140.91673pt x 194.99417pt.
-<figures/F5-9B.jpg, id=2233, 685.8122pt x 533.74406pt>
+<figures/F5-9B.jpg, id=2279, 685.8122pt x 533.74406pt>
 File: figures/F5-9B.jpg Graphic file (type jpg)
 <use figures/F5-9B.jpg>
 Package pdftex.def Info: figures/F5-9B.jpg  used on input line 320.
 (pdftex.def)             Requested size: 140.92728pt x 194.9982pt.
-<figures/F5-9C.jpg, id=2234, 685.05937pt x 565.36218pt>
+<figures/F5-9C.jpg, id=2280, 685.05937pt x 565.36218pt>
 File: figures/F5-9C.jpg Graphic file (type jpg)
 <use figures/F5-9C.jpg>
 Package pdftex.def Info: figures/F5-9C.jpg  used on input line 321.
 (pdftex.def)             Requested size: 140.92937pt x 194.9984pt.
-<figures/F5-10A.jpg, id=2236, 1273.75874pt x 793.96625pt>
+<figures/F5-10A.jpg, id=2282, 1273.75874pt x 793.96625pt>
 File: figures/F5-10A.jpg Graphic file (type jpg)
 <use figures/F5-10A.jpg>
 Package pdftex.def Info: figures/F5-10A.jpg  used on input line 332.
 (pdftex.def)             Requested size: 230.18018pt x 214.4949pt.
-<figures/F5-10B.jpg, id=2237, 1201.48875pt x 664.4825pt>
+<figures/F5-10B.jpg, id=2283, 1201.48875pt x 664.4825pt>
 File: figures/F5-10B.jpg Graphic file (type jpg)
 <use figures/F5-10B.jpg>
 Package pdftex.def Info: figures/F5-10B.jpg  used on input line 333.
@@ -1847,27 +1844,27 @@ Package pdftex.def Info: figures/F5-10B.jpg  used on input line 333.
 [137 <./figures/F5-8.jpg>]
 
 [138 <./figures/F5-9A.jpg> <./figures/F5-9B.jpg> <./figures/F5-9C.jpg> <./figures/F5-10A.jpg> <./figures/F5-10B.jpg>]
-<figures/F5-11A.jpg, id=2247, 663.132pt x 317.331pt>
+<figures/F5-11A.jpg, id=2293, 663.132pt x 317.331pt>
 File: figures/F5-11A.jpg Graphic file (type jpg)
 <use figures/F5-11A.jpg>
 Package pdftex.def Info: figures/F5-11A.jpg  used on input line 343.
 (pdftex.def)             Requested size: 465.06004pt x 222.54659pt.
-<figures/F5-11B.jpg, id=2248, 676.71pt x 361.788pt>
+<figures/F5-11B.jpg, id=2294, 676.71pt x 361.788pt>
 File: figures/F5-11B.jpg Graphic file (type jpg)
 <use figures/F5-11B.jpg>
 Package pdftex.def Info: figures/F5-11B.jpg  used on input line 344.
 (pdftex.def)             Requested size: 465.06004pt x 248.64029pt.
-<figures/F5-12A.jpg, id=2250, 1232.605pt x 797.98125pt>
+<figures/F5-12A.jpg, id=2296, 1232.605pt x 797.98125pt>
 File: figures/F5-12A.jpg Graphic file (type jpg)
 <use figures/F5-12A.jpg>
 Package pdftex.def Info: figures/F5-12A.jpg  used on input line 364.
 (pdftex.def)             Requested size: 140.92844pt x 195.0018pt.
-<figures/F5-12B.jpg, id=2251, 796.9775pt x 686.565pt>
+<figures/F5-12B.jpg, id=2297, 796.9775pt x 686.565pt>
 File: figures/F5-12B.jpg Graphic file (type jpg)
 <use figures/F5-12B.jpg>
 Package pdftex.def Info: figures/F5-12B.jpg  used on input line 365.
 (pdftex.def)             Requested size: 140.92029pt x 194.99211pt.
-<figures/F5-12C.jpg, id=2252, 676.77844pt x 519.44063pt>
+<figures/F5-12C.jpg, id=2298, 676.77844pt x 519.44063pt>
 File: figures/F5-12C.jpg Graphic file (type jpg)
 <use figures/F5-12C.jpg>
 Package pdftex.def Info: figures/F5-12C.jpg  used on input line 366.
@@ -1877,33 +1874,283 @@ Package pdftex.def Info: figures/F5-12C.jpg  used on input line 366.
 [139]
 
 [140 <./figures/F5-11A.jpg> <./figures/F5-11B.jpg>]
-<figures/F5-13A.jpg, id=2264, 988.69376pt x 707.64375pt>
+<figures/F5-13A.jpg, id=2310, 988.69376pt x 707.64375pt>
 File: figures/F5-13A.jpg Graphic file (type jpg)
 <use figures/F5-13A.jpg>
 Package pdftex.def Info: figures/F5-13A.jpg  used on input line 382.
 (pdftex.def)             Requested size: 230.17065pt x 214.4975pt.
-<figures/F5-13B.jpg, id=2265, 992.70876pt x 815.045pt>
+<figures/F5-13B.jpg, id=2311, 992.70876pt x 815.045pt>
 File: figures/F5-13B.jpg Graphic file (type jpg)
 <use figures/F5-13B.jpg>
 Package pdftex.def Info: figures/F5-13B.jpg  used on input line 383.
 (pdftex.def)             Requested size: 234.87708pt x 214.4935pt.
-<figures/F5-14.jpg, id=2266, 664.665pt x 348.867pt>
+<figures/F5-14.jpg, id=2312, 664.665pt x 348.867pt>
 File: figures/F5-14.jpg Graphic file (type jpg)
 <use figures/F5-14.jpg>
 Package pdftex.def Info: figures/F5-14.jpg  used on input line 388.
 (pdftex.def)             Requested size: 465.06004pt x 244.09877pt.
-)
+<figures/F5-15A.jpg, id=2314, 757.32938pt x 575.14874pt>
+File: figures/F5-15A.jpg Graphic file (type jpg)
+<use figures/F5-15A.jpg>
+Package pdftex.def Info: figures/F5-15A.jpg  used on input line 402.
+(pdftex.def)             Requested size: 230.18199pt x 214.49548pt.
+<figures/F5-15B.jpg, id=2315, 705.38531pt x 602.25pt>
+File: figures/F5-15B.jpg Graphic file (type jpg)
+<use figures/F5-15B.jpg>
+Package pdftex.def Info: figures/F5-15B.jpg  used on input line 403.
+(pdftex.def)             Requested size: 234.87671pt x 214.50323pt.
+<figures/F5-16A.jpg, id=2317, 1266.7325pt x 824.07875pt>
+File: figures/F5-16A.jpg Graphic file (type jpg)
+<use figures/F5-16A.jpg>
+Package pdftex.def Info: figures/F5-16A.jpg  used on input line 415.
+(pdftex.def)             Requested size: 230.16682pt x 214.49432pt.
+<figures/F5-16B.jpg, id=2318, 1235.61626pt x 798.985pt>
+File: figures/F5-16B.jpg Graphic file (type jpg)
+<use figures/F5-16B.jpg>
+Package pdftex.def Info: figures/F5-16B.jpg  used on input line 416.
+(pdftex.def)             Requested size: 234.8638pt x 214.49748pt.
+
 
 [141 <./figures/F5-12A.jpg> <./figures/F5-12B.jpg> <./figures/F5-12C.jpg>]
 
 [142 <./figures/F5-13A.jpg> <./figures/F5-13B.jpg> <./figures/F5-14.jpg>]
+
+[143 <./figures/F5-15A.jpg> <./figures/F5-15B.jpg> <./figures/F5-16A.jpg> <./figures/F5-16B.jpg>]
+<figures/F5-17A.jpg, id=2332, 651.963pt x 363.102pt>
+File: figures/F5-17A.jpg Graphic file (type jpg)
+<use figures/F5-17A.jpg>
+Package pdftex.def Info: figures/F5-17A.jpg  used on input line 425.
+(pdftex.def)             Requested size: 465.06004pt x 259.0176pt.
+<figures/F5-17B.jpg, id=2333, 618.894pt x 301.344pt>
+File: figures/F5-17B.jpg Graphic file (type jpg)
+<use figures/F5-17B.jpg>
+Package pdftex.def Info: figures/F5-17B.jpg  used on input line 426.
+(pdftex.def)             Requested size: 465.06004pt x 226.44424pt.
+<figures/F5-18A.jpg, id=2335, 777.65532pt x 604.50844pt>
+File: figures/F5-18A.jpg Graphic file (type jpg)
+<use figures/F5-18A.jpg>
+Package pdftex.def Info: figures/F5-18A.jpg  used on input line 439.
+(pdftex.def)             Requested size: 140.9212pt x 194.99629pt.
+<figures/F5-18B.jpg, id=2336, 740.0147pt x 529.22719pt>
+File: figures/F5-18B.jpg Graphic file (type jpg)
+<use figures/F5-18B.jpg>
+Package pdftex.def Info: figures/F5-18B.jpg  used on input line 440.
+(pdftex.def)             Requested size: 140.92041pt x 195.00345pt.
+<figures/F5-18C.jpg, id=2337, 1034.86626pt x 742.775pt>
+File: figures/F5-18C.jpg Graphic file (type jpg)
+<use figures/F5-18C.jpg>
+Package pdftex.def Info: figures/F5-18C.jpg  used on input line 441.
+(pdftex.def)             Requested size: 140.9168pt x 194.99835pt.
+
+
+LaTeX Warning: Reference `appendix:b' on page 144 undefined on input line 458.
+
+<figures/F5-19.jpg, id=2339, 650.868pt x 345.144pt>
+File: figures/F5-19.jpg Graphic file (type jpg)
+<use figures/F5-19.jpg>
+Package pdftex.def Info: figures/F5-19.jpg  used on input line 462.
+(pdftex.def)             Requested size: 465.06004pt x 246.61809pt.
+
+
+[144]
+
+[145 <./figures/F5-17A.jpg> <./figures/F5-17B.jpg>]
+
+[146 <./figures/F5-18A.jpg> <./figures/F5-18B.jpg> <./figures/F5-18C.jpg> <./figures/F5-19.jpg>]
+
+[147]
+
+[148]
+<figures/F5-20A.jpg, id=2372, 406.51875pt x 703.87968pt>
+File: figures/F5-20A.jpg Graphic file (type jpg)
+<use figures/F5-20A.jpg>
+Package pdftex.def Info: figures/F5-20A.jpg  used on input line 545.
+(pdftex.def)             Requested size: 187.89412pt x 129.99014pt.
+<figures/F5-20B.jpg, id=2373, 630.85687pt x 703.87968pt>
+File: figures/F5-20B.jpg Graphic file (type jpg)
+<use figures/F5-20B.jpg>
+Package pdftex.def Info: figures/F5-20B.jpg  used on input line 546.
+(pdftex.def)             Requested size: 187.90125pt x 129.99014pt.
+<figures/F5-20C.jpg, id=2374, 882.29625pt x 676.02562pt>
+File: figures/F5-20C.jpg Graphic file (type jpg)
+<use figures/F5-20C.jpg>
+Package pdftex.def Info: figures/F5-20C.jpg  used on input line 547.
+(pdftex.def)             Requested size: 371.1004pt x 227.50409pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 551.
+
+
+
+[149 <./figures/F5-20A.jpg> <./figures/F5-20B.jpg> <./figures/F5-20C.jpg>]
+
+[150]
+
+[151]
+<figures/F5-21.jpg, id=2403, 1084.05pt x 1560.83125pt>
+File: figures/F5-21.jpg Graphic file (type jpg)
+<use figures/F5-21.jpg>
+Package pdftex.def Info: figures/F5-21.jpg  used on input line 645.
+(pdftex.def)             Requested size: 162.60048pt x 234.11458pt.
+
+
+[152]
+<figures/F5-22A.jpg, id=2411, 251.43938pt x 503.63156pt>
+File: figures/F5-22A.jpg Graphic file (type jpg)
+<use figures/F5-22A.jpg>
+Package pdftex.def Info: figures/F5-22A.jpg  used on input line 671.
+(pdftex.def)             Requested size: 140.92786pt x 259.99178pt.
+<figures/F5-22B.jpg, id=2412, 225.84375pt x 505.13719pt>
+File: figures/F5-22B.jpg Graphic file (type jpg)
+<use figures/F5-22B.jpg>
+Package pdftex.def Info: figures/F5-22B.jpg  used on input line 672.
+(pdftex.def)             Requested size: 140.93488pt x 259.99826pt.
+<figures/F5-22C.jpg, id=2413, 252.945pt x 503.63156pt>
+File: figures/F5-22C.jpg Graphic file (type jpg)
+<use figures/F5-22C.jpg>
+Package pdftex.def Info: figures/F5-22C.jpg  used on input line 673.
+(pdftex.def)             Requested size: 140.93034pt x 259.99178pt.
+
+
+[153 <./figures/F5-21.JPG>]
+<figures/F5-23.jpg, id=2419, 227.34938pt x 243.91125pt>
+File: figures/F5-23.jpg Graphic file (type jpg)
+<use figures/F5-23.jpg>
+Package pdftex.def Info: figures/F5-23.jpg  used on input line 693.
+(pdftex.def)             Requested size: 193.24788pt x 207.32553pt.
+
+
+[154 <./figures/F5-22A.jpg> <./figures/F5-22B.jpg> <./figures/F5-22C.jpg>]
+<figures/F5-24A.jpg, id=2429, 1084.05pt x 2276.505pt>
+File: figures/F5-24A.jpg Graphic file (type jpg)
+<use figures/F5-24A.jpg>
+Package pdftex.def Info: figures/F5-24A.jpg  used on input line 726.
+(pdftex.def)             Requested size: 187.89204pt x 259.9689pt.
+<figures/F5-24B.jpg, id=2430, 1084.05pt x 2276.505pt>
+File: figures/F5-24B.jpg Graphic file (type jpg)
+<use figures/F5-24B.jpg>
+Package pdftex.def Info: figures/F5-24B.jpg  used on input line 727.
+(pdftex.def)             Requested size: 187.89204pt x 259.9689pt.
+
+
+[155 <./figures/F5-23.jpg>]
+
+[156 <./figures/F5-24A.JPG> <./figures/F5-24B.JPG>]
+<figures/F5-25A.jpg, id=2448, 436.63126pt x 618.31pt>
+File: figures/F5-25A.jpg Graphic file (type jpg)
+<use figures/F5-25A.jpg>
+Package pdftex.def Info: figures/F5-25A.jpg  used on input line 765.
+(pdftex.def)             Requested size: 187.90102pt x 259.99977pt.
+<figures/F5-25B.jpg, id=2449, 436.63126pt x 618.31pt>
+File: figures/F5-25B.jpg Graphic file (type jpg)
+<use figures/F5-25B.jpg>
+Package pdftex.def Info: figures/F5-25B.jpg  used on input line 766.
+(pdftex.def)             Requested size: 187.90102pt x 259.99977pt.
+
+
+[157 <./figures/F5-25A.jpg> <./figures/F5-25B.jpg>]
+<figures/F5-26A.jpg, id=2458, 316.18124pt x 548.80031pt>
+File: figures/F5-26A.jpg Graphic file (type jpg)
+<use figures/F5-26A.jpg>
+Package pdftex.def Info: figures/F5-26A.jpg  used on input line 797.
+(pdftex.def)             Requested size: 187.901pt x 259.99617pt.
+<figures/F5-26B.jpg, id=2459, 1084.05pt x 2409.0pt>
+File: figures/F5-26B.jpg Graphic file (type jpg)
+<use figures/F5-26B.jpg>
+Package pdftex.def Info: figures/F5-26B.jpg  used on input line 798.
+(pdftex.def)             Requested size: 187.89204pt x 259.99168pt.
+
+
+[158]
+<figures/F5-27.jpg, id=2473, 316.18124pt x 673.01437pt>
+File: figures/F5-27.jpg Graphic file (type jpg)
+<use figures/F5-27.jpg>
+Package pdftex.def Info: figures/F5-27.jpg  used on input line 837.
+(pdftex.def)             Requested size: 158.09023pt x 336.50636pt.
+
+
+[159 <./figures/F5-26A.jpg> <./figures/F5-26B.jpg>]
+
+[160 <./figures/F5-27.jpg>]
+
+[161]
+Underfull \hbox (badness 1072) in paragraph at lines 926--926
+\T1/cmr/m/n/12 (+20) but-ton) all the way to the
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 926--926
+[]\T1/cmr/m/n/12 (+20) The ar-row (on the but-ton)
+ []
+
+
+
+[162]
+Underfull \hbox (badness 1072) in paragraph at lines 926--926
+\T1/cmr/m/n/12 (+20) but-ton) all the way to the
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 926--926
+[]\T1/cmr/m/n/12 (+20) The ar-row (on the but-ton)
+ []
+
+
+
+[163]
+
+LaTeX Warning: Reference `sec:6-4' on page 164 undefined on input line 929.
+
+
+
+[164]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Work Man-age-ment, Dig-i-tal
+ []
+
+
+
+[165]
+
+[166]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+
+[167]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+
+[168]
+Underfull \hbox (badness 4913) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Work Man-age-ment, Dig-i-tal
+ []
+
+)
+
+[169]
 \openout2 = `appendixa.aux'.
 
  (./appendixa.tex
 Appendix A.
 
 
-[143
+[170
 
 
 
@@ -1915,9 +2162,9 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 
-[144]
+[171]
 
-[145]
+[172]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Offers student-
  []
@@ -2224,7 +2471,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 104--104
 
 
 
-[146]
+[173]
 Underfull \hbox (badness 4036) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Use of avail-able
  []
@@ -2256,7 +2503,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 104--104
 
 
 
-[147]
+[174]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Students gain
  []
@@ -2358,7 +2605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 
 
 
-[148]
+[175]
 Underfull \hbox (badness 5091) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) for the learn-ing
  []
@@ -2415,7 +2662,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 104--104
 
 
 
-[149]
+[176]
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []\T1/cmr/m/n/12 (+20) Comparable or
  []
@@ -2502,7 +2749,7 @@ Underfull \hbox (badness 2856) in paragraph at lines 104--104
 
 
 
-[150]
+[177]
 Underfull \hbox (badness 4595) in paragraph at lines 104--104
 \T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
  []
@@ -2854,7 +3101,7 @@ Underfull \hbox (badness 2762) in paragraph at lines 148--148
 
 
 
-[151]
+[178]
 Underfull \hbox (badness 2277) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Reported fail-ures,
  []
@@ -2909,7 +3156,7 @@ Overfull \vbox (27.86154pt too high) has occurred while \output is active []
 
 
 
-[152]
+[179]
 Underfull \hbox (badness 1107) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
  []
@@ -3001,7 +3248,7 @@ Underfull \hbox (badness 7064) in paragraph at lines 148--148
 
 
 
-[153]
+[180]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tech-nol-ogy
  []
@@ -3083,7 +3330,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
 
 
-[154]
+[181]
 Underfull \hbox (badness 1490) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) The tool harmed
  []
@@ -3170,7 +3417,7 @@ Underfull \hbox (badness 1137) in paragraph at lines 148--148
 
 
 
-[155]
+[182]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 []\T1/cmr/m/n/12 (+20) Research de-sign
  []
@@ -3202,55 +3449,55 @@ Underfull \hbox (badness 3503) in paragraph at lines 148--148
 
 )
 
-[156]
+[183]
 
-[157
+[184
 
 
 
 ]
 
-[158]
+[185]
 
-[159]
+[186]
 
-[160]
+[187]
 
-[161]
+[188]
 
-[162]
+[189]
 
-[163]
+[190]
 
-[164]
+[191]
 
-[165]
+[192]
 
-[166]
+[193]
 
-[167]
+[194]
 
-[168]
+[195]
 
-[169]
+[196]
 
-[170]
+[197]
 
-[171]
+[198]
 
-[172]
+[199]
 
-[173]
+[200]
 
-[174]
+[201]
 
-[175]
+[202]
 
-[176]
+[203]
 
-[177]
+[204]
 
-[178] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./appendixa.aux))
+[205] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./appendixa.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -3264,18 +3511,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37884 strings out of 467748
- 758685 string characters out of 5431138
- 2726985 words of memory out of 5000000
- 65162 multiletter control sequences out of 15000+600000
- 657708 words of font info for 226 fonts, out of 8000000 for 9000
+ 38208 strings out of 467748
+ 765209 string characters out of 5431138
+ 2735950 words of memory out of 5000000
+ 65403 multiletter control sequences out of 15000+600000
+ 659684 words of font info for 235 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,16n,112p,4583b,5319s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (178 pages, 9715707 bytes).
+ 90i,16n,112p,4607b,5335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (205 pages, 13512500 bytes).
 PDF statistics:
- 3104 PDF objects out of 3580 (max. 8388607)
- 2755 compressed objects within 28 object streams
- 730 named destinations out of 1000 (max. 500000)
- 52049 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 3402 PDF objects out of 3580 (max. 8388607)
+ 2993 compressed objects within 30 object streams
+ 797 named destinations out of 1000 (max. 500000)
+ 56310 words of extra memory for PDF output out of 61914 (max. 10000000)
 

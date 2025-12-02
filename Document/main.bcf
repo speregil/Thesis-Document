@@ -3574,8 +3574,19 @@
     <bcf:citekey order="423" intorder="2">ubaidillah_2020</bcf:citekey>
     <bcf:citekey order="424" intorder="1">omirzak_2022</bcf:citekey>
     <bcf:citekey order="424" intorder="2">alam_2023</bcf:citekey>
-    <bcf:citekey order="425" intorder="1">fuchs_1982</bcf:citekey>
-    <bcf:citekey order="426" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="425" intorder="1">salmons_2019</bcf:citekey>
+    <bcf:citekey order="426" intorder="1">salmons_2019</bcf:citekey>
+    <bcf:citekey order="427" intorder="1">essabbar_2016</bcf:citekey>
+    <bcf:citekey order="428" intorder="1">kogtikov_2016</bcf:citekey>
+    <bcf:citekey order="428" intorder="2">granado-alcon_2020</bcf:citekey>
+    <bcf:citekey order="428" intorder="3">shpeizer_2019</bcf:citekey>
+    <bcf:citekey order="429" intorder="1">lowe_1982</bcf:citekey>
+    <bcf:citekey order="430" intorder="1">an_2006</bcf:citekey>
+    <bcf:citekey order="430" intorder="2">robinson_2012</bcf:citekey>
+    <bcf:citekey order="431" intorder="1">an_2006</bcf:citekey>
+    <bcf:citekey order="431" intorder="2">robinson_2012</bcf:citekey>
+    <bcf:citekey order="432" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="433" intorder="1">fuchs_1982</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

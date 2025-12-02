@@ -439,6 +439,50 @@
       \field{pages}{44\bibrangedash 59}
       \range{pages}{16}
     \endentry
+    \entry{alam_2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ec1c8b1405f4031360ffca9941d6c0a2}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Ashraf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=902f9df663ee7e1ba0daba4c16ec9401}{%
+           family={Mohanty},
+           familyi={M\bibinitperiod},
+           given={Atasi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cogent OA}%
+      }
+      \strng{namehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{fullhash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{fullhashraw}{2a46cd25262899515e96fd3fea00d596}
+      \strng{bibnamehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authorbibnamehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authornamehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authorfullhash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authorfullhashraw}{2a46cd25262899515e96fd3fea00d596}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Engineering}
+      \field{number}{2}
+      \field{title}{Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{2283282}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1080/23311916.2023.2283282
+      \endverb
+    \endentry
     \entry{alismail_2019}{article}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=153b8430814ee17c2aa0b567f8a2efd4}{%
@@ -2339,6 +2383,58 @@
       \verb https://www.taylorfrancis.com/books/9781317029472
       \endverb
     \endentry
+    \entry{braud_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4f75d176391646314e577626967d243b}{%
+           family={Braud},
+           familyi={B\bibinitperiod},
+           given={Tristan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=241bf7f73cd22a7dc71a52dfc39a80cb}{%
+           family={Bijarbooneh},
+           familyi={B\bibinitperiod},
+           given={Farshid\bibnamedelima Hassani},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3f8e628feacc073747cce5a26033dcb}{%
+           family={Chatzopoulos},
+           familyi={C\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28777383a6d1b2b7a5a8741ac2ce2e03}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Pan},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{68b42b01cf86cce99bfe62b4addda6e0}
+      \strng{fullhash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{fullhashraw}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{bibnamehash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{authorbibnamehash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{authornamehash}{68b42b01cf86cce99bfe62b4addda6e0}
+      \strng{authorfullhash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{authorfullhashraw}{dee9cb92d2704e35f16291f82d8856d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2017 {IEEE} 37th {International} {Conference} on {Distributed} {Computing} {Systems} ({ICDCS})}
+      \field{month}{6}
+      \field{title}{Future {Networking} {Challenges}: {The} {Case} of {Mobile} {Augmented} {Reality}}
+      \field{year}{2017}
+      \field{pages}{1796\bibrangedash 1807}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/ICDCS.2017.48
+      \endverb
+    \endentry
     \entry{brown_1991}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ba3c0fa94135bbee7f9cd5e2c54c11d8}{%
@@ -3542,6 +3638,51 @@
       \endverb
       \verb{url}
       \verb https://www.youtube.com/watch?v=yo7sFIahYQo
+      \endverb
+    \endentry
+    \entry{cole_2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=794816cbc8b0a9d2df772ce488179710}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18d59719f372b7a62e529cfa6f1f929c}{%
+           family={Stanton},
+           familyi={S\bibinitperiod},
+           given={Danaë},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{fullhash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{fullhashraw}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{bibnamehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authorbibnamehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authornamehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authorfullhash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authorfullhashraw}{f1c65bbcbadd252f110bddcc448ad703}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personal and Ubiquitous Computing}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Designing mobile technologies to support co-present collaboration}
+      \field{volume}{7}
+      \field{year}{2003}
+      \field{pages}{365\bibrangedash 371}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s00779-003-0249-4
       \endverb
     \endentry
     \entry{coleman_2017}{book}{}{}
@@ -5353,6 +5494,95 @@
       \endverb
       \keyw{Barriers,Best Practices,Business Administration Education,Classroom Techniques,Educational Practices,Educational Strategies,Group Dynamics,Labor Force Development,Teaching Methods,Team Training,Teamwork}
     \endentry
+    \entry{galimullina_2022}{inbook}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cb5d7ca0ec60a932004917764f8d61cf}{%
+           family={Galimullina},
+           familyi={G\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a94dd7a49b5f9eaca5e08f7cc9c7d1a}{%
+           family={Vagaeva},
+           familyi={V\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cdd31d0843c3e7299b2f2880a540da7}{%
+           family={Liksina},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi V.},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3a51ef6a00138f54deb0f0f438c04ab}{%
+           family={Efremkina},
+           familyi={E\bibinitperiod},
+           given={I.\bibnamedelimi N.},
+           giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f4c4e71d2daf6678afb6089f7d4be57}{%
+           family={Saratovtseva},
+           familyi={S\bibinitperiod},
+           given={N.\bibnamedelimi V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=cf34c701297d27475d322352795dcf31}{%
+           family={Solovev},
+           familyi={S\bibinitperiod},
+           given={Denis\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=81f5a55848b64b4c7f2ab8ee7e3af62a}{%
+           family={Savaley},
+           familyi={S\bibinitperiod},
+           given={Viktor\bibnamedelima V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=4c38f8dfecf23b88e2e8bbc51ec7f8d4}{%
+           family={Bekker},
+           familyi={B\bibinitperiod},
+           given={Alexander\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e46436b6c0d857ccca0524d98b0f4f92}{%
+           family={Petukhov},
+           familyi={P\bibinitperiod},
+           given={Valery\bibnamedelima I.},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{89f5679530eb2a8f83d071f892ebe7da}
+      \strng{fullhash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{fullhashraw}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{bibnamehash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{authorbibnamehash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{authornamehash}{89f5679530eb2a8f83d071f892ebe7da}
+      \strng{authorfullhash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{authorfullhashraw}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{editorbibnamehash}{2f01e75f9ecf17c4c2a7c5302ae32ce5}
+      \strng{editornamehash}{1ee86cfd23b9c37140d11977de7d4748}
+      \strng{editorfullhash}{2f01e75f9ecf17c4c2a7c5302ae32ce5}
+      \strng{editorfullhashraw}{2f01e75f9ecf17c4c2a7c5302ae32ce5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceeding of the {International} {Science} and {Technology} {Conference}{FarEastCon} 2021}
+      \field{title}{Digital {Etiquette} in {University} {Students}' {Communicative} {Practice}}
+      \field{year}{2022}
+      \field{pages}{457\bibrangedash 464}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-981-16-8829-4_42
+      \endverb
+    \endentry
     \entry{garbett_2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a3a41a44d0cd6bfbf19bc4365d3572a9}{%
@@ -6425,6 +6655,41 @@
       \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
       \endverb
     \endentry
+    \entry{gupta_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da625e4e590408e8812e1a76170353eb}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Chetna},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{fullhash}{da625e4e590408e8812e1a76170353eb}
+      \strng{fullhashraw}{da625e4e590408e8812e1a76170353eb}
+      \strng{bibnamehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authorbibnamehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authornamehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authorfullhash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authorfullhashraw}{da625e4e590408e8812e1a76170353eb}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Education}
+      \field{number}{4}
+      \field{title}{The Impact and Measurement of Today's Learning Technologies in Teaching Software Engineering Course Using Design-Based Learning and Project-Based Learning}
+      \field{volume}{65}
+      \field{year}{2022}
+      \field{pages}{703\bibrangedash 712}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TE.2022.3169532
+      \endverb
+    \endentry
     \entry{guskey_2001}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b0c8049a498478c54421e1380122cf1a}{%
@@ -7415,6 +7680,53 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/1475939X.2020.1867231
+      \endverb
+    \endentry
+    \entry{iglesias_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=66fde7b96a467a2ac84284cc2b430888}{%
+           family={Iglesias\bibnamedelima Rodríguez},
+           familyi={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5ebf11272130c7749bad1b63978c14b}{%
+           family={García\bibnamedelima Riaza},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Blanca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2d2de6c795e59d756aed0874b8453ed}{%
+           family={Sánchez\bibnamedelima Gómez},
+           familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={María\bibnamedelima Cruz},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c506725b05e679aa9939c8f719c6fd5}
+      \strng{fullhash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{fullhashraw}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{bibnamehash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{authorbibnamehash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{authornamehash}{8c506725b05e679aa9939c8f719c6fd5}
+      \strng{authorfullhash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{authorfullhashraw}{2997c95c035812242d7ccd7e6ecdb200}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Human Behavior}
+      \field{month}{7}
+      \field{title}{Collaborative learning and mobile devices: {An} educational experience in {Primary} {Education}}
+      \field{volume}{72}
+      \field{year}{2017}
+      \field{pages}{664\bibrangedash 677}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.chb.2016.07.019
       \endverb
     \endentry
     \entry{cyberpunk_2022}{misc}{}{}
@@ -11349,6 +11661,58 @@
       \field{pages}{549\bibrangedash 564}
       \range{pages}{16}
     \endentry
+    \entry{omirzak_2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1b9872a6fa368b575de11399cf53e1fc}{%
+           family={Omirzak},
+           familyi={O\bibinitperiod},
+           given={Islam},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daf3e7cd24cfcf225755cc65d1723a7f}{%
+           family={Alzhanov},
+           familyi={A\bibinitperiod},
+           given={Aitugan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f89a134726e420be0d95ea8c6d681e}{%
+           family={Kartashova},
+           familyi={K\bibinitperiod},
+           given={Oxana},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c250fc4bb5552118d36a2fb12bad2ba}{%
+           family={Ananishnev},
+           familyi={A\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{350d1a49122e2af441eaf288d2dd42d7}
+      \strng{fullhash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{fullhashraw}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{bibnamehash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{authorbibnamehash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{authornamehash}{350d1a49122e2af441eaf288d2dd42d7}
+      \strng{authorfullhash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{authorfullhashraw}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Journal on Educational Technology: Current Issues}
+      \field{note}{ERIC Number: EJ1355900}
+      \field{number}{3}
+      \field{title}{Integrating {Mobile} {Technologies} in a {Smart} {Classroom} to {Improve} the {Quality} of the {Educational} {Process}: {Synergy} of {Technological} and {Pedagogical} {Tools}}
+      \field{volume}{14}
+      \field{year}{2022}
+    \endentry
     \entry{openxr_2016}{misc}{}{}
       \list{language}{1}{%
         {en}%
@@ -11915,6 +12279,70 @@
       \field{pages}{13\bibrangedash 23}
       \range{pages}{11}
     \endentry
+    \entry{pereira_2021}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0ae7becefd6bac803524bbd4907d6047}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=767bf5429fead893d745a40e4b889bc5}{%
+           family={Rowe},
+           familyi={R\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bda080381409872145c625735c186a9f}{%
+           family={Farb},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f6e8d4f2f99f8a6ff59298138aff773}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6a78195cfb1980f2cd0de2b6cc119b4}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8598ae3ffde8850742d80bf417a8d2f}{%
+           family={Riebling},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{36fc4872c484060e9ef3eb6e3324b3ba}
+      \strng{fullhash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{fullhashraw}{b04a07f407d81bd29102565c67896cf4}
+      \strng{bibnamehash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{authorbibnamehash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{authornamehash}{36fc4872c484060e9ef3eb6e3324b3ba}
+      \strng{authorfullhash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{authorfullhashraw}{b04a07f407d81bd29102565c67896cf4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 {IEEE} {International} {Symposium} on {Mixed} and {Augmented} {Reality} ({ISMAR})}
+      \field{month}{10}
+      \field{title}{{ARENA}: {The} {Augmented} {Reality} {Edge} {Networking} {Architecture}}
+      \field{year}{2021}
+      \field{pages}{479\bibrangedash 488}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ISMAR52148.2021.00065
+      \endverb
+    \endentry
     \entry{petchame_2021}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ac9e4f72352bf21ccd88244759fc27e8}{%
@@ -12470,6 +12898,76 @@
       \endverb
       \keyw{Augmented reality,Collaboration,Collaborative work,Education,Headphones,Magnetic fields,Visualization,collaboration,education,makerspaces}
     \endentry
+    \entry{ran_2020}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1cebd5f1060a92b91390cd42c5681ad9}{%
+           family={Ran},
+           familyi={R\bibinitperiod},
+           given={Xukan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3015fa265e271d3a50eea0e847c48fc}{%
+           family={Slocum},
+           familyi={S\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1021ad2090452dd39dfa94097fb9a3b}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Yi-Zhen},
+           giveni={Y\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dd68014251ce1b9b95483f0d809943c}{%
+           family={Apicharttrisorn},
+           familyi={A\bibinitperiod},
+           given={Kittipat},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1b771e559904d2a3596efae5976bd8a}{%
+           family={Gorlatova},
+           familyi={G\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c9e3fef91e75b1ade0d4496fad3f82d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiasi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b91f29d19c47c2945d7a0da21337c4b8}
+      \strng{fullhash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{fullhashraw}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{bibnamehash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{authorbibnamehash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{authornamehash}{b91f29d19c47c2945d7a0da21337c4b8}
+      \strng{authorfullhash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{authorfullhashraw}{046415da8ee3f4484c666a31d0438bf1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 16th {International} {Conference} on emerging {Networking} {EXperiments} and {Technologies}}
+      \field{month}{11}
+      \field{title}{Multi-user augmented reality with communication efficient and spatially consistent virtual objects}
+      \field{year}{2020}
+      \field{pages}{386\bibrangedash 398}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3386367.3431312
+      \endverb
+    \endentry
     \entry{regenbrecht_2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=118effff107d413f821e06ee42ee3a17}{%
@@ -12754,6 +13252,55 @@
       \verb https://eric.ed.gov/?id=EJ1182589
       \endverb
       \keyw{Assignments,Best Practices,College Faculty,College Students,Comparative Analysis,Cooperative Learning,Group Activities,Group Discussion,Guidelines,Instructional Effectiveness,Learning Strategies,Student Attitudes,Student Surveys,Teacher Attitudes,Teacher Surveys,Teamwork}
+    \endentry
+    \entry{ribble_2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=eee398bfb42db60caee1f0779469a139}{%
+           family={Ribble},
+           familyi={R\bibinitperiod},
+           given={Mike\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=809bca019b5485272934f585b4927c17}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Gerald\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c723e15159d3877c73e61ddac3c49ab9}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Tweed\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ccdf752af85bc40234dd86662b758995}
+      \strng{fullhash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{fullhashraw}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{bibnamehash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{authorbibnamehash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{authornamehash}{ccdf752af85bc40234dd86662b758995}
+      \strng{authorfullhash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{authorfullhashraw}{679225e24e53137b7b3df2208f6dcd46}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1082-5754}
+      \field{journaltitle}{Learning \& Leading with Technology}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{Digital {Citizenship}: {Addressing} {Appropriate} {Technology} {Behavior}}
+      \field{volume}{32}
+      \field{year}{2004}
+      \field{pages}{6}
+      \range{pages}{1}
     \endentry
     \entry{richards_2023}{misc}{}{}
       \name{author}{1}{}{%
@@ -13661,6 +14208,70 @@
       \endverb
       \verb{url}
       \verb https://direct.mit.edu/pvar/article/11/1/33-54/18329
+      \endverb
+    \endentry
+    \entry{schmitz_2023}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=c59c8ab1914bcc1b25c0bcb0c4f0915e}{%
+           family={Schmitz},
+           familyi={S\bibinitperiod},
+           given={Maria-Luisa},
+           giveni={M\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1f01a600ea3a770f018aa1f62be0b0f}{%
+           family={Antonietti},
+           familyi={A\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d840bf18fc169b44bd64cfbb43580fe}{%
+           family={Consoli},
+           familyi={C\bibinitperiod},
+           given={Tessa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af6d67e54877eb0876deaaac0cd82191}{%
+           family={Cattaneo},
+           familyi={C\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdb73142b1c90046d7df57fb3e785e43}{%
+           family={Gonon},
+           familyi={G\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52d31aa672d884fbec64341a676637f4}{%
+           family={Petko},
+           familyi={P\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba29a958407ec7dc4ff63b4fc6f38ae8}
+      \strng{fullhash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{fullhashraw}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{bibnamehash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{authorbibnamehash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{authornamehash}{ba29a958407ec7dc4ff63b4fc6f38ae8}
+      \strng{authorfullhash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{authorfullhashraw}{6f7211c17ab501ad088110a4f14390c8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Education}
+      \field{title}{Transformational leadership for technology integration in schools: Empowering teachers to use technology in a more demanding way}
+      \field{volume}{204}
+      \field{year}{2023}
+      \field{pages}{104880}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compedu.2023.104880
       \endverb
     \endentry
     \entry{schott_2024}{article}{}{}
@@ -15092,6 +15703,61 @@
       \verb https://journals.sagepub.com/doi/10.5367/000000010791191029
       \endverb
     \endentry
+    \entry{ubaidillah_2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f25ea1109d24475e174266bf73e9b651}{%
+           family={Ubaidillah},
+           familyi={U\bibinitperiod},
+           given={Nur\bibnamedelima Zaimah},
+           giveni={N\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9569ea5a9b3b79165e0b6211cf6f8baa}{%
+           family={Baharuddin},
+           familyi={B\bibinitperiod},
+           given={Nur\bibnamedelima Nadhira},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1389d1c07a82b6f94bca5ed3602e126e}{%
+           family={Kasil},
+           familyi={K\bibinitperiod},
+           given={Nurizwani},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63b7f70e6be801e2a0ad1e6d7d8bf87}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Farhana},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e8bbf21dcb92d124e984f5eb438ae9e6}
+      \strng{fullhash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{fullhashraw}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{bibnamehash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{authorbibnamehash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{authornamehash}{e8bbf21dcb92d124e984f5eb438ae9e6}
+      \strng{authorfullhash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{authorfullhashraw}{3e541f1272c0e9c290a79cdc57ca1604}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2398-4287}
+      \field{journaltitle}{Environment-Behaviour Proceedings Journal}
+      \field{month}{12}
+      \field{number}{15}
+      \field{title}{Students' {Perception} of the {Use} of {Technology} in {Education}}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{117\bibrangedash 122}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.21834/ebpj.v5i15.2374
+      \endverb
+    \endentry
     \entry{unesco_2014}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=24a0ef0a6269be289db4de9570763de3}{%
@@ -15207,6 +15873,54 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0003687024001376
+      \endverb
+    \endentry
+    \entry{vahedi_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff563176a78acdb2fba95e61d7556a6a}{%
+           family={Vahedi},
+           familyi={V\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58509f76428a37bdac2e810deaaeb4f1}{%
+           family={Zannella},
+           familyi={Z\bibinitperiod},
+           given={Lesley},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd9edf66761f03e16285f32a495eb3c4}{%
+           family={Want},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb7323664a846b4da33f8c9764cc50fa}
+      \strng{fullhash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{fullhashraw}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{bibnamehash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{authorbibnamehash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{authornamehash}{cb7323664a846b4da33f8c9764cc50fa}
+      \strng{authorfullhash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{authorfullhashraw}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research has frequently found that students use their information and communication technologies—such as smartphones and laptops—for non-academic uses in the classroom. These uses include sending messages as well as checking email and social media accounts. This study aimed to examine students’ in-class information and communication technology use, their motivations for it, and perceptions of it, as well as their attitudes toward restriction and integration of information and communication technologies in the classroom. It was found that students most frequently engage in non-academic information and communication technology use when they feel that they would not miss any new class content, or when they feel disengaged. Students perceived that their non-academic information and communication technology use had costs, especially distraction. However, students also reported negative attitudes toward policies that would restrict their information and communication technology use in the classroom but had positive perceptions of attempts to integrate information and communication technology use. We propose that information and communication technology integration can be an effective method of increasing student engagement—and therefore decreasing non-academic information and communication technology use.}
+      \field{journaltitle}{Active Learning in Higher Education}
+      \field{number}{3}
+      \field{title}{Students’ use of information and communication technologies in the classroom: Uses, restriction, and integration}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{215\bibrangedash 228}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1177/1469787419861926
       \endverb
     \endentry
     \entry{valjataga_2016}{article}{}{}
@@ -17794,6 +18508,50 @@
       \field{pages}{44\bibrangedash 59}
       \range{pages}{16}
     \endentry
+    \entry{alam_2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ec1c8b1405f4031360ffca9941d6c0a2}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Ashraf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=902f9df663ee7e1ba0daba4c16ec9401}{%
+           family={Mohanty},
+           familyi={M\bibinitperiod},
+           given={Atasi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cogent OA}%
+      }
+      \strng{namehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{fullhash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{fullhashraw}{2a46cd25262899515e96fd3fea00d596}
+      \strng{bibnamehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authorbibnamehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authornamehash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authorfullhash}{2a46cd25262899515e96fd3fea00d596}
+      \strng{authorfullhashraw}{2a46cd25262899515e96fd3fea00d596}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Engineering}
+      \field{number}{2}
+      \field{title}{Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{2283282}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1080/23311916.2023.2283282
+      \endverb
+    \endentry
     \entry{alismail_2019}{article}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=153b8430814ee17c2aa0b567f8a2efd4}{%
@@ -19694,6 +20452,58 @@
       \verb https://www.taylorfrancis.com/books/9781317029472
       \endverb
     \endentry
+    \entry{braud_2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4f75d176391646314e577626967d243b}{%
+           family={Braud},
+           familyi={B\bibinitperiod},
+           given={Tristan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=241bf7f73cd22a7dc71a52dfc39a80cb}{%
+           family={Bijarbooneh},
+           familyi={B\bibinitperiod},
+           given={Farshid\bibnamedelima Hassani},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3f8e628feacc073747cce5a26033dcb}{%
+           family={Chatzopoulos},
+           familyi={C\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28777383a6d1b2b7a5a8741ac2ce2e03}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Pan},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{68b42b01cf86cce99bfe62b4addda6e0}
+      \strng{fullhash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{fullhashraw}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{bibnamehash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{authorbibnamehash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{authornamehash}{68b42b01cf86cce99bfe62b4addda6e0}
+      \strng{authorfullhash}{dee9cb92d2704e35f16291f82d8856d9}
+      \strng{authorfullhashraw}{dee9cb92d2704e35f16291f82d8856d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2017 {IEEE} 37th {International} {Conference} on {Distributed} {Computing} {Systems} ({ICDCS})}
+      \field{month}{6}
+      \field{title}{Future {Networking} {Challenges}: {The} {Case} of {Mobile} {Augmented} {Reality}}
+      \field{year}{2017}
+      \field{pages}{1796\bibrangedash 1807}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/ICDCS.2017.48
+      \endverb
+    \endentry
     \entry{brown_1991}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ba3c0fa94135bbee7f9cd5e2c54c11d8}{%
@@ -20897,6 +21707,51 @@
       \endverb
       \verb{url}
       \verb https://www.youtube.com/watch?v=yo7sFIahYQo
+      \endverb
+    \endentry
+    \entry{cole_2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=794816cbc8b0a9d2df772ce488179710}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18d59719f372b7a62e529cfa6f1f929c}{%
+           family={Stanton},
+           familyi={S\bibinitperiod},
+           given={Danaë},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{fullhash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{fullhashraw}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{bibnamehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authorbibnamehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authornamehash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authorfullhash}{f1c65bbcbadd252f110bddcc448ad703}
+      \strng{authorfullhashraw}{f1c65bbcbadd252f110bddcc448ad703}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personal and Ubiquitous Computing}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Designing mobile technologies to support co-present collaboration}
+      \field{volume}{7}
+      \field{year}{2003}
+      \field{pages}{365\bibrangedash 371}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s00779-003-0249-4
       \endverb
     \endentry
     \entry{coleman_2017}{book}{}{}
@@ -22708,6 +23563,95 @@
       \endverb
       \keyw{Barriers,Best Practices,Business Administration Education,Classroom Techniques,Educational Practices,Educational Strategies,Group Dynamics,Labor Force Development,Teaching Methods,Team Training,Teamwork}
     \endentry
+    \entry{galimullina_2022}{inbook}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cb5d7ca0ec60a932004917764f8d61cf}{%
+           family={Galimullina},
+           familyi={G\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a94dd7a49b5f9eaca5e08f7cc9c7d1a}{%
+           family={Vagaeva},
+           familyi={V\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cdd31d0843c3e7299b2f2880a540da7}{%
+           family={Liksina},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi V.},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3a51ef6a00138f54deb0f0f438c04ab}{%
+           family={Efremkina},
+           familyi={E\bibinitperiod},
+           given={I.\bibnamedelimi N.},
+           giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f4c4e71d2daf6678afb6089f7d4be57}{%
+           family={Saratovtseva},
+           familyi={S\bibinitperiod},
+           given={N.\bibnamedelimi V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=cf34c701297d27475d322352795dcf31}{%
+           family={Solovev},
+           familyi={S\bibinitperiod},
+           given={Denis\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=81f5a55848b64b4c7f2ab8ee7e3af62a}{%
+           family={Savaley},
+           familyi={S\bibinitperiod},
+           given={Viktor\bibnamedelima V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=4c38f8dfecf23b88e2e8bbc51ec7f8d4}{%
+           family={Bekker},
+           familyi={B\bibinitperiod},
+           given={Alexander\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e46436b6c0d857ccca0524d98b0f4f92}{%
+           family={Petukhov},
+           familyi={P\bibinitperiod},
+           given={Valery\bibnamedelima I.},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{89f5679530eb2a8f83d071f892ebe7da}
+      \strng{fullhash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{fullhashraw}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{bibnamehash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{authorbibnamehash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{authornamehash}{89f5679530eb2a8f83d071f892ebe7da}
+      \strng{authorfullhash}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{authorfullhashraw}{4e97fc9ac8088992ad2cc7748d8f7d3f}
+      \strng{editorbibnamehash}{2f01e75f9ecf17c4c2a7c5302ae32ce5}
+      \strng{editornamehash}{1ee86cfd23b9c37140d11977de7d4748}
+      \strng{editorfullhash}{2f01e75f9ecf17c4c2a7c5302ae32ce5}
+      \strng{editorfullhashraw}{2f01e75f9ecf17c4c2a7c5302ae32ce5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceeding of the {International} {Science} and {Technology} {Conference}{FarEastCon} 2021}
+      \field{title}{Digital {Etiquette} in {University} {Students}' {Communicative} {Practice}}
+      \field{year}{2022}
+      \field{pages}{457\bibrangedash 464}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-981-16-8829-4_42
+      \endverb
+    \endentry
     \entry{garbett_2021}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a3a41a44d0cd6bfbf19bc4365d3572a9}{%
@@ -23780,6 +24724,41 @@
       \verb https://journals.sagepub.com/doi/10.1177/0894439319851163
       \endverb
     \endentry
+    \entry{gupta_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da625e4e590408e8812e1a76170353eb}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Chetna},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{fullhash}{da625e4e590408e8812e1a76170353eb}
+      \strng{fullhashraw}{da625e4e590408e8812e1a76170353eb}
+      \strng{bibnamehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authorbibnamehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authornamehash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authorfullhash}{da625e4e590408e8812e1a76170353eb}
+      \strng{authorfullhashraw}{da625e4e590408e8812e1a76170353eb}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Education}
+      \field{number}{4}
+      \field{title}{The Impact and Measurement of Today's Learning Technologies in Teaching Software Engineering Course Using Design-Based Learning and Project-Based Learning}
+      \field{volume}{65}
+      \field{year}{2022}
+      \field{pages}{703\bibrangedash 712}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TE.2022.3169532
+      \endverb
+    \endentry
     \entry{guskey_2001}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b0c8049a498478c54421e1380122cf1a}{%
@@ -24770,6 +25749,53 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/1475939X.2020.1867231
+      \endverb
+    \endentry
+    \entry{iglesias_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=66fde7b96a467a2ac84284cc2b430888}{%
+           family={Iglesias\bibnamedelima Rodríguez},
+           familyi={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5ebf11272130c7749bad1b63978c14b}{%
+           family={García\bibnamedelima Riaza},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Blanca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2d2de6c795e59d756aed0874b8453ed}{%
+           family={Sánchez\bibnamedelima Gómez},
+           familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={María\bibnamedelima Cruz},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c506725b05e679aa9939c8f719c6fd5}
+      \strng{fullhash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{fullhashraw}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{bibnamehash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{authorbibnamehash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{authornamehash}{8c506725b05e679aa9939c8f719c6fd5}
+      \strng{authorfullhash}{2997c95c035812242d7ccd7e6ecdb200}
+      \strng{authorfullhashraw}{2997c95c035812242d7ccd7e6ecdb200}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Human Behavior}
+      \field{month}{7}
+      \field{title}{Collaborative learning and mobile devices: {An} educational experience in {Primary} {Education}}
+      \field{volume}{72}
+      \field{year}{2017}
+      \field{pages}{664\bibrangedash 677}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.chb.2016.07.019
       \endverb
     \endentry
     \entry{cyberpunk_2022}{misc}{}{}
@@ -28704,6 +29730,58 @@
       \field{pages}{549\bibrangedash 564}
       \range{pages}{16}
     \endentry
+    \entry{omirzak_2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1b9872a6fa368b575de11399cf53e1fc}{%
+           family={Omirzak},
+           familyi={O\bibinitperiod},
+           given={Islam},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daf3e7cd24cfcf225755cc65d1723a7f}{%
+           family={Alzhanov},
+           familyi={A\bibinitperiod},
+           given={Aitugan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f89a134726e420be0d95ea8c6d681e}{%
+           family={Kartashova},
+           familyi={K\bibinitperiod},
+           given={Oxana},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c250fc4bb5552118d36a2fb12bad2ba}{%
+           family={Ananishnev},
+           familyi={A\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{350d1a49122e2af441eaf288d2dd42d7}
+      \strng{fullhash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{fullhashraw}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{bibnamehash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{authorbibnamehash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{authornamehash}{350d1a49122e2af441eaf288d2dd42d7}
+      \strng{authorfullhash}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \strng{authorfullhashraw}{a6d74ad0dd1d150ac43ea1ac496acd98}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Journal on Educational Technology: Current Issues}
+      \field{note}{ERIC Number: EJ1355900}
+      \field{number}{3}
+      \field{title}{Integrating {Mobile} {Technologies} in a {Smart} {Classroom} to {Improve} the {Quality} of the {Educational} {Process}: {Synergy} of {Technological} and {Pedagogical} {Tools}}
+      \field{volume}{14}
+      \field{year}{2022}
+    \endentry
     \entry{openxr_2016}{misc}{}{}
       \list{language}{1}{%
         {en}%
@@ -29270,6 +30348,70 @@
       \field{pages}{13\bibrangedash 23}
       \range{pages}{11}
     \endentry
+    \entry{pereira_2021}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0ae7becefd6bac803524bbd4907d6047}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=767bf5429fead893d745a40e4b889bc5}{%
+           family={Rowe},
+           familyi={R\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bda080381409872145c625735c186a9f}{%
+           family={Farb},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f6e8d4f2f99f8a6ff59298138aff773}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6a78195cfb1980f2cd0de2b6cc119b4}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8598ae3ffde8850742d80bf417a8d2f}{%
+           family={Riebling},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{36fc4872c484060e9ef3eb6e3324b3ba}
+      \strng{fullhash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{fullhashraw}{b04a07f407d81bd29102565c67896cf4}
+      \strng{bibnamehash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{authorbibnamehash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{authornamehash}{36fc4872c484060e9ef3eb6e3324b3ba}
+      \strng{authorfullhash}{b04a07f407d81bd29102565c67896cf4}
+      \strng{authorfullhashraw}{b04a07f407d81bd29102565c67896cf4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2021 {IEEE} {International} {Symposium} on {Mixed} and {Augmented} {Reality} ({ISMAR})}
+      \field{month}{10}
+      \field{title}{{ARENA}: {The} {Augmented} {Reality} {Edge} {Networking} {Architecture}}
+      \field{year}{2021}
+      \field{pages}{479\bibrangedash 488}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ISMAR52148.2021.00065
+      \endverb
+    \endentry
     \entry{petchame_2021}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=ac9e4f72352bf21ccd88244759fc27e8}{%
@@ -29825,6 +30967,76 @@
       \endverb
       \keyw{Augmented reality,Collaboration,Collaborative work,Education,Headphones,Magnetic fields,Visualization,collaboration,education,makerspaces}
     \endentry
+    \entry{ran_2020}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1cebd5f1060a92b91390cd42c5681ad9}{%
+           family={Ran},
+           familyi={R\bibinitperiod},
+           given={Xukan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3015fa265e271d3a50eea0e847c48fc}{%
+           family={Slocum},
+           familyi={S\bibinitperiod},
+           given={Carter},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1021ad2090452dd39dfa94097fb9a3b}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Yi-Zhen},
+           giveni={Y\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dd68014251ce1b9b95483f0d809943c}{%
+           family={Apicharttrisorn},
+           familyi={A\bibinitperiod},
+           given={Kittipat},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1b771e559904d2a3596efae5976bd8a}{%
+           family={Gorlatova},
+           familyi={G\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c9e3fef91e75b1ade0d4496fad3f82d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiasi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b91f29d19c47c2945d7a0da21337c4b8}
+      \strng{fullhash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{fullhashraw}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{bibnamehash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{authorbibnamehash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{authornamehash}{b91f29d19c47c2945d7a0da21337c4b8}
+      \strng{authorfullhash}{046415da8ee3f4484c666a31d0438bf1}
+      \strng{authorfullhashraw}{046415da8ee3f4484c666a31d0438bf1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 16th {International} {Conference} on emerging {Networking} {EXperiments} and {Technologies}}
+      \field{month}{11}
+      \field{title}{Multi-user augmented reality with communication efficient and spatially consistent virtual objects}
+      \field{year}{2020}
+      \field{pages}{386\bibrangedash 398}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3386367.3431312
+      \endverb
+    \endentry
     \entry{regenbrecht_2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=118effff107d413f821e06ee42ee3a17}{%
@@ -30109,6 +31321,55 @@
       \verb https://eric.ed.gov/?id=EJ1182589
       \endverb
       \keyw{Assignments,Best Practices,College Faculty,College Students,Comparative Analysis,Cooperative Learning,Group Activities,Group Discussion,Guidelines,Instructional Effectiveness,Learning Strategies,Student Attitudes,Student Surveys,Teacher Attitudes,Teacher Surveys,Teamwork}
+    \endentry
+    \entry{ribble_2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=eee398bfb42db60caee1f0779469a139}{%
+           family={Ribble},
+           familyi={R\bibinitperiod},
+           given={Mike\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=809bca019b5485272934f585b4927c17}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Gerald\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c723e15159d3877c73e61ddac3c49ab9}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Tweed\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ccdf752af85bc40234dd86662b758995}
+      \strng{fullhash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{fullhashraw}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{bibnamehash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{authorbibnamehash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{authornamehash}{ccdf752af85bc40234dd86662b758995}
+      \strng{authorfullhash}{679225e24e53137b7b3df2208f6dcd46}
+      \strng{authorfullhashraw}{679225e24e53137b7b3df2208f6dcd46}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1082-5754}
+      \field{journaltitle}{Learning \& Leading with Technology}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{Digital {Citizenship}: {Addressing} {Appropriate} {Technology} {Behavior}}
+      \field{volume}{32}
+      \field{year}{2004}
+      \field{pages}{6}
+      \range{pages}{1}
     \endentry
     \entry{richards_2023}{misc}{}{}
       \name{author}{1}{}{%
@@ -31016,6 +32277,70 @@
       \endverb
       \verb{url}
       \verb https://direct.mit.edu/pvar/article/11/1/33-54/18329
+      \endverb
+    \endentry
+    \entry{schmitz_2023}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=c59c8ab1914bcc1b25c0bcb0c4f0915e}{%
+           family={Schmitz},
+           familyi={S\bibinitperiod},
+           given={Maria-Luisa},
+           giveni={M\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1f01a600ea3a770f018aa1f62be0b0f}{%
+           family={Antonietti},
+           familyi={A\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d840bf18fc169b44bd64cfbb43580fe}{%
+           family={Consoli},
+           familyi={C\bibinitperiod},
+           given={Tessa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af6d67e54877eb0876deaaac0cd82191}{%
+           family={Cattaneo},
+           familyi={C\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdb73142b1c90046d7df57fb3e785e43}{%
+           family={Gonon},
+           familyi={G\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52d31aa672d884fbec64341a676637f4}{%
+           family={Petko},
+           familyi={P\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba29a958407ec7dc4ff63b4fc6f38ae8}
+      \strng{fullhash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{fullhashraw}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{bibnamehash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{authorbibnamehash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{authornamehash}{ba29a958407ec7dc4ff63b4fc6f38ae8}
+      \strng{authorfullhash}{6f7211c17ab501ad088110a4f14390c8}
+      \strng{authorfullhashraw}{6f7211c17ab501ad088110a4f14390c8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& Education}
+      \field{title}{Transformational leadership for technology integration in schools: Empowering teachers to use technology in a more demanding way}
+      \field{volume}{204}
+      \field{year}{2023}
+      \field{pages}{104880}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compedu.2023.104880
       \endverb
     \endentry
     \entry{schott_2024}{article}{}{}
@@ -32447,6 +33772,61 @@
       \verb https://journals.sagepub.com/doi/10.5367/000000010791191029
       \endverb
     \endentry
+    \entry{ubaidillah_2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f25ea1109d24475e174266bf73e9b651}{%
+           family={Ubaidillah},
+           familyi={U\bibinitperiod},
+           given={Nur\bibnamedelima Zaimah},
+           giveni={N\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9569ea5a9b3b79165e0b6211cf6f8baa}{%
+           family={Baharuddin},
+           familyi={B\bibinitperiod},
+           given={Nur\bibnamedelima Nadhira},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1389d1c07a82b6f94bca5ed3602e126e}{%
+           family={Kasil},
+           familyi={K\bibinitperiod},
+           given={Nurizwani},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63b7f70e6be801e2a0ad1e6d7d8bf87}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Farhana},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e8bbf21dcb92d124e984f5eb438ae9e6}
+      \strng{fullhash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{fullhashraw}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{bibnamehash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{authorbibnamehash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{authornamehash}{e8bbf21dcb92d124e984f5eb438ae9e6}
+      \strng{authorfullhash}{3e541f1272c0e9c290a79cdc57ca1604}
+      \strng{authorfullhashraw}{3e541f1272c0e9c290a79cdc57ca1604}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2398-4287}
+      \field{journaltitle}{Environment-Behaviour Proceedings Journal}
+      \field{month}{12}
+      \field{number}{15}
+      \field{title}{Students' {Perception} of the {Use} of {Technology} in {Education}}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{117\bibrangedash 122}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.21834/ebpj.v5i15.2374
+      \endverb
+    \endentry
     \entry{unesco_2014}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=24a0ef0a6269be289db4de9570763de3}{%
@@ -32562,6 +33942,54 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0003687024001376
+      \endverb
+    \endentry
+    \entry{vahedi_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff563176a78acdb2fba95e61d7556a6a}{%
+           family={Vahedi},
+           familyi={V\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58509f76428a37bdac2e810deaaeb4f1}{%
+           family={Zannella},
+           familyi={Z\bibinitperiod},
+           given={Lesley},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd9edf66761f03e16285f32a495eb3c4}{%
+           family={Want},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb7323664a846b4da33f8c9764cc50fa}
+      \strng{fullhash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{fullhashraw}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{bibnamehash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{authorbibnamehash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{authornamehash}{cb7323664a846b4da33f8c9764cc50fa}
+      \strng{authorfullhash}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \strng{authorfullhashraw}{aa371ca5602ec8e506d9ace175b2b9c6}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research has frequently found that students use their information and communication technologies—such as smartphones and laptops—for non-academic uses in the classroom. These uses include sending messages as well as checking email and social media accounts. This study aimed to examine students’ in-class information and communication technology use, their motivations for it, and perceptions of it, as well as their attitudes toward restriction and integration of information and communication technologies in the classroom. It was found that students most frequently engage in non-academic information and communication technology use when they feel that they would not miss any new class content, or when they feel disengaged. Students perceived that their non-academic information and communication technology use had costs, especially distraction. However, students also reported negative attitudes toward policies that would restrict their information and communication technology use in the classroom but had positive perceptions of attempts to integrate information and communication technology use. We propose that information and communication technology integration can be an effective method of increasing student engagement—and therefore decreasing non-academic information and communication technology use.}
+      \field{journaltitle}{Active Learning in Higher Education}
+      \field{number}{3}
+      \field{title}{Students’ use of information and communication technologies in the classroom: Uses, restriction, and integration}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{215\bibrangedash 228}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1177/1469787419861926
       \endverb
     \endentry
     \entry{valjataga_2016}{article}{}{}

@@ -3554,8 +3554,28 @@
     <bcf:citekey order="411" intorder="1">wobbrock_2005</bcf:citekey>
     <bcf:citekey order="412" intorder="1">brudy_2013</bcf:citekey>
     <bcf:citekey order="413" intorder="1">arcore_2025</bcf:citekey>
-    <bcf:citekey order="414" intorder="1">fuchs_1982</bcf:citekey>
-    <bcf:citekey order="415" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="414" intorder="1">arcore_2025</bcf:citekey>
+    <bcf:citekey order="414" intorder="2">meta_horizon_2025</bcf:citekey>
+    <bcf:citekey order="415" intorder="1">arcore_2025</bcf:citekey>
+    <bcf:citekey order="415" intorder="2">meta_horizon_2025</bcf:citekey>
+    <bcf:citekey order="416" intorder="1">pereira_2021</bcf:citekey>
+    <bcf:citekey order="416" intorder="2">braud_2017</bcf:citekey>
+    <bcf:citekey order="417" intorder="1">galimullina_2022</bcf:citekey>
+    <bcf:citekey order="417" intorder="2">ribble_2004</bcf:citekey>
+    <bcf:citekey order="418" intorder="1">ran_2020</bcf:citekey>
+    <bcf:citekey order="419" intorder="1">ran_2020</bcf:citekey>
+    <bcf:citekey order="420" intorder="1">cole_2003</bcf:citekey>
+    <bcf:citekey order="420" intorder="2">iglesias_2017</bcf:citekey>
+    <bcf:citekey order="421" intorder="1">cole_2003</bcf:citekey>
+    <bcf:citekey order="421" intorder="2">iglesias_2017</bcf:citekey>
+    <bcf:citekey order="422" intorder="1">schmitz_2023</bcf:citekey>
+    <bcf:citekey order="422" intorder="2">gupta_2022</bcf:citekey>
+    <bcf:citekey order="423" intorder="1">vahedi_2021</bcf:citekey>
+    <bcf:citekey order="423" intorder="2">ubaidillah_2020</bcf:citekey>
+    <bcf:citekey order="424" intorder="1">omirzak_2022</bcf:citekey>
+    <bcf:citekey order="424" intorder="2">alam_2023</bcf:citekey>
+    <bcf:citekey order="425" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="426" intorder="1">fuchs_1982</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

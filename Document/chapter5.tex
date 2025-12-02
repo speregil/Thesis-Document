@@ -1006,3 +1006,512 @@ These were the most relevant changes considered important to offer the users a b
 workflow of the classroom.
 
 \subsection{Second Development Iteration \label{sec:5-2-3}}
+
+After the period of adjustment derived from the feedback obtained, the second iteration of development took place for approximately six months and focused on giving the students gradual
+access to the different proposed functionalities of \emph{WorkshopAR}.
+
+Throughout the first sets of observation, it was possible to notice that the students were organising their work around the weekly class time and hardly any group was meeting outside the
+classroom. The situation required to adjust the observation protocol to introduce the application during the class. To minimise the disruption to the classroom, it was decided to give the
+students the opportunity to interact with \emph{WorkshopAR} in smaller chunks and with focused elements of the software in mind. This approach also helped in the organisation of the
+development time and resources, as it was possible to focus on the key elements needed for the next functionality to be shown. It also allowed for more and faster opportunities to analyse
+and incorporate feedback into the development.
+
+Based on the results of the first iteration and the comments gathered from the students, it was identified that the interactions with play models and tools focused on team management
+needed to be the priority of development, since those were the most highlighted features.
+
+\subsubsection{Pointing \label{sec:5-2-3-1}}
+
+One of the use cases that was not properly implemented during the first iteration was the functionality to point at different elements in the Room, specifically play models, other
+participants, and points in the physical space. This implementation lost priority due to some of the observations gathered during the first testing phase, as well due to the technical
+issues found for its implementation.
+
+The most relevant issue identified emerged from observations and discussion with participants during the interaction design research (see Section \ref{sec:5-1}) and the initial interviews
+with students. During these sessions, several possible solutions for the interaction design of this functionality emerged as well as possible concerns. Although pointing could be useful
+to clarify an intention and to avoid ambiguity in cluttered spaces, the functionality was seen as secondary to other options, since the participants found it easier and preferable to rely
+on direct communication with their peers, rather than defaulting to communication through their devices. The situation could change significantly in a scenario with remote participants,
+which would need several tools to be able to convey interactions and intentions, but as it was presented to them, the users did not find too much value on the idea.
+
+Another issue found was related with the number of gestures being proposed for different actions and the need to remember them to execute the desired functionality. Users consistently
+proposed or remarked that a better approach was to link a single interaction, like a touch or an air tap, to open a menu or a list of contextual possibilities. This also mirrors the
+current UI design tendencies in similar applications and headsets (see \textcite{arcore_2025,meta_horizon_2025} for example).
+
+The implication of the data found was that it was more important to offer simple and quick interactions rather than using elaborate gestures. Figure \ref{fig:5-28} shows examples of the
+contextual menus created which were linked to single interactions taps to the different digital objects in the room. This implementation was identical for pointing objects and participants.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.28a},width=0.4\textwidth,height=0.4\textheight]{figures/F5-28A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.28b},width=0.4\textwidth,height=0.4\textheight]{figures/F5-28B.jpg}}
+    \caption{Selection Menu for Participants (left) and Play Models (right) \label{fig:5-28}}
+\end{figure}
+
+Initially, the visual design for the functionality focused on the single objective of pointing to an object in the digital space. The idea behind this decision was that students would
+prefer a subtle and simple visual feedback that minimised distractions and possible disruptions to their work. Curiously, upon testing the functionality in the classroom, the students
+found that the idea of pointing or calling attention to an object or participant was not as useful as initially though, or more specifically, was the least useful idea that was coming to
+mind. Students started to propose a wider selection of option for visual markers that could be used in different scenarios, not just pointing. Students proposed scenarios like approving
+and idea, giving feedback in a conversation, asking for the removal of an element or helping to convey a decision taken.
+
+Figure \ref{fig:5-29} shows some of the options added to the \emph{ping} command, that was now treated as an option to add a visual reaction linked to an object or a participant, not only
+the action of pointing. The idea was to offer options to highlight an object, confirm and deny something, all based on the recommendations given by students for different types of
+interactions and situations.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.29a},width=0.3\textwidth,height=0.4\textheight]{figures/F5-29A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.29b},width=0.3\textwidth,height=0.4\textheight]{figures/F5-29B.jpg}}
+    \centering{\includegraphics[alt={Figure 5.29c},width=0.3\textwidth,height=0.4\textheight]{figures/F5-29C.jpg}}
+    \caption{Different Options Added to the Pointing Interaction \label{fig:5-29}}
+\end{figure}
+
+Pointing at an object in the physical space presented a different challenge. The main issue was related to not having a digital anchor that could reliably hold the pointing visualisation,
+like the user anchor or the play models themselves. For a physical object, the pointer had to be positioned in relation to the shared origin of the \emph{digital room} and the perceived
+position of the object by the participant doing the pointing. Two options were proposed to achieve this behaviour within the architecture of \emph{WorkshopAR}:
+
+\begin{itemize}
+    \item Expand the plane detection to identify as many surfaces in the physical environment as possible, creating a set of invisible anchors that could be used to hold the pointer as
+    close as possible to the point in real space.
+    \item Use the \ac{AR} Raycast to estimate a distance to the point in space where the visualisation should be added, based on the visual feedback of the participant's camera.
+\end{itemize}
+
+Since the students preferred the tools to point at the play models rather than to objects in the real space, it was possible to experiment a little with both approaches without fully
+committing to a definitive implementation to show to the students. Figure \ref{fig:5-30} shows examples of the mock-ups implemented for both scenarios.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.30a},width=0.25\textwidth,height=0.4\textheight]{figures/F5-30A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.30b},width=0.55\textwidth,height=0.4\textheight]{figures/F5-30B.jpg}}
+    \caption{General Plane Detection (left) and Raycast Estimation (right) Tools \label{fig:5-30}}
+\end{figure}
+
+Expanding the plane detection offered the most precision at the cost of configuration time. It would be possible to ask the host to spend more time scanning more elements of the environment
+to create this \emph{holders} which could be turned on and off when positioning a pointer in space (or other digital objects, like annotations). The plane detection could also be turned on
+for every client connecting to the \emph{digital room}, distributing the responsibility among all participants and helping to refine the detection of features in the room using shared
+information across the network \parencite{pereira_2021,braud_2017}. In either case, the implementations add a more complex layer of configuration to the digital room, and makes  the
+existence of the \emph{workspace} unnecessary, which was though as a simplification of the process to begin with. This idea can be refined and expanded in future work, focusing on the idea
+of a shared scan of the environment to off-load configuration responsibilities and time.
+
+The Raycast option offered a simpler development as well as a simple interaction process for the users. The problem with this approach is imprecision, mainly because the local position of
+each device in the shared room is not completely synchronised. Not only is each visualisation based on the position of the target image, which is impossible to completely reproduce in
+every scan, but the colocalisation process also always creates a noticeable drift of the visualisation over time, especially if a direct visual to the target image is lost for too long.
+The drifting and the differences in points of view causes that every digital object looks \emph{off place}.
+
+The participants came up with an interesting solution for this scenario using the tools at their disposal. They resolved to point at a thing, digital or physical, using the gaze of the
+user anchor. Since the anchor follows the position and orientation of the device, it was easy for the users to position the anchor in relation to what they wanted to point at. Other
+participants would look at the user anchor through their own devices pointing with the gaze at the object in question. To accommodate this behaviour, a simple tool was developed to extend
+the gaze of the anchor as shown in Figure \ref{fig:5-31} to use it as a digital telescopic pointer. In coordination with the ping animations added, it was possible for the students to
+point at different entities in the room and even convey an array of meanings that were not considered in the initial design.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.31a},width=0.3\textwidth,height=0.4\textheight]{figures/F5-31A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.30b},width=0.5\textwidth,height=0.4\textheight]{figures/F5-31B.jpg}}
+    \caption{Visuals (left) and Controls (right) for the Telescopic Gaze Used for Pointing \label{fig:5-31}}
+\end{figure}
+
+\subsubsection{Interacting with Play Models \label{sec:5-2-3-2}}
+
+It was observed during the first test iteration that students were interested in the possible interactions that could be achieved with the play models and how the tool could be used in
+different types of activities. It was also important to consider that the observation stage would start to take place during the bulk of the work in the Industry Project assignments, were
+the most amount of design work was going to take place and were the tool could be proven to be most useful.
+
+To provide an interesting set of interactions, the development focused on three main objectives related to this functionality and supported by the comments and ideas gathered from students
+and other tests subjects:
+
+\begin{itemize}
+    \item A varied set of shapes that could be adapted to diverse scenarios and ideas.
+    \item The ability to stack and snap models together to create more complex structures.
+    \item A quick and easy interaction using the touch screen or simple movements of the device.
+\end{itemize}
+
+Figure \ref{fig:5-32} shows the simple set of basic models that was added to offer the students different possibilities to build their ideas. The possibility of adding to \emph{WorkshopAR} a
+visualisation of any model build in externals tools was discussed with the students. Although some of them expressed interest in the possibility of interacting with such a functionality,
+there were also those against the idea, or more specifically, against the need of using such a tool. For instance, the diversity of profiles in the backgrounds of the students conforming
+each group meant that only one or two team members had a background in architectural or construction engineering, and sometimes there were none. Therefore, not many students were confident
+or interested in directly manipulating or interacting with architectural models, preferring more high-level discussions or using tools they felt more familiar with. To facilitate the overall
+development of the tools and focusing on as many student profiles as possible, it was decided that the implementation using the base play models was enough.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.32},scale=0.9]{figures/F5-32.jpg}}
+    \caption{Available Play Models \label{fig:5-32}}
+\end{figure}
+
+The interaction itself with the models evolved from the tools implemented for the configuration of the \emph{workspace}, as well as incorporating the feedback obtained around that
+functionality. In this new version of the controls, the movement of each model was linked to a point in the centre of the camera and would follow any movement detected in the device. An
+additional control point was added to the touch screen, where a widget would show the user what interactions where possible when dragging the cursor in a particular direction. The cursor
+would also act as the centre point from which the \emph{Raycast Manager} would work, allowing for the movement of the camera to keep working as a mean to move the play models. This setup
+provided several ways for the user to fine tune their positioning and selection. These same controls were extended to the \emph{workspace} configuration, where the issues were initially
+identified. Figure \ref{fig:5-33} shows examples of the visual elements for these controls.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.33a},width=0.3\textwidth,height=0.4\textheight]{figures/F5-33A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.33b},width=0.3\textwidth,height=0.4\textheight]{figures/F5-33B.jpg}}
+    \centering{\includegraphics[alt={Figure 5.33c},width=0.3\textwidth,height=0.4\textheight]{figures/F5-33C.jpg}}
+    \caption{Control Tools for the Position (left) and Rotation (centre) of the Workspace as Aell as the Positioning of the Play Models (right) \label{fig:5-33}}
+\end{figure}
+
+Parallel to the interaction design for each user to move and position the play models, it was necessary to design and implement a proper protocol to control several participants
+interacting with a single model over the network. The architectural design established the network authority for each play model to the client that initially spawned the model in the \emph{digital room}.
+The final implementation simply expanded that design to coordinate the transfer of ownership whenever some other participant wished to interact with a play model. Since the prototype of
+\emph{WorkshopAR} shown to the students did not contemplate any form of persistence of the session, keeping track of the ownership of models was unnecessary.
+
+The whole process is transparent to the users, and by design, the participants have no awareness of the ownership they may or may not have of a model, since the idea is that the \emph{workspace}
+should be considered as a public zone for shared resources. Nonetheless, it was important to convey the idea that someone else is interacting with a given model, enforcing an external
+protocol to organise the interactions between participants and relying on physical communication and external teamwork. Figure \ref{fig:5-34} shows examples of the visual elements that
+enforce the organised interaction with the play models.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.34},scale=0.8]{figures/F5-34.jpg}}
+    \caption{Visual Elements that Enforce the Shared Interaction Protocol \label{fig:5-34}}
+\end{figure}
+
+Finally, it can be interesting to mention at this point the discarded functionality of the personal workspace. Section \ref{sec:5-1-1-1} explains the logic behind this concept. Through
+the analysis of the literature, the idea of distinguishing between a shared and a personal space surfaced as a concept that needed to be conveyed graphically and through the interaction
+design. From the data gathered, it was determined that the users did not find such a distinction useful or crucial. The possibility of having a private interaction during the shared work
+session was seen as troublesome instead.
+
+One of the focuses of the observation stage would be to identify if any situation or behaviour would justify the implementation of a private workspace. Details of the observations done
+with the students can be found in Chapter \ref{ch6}, but it is important to mention that none of the observations gathered truly related to this topic in a strong sense, at least in the
+immediate context of the work done for the Industry Project course.
+
+\subsubsection{Annotations \label{sec:5-2-3-3}}
+
+The idea behind annotations was to offer the students the ability to record information in written text and to possibly \emph{attach} that knowledge or ideas to elements in the physical
+space, creating relationships between concepts, conveying new meaning or using the space as another resource to work with.
+
+In contrast to the play models, the annotations are not limited to the \emph{workspace}, and can be placed freely anywhere in the room, which necessitated a solution similar to that of
+pointing objects in the space to position the annotation, taking into account all the challenges related to low accuracy and changes in points of view discussed in Section \ref{sec:5-2-3-1}.
+
+During the design analysis and in data gathered from the students, the concern of creating too much visual clutter in the \emph{digital room}, either by accident or maliciously, was
+mentioned. Two tools were constructed with the purpose of giving the students some control over the situation, by allowing to hide some or all the annotations and by allowing each user to
+disable the visual aesthetics created for the digital objects associated to the annotations. Figure \ref{fig:5-35} shows examples of the localisation and control mechanics created for this
+functionality. In the end, as with other tools like the pointing mechanics, it is possible to create a hindrance or a distraction if misused. Some considerations were taken to allow the
+users to manage what is been shown in the local device, but it is important to consider that no amount of control is infallible, and proper team management and digital etiquette is always
+the best policy \parencite{galimullina_2022,ribble_2004}.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.35a},width=0.4\textwidth,height=0.4\textheight]{figures/F5-35A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.35b},width=0.4\textwidth,height=0.4\textheight]{figures/F5-35B.jpg}}
+    \caption{Controls for Adding (left) and Managing (right) Annotations \label{fig:5-35}}
+\end{figure}
+
+For the implementation shown to the students, only text annotation was considered. Although images that could be used as annotations were compatible with the current implementation, there
+was not an easy solution to offer the students the ability to create or add meaningful images to the system, compared to how simple it was to create meaningful text. A solution that was
+prototyped but not tested due to time constraints was to use the local storage and camera utilities of the device to act as a source of images. The emote functionality was also expanded
+to the annotation feature as will be shown in the next section.
+
+\subsubsection{Debates and Emotes \label{sec:5-2-3-4}}
+
+The final functionality implemented that piqued the interest of the users as identified during the test phase was the tool to manage discussions and voting processes. It was also the
+functionality that changed the most from the design phase in response to the comments and ideas collected from the users.
+
+In the original design, an interface was presented to the students with information about the vote question or premise and the possible options to select. The structure and organisation
+of the team around the discussion was left to the students to execute with the amount of structure they wished to implement. This proposal prompted two set of opposing opinions among the
+students. Some users questioned the necessity to interact at all with the application to organise the debate, highlighting how disruptive the idea sounded for the communication between
+participants. In contrasts, others found the idea of interacting with visuals that conveyed more information about the activity as useful and a way to \emph{spice} the conversation and
+help make the activity more interesting. It was clear that the mechanic was divisive at best, so it was important to find a common middle ground between the two views, reinforcing the
+positive aspects of the activity while mitigating the negative observations.
+
+Three elements were identified as the core of the experience and that could provide the most advantages in any scenario or usage of the tool:
+
+\begin{itemize}
+    \item Signal to the participants that an activity involving the whole group was necessary.
+    \item Quickly check information about the discussion topic and the possible answers or options, if any.
+    \item Quickly check the answers provided or the positions taken by each participant.
+\end{itemize}
+
+Alternatively, the most concerning aspects of the use case related to forcing the participants to interact with a digital interface when a quick face-to-face discussion was possible and
+probably creating a hindrance to communication by limiting answers to what was configured in the application. Forcing a strict structure to the debate process also concerned some users
+that could see such process as something that would make any activity with the group take longer or be prone to mistakes and delays.
+
+The final implementation offered the possibility to approach the debate process with two degrees of structure. The loosest version of the activity would act only as a general call to all
+participants in the \emph{digital room} to pay attention to the team member that initiated the activity. The only UI element present would be a notification that a debate was in progress
+and who started it. Elements like the subject of debate, possible answers and the voting process itself was the group's responsibility and outside the flow of the application.
+
+The second level of structure required configuration of a topic and voting options. The UI then would show this information to each participant, as shown in Figure \ref{fig:5-36}. More
+configuration points for the structure of the activity were considered, like forcing participants to vote and allowing for a flow of question-response activity to take place, but only the
+first two levels were implemented and shown to the students, while some other options were discussed.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.36a},width=0.4\textwidth,height=0.4\textheight]{figures/F5-36A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.36b},width=0.4\textwidth,height=0.4\textheight]{figures/F5-36B.jpg}}
+    \caption{Discussion Tool Interface for the First (left) and Second (right) Level of Structure \label{fig:5-36}}
+\end{figure}
+
+Interaction with the UI, especially during the voting process, was completely changed to avoid the major critique of forcing interaction with the device for an activity meant for face-to-face
+communication. Combining the ideas acquired from different users, a system of emotes was implemented linked to the visualisation of the user anchor, which was closer to the position of the
+device and to the person controlling it. The emotes would show a visual from a selection implemented in the application that could represent several meanings depending on the context. The
+emotes implemented represented simple affirmations or negatives, as well as set of possible answers or postures using the letters A, B, C, D and a set of colours. Figure \ref{fig:5-37}
+shows examples of some of the emotes implemented.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.37a},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37A.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37b},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37B.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37c},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37C.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37d},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37D.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37e},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37E.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37f},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37F.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37g},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37G.jpg}}
+    \centering{\includegraphics[alt={Figure 5.37h},width=0.2\textwidth,height=0.15\textheight]{figures/F5-37H.jpg}}
+    \caption{Emotes Created for the Discussion Tool \label{fig:5-37}}
+\end{figure}
+
+The solution was not perfect but emphasised the priorities and the development goals of \emph{WorkshopAR}, using visuals to augment the collaborative process without undermining the value
+and need of communication. It is also the most prominent example of the user-centred design of the tool, and of the importance of incorporating the final user early in the design stage,
+to align the needs of the users with the objectives of the development and to understand the ramifications of a decision in the learning background where the tool is going to be implemented.
+
+\subsection{Analysis of the Second Iteration \label{sec:5-2-4}}
+
+The final evaluation process of \emph{WorkshopAR} tried to focus primarily on the new functionalities shown to the students but also was intended as a post-mortem of the development
+process as a whole and its impact on the overall learning intervention and research goals.
+
+\subsubsection{Implementation and Analysis of the Use Cases \label{sec:5-2-4-1}}
+
+The implementation of the second iteration focused on fleshing out the use cases identified as most relevant during the design phase. In general, users orbited the most around the
+interactions with the play models and the emote features present in the debate tool.
+
+The pointing and debate feature where the ones that changed the most based on feedback and input form the users, incorporating interactions and visuals proposed by the students themselves
+as a direct result of the interaction with the scenarios explored during the observation sessions.
+
+The feedback loop implemented during both instances of testing proved invaluable to understand the real context in which the application was being used, the problems found by the users
+naturally interacting with the software and the workarounds they used. It created opportunities to analyse the behaviours promoted by the tool, to take notes of positive or interesting
+developments to work upon and to identify instances in which was necessary a course correction.
+
+A good example of this feedback loop was the process of implementation for the pointing feature, which was initially designed as a tool to avoid ambiguity in the 3D space. Users found
+this intended purpose unnecessary, defaulting to direct communication with their peers as an easier and more effective way of clarifying any doubt. Yet, they realised that the
+visualisations used for pointing could be recontextualised to convey more meanings, like the use of emotes in others forms of media and communication. When given that connotation, users
+started to incorporate the tool more on their normal conversations, eventually transferring the feature to the debate functionality as their preferred form of communication with other
+participants, now coated with an extra layer of emotional meaning.
+
+An important amount of development time was invested on creating a consistent positioning of digital objects in the \emph{digital room}, with mixed results obtained. A combination of the
+image tracking colocalisation technique and the natural drift present in \ac{AR} visualisations caused several issues with the overall visualisation in each user's device, which often made.
+the users re-scan the target image or even forced them to exit and re-enter the \emph{digital room} to reset the visualisation.
+
+The problems observed were not breaking the experience and were completely expected, hence the tools to reset the whole visualisation. Nonetheless, these issues represented a common focus
+of malcontent and an important aspect of the project to work upon in future research, adapting different techniques to work with drifting ad positioning issues such as the ones proposed by
+\textcite{ran_2020}. It could be of interest to explore these solutions in a shared scenario, specially one with the characteristics observed in the case study, where the point of view of
+the users was constantly moving and the application was not in constant focus on the device.
+
+The second biggest tweak of the initial design is strongly related to this situation, since it explains why the application was constantly losing focus on the device. Users needed to
+concentrate in other aspects of their work not necessarily related to the application, moving to other apps, other devices or simply taking a break from the activity. Several students
+also mentioned not feeling comfortable constantly being aware of their phones to participate in the \emph{work session}, preferring and finding more productive jumping form their laptops
+to a direct conversation with ease, without having to set-up \emph{WorkshopAR} all over again.
+
+This was considered as a major behavioural issue, more suited to be accounted for in the learning design, as will be explored in Section \ref{sec:6-8-2-1}. An approach to deal with the
+situation through the interaction design attempted to give the students the opportunity to keep their devices in a more stable and fixed position using articulated clamp arms, as shown in
+Figure \ref{fig:5-38}. This setup allowed the students to user their devices as a second screen while they were working, with their laptops being the device assigned to production and the
+smartphone rig as a tool for communication and the centre for the shared experience of the group.
+
+\begin{figure}
+    \centering{\includegraphics[alt={Figure 5.38},scale=0.8]{figures/F5-38.jpg}}
+    \caption{Setup with Articulated Arms \label{fig:5-38}}
+\end{figure}
+
+The idea was to find a middle point between a complete free-range use of the device and a more structured and controlled one, but it was still far from perfect. In first instance, it ran
+against the flexibility goals proposed for the design of the tool since the setup forced the group to have access to tables, chairs or similar surfaces to use as a support for the arms,
+as well as having access to the arms themselves or structures that could work like the arms. The situation undermined the idea that WorkshopAR could augment any space to help with a \emph{work session}.
+
+Table \ref{tab:5-4} codes the most important comments and observations gathered from the students around the articulated arms arrangement. Positive outlooks highlighted the \emph{professional}
+look of the setting, which resembled a control centre or a dashboard. Some other students compared it to the setup that some streamers use while creating content, indicating that the
+setting supports the idea of a social activity.
+
+Negative views on the other hand mentioned how cumbersome the arms could get, restricting freedom of movement and forcing the device to be part of this single activity. More important,
+the setting did not fully address the concern of many students that \emph{WorkshopAR} was giving too much emphasis to the phone, giving it a spotlight in the group and facilitating access
+to it, when the focus should be on the conversation or the work being done by the students.
+
+\begin{longtblr}[
+    caption = {Comments About the Articulated Clamp Arms Setup},
+    label = {tab:5-4}
+]{colspec = {lXXl}, width = 0.85\linewidth}
+\hline
+\textbf{User ID}   & \textbf{Comment}                                                                                                                                                                                                      & \textbf{Themes}                          & \textbf{Tone} \\ \hline
+\SetCell[r=3]{c}1  & It feels very excessive, specially the big one, you need a whole table just for the activity                                                                                                                          & Size, Cumbersome                         & Negative                          \\\hline
+                   & The little one (arm) is more discrete (…) I am thinking of those little stands for the phone, you can take them everywhere (…) They are more flexible (...)                                                           & Size, Practicality, Alternative solution & Positive                          \\\hline
+                   & I am committing my phone to the arm, I cannot use it for anything else                                                                                                                                                & Practicality, Phone Access               & Negative                          \\\hline
+\SetCell[r=2]{c}2  & It makes me feel like a tourist with a selfie stick                                                                                                                                                                   & Cumbersome, Negative Comparison          & Negative                          \\\hline
+                   & Once it is set up, it looks very professional, like I am doing a stream (…) can be useful for a more complex work that what I plan to do right   now.                                                                 & Practicality, Positive Comparison        & Positive                          \\\hline
+\SetCell[r=4]{c}3  & It works for keeping the camera pointing at the image (…) but I feel I lost access to my phone, is a weird trade-off.                                                                                                 & Phone Access, Practicality               & Negative                          \\\hline
+                   & I would prefer the small one, if I need to get rid of everything or if the class finished, is less of a problem than the big one, who would carry that?                                                               & Cumbersome                               & Negative                          \\\hline
+                   & If you put the effort, the big one can be useful, it is just awkward to use. Maybe if it is always here in the classroom, and you just put your phone in there to work.                                               & Alternative Solution, Lost Flexibility   & Positive                          \\\hline
+                   & The big one could fit better in an exhibition or a big presentation, with a lot of people checking the AR stuff.                                                                                                      & Alternative Solution, Functionality      & Positive                          \\\hline
+\SetCell[r=2]{c}4  & If I put it here next to the PC now, I feel in a control centre, almost like a hacker. At least it looks interesting.                                                                                                 & Positive Comparison                      & Positive                          \\\hline
+                   & Probably not for everything, but I could work using the smaller arm, using the phone like a second screen (…) checking on the AR stuff (…) and if I am talking with someone while working, it could be a possibility. & Practicality, Functionality              & Positive                          \\ \hline
+\end{longtblr}
+
+Although slightly obstructed by several technical difficulties, which are common in this type of developments, the final round of implementation can be considered a success. It was not
+only possible to prototype and test all the use cases proposed, but substantial iterations over the original design improved and pivoted the original design. The genuine interest of the
+students provided useful insights thanks to their investment in the process and they were able to perceive value in the inclusion of the tool to their workflow.
+
+\subsubsection{Analysis of the Overall Development \label{sec:5-2-4-2}}
+
+The development of \emph{WorkshopAR} was contextualised by the exploratory needs of the research, and the process was always aiming for flexibility and adaptability, as well as framing
+the whole activity as an exercise in user-centred design, which was identified as a useful process to integrate the software development with the learning design at the core of the research.
+
+Chapter \ref{ch4} outlined two main objectives specifically concerned with the technological development of \emph{WorkshopAR} (see section \ref{sec:4-1-3}). The first goal was to provide a
+networking framework that allowed the students to configure a shared experience and create a sense of connection to the digital space to be use for the activity. \emph{WorkshopAR}
+successfully created such an experience in scenarios like the contextualisation that the students gave to the tool, related to the social aspects of their work, and how they adapted what
+they considered the most relevant functionalities of \emph{WorkshopAR} in a way that worked the most for them.
+
+A first positive highlight is related to the \emph{digital room}. The idea of both creating and joining to the \emph{digital room} established in the students the sense of space needed to
+work, as well as allowing for a connection between the members of the group sharing the activity and working towards the same purpose.
+
+In contrast, what initially was considered the most appealing elements of the \emph{digital room}: the play models and the annotations, ended up not being as interesting for the students.
+The users engaged with the functionalities and provided valuable information, but their interest did not go too far from that. One of the main reasons was the nature of the work the
+students were doing for the course, more related to quick chats with their teammates and with the production of written materials.
+
+Ideas and interactions over the concept of the digital room were plentiful, highlighting elements about the different media that could be added to the room to extend its functionality, the
+ability to save and recreate the state of the room to reuse it later and even comparing the tool in general with a 3D repository of information generated by the group, like a more tangible
+version of a shared folder in tools like Dropbox or OneDrive. Other comparison shared mentioned software like Zoom, Discord or Teams. This is important because it shows that the users were
+understanding the \emph{digital room} as a space for connection, communications and shared resources, part of the intended design. It also highlights the social and collaborative elements
+at the core of \emph{WorkshopAR}, and the general design goal of \emph{augmented collaboration}.
+
+The technical difficulties encountered during the development of the networking infrastructure also highlighted one of the most contentious aspects in the implementation of \ac{AR}
+technologies when put into the conditions that can be found in a classroom. A strong argument can be made, based on the observations gathered and the record of similar results in the
+literature (see Chapter \ref{ch2}), that one of the major obstacles of educational \ac{AR} is the lack of stability. The technology tends to fail, its quality depends strongly on the
+capabilities of the devices at hand and it is easy for the users to find points of friction in the usage of any tool, which immediately affects the flow of the learning experience. Another
+telling example for this argument is that the most successful implementations of \ac{AR} found in the literature were related to medical learning and the chirurgical practice, and were
+projects characterised by very tailored technology, often build from the ground up to fulfil the specific learning goal at hand.
+
+An important challenge for implementing any technology in the classroom is offsetting all the extra elements injected by the technology (configurations, accessibility, learning curves,
+points of failure) with the tangible benefits in the fulfilling of the learning goal. In analysing and evaluating the impact of the prototype built, it is possible to propose that the
+following elements linked to the use of \ac{AR} offered the most positive influence and promoted desirable or interesting behaviours in the students:
+
+\begin{itemize}
+    \item The opportunity to discuss the level of structure to implement for the interactions in the group and to have visual elements that identify that structure and allows interactions
+    with it.
+    \item To add layers of meaning to different elements and resources of the collaboration, such as the physical space, the resources at hand and the communication process taking place.
+\end{itemize}
+
+These observations create a contrast with the original hypothesis proposed, where the interaction with the digital objects and the use of strong visuals in the augmentation were proposed
+as the most important drivers of the tool. The evidence shows that the students did not rely much on functionalities like the play models or the annotations but were drawn by most simple
+and practical features like the emotes and the user anchors. These features were also characterised by offering the capacity for expression and choice.
+
+The second goal proposed for the technical aspect of the research was to create a multiplatform experience that highlighted and enabled flexibility in terms of the hardware needed to
+implement the experience on the classroom, to offer increased accessibility and to align to a \ac{BYOD} philosophy of \ac{TEL}.
+
+In terms of development, the tools at disposal in the current market and development environment offer an amazing opportunity to fulfil this objective almost 100\%. \emph{WorkshopAR} covers
+a wide range of mobile devices with a single code base and can cover several more distinct devices with few adaptations.
+
+The interaction design process followed to support the multiplatform objective was also successful, and the user-centred approach proved indispensable to obtain quick feedback and promote
+a development with constant iteration and adaptability, as mentioned several times previously. An interesting follow-up to this line of research would be to offer flexibility on the
+interaction design by coordinating the interaction with different types of input devices.
+
+However, the multiplatform design was not without its issues when tested against the real context of the implementation, and it managed to both overshoot and underperform in the eyes of
+the students. Although compelled for an experience using \ac{AR} to explore and learn different concepts in their professions, the students expressed a strong reticence to the idea of
+relying entirely on the technology to complete their academic work. The responses aligned with previous negative observations around the idea of constantly using the phone during the
+activity in class. The idea of working in the classroom while wearing a headset like the Meta Quest or the HoloLens was out of the question for the same reasons, at least not \emph{with
+the current bulky technology}, as commented by one student.
+
+On the other hand, the design of \emph{WorkshopAR} failed to recognise the constant need of the students to jump in between applications and devices. The most important tool for work
+during the classroom session was the laptops or work tablets or the students, and \emph{WorkshopAR} failed to acknowledge any other device as part of the experience, which caused the
+student to feel that \emph{WorkshopAR} was detached from the workflow. An important lesson here, worthy of further exploration and expansion, is that supporting collaboration between
+people also means supporting collaboration between tools, or the support won't feel complete (check \textcite{cole_2003,iglesias_2017} for some early examples of these same issues in very
+similar contexts but with slightly different technologies).
+
+\subsubsection{Implications for the Research Goals \label{sec:5-2-4-3}}
+
+At the beginning of the architectural design exercise, it was identified that the technological development of \emph{WorkshopAR} would provide interesting information to build a final
+answer for research questions SQ5 and SQ6. Previous sections already illustrated how creating choice and flexibility in the interaction design allowed for a higher impact in the user
+experience and added a sense of social relevance that the other tools created to manage or visualise the team failed to convey. Given these observations, it is possible to identify key
+elements that can be used to build the final answer for the related research questions.
+
+For question SQ5, visualisation and flexibility were identified as the main advantages provided by \ac{AR} technologies that could be used to create a significant impact in the student's
+experience. The students showed preference for unintrusive visuals that could be approached only when desired and that could be used in different contexts, conveying meaning and utility
+based on the situation without getting in the way of the work to be done. These observations could be extrapolated to any \ac{TEL} intervention where it is important to consider that the
+learning activity and not the tool should be the centre of attention. In the context of a collaborative activity, it makes sense that the students would prefer for the tool to work as
+unnoticed as possible, providing aid and not hindrance. It is a delicate balance to achieve that requires a disciplined analysis of the feedback and a consistent iterative development.
+
+The idea of flexibility guided the design when proposing the play model tools and the overall motivation of transforming any space into a working space. It was observed that this idea of
+flexibility could permeate even more elements of the design, such as the processes related to organising the team, organise discussions and communicating ideas through the application,
+which were originally too rigidly structured.
+
+Some students welcomed the structure provided by the application, especially those having problems organising the group or needing explicit guidelines for their work, but it was resented
+by more organised or veteran students, who felt the activity was too restrictive. This hints at a need for structure, but allowing for workarounds and configuration. A similar situation
+was present when students found ways of customising their presence in the digital space and finding tools to create tailored forms of communication, which were initially considered but not
+given the importance they finally acquired.
+
+All of these observations resonate very well with the educational nature of the tool: Useful visuals that do not steal the focus from the learning goal and a flexible structure that
+accommodates the different types of learners that could interact with the application.
+
+Question SQ6 is more concerned with the opportunities created by a multiuser platform for education, and the effect of mediating communication by technology. Creating a mostly transparent
+networking process was helpful to ensure that the friction created by the introduction of the tool was minimised as much as possible, giving extra strength to the idea that any
+technological intervention works the best when it is as invisible as possible. The usage of the tool itself was promoting social structures that were not desired (i.e., the responsibilities
+of the host user) and it was necessary to redesign the approach so that any social structure, goal or task assigned to any participant came from the own team management process and were
+supported by the tool, not enforced by it.
+
+A final important lesson related to the multiuser approach was to not underestimate the importance of the social aspects present in any form of collaborative learning. It was possible to
+identify that there was a misplaced focus on promoting management and organisational skills through the pedagogical design of the activities, sometimes sabotaging equally important skills
+related to socialisation, communication and emotional management. This is true for both, the design of \emph{WorkshopAR}, that found the most success among the students when presenting
+interesting forms of communication on top of the team management tools, and the case study in general, in which the students struggled the most with the social and communications aspects
+of the project rather than the technical ones.
+
+\section{Conclusions \label{sec:5-3}}
+
+\emph{WorkshopAR} was the result of an iterative software development aimed at understanding positive ways of using \ac{AR} technologies in a collaborative learning approach. The end
+result was a prototype that allowed the users to integrate into their workflow a set of tools that helped them to visualise all the components in motion needed for an effective teamwork
+and to actively participate in the procedures that make such work possible. \emph{WorkshopAR} helped to illustrate and visualise all the elements and activities done when working in groups
+that sometimes are executed unconsciously and without acknowledgment of their functionalities. The software also helped to guide the discussion to the improvements that could take place for
+better results in the future and of the possibility of transferring the skills being developed into other scenarios.
+
+Coming from an exhaustive design stage that identified several use case scenarios in which the students used WorkshopAR in their learning activities, and by constantly comparing the
+prototyped functionalities against the data obtained from testing, it is possible to highlight the three main elements provided by \emph{WorkshopAR} that better align with the learning
+goals of the case study and that proved to generate the most value for the research context in which the development took place:
+
+\begin{itemize}
+    \item \textbf{Working in a Shared AR Room:} Although immersion was not a main design objective for \emph{WorkshopAR}, it was important for the students to identify that the activities
+    done using the tool moved in a digital space that was in sync with their activities in the real space. The concept of the \emph{digital room} was related to the idea of a space for
+    working. Entering the \emph{digital room} was equivalent to be part of the activity, and the Room was seen as a repository for digital content. But the Room also existed alongside the
+    other tools and resources being used in the classroom (the workshops of the course, the teaching assistants, the students of other groups, etc.) and the students were able to propose
+    ways to integrate all of these elements in order to achieve the desired results.
+
+    All of these observations aligned very well with the original intention of the design and support the idea that \emph{a sense of immersion} in the context of \ac{AR} technologies
+    include the physical space and many other elements outside the tool itself. This take on \ac{AR} creates an advantage when it is important to not lose focus of the context in which
+    students are learning, or when the context is also helping achieve their learning goal. 
+    \item \textbf{Having a digital presence in the digital space:} \ac{AR} is a tool that works around visualisation and interaction. There was an important effort in the design and
+    implementation process to create different options that capitalised on these advantages provided by \emph{WorkshopAR}. The students resonated the most with the possibility of having a
+    visual representation of themselves in the digital space, not only for personalisation and general socialisation, but as a point for interaction with their peers and the environment.
+    Being able to see information about who is who and the tasks being performed created the biggest sense of \emph{augmentation} of the activity and the biggest source of opportunities to
+    work in the future.
+    \item \textbf{Having visual and flexible tools for communication:} On a similar note, the tools provided for communication created a lot of impact on the activities of the students. The
+    main takeaway from the observation related to these tools (discussions, emotes, pointers) is about flexibility and expression. The elements provided for communication were simple,
+    expandable and context-independent, which gave the students the opportunity to use them in diverse scenarios and adapt them to their needs and preferences, highlighting the social
+    nature of the application and an important avenue for future research.
+\end{itemize}
+
+The original set of hypotheses gave more emphasis to the interaction with play models and with the management of the team as the focal drivers of the activities in the classroom. That was
+clearly not the case, but it is interesting to observe that those activities emphasised the same high-level aspects of the experience: A rich visual interaction with the environment and
+access to tools for social interaction.
+
+The development of \emph{WorkshopAR} also served to explore different sets of tools and approaches to tackle the difficulties often found in many \ac{TEL} developments, as identified in
+the literature. The technical challenges associated to teaching software are mostly related to the evolving and sometimes unpredictable needs of the classroom. Software that creates too
+much friction in its use is often abandoned. If the tool is perceived as unreliable, inflexible, or with a steep learning curve the benefits of using it does not cover its drawbacks.
+
+\emph{WorkshopAR} was not intended as a solution to these issues. It was an informed exercise that could provide insights by analysing the process followed and how different situations
+were handled (or mishandled). The documentation of the architectural design offered value by showing how the software and the learning design were integrated since the conception of the
+solution, based on the learning goals at hand and the adjustments done based on the input of the users interacting with the tool on-site.
+
+In the same way, reporting the implementation process served as a record of the translation done of the initial design into a prototype. It highlighted the most important decisions and
+the rationale behind them in light of the research and learning goals. It also showed what elements of the design worked and which did not, and the steps taken to ensure that the software
+was evolving based on data and careful analysis.
+
+At the end of the process, it is possible to extract some lessons from the analysis of the results, based both on the limited scope in time and resources for the development and the rich
+opportunities for observation during the one-to-one contact with the users that the case study provided.
+
+\begin{itemize}
+    \item \textbf{Students, teachers and developers need to be aligned.} These are often three different entities in the development process, and it is often the responsibility of the
+    developer to coordinate and organise the other two roles for the purpose of the development. But it is important for the developer to understand that the teacher is the role that
+    should be guiding the process, as it is the teacher who truly knows the issues and needs of the classroom \parencite{schmitz_2023,gupta_2022}. It is also the teacher who needs to
+    juggle the new technology along with the other myriad of elements that make a lesson possible. Equally important is to understand that the end user is the student, and that any
+    teaching plan will fail if the student is not engaged. If the teacher is the one guiding the process, it is the student who shapes the final product \parencite{vahedi_2021,ubaidillah_2020}.
+    
+    The development of \emph{WorkshopAR} was successful thanks to understanding this line of work and maintaining a constant conversation with students and teachers, which helped in
+    understanding what was not working and why. It was thanks to the help of the teaching staff that a good understanding was achieved of the context of the Industry Project course, but a
+    better involvement of the side of the educator in the development process is needed, and this is a valuable line of research for future work.
+    \item \textbf{Generalised vs Focalised design.} There is an appeal to propose a tool than can cover many if not all aspects of a problem. But an all-encompassing tool is a massive
+    challenge, especially in contrast to the low scale and scope of many \ac{TEL} projects. Even within the specialised field of collaborative learning inside the scope of \emph{WorkshopAR},
+    the design could have focused even more on the functionalities offered to the students. A hypothetical third iteration could have focused on the social and communication aspects that
+    resonated the most with the users, polishing the present functionalities and exploring more avenues of interaction in this area.
+    \item \textbf{Technology ecosystems.} At higher levels of scholarity, it is important to consider that any technology used as a learning tool enters into a complex ecosystem of tools
+    trying to cooperate (and compete) in aiding the user to achieve a goal \parencite{omirzak_2022,alam_2023}. Even when a stellar functionality is offered, it could be eclipsed by a lack
+    of connectivity with other tools or because it is a poor fit in that ecosystem. At this point, it is clear that this is a consideration mostly exclusive for tertiary education scenarios,
+    but it is possible to imagine a situation in which a solution proposed needs to consider the technology used by teachers, administration and the institution in general, even at primary
+    or secondary-level education.
+\end{itemize}
+
+This concludes the exploration and analysis of the development of \emph{WorkshopAR}, of the process followed to ensure that the educational and technological goals were fulfilled, of the
+tools used to gather, analyse and incorporate feedback, and the evaluation of the results obtained to identify failure points and pathways for future work.

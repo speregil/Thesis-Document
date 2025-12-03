@@ -116,6 +116,14 @@
 \contentsline {subsubsection}{First Open Work Session }{208}{section*.151}%
 \contentsline {subsection}{\numberline {6.4.3}Preliminary Analysis }{211}{subsection.6.4.3}%
 \contentsline {section}{\numberline {6.5}Weeks 5 to 9: Poster Presentation }{212}{section.6.5}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{213}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{227}{appendix.B}%
-\contentsline {chapter}{References}{229}{appendix*.155}%
+\contentsline {subsection}{\numberline {6.5.1}General Observations }{213}{subsection.6.5.1}%
+\contentsline {subsubsection}{A Bad Example: Team C }{213}{section*.153}%
+\contentsline {subsubsection}{A Good Example: Team D }{214}{section*.154}%
+\contentsline {subsection}{\numberline {6.5.2}Intervention with WorkshopAR }{214}{subsection.6.5.2}%
+\contentsline {subsubsection}{Annotations and Debate Features }{215}{section*.155}%
+\contentsline {subsubsection}{Play Models }{216}{section*.157}%
+\contentsline {subsection}{\numberline {6.5.3}Preliminary Analysis }{217}{subsection.6.5.3}%
+\contentsline {section}{\numberline {6.6}Weeks 10 to 13: Interim Client Report }{219}{section.6.6}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{220}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{234}{appendix.B}%
+\contentsline {chapter}{References}{236}{appendix*.161}%

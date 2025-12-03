@@ -1029,6 +1029,16 @@ INPUT ./figures/F6-5.jpg
 INPUT ./figures/F6-5.jpg
 INPUT ./figures/F6-5.jpg
 INPUT ./figures/F6-5.jpg
+INPUT ./figures/F6-6.jpg
+INPUT ./figures/F6-6.jpg
+INPUT ./figures/F6-6.jpg
+INPUT ./figures/F6-6.jpg
+INPUT ./figures/F6-6.jpg
+INPUT ./figures/F6-7.jpg
+INPUT ./figures/F6-7.jpg
+INPUT ./figures/F6-7.jpg
+INPUT ./figures/F6-7.jpg
+INPUT ./figures/F6-7.jpg
 INPUT ./appendixa.tex
 INPUT ./appendixa.tex
 OUTPUT appendixa.aux

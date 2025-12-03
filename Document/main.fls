@@ -274,6 +274,9 @@ INPUT chapter5.aux
 INPUT ./chapter6.aux
 INPUT ./chapter6.aux
 INPUT chapter6.aux
+INPUT ./chapter7.aux
+INPUT ./chapter7.aux
+INPUT chapter7.aux
 INPUT ./appendixa.aux
 INPUT ./appendixa.aux
 INPUT appendixa.aux
@@ -1039,6 +1042,17 @@ INPUT ./figures/F6-7.jpg
 INPUT ./figures/F6-7.jpg
 INPUT ./figures/F6-7.jpg
 INPUT ./figures/F6-7.jpg
+INPUT ./figures/F6-8.jpg
+INPUT ./figures/F6-8.jpg
+INPUT ./figures/F6-8.jpg
+INPUT ./figures/F6-8.jpg
+INPUT ./figures/F6-8.jpg
+INPUT ./chapter7.tex
+INPUT ./chapter7.tex
+OUTPUT chapter7.aux
+INPUT ./chapter7.tex
+INPUT ./chapter7.tex
+INPUT chapter7.tex
 INPUT ./appendixa.tex
 INPUT ./appendixa.tex
 OUTPUT appendixa.aux
@@ -1076,6 +1090,9 @@ INPUT chapter5.aux
 INPUT ./chapter6.aux
 INPUT ./chapter6.aux
 INPUT chapter6.aux
+INPUT ./chapter7.aux
+INPUT ./chapter7.aux
+INPUT chapter7.aux
 INPUT ./appendixa.aux
 INPUT ./appendixa.aux
 INPUT appendixa.aux

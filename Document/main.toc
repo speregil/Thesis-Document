@@ -124,6 +124,26 @@
 \contentsline {subsubsection}{Play Models }{216}{section*.157}%
 \contentsline {subsection}{\numberline {6.5.3}Preliminary Analysis }{217}{subsection.6.5.3}%
 \contentsline {section}{\numberline {6.6}Weeks 10 to 13: Interim Client Report }{219}{section.6.6}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{220}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{234}{appendix.B}%
-\contentsline {chapter}{References}{236}{appendix*.161}%
+\contentsline {subsection}{\numberline {6.6.1}General Observations }{220}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Intervention with WorkshopAR }{220}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Preliminary Analysis }{221}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Iterations over the Semester Break }{222}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Weeks 14 to 20: Second Semester Observations }{223}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}General Observations }{224}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6.8.2}Intervention with WorkshopAR }{225}{subsection.6.8.2}%
+\contentsline {subsubsection}{Setup with the Articulated Clamp Arms }{225}{section*.159}%
+\contentsline {subsubsection}{Communication Features and Emotes }{226}{section*.160}%
+\contentsline {subsection}{\numberline {6.8.3}Preliminary Analysis }{227}{subsection.6.8.3}%
+\contentsline {section}{\numberline {6.9}Analysis of Students' Observations and Responses }{228}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Team Management }{229}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Team Management }{229}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Learning Mechanisms }{230}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6.10}Analysis of Teaching Staff's Observations and Responses }{231}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Effective Collaboration }{232}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}Teaching Collaboration }{232}{subsection.6.10.2}%
+\contentsline {section}{\numberline {6.11}Conclusions }{233}{section.6.11}%
+\contentsline {chapter}{\numberline {7}Conclusions }{236}{chapter.7}%
+\contentsline {subsection}{\numberline {7.0.1}Research Questions }{238}{subsection.7.0.1}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{240}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{254}{appendix.B}%
+\contentsline {chapter}{References}{256}{appendix*.164}%

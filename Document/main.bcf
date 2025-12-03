@@ -3585,8 +3585,26 @@
     <bcf:citekey order="430" intorder="2">robinson_2012</bcf:citekey>
     <bcf:citekey order="431" intorder="1">an_2006</bcf:citekey>
     <bcf:citekey order="431" intorder="2">robinson_2012</bcf:citekey>
-    <bcf:citekey order="432" intorder="1">fuchs_1982</bcf:citekey>
-    <bcf:citekey order="433" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="432" intorder="1">forsling_2023</bcf:citekey>
+    <bcf:citekey order="432" intorder="2">flanigan_2023</bcf:citekey>
+    <bcf:citekey order="432" intorder="3">falth_2024</bcf:citekey>
+    <bcf:citekey order="432" intorder="4">consoli_2025</bcf:citekey>
+    <bcf:citekey order="433" intorder="1">consoli_2025</bcf:citekey>
+    <bcf:citekey order="433" intorder="2">falth_2024</bcf:citekey>
+    <bcf:citekey order="433" intorder="3">flanigan_2023</bcf:citekey>
+    <bcf:citekey order="433" intorder="4">forsling_2023</bcf:citekey>
+    <bcf:citekey order="434" intorder="1">barbieri_2025</bcf:citekey>
+    <bcf:citekey order="434" intorder="2">ma_2026</bcf:citekey>
+    <bcf:citekey order="435" intorder="1">barbieri_2025</bcf:citekey>
+    <bcf:citekey order="435" intorder="2">ma_2026</bcf:citekey>
+    <bcf:citekey order="436" intorder="1">le_2018</bcf:citekey>
+    <bcf:citekey order="436" intorder="2">kaendler_2015</bcf:citekey>
+    <bcf:citekey order="436" intorder="3">hendry_2003</bcf:citekey>
+    <bcf:citekey order="437" intorder="1">hendry_2003</bcf:citekey>
+    <bcf:citekey order="437" intorder="2">kaendler_2015</bcf:citekey>
+    <bcf:citekey order="437" intorder="3">le_2018</bcf:citekey>
+    <bcf:citekey order="438" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="439" intorder="1">fuchs_1982</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

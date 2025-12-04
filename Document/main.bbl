@@ -3540,6 +3540,62 @@
       \verb 10.2139/ssrn.5433874
       \endverb
     \endentry
+    \entry{chiriac_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=38969de757be9a4d6cae9d602f42aee3}{%
+           family={Chiriac},
+           familyi={C\bibinitperiod},
+           given={Eva\bibnamedelima Hammar},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de0ca8b9948f2ef26c9bb09b6c68232f}{%
+           family={Granström},
+           familyi={G\bibinitperiod},
+           given={Kjell},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{fullhash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{fullhashraw}{49aa345ef372edd2c8155ce79490017b}
+      \strng{bibnamehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authorbibnamehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authornamehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authorfullhash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authorfullhashraw}{49aa345ef372edd2c8155ce79490017b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1354-0602, 1470-1278}
+      \field{journaltitle}{Teachers and Teaching}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Teachers’ leadership and students’ experience of group work}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{345\bibrangedash 363}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/13540602.2012.629842
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13540602.2012.629842
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13540602.2012.629842
+      \endverb
+    \endentry
     \entry{chowdhury_2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=da6c62ec92e8cc5ecab3cab59edd1a0a}{%
@@ -6467,6 +6523,63 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
+      \endverb
+    \endentry
+    \entry{gillies_2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f255dc2406c6779b9ea6142b8c4247f}{%
+           family={Gillies},
+           familyi={G\bibinitperiod},
+           given={Robyn\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dbf9326d486a3da484fe0bb3c0a8d09}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{fullhash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{fullhashraw}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{bibnamehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authorbibnamehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authornamehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authorfullhash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authorfullhashraw}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0742051X}
+      \field{journaltitle}{Teaching and Teacher Education}
+      \field{month}{5}
+      \field{number}{4}
+      \field{shorttitle}{Teachers' reflections on cooperative learning}
+      \field{title}{Teachers' reflections on cooperative learning: {Issues} of implementation}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{26}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{933\bibrangedash 940}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.tate.2009.10.034
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0742051X09002327
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0742051X09002327
       \endverb
     \endentry
     \entry{good_1984}{article}{}{}
@@ -22445,6 +22558,62 @@
       \verb 10.2139/ssrn.5433874
       \endverb
     \endentry
+    \entry{chiriac_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=38969de757be9a4d6cae9d602f42aee3}{%
+           family={Chiriac},
+           familyi={C\bibinitperiod},
+           given={Eva\bibnamedelima Hammar},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de0ca8b9948f2ef26c9bb09b6c68232f}{%
+           family={Granström},
+           familyi={G\bibinitperiod},
+           given={Kjell},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{fullhash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{fullhashraw}{49aa345ef372edd2c8155ce79490017b}
+      \strng{bibnamehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authorbibnamehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authornamehash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authorfullhash}{49aa345ef372edd2c8155ce79490017b}
+      \strng{authorfullhashraw}{49aa345ef372edd2c8155ce79490017b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1354-0602, 1470-1278}
+      \field{journaltitle}{Teachers and Teaching}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Teachers’ leadership and students’ experience of group work}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{345\bibrangedash 363}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/13540602.2012.629842
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13540602.2012.629842
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13540602.2012.629842
+      \endverb
+    \endentry
     \entry{chowdhury_2002}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=da6c62ec92e8cc5ecab3cab59edd1a0a}{%
@@ -25372,6 +25541,63 @@
       \endverb
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/10494820.2023.2195445
+      \endverb
+    \endentry
+    \entry{gillies_2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8f255dc2406c6779b9ea6142b8c4247f}{%
+           family={Gillies},
+           familyi={G\bibinitperiod},
+           given={Robyn\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dbf9326d486a3da484fe0bb3c0a8d09}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{fullhash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{fullhashraw}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{bibnamehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authorbibnamehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authornamehash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authorfullhash}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \strng{authorfullhashraw}{2af9ac9c6dcf5131fe9fa8e5aebcf1ba}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0742051X}
+      \field{journaltitle}{Teaching and Teacher Education}
+      \field{month}{5}
+      \field{number}{4}
+      \field{shorttitle}{Teachers' reflections on cooperative learning}
+      \field{title}{Teachers' reflections on cooperative learning: {Issues} of implementation}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{26}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{933\bibrangedash 940}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.tate.2009.10.034
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0742051X09002327
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0742051X09002327
       \endverb
     \endentry
     \entry{good_1984}{article}{}{}

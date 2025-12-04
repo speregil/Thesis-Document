@@ -802,7 +802,7 @@
 		\mbox {\ and}\linebreak
 		\mbox {the\ \__degree_currdept: }
 	}
-    \linebreak \mbox {in\ partial\ fulfillment\ of\ the\ requirements\ for\ the\ 
+    \linebreak \mbox {in\ fulfillment\ of\ the\ requirements\ for\ the\ 
 		\int_compare:nNnTF { \g_degree_degreecnt_int } > {1} {degrees} {degree}
 	\ of}
 	\par

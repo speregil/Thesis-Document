@@ -3605,6 +3605,10 @@
     <bcf:citekey order="437" intorder="3">le_2018</bcf:citekey>
     <bcf:citekey order="438" intorder="1">fuchs_1982</bcf:citekey>
     <bcf:citekey order="439" intorder="1">fuchs_1982</bcf:citekey>
+    <bcf:citekey order="440" intorder="1">chiriac_2012</bcf:citekey>
+    <bcf:citekey order="440" intorder="2">gillies_2010</bcf:citekey>
+    <bcf:citekey order="441" intorder="1">chiriac_2012</bcf:citekey>
+    <bcf:citekey order="441" intorder="2">gillies_2010</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -5,7 +5,7 @@ gather data related to the research questions formulated. This and the following
 development process followed, the technical analysis done to accommodate the educational context of the development, the technical issues found through the design and
 implementation stages, the results obtained and the path forward for future implementations.
 
-This chapter will focus on the description and analysis of the conception and design stages of WorkshopAR, a prototype implementation and proof of concept of an \ac{AR}
+This chapter will focus on the description and analysis of the conception and design stages of WorkshopAR, a prototype implementation and proof of concept of an \acf{AR}
 technology for education. Specifically, the intention of this chapter is to discuss these  main points:
 
 \begin{itemize}
@@ -17,8 +17,8 @@ technology for education. Specifically, the intention of this chapter is to disc
 \end{itemize}
 
 As stated in Chapter \ref{ch1}, the educational pillar of the research has never been far from its software development counterpart. This is especially important in the
-conception-design-implementation cycle used for the development of \emph{WorkshopAR}. It was essential to stablish the proper motivation behind the software development in
-terms of educational research, its broader position in the field of \ac{TEL} and its more particular purpose in the context of the case study selected for this project.
+conception-design-implementation cycle used for the development of \emph{WorkshopAR}. It was essential to establish the proper motivation behind the software development in
+terms of educational research, its broader position in the field of \acf{TEL} and its more particular purpose in the context of the case study selected for this project.
 
 Chapter \ref{ch1} also offered a detailed explanation of the research questions that motivate the construction of a specialised software. To summarise that information,
 this thesis aims to identify what elements, unique to \ac{AR} technologies, can be used to enhance the classroom experience by offering benefits that are different or
@@ -109,10 +109,10 @@ does state that \ac{AR} offer advantages using clever visualisations and quick i
 
 \subsection{Context: Built Environments Industry Project Course \label{sec:4-1-1}}
 
-Industry Project (ENBU 79X/89X in the university's enrolment system) is the final course offered for a variety of programs under the Built Environments department at
+Industry Project (ENBU79X/89X in the university's enrolment system) is the final course offered for a variety of programs under the Built Environments department at
 \ac{AUT}. This department includes the undergraduate programs of Architecture, Construction and Architectural Engineering, Civil Construction and Spatial Design.
 
-ENBU 79X/89X is described as a multi-disciplinary course focused on providing an industry project experience that bridges the academical studies of the program and the
+ENBU79X/89X is described as a multi-disciplinary course focused on providing an industry project experience that bridges the academical studies of the program and the
 professional career of the students. In educational terms, this is a project-based course, providing the students a year-long case study that they must work out as a team
 to provide a solution design, a construction plan, and an estimation of costs. The course does not provide a conventional curriculum or study plan, as it is mostly devoid
 of content. Instead, the course acts more as a final opportunity to assess the skills and knowledge gained in previous courses, akin to a research project or thesis.
@@ -135,7 +135,7 @@ department: \ac{AE}, \ac{CE}, \ac{CM}, and \ac{QS}. Each role represents an impo
 each role. Every role has a particular set of goals inside the project and works towards specific learning outcomes. The project is built around constant communication
 within the group, distribution of tasks, and effective collaboration to succeed.
 
-In summary, ENBU 79X/89X is a course that focuses on developing crucial soft skills on students in the context of project development and management, emulating in
+In summary, ENBU79X/89X is a course that focuses on developing crucial soft skills on students in the context of project development and management, emulating in
 different ways common processes and scenarios found on the construction industry. In general, the learning goals can be enunciated as:
 
 \begin{enumerate}
@@ -148,7 +148,7 @@ different ways common processes and scenarios found on the construction industry
 
 The course provided other set of particularities and complexities that made it a very interesting case study to explore in detail. All that information can be found in
 Chapter \ref{ch5}. For this section, this is enough context to position the development of \emph{WorkshopAR}. The course provided an ideal scenario to test goals associated with
-teamwork and \ac{CL}, as well as to provide the opportunity to have evidence of this process in all the stages of development of both a collaborative
+teamwork and \acf{CL}, as well as to provide the opportunity to have evidence of this process in all the stages of development of both a collaborative
 project and a course, not only in an individual assessment or lesson.
 
 With this context at hand, we can position \emph{WorkshopAR} as an educational technology development meant to offer support to the students of the Industry Project course
@@ -179,7 +179,7 @@ These scenarios represent the general framework used to provide context to more 
 The scenarios are born from the learning goals of the course but not necessarily from the particularities of its development. They represent common instances of
 collaborative work and common roadblocks in the development of effective teamwork (see Section \ref{sec:2-1-4}). A deeper analysis of the implementation of the tool is
 described in Chapter \ref{ch5}, and a description of the changes and adaptations needed to properly incorporate \emph{WorkshopAR} as part of the observed cohort of
-ENBU 79X/89X can be found in Chapter \ref{ch6}.
+ENBU79X/89X can be found in Chapter \ref{ch6}.
 
 \subsubsection{Scenario 1: Team Management \label{sec:4-1-2-1}}
 
@@ -251,7 +251,7 @@ goals, active resources and a physical space to which is anchored.
 \end{figure}
 
 The second development constraint that can be analysed at this stage is related to resources. Ideally, WorkshopAR should be able to provide or interact with all the
-resources the group needs to perform their work. In just the context of ENBU 79X/89X, the list of available resources could comprise elements such as:
+resources the group needs to perform their work. In just the context of ENBU79X/89X, the list of available resources could comprise elements such as:
 
 \begin{itemize}
     \item Tools for creating documents and presentations.
@@ -325,7 +325,7 @@ The second development goal is to provide a platform-independent solution that c
 \ac{BYOD} initiatives \parencite{imazeki_2014,valjataga_2016} due to accessibility and ubiquity. Mobile devices also offer hardware solutions to several of the networking
 objectives proposed previously.
 
-Additionally, a solution that is platform-independent can also aim to accommodate \ac{AR} devices that are not based specifically on smartphones, such as specialised \ac{MR}
+Additionally, a solution that is platform-independent can also aim to accommodate \ac{AR} devices that are not based specifically on smartphones, such as specialised \acf{MR}
 headsets like the Meta Quest 3, Magic Leap or the HoloLens. This would create a challenge in design to adapt the control and interactions of the experience specifications
 that each participant has access throughout a session. Figure \ref{fig:4-3} shows a high-level architecture of a possible solution for this scenario, which is similar to
 other systems that offer cross-platform functionalities, commonly across a web deployment \parencite{medvidovic_2002}.
@@ -356,7 +356,7 @@ and are affected by the learning goals proposed previously.
 
 The scenarios described in the previous section represent the general goals for which WorkshopAR will be used as an intervention in a learning setting. To start the
 software design process, the first step is to identify and describe the specific functional requirements to be developed. The following section will describe the most
-relevant requirements identified for the research intervention of ENBU 79X/89X. This information is going to be described in the form of use cases, or user stories, to
+relevant requirements identified for the research intervention of ENBU79X/89X. This information is going to be described in the form of use cases, or user stories, to
 emphasise three aspects:
 
 \begin{itemize}
@@ -368,7 +368,7 @@ emphasise three aspects:
 Before exposing the use cases, it is necessary to discuss some of the vocabulary that is going to be used in the descriptions. These are terms referring to common elements
 of the interaction with the app, the activities enabled by it and the resources used to create the experience.
 
-A \emph{user} is any student using the app. Every user has a personal profile that is shared between sessions. Although in the context of ENBU 79X/89X all students belong
+A \emph{user} is any student using the app. Every user has a personal profile that is shared between sessions. Although in the context of ENBU79X/89X all students belong
 to a particular group for the development of the course's project, the app is not going to enforce that organisation, and a user can become a participant in any session
 available.
 
@@ -482,7 +482,7 @@ discussions.
 \subsection{Add and Interact with a Model in the Digital Room \label{sec:4-2-7}}
 
 \textbf{Description:} This interaction is related to simple digital models either build in external tools and imported to \emph{WorkshopAR} for visualisation or built in
-the tool using simple construction blocks. Since the main objective of ENBU 79X/89X is related to architectural design, this interaction with digital models is meant to
+the tool using simple construction blocks. Since the main objective of ENBU79X/89X is related to architectural design, this interaction with digital models is meant to
 facilitate communication and discussions related to this field. This communication can be centre d around collaborative creation of a design or discussing ideas, getting
 feedback or proposing changes. This use case considers all the interactions needed to add the models to the app, share them in the \emph{digital room} and perform simple
 interactions with them like moving, selecting and transforming (e.g., moving, rotating, scaling) the models.
@@ -672,7 +672,7 @@ multi-platform deployment of the software. Some of the issues related to network
 configuration and provides a framework to communicate information or to coordinate states of the objects across a network.
 
 Finally, one of the biggest advantages of using Unity (and other similar tools) is that it provides an implementation of the OpenXR framework \parencite{openxr_2016}.
-This framework is and open-source implementation that abstracts into a common language all the specifics of different \ac{VR}, \ac{AR} and \ac{MR} devices in the market.
+This framework is and open-source implementation that abstracts into a common language all the specifics of different \acf{VR}, \ac{AR} and \ac{MR} devices in the market.
 OpenXR provides a platform-agnostic implementation of different features like tracking management, display, environment tracking, input handling, among other things. This
 is a useful tool that helps in maintaining a single code base for the application and easily deploys it on different platforms at the same time. The project can then focus
 on solving specific problems without having to deal with issues at the hardware level.
@@ -1019,7 +1019,7 @@ through the network. The main objective is to understand the macro functions of 
 the most crucial elements that need to be tested. This activity was also a useful tool for the interaction design process and for the initial generation of ideas about how students could
 be using the software, what collaborative activities should be supported and the behaviours that could be promoted by the experience.
 
-\subsubsection{Digital Room creation and join \label{sec:4-3-5-1}}
+\subsubsection{Digital Room Creation and Join \label{sec:4-3-5-1}}
 
 The most basic interaction between users is to create a \emph{digital room} and start a work session. The idea is to distribute responsibilities between what is provided by the tool and
 what the group must coordinate and discuss physically. Taking this philosophy in consideration, the process of creating a \emph{digital room} can be described in the following steps:

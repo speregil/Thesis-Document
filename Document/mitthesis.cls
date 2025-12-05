@@ -830,7 +830,7 @@
 		\mbox {\ and}\linebreak
 		\mbox {the\ \__degree_currdept: }
 	}
-    \linebreak \mbox{on\ \g_dd_thesisdate_tl\ in\ partial\ fulfillment\ of\ the\ requirements\ for\ the\ 
+    \linebreak \mbox{on\ \g_dd_thesisdate_tl\ in\ fulfillment\ of\ the\ requirements\ for\ the\ 
 		\int_compare:nNnTF { \g_degree_degreecnt_int } > {1} {degrees} {degree}
 	\ of}
 	\skip_vertical:n { 6pt plus 2pt minus 2pt }
@@ -882,37 +882,37 @@
     %\hspace{1.35in} \= \hspace{1in} \kill 
     %%% replaced eight \> by &; eliminate tabbing, 2025/1/15
     \noindent
-    { \tagpdfsetup{table/tagging=presentation}
-        \begin{tabular}{@{}ll@{}}
-    	\int_do_while:nNnn { \g__signature_autno_int } < { \g_author_authorcnt_int } {
-    		\int_gincr:N  \g__signature_autno_int
-    		Authored\ by: & \seq_item:cn { g_author_name_seq } { \g__signature_autno_int } \\  
-    		& \seq_item:cn { g_author_department_seq } { \g__signature_autno_int } \\
-    		& \g_dd_thesisdate_tl \\[1em]
-    	}
-    	\int_do_while:nNnn { \g__signature_supno_int } < { \g_supervisor_supervisorcnt_int } {
-    		\int_gincr:N  \g__signature_supno_int
-    		Certified\ by: & \seq_item:cn { g_supervisor_name_seq } { \g__signature_supno_int } \\
-    		& \seq_item:cn { g_supervisor_title_seq } { \g__signature_supno_int },\ 
-    			\g_titlepage_supervisor_designation_tl \\[1em]
-    	}
-    	\int_compare:nNnF { \g_acceptor_acceptorcnt_int } = {0} {
-        	\int_do_while:nNnn { \g__signature_accno_int } < { \g_acceptor_acceptorcnt_int } {
-        		\int_gincr:N  \g__signature_accno_int
-        		Accepted\ by: & \seq_item:cn { g_acceptor_name_seq } { \g__signature_accno_int } \\
-        		& \seq_item:cn { g_acceptor_department_seq } { \g__signature_accno_int }
-        			\bool_if:NF \g__acceptor_title_tf_bool
-        			{
-        				\\
-        				& \seq_item:cn { g_acceptor_title_seq } { \g__signature_accno_int }
-        			}
-    			\int_compare:nNnTF { \g__signature_accno_int } = { \g_acceptor_acceptorcnt_int } 
-    			{ \\ }{ \\[1em]}
-         	}
-    	}
+    %{ \tagpdfsetup{table/tagging=presentation}
+        %\begin{tabular}{@{}ll@{}}
+    	%\int_do_while:nNnn { \g__signature_autno_int } < { \g_author_authorcnt_int } {
+    	%	\int_gincr:N  \g__signature_autno_int
+    	%	Authored\ by: & \seq_item:cn { g_author_name_seq } { \g__signature_autno_int } \\  
+    	%	& \seq_item:cn { g_author_department_seq } { \g__signature_autno_int } \\
+    	%	& \g_dd_thesisdate_tl \\[1em]
+    	%}
+    	%int_do_while:nNnn { \g__signature_supno_int } < { \g_supervisor_supervisorcnt_int } {
+    	%	\int_gincr:N  \g__signature_supno_int
+    	%	Certified\ by: & \seq_item:cn { g_supervisor_name_seq } { \g__signature_supno_int } \\
+    	%	& \seq_item:cn { g_supervisor_title_seq } { \g__signature_supno_int },\ 
+    	%		\g_titlepage_supervisor_designation_tl \\[1em]
+    	%}
+    	%\int_compare:nNnF { \g_acceptor_acceptorcnt_int } = {0} {
+        %	\int_do_while:nNnn { \g__signature_accno_int } < { \g_acceptor_acceptorcnt_int } {
+        %		\int_gincr:N  \g__signature_accno_int
+        %		Accepted\ by: & \seq_item:cn { g_acceptor_name_seq } { \g__signature_accno_int } \\
+        %		& \seq_item:cn { g_acceptor_department_seq } { \g__signature_accno_int }
+        %			\bool_if:NF \g__acceptor_title_tf_bool
+        %			{
+        %				\\
+        %				& \seq_item:cn { g_acceptor_title_seq } { \g__signature_accno_int }
+        %			}
+    	%		\int_compare:nNnTF { \g__signature_accno_int } = { \g_acceptor_acceptorcnt_int } 
+    	%		{ \\ }{ \\[1em]}
+        % 	}
+    	%}
     	%\end{tabbing}
-    	\end{tabular}
-	}
+    	%\end{tabular}
+	%}
 }
 \msg_new:nnnn { \ClassName } { weird_sigsize }
 		{ \SignatureBlockSize~expects~a~font-sizing~command,~such~as~\small,~\footnotesize,~etc.}{You~used~a~weird~input~value~here.~If~you~did~so~deliberately,~try~continuing.}	
@@ -1076,22 +1076,22 @@
                     \par
                     \tag_struct_end:
                 }
-    			\__titlepage_blockskip:nn {12}{1.5}
+     			\__titlepage_blockskip:nn {12}{1.5}
 				\tag_struct_begin:n {tag=Div, title=Author}
-                \__author_block:
+               \__author_block:
     			\tag_struct_end:
 				\__titlepage_blockskip:nn {12}{1.5}
-                \tag_struct_begin:n {tag=Div, title=Degree} 
+               \tag_struct_begin:n {tag=Div, title=Degree} 
                 \__degree_block:
                 at~the\par
                 \textls[60]{ \text_uppercase:n { \g_titlepage_institution_name_tl } }\par
                 \DegreeMonth\ \DegreeYear\par
-                \tag_struct_end:
-    			\__titlepage_blockskip:nn {12}{2}
-				\tag_struct_begin:n {tag=Div, title=Copyright}
-                \copyright\space\DegreeYear\space\CopyrightAuthor\@.\c_space_token \g_copyright_copyrightlicencse_tl % \@. in case name ends with III, IV, V,...
-				\par % required to center \g_copyrightlicense_tl text.
-				\tag_struct_end:
+               \tag_struct_end:
+    			%\__titlepage_blockskip:nn {12}{2}
+				%\tag_struct_begin:n {tag=Div, title=Copyright}
+                %\copyright\space\DegreeYear\space\CopyrightAuthor\@.\c_space_token \g_copyright_copyrightlicencse_tl % \@. in case name ends with III, IV, V,...
+				%\par % required to center \g_copyrightlicense_tl text.
+				%\tag_struct_end:
 			}
 			\__titlepage_blockskip:nn {18}{2}
             \tag_struct_begin:n{tag=Div, title=Signatures}
@@ -1119,22 +1119,22 @@
 
 \RenewDocumentEnvironment{abstract}{+b}{
 	\cleardoublepage% use this (rather than \newpage) in case committee members page is present
-    \tag_struct_begin:n {tag=Sect, title=Abstract~page}
-    { \centering
-    	\tag_struct_begin:n{tag=Div, title=Abstract~title}
-        \pdfbookmark[0]{Abstract}{abstract}
-        {\large{\textbf{\g_mitthesis_title_tl}}
-        \par
-        \tag_struct_end:}
-        \setlength{\parskip}{0.5\baselineskip plus 2pt minus 2pt}
-        \tag_struct_begin:n {tag=Div, title=Abstract~author}
-        \__author_abstractblock:
-        \par\tag_struct_end: % \par is necessary to end the structure, 2025/01/17
-        \tag_struct_begin:n {tag=Div, title=Abstract~degree}
-        \__degree_abstractblock:
-        \tag_struct_end:
-	}
-    \skip_vertical:n {2\baselineskip}
+    %\tag_struct_begin:n {tag=Sect, title=Abstract~page}
+    %{ \centering
+    	%\tag_struct_begin:n{tag=Div, title=Abstract~title}
+        %\pdfbookmark[0]{Abstract}{abstract}
+        %{\large{\textbf{\g_mitthesis_title_tl}}
+        %\par
+        %\tag_struct_end:}
+        %\setlength{\parskip}{0.5\baselineskip plus 2pt minus 2pt}
+        %\tag_struct_begin:n {tag=Div, title=Abstract~author}
+        %\__author_abstractblock:
+        %\par\tag_struct_end: % \par is necessary to end the structure, 2025/01/17
+        %\tag_struct_begin:n {tag=Div, title=Abstract~degree}
+        %\__degree_abstractblock:
+        %\tag_struct_end:
+	%}
+    %\skip_vertical:n {2\baselineskip}
     \tag_struct_begin:n{tag=Div, title-o=\abstractname}
     \noindent
 	\textbf{ \text_uppercase:n {\abstractname} }

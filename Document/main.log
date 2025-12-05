@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.1)  4 DEC 2025 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.1)  5 DEC 2025 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1075,16 +1075,15 @@ Package biblatex Info: Reference section=0 on input line 49.
 Package biblatex Info: Reference segment=0 on input line 49.
 <<sRGB.icc>>
 \l__author_authorno_int=\count551
-\l__author_autcrcnt_int=\count552
-\g__signature_autno_int=\count553
-\g__signature_supno_int=\count554
-\g__signature_accno_int=\count555
+\g__signature_autno_int=\count552
+\g__signature_supno_int=\count553
+\g__signature_accno_int=\count554
 
 
 [1
 
 
-{d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./abstract.tex
+{d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./abstract.tex
 Package acronym Info: Label `acro:AR' newly defined as it shall be overridden
 although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:CL' newly defined as it shall be overridden
@@ -1092,110 +1091,108 @@ although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:TEL' newly defined as it shall be overridden
 although it is yet undefined on input line 8.
 )
+\l__supervisor_supervisorno_int=\count555
+
 
 [2
 
 
 ]
-\l__supervisor_supervisorno_int=\count556
-
-
-[3]
 \openout2 = `acknowledgments.aux'.
 
  (./acknowledgments.tex)
 
-[4
+[3
 
 
 
 ] (./main.toc
 
-[5
+[4
 
 
 
 ]
 
-[6])
+[5])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
 
 
-[7] (./main.lof
+[6] (./main.lof
 Package acronym Info: Label `acro:CSCW' newly defined as it shall be overridden
 although it is yet undefined on input line 4.
 Package acronym Info: Label `acro:SLR' newly defined as it shall be overridden
 although it is yet undefined on input line 9.
 
 
-[8
+[7
 
 ]
 
-[9])
+[8])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 
 
-[10] (./main.lot)
+[9] (./main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
 
 
-[11
+[10
 
 ]
 \openout2 = `abbreviations.aux'.
 
  (./abbreviations.tex)
 
-[12
+[11
 
 ]
 \openout2 = `authorship.aux'.
 
  (./authorship.tex
-<figures/Signature.png, id=595, 149.05687pt x 44.41594pt>
-File: figures/Signature.png Graphic file (type png)
-<use figures/Signature.png>
-Package pdftex.def Info: figures/Signature.png  used on input line 10.
-(pdftex.def)             Requested size: 149.0565pt x 44.41582pt.
+<figures/signature.jpg.jpg, id=588, 3071.475pt x 1577.895pt>
+File: figures/signature.jpg.jpg Graphic file (type jpg)
+<use figures/signature.jpg.jpg>
+Package pdftex.def Info: figures/signature.jpg.jpg  used on input line 10.
+(pdftex.def)             Requested size: 245.72302pt x 126.23418pt.
 )
 
-[13
+[12
 
 
 
 
- <./figures/Signature.png>]
+ <./figures/signature.jpg.jpg>]
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
 Chapter 1.
 Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
-<figures/F1-1.jpg, id=609, 1440.13031pt x 742.27313pt>
+<figures/F1-1.jpg, id=600, 1440.13031pt x 742.27313pt>
 File: figures/F1-1.jpg Graphic file (type jpg)
 <use figures/F1-1.jpg>
 Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
 (pdftex.def)             Requested size: 465.06004pt x 239.69556pt.
 
 
-[14
+[13
 
 
 
 
 ]
 
-[15 <./figures/F1-1.jpg>]
+[14 <./figures/F1-1.jpg>]
 
-[16]
-<figures/F1-2.jpg, id=687, 380.00032pt x 337.26pt>
+[15]
+<figures/F1-2.jpg, id=678, 380.00032pt x 337.26pt>
 File: figures/F1-2.jpg Graphic file (type jpg)
 <use figures/F1-2.jpg>
 Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
@@ -1204,17 +1201,19 @@ Package acronym Info: Label `acro:MR' newly defined as it shall be overridden
 although it is yet undefined on input line 119.
 
 
-[17]
-<figures/F1-3.jpg, id=710, 375.65344pt x 189.70876pt>
+[16{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<figures/F1-3.jpg, id=703, 375.65344pt x 189.70876pt>
 File: figures/F1-3.jpg Graphic file (type jpg)
 <use figures/F1-3.jpg>
 Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
 (pdftex.def)             Requested size: 465.06004pt x 234.87457pt.
 
 
-[18 <./figures/F1-2.jpg>]
+[17 <./figures/F1-2.jpg>]
 
-[19 <./figures/F1-3.jpg>]
+[18 <./figures/F1-3.jpg>]
+
+[19]
 
 [20]
 
@@ -1226,47 +1225,47 @@ Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
 
 [24]
 
-[25]
+[25])
 
-[26])
-
-[27]
+[26]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 Chapter 2.
 
 
-[28
+[27
 
 
 
 
 ]
 
-[29]
-<figures/F2-1.jpg, id=897, 868.24374pt x 549.05125pt>
+[28]
+<figures/F2-1.jpg, id=891, 868.24374pt x 549.05125pt>
 File: figures/F2-1.jpg Graphic file (type jpg)
 <use figures/F2-1.jpg>
 Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
 (pdftex.def)             Requested size: 465.06004pt x 294.09558pt.
 
 
-[30]
+[29]
 
-[31 <./figures/F2-1.jpg>]
+[30 <./figures/F2-1.jpg>]
 Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
 although it is yet undefined on input line 109.
-<figures/F2-2.jpg, id=942, 622.325pt x 250.9375pt>
+<figures/F2-2.jpg, id=935, 622.325pt x 250.9375pt>
 File: figures/F2-2.jpg Graphic file (type jpg)
 <use figures/F2-2.jpg>
 Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
 (pdftex.def)             Requested size: 465.06004pt x 187.52492pt.
 
 
-[32]
+[31]
 
-[33 <./figures/F2-2.jpg>]
+[32 <./figures/F2-2.jpg>]
+
+[33]
 
 [34]
 
@@ -1278,8 +1277,6 @@ Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
 
 [38]
 
-[39]
-
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 321.
 
@@ -1290,125 +1287,125 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--337
 
 
 
+[39]
+
 [40]
 
 [41]
 
 [42]
-
-[43]
 Package acronym Info: Label `acro:VLE' newly defined as it shall be overridden
 although it is yet undefined on input line 421.
 Package acronym Info: Label `acro:LMS' newly defined as it shall be overridden
 although it is yet undefined on input line 421.
 
 
+[43]
+
 [44]
 
 [45]
-
-[46]
-<figures/F2-3.jpg, id=1310, 1205.50375pt x 643.40375pt>
+<figures/F2-3.jpg, id=1304, 1204.5pt x 642.4pt>
 File: figures/F2-3.jpg Graphic file (type jpg)
 <use figures/F2-3.jpg>
 Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
-(pdftex.def)             Requested size: 465.06004pt x 248.20699pt.
+(pdftex.def)             Requested size: 465.06004pt x 248.03543pt.
 Package acronym Info: Label `acro:BRT' newly defined as it shall be overridden
 although it is yet undefined on input line 489.
 
 
-[47 <./figures/F2-3.jpg>]
+[46 <./figures/F2-3.jpg>]
+
+[47]
 
 [48]
-
-[49]
-<figures/F2-4.jpg, id=1366, 789.95125pt x 573.14125pt>
+<figures/F2-4.jpg, id=1359, 789.95125pt x 573.14125pt>
 File: figures/F2-4.jpg Graphic file (type jpg)
 <use figures/F2-4.jpg>
 Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
 (pdftex.def)             Requested size: 465.06004pt x 337.42453pt.
 
 
-[50 <./figures/F2-4.jpg>]
-<figures/F2-5.jpg, id=1375, 2049.6575pt x 1261.71375pt>
+[49 <./figures/F2-4.jpg>]
+<figures/F2-5.jpg, id=1369, 2049.6575pt x 1261.71375pt>
 File: figures/F2-5.jpg Graphic file (type jpg)
 <use figures/F2-5.jpg>
 Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
 (pdftex.def)             Requested size: 465.06004pt x 286.27986pt.
 
 
-[51 <./figures/F2-5.jpg>]
-<figures/F2-6.jpg, id=1385, 2036.60875pt x 1413.28pt>
+[50 <./figures/F2-5.jpg>]
+<figures/F2-6.jpg, id=1379, 2036.60875pt x 1413.28pt>
 File: figures/F2-6.jpg Graphic file (type jpg)
 <use figures/F2-6.jpg>
 Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
 (pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
-<figures/F2-7.jpg, id=1389, 3011.25pt x 1261.71375pt>
+<figures/F2-7.jpg, id=1383, 3011.25pt x 1261.71375pt>
 File: figures/F2-7.jpg Graphic file (type jpg)
 <use figures/F2-7.jpg>
 Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
 (pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
-<figures/F2-8.jpg, id=1390, 2812.5075pt x 1261.71375pt>
+<figures/F2-8.jpg, id=1384, 2812.5075pt x 1261.71375pt>
 File: figures/F2-8.jpg Graphic file (type jpg)
 <use figures/F2-8.jpg>
 Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
 (pdftex.def)             Requested size: 465.06004pt x 208.61658pt.
 
 
-[52]
-<figures/F2-9.jpg, id=1403, 2416.02625pt x 1261.71375pt>
+[51]
+<figures/F2-9.jpg, id=1397, 2416.02625pt x 1261.71375pt>
 File: figures/F2-9.jpg Graphic file (type jpg)
 <use figures/F2-9.jpg>
 Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
-<figures/F2-10.jpg, id=1404, 2416.02625pt x 1261.71375pt>
+<figures/F2-10.jpg, id=1398, 2416.02625pt x 1261.71375pt>
 File: figures/F2-10.jpg Graphic file (type jpg)
 <use figures/F2-10.jpg>
 Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
 (pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
 
 
-[53 <./figures/F2-6.jpg>]
-<figures/F2-11.jpg, id=1413, 2250.4075pt x 1261.71375pt>
+[52 <./figures/F2-6.jpg>]
+<figures/F2-11.jpg, id=1406, 2250.4075pt x 1261.71375pt>
 File: figures/F2-11.jpg Graphic file (type jpg)
 <use figures/F2-11.jpg>
 Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
 (pdftex.def)             Requested size: 465.06004pt x 260.73222pt.
 
 
-[54 <./figures/F2-7.jpg>]
-<figures/F2-12.jpg, id=1423, 2250.4075pt x 1261.71375pt>
+[53 <./figures/F2-7.jpg>]
+<figures/F2-12.jpg, id=1417, 2250.4075pt x 1261.71375pt>
 File: figures/F2-12.jpg Graphic file (type jpg)
 <use figures/F2-12.jpg>
 Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
 (pdftex.def)             Requested size: 465.06004pt x 260.73222pt.
 
 
-[55 <./figures/F2-8.jpg>]
+[54 <./figures/F2-8.jpg>]
 
-[56 <./figures/F2-9.jpg>]
+[55 <./figures/F2-9.jpg>]
 
-[57 <./figures/F2-10.jpg>]
+[56 <./figures/F2-10.jpg>]
 
-[58 <./figures/F2-11.jpg>]
+[57 <./figures/F2-11.jpg>]
 
-[59 <./figures/F2-12.jpg>]
-<figures/F2-13.jpg, id=1482, 823.075pt x 557.08125pt>
+[58 <./figures/F2-12.jpg>]
+<figures/F2-13.jpg, id=1476, 823.075pt x 557.08125pt>
 File: figures/F2-13.jpg Graphic file (type jpg)
 <use figures/F2-13.jpg>
 Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
 (pdftex.def)             Requested size: 465.06004pt x 314.7685pt.
 
 
-[60 <./figures/F2-13.jpg>]
+[59 <./figures/F2-13.jpg>]
+
+[60]
 
 [61]
 
-[62]
+[62])
 
-[63])
-
-[64]
+[63]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1417,22 +1414,24 @@ Package acronym Info: Label `acro:CR' newly defined as it shall be overridden
 although it is yet undefined on input line 25.
 
 
-[65
+[64
 
 
 
 
 ]
-<figures/F3-1.jpg, id=1615, 746.79pt x 746.79pt>
+<figures/F3-1.jpg, id=1609, 746.79pt x 746.79pt>
 File: figures/F3-1.jpg Graphic file (type jpg)
 <use figures/F3-1.jpg>
 Package pdftex.def Info: figures/F3-1.jpg  used on input line 52.
 (pdftex.def)             Requested size: 224.03873pt x 224.03873pt.
 
 
-[66]
+[65]
 
-[67 <./figures/F3-1.jpg (PNG copy)>]
+[66 <./figures/F3-1.jpg (PNG copy)>]
+
+[67]
 
 [68]
 
@@ -1451,51 +1450,52 @@ Package pdftex.def Info: figures/F3-1.jpg  used on input line 52.
 [75]
 
 [76]
-
-[77]
-<figures/F3-2.jpg, id=1791, 782.925pt x 521.95pt>
+<figures/F3-2.jpg, id=1785, 782.925pt x 521.95pt>
 File: figures/F3-2.jpg Graphic file (type jpg)
 <use figures/F3-2.jpg>
 Package pdftex.def Info: figures/F3-2.jpg  used on input line 417.
 (pdftex.def)             Requested size: 465.06004pt x 310.04243pt.
 
 
-[78 <./figures/F3-2.jpg>]
+[77 <./figures/F3-2.jpg>]
 
-[79]
-<figures/F3-3.jpg, id=1820, 813.0375pt x 180.675pt>
+[78]
+<figures/F3-3.jpg, id=1812, 813.0375pt x 180.675pt>
 File: figures/F3-3.jpg Graphic file (type jpg)
 <use figures/F3-3.jpg>
 Package pdftex.def Info: figures/F3-3.jpg  used on input line 484.
 (pdftex.def)             Requested size: 465.06004pt x 103.34695pt.
-<figures/F3-4.jpg, id=1822, 953.5625pt x 421.575pt>
+<figures/F3-4.jpg, id=1814, 953.5625pt x 421.575pt>
 File: figures/F3-4.jpg Graphic file (type jpg)
 <use figures/F3-4.jpg>
 Package pdftex.def Info: figures/F3-4.jpg  used on input line 496.
 (pdftex.def)             Requested size: 465.06004pt x 205.60864pt.
 
 
-[80 <./figures/F3-3.jpg>])
+[79 <./figures/F3-3.jpg>])
 
-[81 <./figures/F3-4.jpg>]
+[80 <./figures/F3-4.jpg>]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 Chapter 4.
 
 
-[82
+[81
 
 
 
 
 ]
 
-[83]
+[82]
 
-[84]
+[83]
 Package acronym Info: Label `acro:AUT' newly defined as it shall be overridden
 although it is yet undefined on input line 113.
+
+
+[84]
 Package acronym Info: Label `acro:AE' newly defined as it shall be overridden
 although it is yet undefined on input line 134.
 Package acronym Info: Label `acro:CE' newly defined as it shall be overridden
@@ -1509,40 +1509,40 @@ although it is yet undefined on input line 134.
 [85]
 
 [86]
-
-[87]
-<figures/F4-1.jpg, id=1921, 672.5125pt x 752.8125pt>
+<figures/F4-1.jpg, id=1915, 672.5125pt x 752.8125pt>
 File: figures/F4-1.jpg Graphic file (type jpg)
 <use figures/F4-1.jpg>
 Package pdftex.def Info: figures/F4-1.jpg  used on input line 225.
 (pdftex.def)             Requested size: 403.5106pt x 451.69098pt.
-<figures/F4-2.jpg, id=1923, 642.4pt x 652.4375pt>
+
+
+[87]
+
+[88 <./figures/F4-1.jpg>]
+<figures/F4-2.jpg, id=1927, 642.4pt x 652.4375pt>
 File: figures/F4-2.jpg Graphic file (type jpg)
 <use figures/F4-2.jpg>
 Package pdftex.def Info: figures/F4-2.jpg  used on input line 249.
 (pdftex.def)             Requested size: 385.44298pt x 391.46552pt.
 
 
-[88]
+[89 <./figures/F4-2.jpg>]
 
-[89 <./figures/F4-1.jpg>]
-
-[90 <./figures/F4-2.jpg>]
-
-[91]
+[90]
 Package acronym Info: Label `acro:BYOD' newly defined as it shall be overridden
 although it is yet undefined on input line 323.
-
-
-[92]
-<figures/F4-3.jpg, id=1964, 411.5375pt x 531.9875pt>
+<figures/F4-3.jpg, id=1952, 411.5375pt x 531.9875pt>
 File: figures/F4-3.jpg Graphic file (type jpg)
 <use figures/F4-3.jpg>
 Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
 (pdftex.def)             Requested size: 329.23045pt x 425.59058pt.
 
 
-[93 <./figures/F4-3.jpg>]
+[91]
+
+[92 <./figures/F4-3.jpg>]
+
+[93]
 
 [94]
 
@@ -1561,407 +1561,405 @@ Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
 [101]
 
 [102]
-
-[103]
-<figures/F4-4.jpg, id=2070, 501.875pt x 552.0625pt>
+<figures/F4-4.jpg, id=2063, 501.875pt x 552.0625pt>
 File: figures/F4-4.jpg Graphic file (type jpg)
 <use figures/F4-4.jpg>
 Package pdftex.def Info: figures/F4-4.jpg  used on input line 699.
 (pdftex.def)             Requested size: 351.31009pt x 386.4411pt.
 
 
-[104 <./figures/F4-4.jpg>]
+[103 <./figures/F4-4.jpg>]
 
-[105]
-<figures/F4-5.jpg, id=2096, 803.0pt x 190.7125pt>
+[104]
+<figures/F4-5.jpg, id=2090, 803.0pt x 190.7125pt>
 File: figures/F4-5.jpg Graphic file (type jpg)
 <use figures/F4-5.jpg>
 Package pdftex.def Info: figures/F4-5.jpg  used on input line 751.
 (pdftex.def)             Requested size: 465.06004pt x 110.45326pt.
-<figures/F4-6.jpg, id=2099, 511.9125pt x 622.325pt>
+<figures/F4-6.jpg, id=2093, 511.9125pt x 622.325pt>
 File: figures/F4-6.jpg Graphic file (type jpg)
 <use figures/F4-6.jpg>
 Package pdftex.def Info: figures/F4-6.jpg  used on input line 763.
 (pdftex.def)             Requested size: 383.93344pt x 466.7426pt.
 
 
-[106 <./figures/F4-5.jpg>]
+[105 <./figures/F4-5.jpg>]
 
-[107 <./figures/F4-6.jpg>]
-<figures/F4-7.jpg, id=2113, 853.1875pt x 421.575pt>
+[106 <./figures/F4-6.jpg>]
+<figures/F4-7.jpg, id=2107, 853.1875pt x 421.575pt>
 File: figures/F4-7.jpg Graphic file (type jpg)
 <use figures/F4-7.jpg>
 Package pdftex.def Info: figures/F4-7.jpg  used on input line 791.
 (pdftex.def)             Requested size: 465.06004pt x 229.80206pt.
 
 
-[108 <./figures/F4-7.jpg>]
-<figures/F4-8.jpg, id=2121, 702.625pt x 341.275pt>
+[107 <./figures/F4-7.jpg>]
+<figures/F4-8.jpg, id=2115, 702.625pt x 341.275pt>
 File: figures/F4-8.jpg Graphic file (type jpg)
 <use figures/F4-8.jpg>
 Package pdftex.def Info: figures/F4-8.jpg  used on input line 817.
 (pdftex.def)             Requested size: 465.06004pt x 225.89311pt.
 
 
-[109 <./figures/F4-8.jpg>]
-<figures/F4-9.jpg, id=2134, 1013.7875pt x 542.025pt>
+[108 <./figures/F4-8.jpg>]
+<figures/F4-9.jpg, id=2127, 1013.7875pt x 542.025pt>
 File: figures/F4-9.jpg Graphic file (type jpg)
 <use figures/F4-9.jpg>
 Package pdftex.def Info: figures/F4-9.jpg  used on input line 845.
 (pdftex.def)             Requested size: 465.06004pt x 248.63979pt.
-<figures/F4-10.jpg, id=2136, 1124.2pt x 587.19376pt>
+<figures/F4-10.jpg, id=2129, 1124.2pt x 587.19376pt>
 File: figures/F4-10.jpg Graphic file (type jpg)
 <use figures/F4-10.jpg>
 Package pdftex.def Info: figures/F4-10.jpg  used on input line 855.
 (pdftex.def)             Requested size: 465.06004pt x 242.91032pt.
 
 
-[110 <./figures/F4-9.jpg>]
+[109 <./figures/F4-9.jpg>]
 
-[111 <./figures/F4-10.jpg>]
-<figures/F4-11.jpg, id=2148, 612.2875pt x 381.425pt>
+[110 <./figures/F4-10.jpg>]
+<figures/F4-11.jpg, id=2142, 612.2875pt x 381.425pt>
 File: figures/F4-11.jpg Graphic file (type jpg)
 <use figures/F4-11.jpg>
 Package pdftex.def Info: figures/F4-11.jpg  used on input line 885.
 (pdftex.def)             Requested size: 465.06004pt x 289.7114pt.
 
 
-[112 <./figures/F4-11.jpg>]
-<figures/F4-12.jpg, id=2161, 421.575pt x 542.025pt>
+[111 <./figures/F4-11.jpg>]
+<figures/F4-12.jpg, id=2154, 421.575pt x 542.025pt>
 File: figures/F4-12.jpg Graphic file (type jpg)
 <use figures/F4-12.jpg>
 Package pdftex.def Info: figures/F4-12.jpg  used on input line 900.
 (pdftex.def)             Requested size: 316.18047pt x 406.51775pt.
 
 
-[113 <./figures/F4-12.jpg>]
-<figures/F4-13.jpg, id=2167, 572.1375pt x 391.4625pt>
+[112 <./figures/F4-12.jpg>]
+<figures/F4-13.jpg, id=2161, 572.1375pt x 391.4625pt>
 File: figures/F4-13.jpg Graphic file (type jpg)
 <use figures/F4-13.jpg>
 Package pdftex.def Info: figures/F4-13.jpg  used on input line 938.
 (pdftex.def)             Requested size: 343.28514pt x 234.8793pt.
-<figures/F4-14.jpg, id=2169, 602.25pt x 521.95pt>
+<figures/F4-14.jpg, id=2163, 602.25pt x 521.95pt>
 File: figures/F4-14.jpg Graphic file (type jpg)
 <use figures/F4-14.jpg>
 Package pdftex.def Info: figures/F4-14.jpg  used on input line 951.
 (pdftex.def)             Requested size: 361.35278pt x 313.17241pt.
 
 
-[114]
+[113]
 
-[115 <./figures/F4-13.jpg> <./figures/F4-14.jpg>]
-<figures/F4-15.jpg, id=2182, 873.2625pt x 501.875pt>
+[114 <./figures/F4-13.jpg> <./figures/F4-14.jpg>]
+<figures/F4-15.jpg, id=2175, 873.2625pt x 501.875pt>
 File: figures/F4-15.jpg Graphic file (type jpg)
 <use figures/F4-15.jpg>
 Package pdftex.def Info: figures/F4-15.jpg  used on input line 975.
 (pdftex.def)             Requested size: 465.06004pt x 267.27902pt.
 
 
-[116]
-<figures/F4-16.jpg, id=2189, 1003.75pt x 592.2125pt>
+[115]
+<figures/F4-16.jpg, id=2183, 1003.75pt x 592.2125pt>
 File: figures/F4-16.jpg Graphic file (type jpg)
 <use figures/F4-16.jpg>
 Package pdftex.def Info: figures/F4-16.jpg  used on input line 1011.
 (pdftex.def)             Requested size: 465.06004pt x 274.39099pt.
 
 
-[117 <./figures/F4-15.jpg>]
+[116 <./figures/F4-15.jpg>]
 
-[118 <./figures/F4-16.jpg>]
-<figures/F4-17.jpg, id=2203, 1063.975pt x 853.1875pt>
+[117 <./figures/F4-16.jpg>]
+<figures/F4-17.jpg, id=2197, 1063.975pt x 853.1875pt>
 File: figures/F4-17.jpg Graphic file (type jpg)
 <use figures/F4-17.jpg>
 Package pdftex.def Info: figures/F4-17.jpg  used on input line 1059.
 (pdftex.def)             Requested size: 465.06004pt x 372.91711pt.
 
 
-[119]
+[118]
 
-[120 <./figures/F4-17.jpg>]
-<figures/F4-18.jpg, id=2222, 923.45pt x 853.1875pt>
+[119 <./figures/F4-17.jpg>]
+<figures/F4-18.jpg, id=2216, 923.45pt x 853.1875pt>
 File: figures/F4-18.jpg Graphic file (type jpg)
 <use figures/F4-18.jpg>
 Package pdftex.def Info: figures/F4-18.jpg  used on input line 1103.
 (pdftex.def)             Requested size: 465.06004pt x 429.6781pt.
 
 
-[121]
+[120]
 
-[122 <./figures/F4-18.jpg>]
-<figures/F4-19.jpg, id=2237, 923.45pt x 662.475pt>
+[121 <./figures/F4-18.jpg>]
+<figures/F4-19.jpg, id=2231, 923.45pt x 662.475pt>
 File: figures/F4-19.jpg Graphic file (type jpg)
 <use figures/F4-19.jpg>
 Package pdftex.def Info: figures/F4-19.jpg  used on input line 1119.
 (pdftex.def)             Requested size: 465.06004pt x 333.63242pt.
 
 
-[123 <./figures/F4-19.jpg>]
-<figures/F4-20.jpg, id=2244, 923.45pt x 642.4pt>
+[122 <./figures/F4-19.jpg>]
+<figures/F4-20.jpg, id=2238, 923.45pt x 642.4pt>
 File: figures/F4-20.jpg Graphic file (type jpg)
 <use figures/F4-20.jpg>
 Package pdftex.def Info: figures/F4-20.jpg  used on input line 1152.
 (pdftex.def)             Requested size: 465.06004pt x 323.52234pt.
 
 
-[124]
+[123]
 
-[125 <./figures/F4-20.jpg>]
+[124 <./figures/F4-20.jpg>]
 
-[126])
+[125])
 
-[127]
+[126]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 Chapter 5.
 
 
-[128
+[127
 
 
 
 
 ]
 
-[129]
+[128]
 
-[130]
-<figures/F5-1A.jpg, id=2343, 1228.59pt x 1193.96063pt>
+[129]
+<figures/F5-1A.jpg, id=2337, 1228.59pt x 1193.96063pt>
 File: figures/F5-1A.jpg Graphic file (type jpg)
 <use figures/F5-1A.jpg>
 Package pdftex.def Info: figures/F5-1A.jpg  used on input line 112.
 (pdftex.def)             Requested size: 230.17259pt x 214.48462pt.
-<figures/F5-1B.jpg, id=2344, 1242.89343pt x 1196.97188pt>
+<figures/F5-1B.jpg, id=2338, 1242.89343pt x 1196.97188pt>
 File: figures/F5-1B.jpg Graphic file (type jpg)
 <use figures/F5-1B.jpg>
 Package pdftex.def Info: figures/F5-1B.jpg  used on input line 113.
 (pdftex.def)             Requested size: 234.86258pt x 214.4959pt.
 
 
-[131]
+[130]
 
-[132 <./figures/F5-1A.jpg> <./figures/F5-1B.jpg>]
+[131 <./figures/F5-1A.jpg> <./figures/F5-1B.jpg>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 158.
 
-<figures/F5-2A.jpg, id=2374, 1084.05pt x 2409.0pt>
+<figures/F5-2A.jpg, id=2368, 1084.05pt x 2409.0pt>
 File: figures/F5-2A.jpg Graphic file (type jpg)
 <use figures/F5-2A.jpg>
 Package pdftex.def Info: figures/F5-2A.jpg  used on input line 186.
 (pdftex.def)             Requested size: 230.1715pt x 390.0059pt.
-<figures/F5-2B.jpg, id=2375, 1084.05pt x 2409.0pt>
+<figures/F5-2B.jpg, id=2369, 1084.05pt x 2409.0pt>
 File: figures/F5-2B.jpg Graphic file (type jpg)
 <use figures/F5-2B.jpg>
 Package pdftex.def Info: figures/F5-2B.jpg  used on input line 187.
 (pdftex.def)             Requested size: 234.8692pt x 390.0059pt.
 
 
-[133]
+[132]
 
-[134 <./figures/F5-2A.jpg> <./figures/F5-2B.jpg>]
+[133 <./figures/F5-2A.jpg> <./figures/F5-2B.jpg>]
 
-[135]
-<figures/F5-3.jpg, id=2400, 648.021pt x 302.877pt>
+[134]
+<figures/F5-3.jpg, id=2394, 648.021pt x 302.877pt>
 File: figures/F5-3.jpg Graphic file (type jpg)
 <use figures/F5-3.jpg>
 Package pdftex.def Info: figures/F5-3.jpg  used on input line 232.
 (pdftex.def)             Requested size: 465.06004pt x 217.36879pt.
 
 
-[136 <./figures/F5-3.jpg>]
-<figures/F5-4.jpg, id=2416, 647.145pt x 333.756pt>
+[135 <./figures/F5-3.jpg>]
+<figures/F5-4.jpg, id=2410, 647.145pt x 333.756pt>
 File: figures/F5-4.jpg Graphic file (type jpg)
 <use figures/F5-4.jpg>
 Package pdftex.def Info: figures/F5-4.jpg  used on input line 255.
 (pdftex.def)             Requested size: 465.06004pt x 239.85088pt.
 
 
-[137 <./figures/F5-4.jpg>]
-<figures/F5-5A.jpg, id=2424, 697.8572pt x 703.12688pt>
+[136 <./figures/F5-4.jpg>]
+<figures/F5-5A.jpg, id=2418, 697.8572pt x 703.12688pt>
 File: figures/F5-5A.jpg Graphic file (type jpg)
 <use figures/F5-5A.jpg>
 Package pdftex.def Info: figures/F5-5A.jpg  used on input line 275.
 (pdftex.def)             Requested size: 230.17645pt x 214.49094pt.
-<figures/F5-5B.jpg, id=2425, 754.31813pt x 702.37407pt>
+<figures/F5-5B.jpg, id=2419, 754.31813pt x 702.37407pt>
 File: figures/F5-5B.jpg Graphic file (type jpg)
 <use figures/F5-5B.jpg>
 Package pdftex.def Info: figures/F5-5B.jpg  used on input line 276.
 (pdftex.def)             Requested size: 234.8721pt x 214.49707pt.
-<figures/F5-6.jpg, id=2427, 660.942pt x 375.147pt>
+<figures/F5-6.jpg, id=2421, 660.942pt x 375.147pt>
 File: figures/F5-6.jpg Graphic file (type jpg)
 <use figures/F5-6.jpg>
 Package pdftex.def Info: figures/F5-6.jpg  used on input line 284.
 (pdftex.def)             Requested size: 465.06004pt x 263.96347pt.
-<figures/F5-7.jpg, id=2429, 614.295pt x 470.50781pt>
+<figures/F5-7.jpg, id=2423, 614.295pt x 470.50781pt>
 File: figures/F5-7.jpg Graphic file (type jpg)
 <use figures/F5-7.jpg>
 Package pdftex.def Info: figures/F5-7.jpg  used on input line 292.
 (pdftex.def)             Requested size: 307.14674pt x 235.25333pt.
-<figures/F5-8.jpg, id=2432, 663.789pt x 348.21pt>
+<figures/F5-8.jpg, id=2426, 663.789pt x 348.21pt>
 File: figures/F5-8.jpg Graphic file (type jpg)
 <use figures/F5-8.jpg>
 Package pdftex.def Info: figures/F5-8.jpg  used on input line 302.
 (pdftex.def)             Requested size: 465.06004pt x 243.95787pt.
 
 
-[138 <./figures/F5-5A.jpg> <./figures/F5-5B.jpg>]
+[137 <./figures/F5-5A.jpg> <./figures/F5-5B.jpg>]
 
-[139 <./figures/F5-6.jpg> <./figures/F5-7.jpg>]
-<figures/F5-9A.jpg, id=2443, 770.88pt x 627.84563pt>
+[138 <./figures/F5-6.jpg> <./figures/F5-7.jpg>]
+<figures/F5-9A.jpg, id=2436, 770.88pt x 627.84563pt>
 File: figures/F5-9A.jpg Graphic file (type jpg)
 <use figures/F5-9A.jpg>
 Package pdftex.def Info: figures/F5-9A.jpg  used on input line 319.
 (pdftex.def)             Requested size: 140.91673pt x 194.99417pt.
-<figures/F5-9B.jpg, id=2444, 685.8122pt x 533.74406pt>
+<figures/F5-9B.jpg, id=2437, 685.8122pt x 533.74406pt>
 File: figures/F5-9B.jpg Graphic file (type jpg)
 <use figures/F5-9B.jpg>
 Package pdftex.def Info: figures/F5-9B.jpg  used on input line 320.
 (pdftex.def)             Requested size: 140.92728pt x 194.9982pt.
-<figures/F5-9C.jpg, id=2445, 685.05937pt x 565.36218pt>
+<figures/F5-9C.jpg, id=2438, 685.05937pt x 565.36218pt>
 File: figures/F5-9C.jpg Graphic file (type jpg)
 <use figures/F5-9C.jpg>
 Package pdftex.def Info: figures/F5-9C.jpg  used on input line 321.
 (pdftex.def)             Requested size: 140.92937pt x 194.9984pt.
-<figures/F5-10A.jpg, id=2447, 1273.75874pt x 793.96625pt>
+<figures/F5-10A.jpg, id=2440, 1273.75874pt x 793.96625pt>
 File: figures/F5-10A.jpg Graphic file (type jpg)
 <use figures/F5-10A.jpg>
 Package pdftex.def Info: figures/F5-10A.jpg  used on input line 332.
 (pdftex.def)             Requested size: 230.18018pt x 214.4949pt.
-<figures/F5-10B.jpg, id=2448, 1201.48875pt x 664.4825pt>
+<figures/F5-10B.jpg, id=2441, 1201.48875pt x 664.4825pt>
 File: figures/F5-10B.jpg Graphic file (type jpg)
 <use figures/F5-10B.jpg>
 Package pdftex.def Info: figures/F5-10B.jpg  used on input line 333.
 (pdftex.def)             Requested size: 234.86687pt x 214.50435pt.
 
 
-[140 <./figures/F5-8.jpg>]
+[139 <./figures/F5-8.jpg>]
 
-[141 <./figures/F5-9A.jpg> <./figures/F5-9B.jpg> <./figures/F5-9C.jpg> <./figures/F5-10A.jpg> <./figures/F5-10B.jpg>]
-<figures/F5-11A.jpg, id=2458, 663.132pt x 317.331pt>
+[140 <./figures/F5-9A.jpg> <./figures/F5-9B.jpg> <./figures/F5-9C.jpg> <./figures/F5-10A.jpg> <./figures/F5-10B.jpg>]
+<figures/F5-11A.jpg, id=2452, 663.132pt x 317.331pt>
 File: figures/F5-11A.jpg Graphic file (type jpg)
 <use figures/F5-11A.jpg>
 Package pdftex.def Info: figures/F5-11A.jpg  used on input line 343.
 (pdftex.def)             Requested size: 465.06004pt x 222.54659pt.
-<figures/F5-11B.jpg, id=2459, 676.71pt x 361.788pt>
+<figures/F5-11B.jpg, id=2453, 676.71pt x 361.788pt>
 File: figures/F5-11B.jpg Graphic file (type jpg)
 <use figures/F5-11B.jpg>
 Package pdftex.def Info: figures/F5-11B.jpg  used on input line 344.
 (pdftex.def)             Requested size: 465.06004pt x 248.64029pt.
-<figures/F5-12A.jpg, id=2461, 1232.605pt x 797.98125pt>
+<figures/F5-12A.jpg, id=2455, 1232.605pt x 797.98125pt>
 File: figures/F5-12A.jpg Graphic file (type jpg)
 <use figures/F5-12A.jpg>
 Package pdftex.def Info: figures/F5-12A.jpg  used on input line 364.
 (pdftex.def)             Requested size: 140.92844pt x 195.0018pt.
-<figures/F5-12B.jpg, id=2462, 796.9775pt x 686.565pt>
+<figures/F5-12B.jpg, id=2456, 796.9775pt x 686.565pt>
 File: figures/F5-12B.jpg Graphic file (type jpg)
 <use figures/F5-12B.jpg>
 Package pdftex.def Info: figures/F5-12B.jpg  used on input line 365.
 (pdftex.def)             Requested size: 140.92029pt x 194.99211pt.
-<figures/F5-12C.jpg, id=2463, 676.77844pt x 519.44063pt>
+<figures/F5-12C.jpg, id=2457, 676.77844pt x 519.44063pt>
 File: figures/F5-12C.jpg Graphic file (type jpg)
 <use figures/F5-12C.jpg>
 Package pdftex.def Info: figures/F5-12C.jpg  used on input line 366.
 (pdftex.def)             Requested size: 140.92975pt x 194.99583pt.
 
 
-[142]
+[141]
 
-[143 <./figures/F5-11A.jpg> <./figures/F5-11B.jpg>]
-<figures/F5-13A.jpg, id=2474, 988.69376pt x 707.64375pt>
+[142 <./figures/F5-11A.jpg> <./figures/F5-11B.jpg>]
+<figures/F5-13A.jpg, id=2468, 988.69376pt x 707.64375pt>
 File: figures/F5-13A.jpg Graphic file (type jpg)
 <use figures/F5-13A.jpg>
 Package pdftex.def Info: figures/F5-13A.jpg  used on input line 382.
 (pdftex.def)             Requested size: 230.17065pt x 214.4975pt.
-<figures/F5-13B.jpg, id=2475, 992.70876pt x 815.045pt>
+<figures/F5-13B.jpg, id=2469, 992.70876pt x 815.045pt>
 File: figures/F5-13B.jpg Graphic file (type jpg)
 <use figures/F5-13B.jpg>
 Package pdftex.def Info: figures/F5-13B.jpg  used on input line 383.
 (pdftex.def)             Requested size: 234.87708pt x 214.4935pt.
-<figures/F5-14.jpg, id=2476, 664.665pt x 348.867pt>
+<figures/F5-14.jpg, id=2470, 664.665pt x 348.867pt>
 File: figures/F5-14.jpg Graphic file (type jpg)
 <use figures/F5-14.jpg>
 Package pdftex.def Info: figures/F5-14.jpg  used on input line 388.
 (pdftex.def)             Requested size: 465.06004pt x 244.09877pt.
-<figures/F5-15A.jpg, id=2478, 757.32938pt x 575.14874pt>
+<figures/F5-15A.jpg, id=2472, 757.32938pt x 575.14874pt>
 File: figures/F5-15A.jpg Graphic file (type jpg)
 <use figures/F5-15A.jpg>
 Package pdftex.def Info: figures/F5-15A.jpg  used on input line 402.
 (pdftex.def)             Requested size: 230.18199pt x 214.49548pt.
-<figures/F5-15B.jpg, id=2479, 705.38531pt x 602.25pt>
+<figures/F5-15B.jpg, id=2473, 705.38531pt x 602.25pt>
 File: figures/F5-15B.jpg Graphic file (type jpg)
 <use figures/F5-15B.jpg>
 Package pdftex.def Info: figures/F5-15B.jpg  used on input line 403.
 (pdftex.def)             Requested size: 234.87671pt x 214.50323pt.
-<figures/F5-16A.jpg, id=2481, 1266.7325pt x 824.07875pt>
+<figures/F5-16A.jpg, id=2475, 1266.7325pt x 824.07875pt>
 File: figures/F5-16A.jpg Graphic file (type jpg)
 <use figures/F5-16A.jpg>
 Package pdftex.def Info: figures/F5-16A.jpg  used on input line 415.
 (pdftex.def)             Requested size: 230.16682pt x 214.49432pt.
-<figures/F5-16B.jpg, id=2482, 1235.61626pt x 798.985pt>
+<figures/F5-16B.jpg, id=2476, 1235.61626pt x 798.985pt>
 File: figures/F5-16B.jpg Graphic file (type jpg)
 <use figures/F5-16B.jpg>
 Package pdftex.def Info: figures/F5-16B.jpg  used on input line 416.
 (pdftex.def)             Requested size: 234.8638pt x 214.49748pt.
 
 
-[144 <./figures/F5-12A.jpg> <./figures/F5-12B.jpg> <./figures/F5-12C.jpg>]
+[143 <./figures/F5-12A.jpg> <./figures/F5-12B.jpg> <./figures/F5-12C.jpg>]
 
-[145 <./figures/F5-13A.jpg> <./figures/F5-13B.jpg> <./figures/F5-14.jpg>]
+[144 <./figures/F5-13A.jpg> <./figures/F5-13B.jpg> <./figures/F5-14.jpg>]
 
-[146 <./figures/F5-15A.jpg> <./figures/F5-15B.jpg> <./figures/F5-16A.jpg> <./figures/F5-16B.jpg>]
-<figures/F5-17A.jpg, id=2497, 651.963pt x 363.102pt>
+[145 <./figures/F5-15A.jpg> <./figures/F5-15B.jpg> <./figures/F5-16A.jpg> <./figures/F5-16B.jpg>]
+<figures/F5-17A.jpg, id=2491, 651.963pt x 363.102pt>
 File: figures/F5-17A.jpg Graphic file (type jpg)
 <use figures/F5-17A.jpg>
 Package pdftex.def Info: figures/F5-17A.jpg  used on input line 425.
 (pdftex.def)             Requested size: 465.06004pt x 259.0176pt.
-<figures/F5-17B.jpg, id=2498, 618.894pt x 301.344pt>
+<figures/F5-17B.jpg, id=2492, 618.894pt x 301.344pt>
 File: figures/F5-17B.jpg Graphic file (type jpg)
 <use figures/F5-17B.jpg>
 Package pdftex.def Info: figures/F5-17B.jpg  used on input line 426.
 (pdftex.def)             Requested size: 465.06004pt x 226.44424pt.
-<figures/F5-18A.jpg, id=2500, 777.65532pt x 604.50844pt>
+<figures/F5-18A.jpg, id=2494, 777.65532pt x 604.50844pt>
 File: figures/F5-18A.jpg Graphic file (type jpg)
 <use figures/F5-18A.jpg>
 Package pdftex.def Info: figures/F5-18A.jpg  used on input line 439.
 (pdftex.def)             Requested size: 140.9212pt x 194.99629pt.
-<figures/F5-18B.jpg, id=2501, 740.0147pt x 529.22719pt>
+<figures/F5-18B.jpg, id=2495, 740.0147pt x 529.22719pt>
 File: figures/F5-18B.jpg Graphic file (type jpg)
 <use figures/F5-18B.jpg>
 Package pdftex.def Info: figures/F5-18B.jpg  used on input line 440.
 (pdftex.def)             Requested size: 140.92041pt x 195.00345pt.
-<figures/F5-18C.jpg, id=2502, 1034.86626pt x 742.775pt>
+<figures/F5-18C.jpg, id=2496, 1034.86626pt x 742.775pt>
 File: figures/F5-18C.jpg Graphic file (type jpg)
 <use figures/F5-18C.jpg>
 Package pdftex.def Info: figures/F5-18C.jpg  used on input line 441.
 (pdftex.def)             Requested size: 140.9168pt x 194.99835pt.
-<figures/F5-19.jpg, id=2505, 650.868pt x 345.144pt>
+<figures/F5-19.jpg, id=2499, 650.868pt x 345.144pt>
 File: figures/F5-19.jpg Graphic file (type jpg)
 <use figures/F5-19.jpg>
 Package pdftex.def Info: figures/F5-19.jpg  used on input line 462.
 (pdftex.def)             Requested size: 465.06004pt x 246.61809pt.
 
 
-[147]
+[146]
 
-[148 <./figures/F5-17A.jpg> <./figures/F5-17B.jpg>]
+[147 <./figures/F5-17A.jpg> <./figures/F5-17B.jpg>]
 
-[149 <./figures/F5-18A.jpg> <./figures/F5-18B.jpg> <./figures/F5-18C.jpg> <./figures/F5-19.jpg>]
+[148 <./figures/F5-18A.jpg> <./figures/F5-18B.jpg> <./figures/F5-18C.jpg> <./figures/F5-19.jpg>]
+
+[149]
 
 [150]
-
-[151]
-<figures/F5-20A.jpg, id=2537, 406.51875pt x 703.87968pt>
+<figures/F5-20A.jpg, id=2530, 406.51875pt x 703.87968pt>
 File: figures/F5-20A.jpg Graphic file (type jpg)
 <use figures/F5-20A.jpg>
 Package pdftex.def Info: figures/F5-20A.jpg  used on input line 545.
 (pdftex.def)             Requested size: 187.89412pt x 129.99014pt.
-<figures/F5-20B.jpg, id=2538, 630.85687pt x 703.87968pt>
+<figures/F5-20B.jpg, id=2531, 630.85687pt x 703.87968pt>
 File: figures/F5-20B.jpg Graphic file (type jpg)
 <use figures/F5-20B.jpg>
 Package pdftex.def Info: figures/F5-20B.jpg  used on input line 546.
 (pdftex.def)             Requested size: 187.90125pt x 129.99014pt.
-<figures/F5-20C.jpg, id=2539, 882.29625pt x 676.02562pt>
+<figures/F5-20C.jpg, id=2532, 882.29625pt x 676.02562pt>
 File: figures/F5-20C.jpg Graphic file (type jpg)
 <use figures/F5-20C.jpg>
 Package pdftex.def Info: figures/F5-20C.jpg  used on input line 547.
@@ -1972,96 +1970,108 @@ Package hyperref Warning: Ignoring empty anchor on input line 551.
 
 
 
-[152 <./figures/F5-20A.jpg> <./figures/F5-20B.jpg> <./figures/F5-20C.jpg>]
+[151 <./figures/F5-20A.jpg> <./figures/F5-20B.jpg> <./figures/F5-20C.jpg>]
+
+[152]
 
 [153]
-
-[154]
-<figures/F5-21.jpg, id=2568, 1084.05pt x 1560.83125pt>
+<figures/F5-21.jpg, id=2562, 1084.05pt x 1560.83125pt>
 File: figures/F5-21.jpg Graphic file (type jpg)
 <use figures/F5-21.jpg>
 Package pdftex.def Info: figures/F5-21.jpg  used on input line 645.
 (pdftex.def)             Requested size: 162.60048pt x 234.11458pt.
 
 
-[155]
-<figures/F5-22A.jpg, id=2576, 251.43938pt x 503.63156pt>
+[154]
+<figures/F5-22A.jpg, id=2570, 251.43938pt x 503.63156pt>
 File: figures/F5-22A.jpg Graphic file (type jpg)
 <use figures/F5-22A.jpg>
 Package pdftex.def Info: figures/F5-22A.jpg  used on input line 671.
 (pdftex.def)             Requested size: 140.92786pt x 259.99178pt.
-<figures/F5-22B.jpg, id=2577, 225.84375pt x 505.13719pt>
+<figures/F5-22B.jpg, id=2571, 225.84375pt x 505.13719pt>
 File: figures/F5-22B.jpg Graphic file (type jpg)
 <use figures/F5-22B.jpg>
 Package pdftex.def Info: figures/F5-22B.jpg  used on input line 672.
 (pdftex.def)             Requested size: 140.93488pt x 259.99826pt.
-<figures/F5-22C.jpg, id=2578, 252.945pt x 503.63156pt>
+<figures/F5-22C.jpg, id=2572, 252.945pt x 503.63156pt>
 File: figures/F5-22C.jpg Graphic file (type jpg)
 <use figures/F5-22C.jpg>
 Package pdftex.def Info: figures/F5-22C.jpg  used on input line 673.
 (pdftex.def)             Requested size: 140.93034pt x 259.99178pt.
 
 
-[156 <./figures/F5-21.JPG>]
-<figures/F5-23.jpg, id=2584, 227.34938pt x 243.91125pt>
+[155 <./figures/F5-21.JPG>]
+<figures/F5-23.jpg, id=2578, 227.34938pt x 243.91125pt>
 File: figures/F5-23.jpg Graphic file (type jpg)
 <use figures/F5-23.jpg>
 Package pdftex.def Info: figures/F5-23.jpg  used on input line 693.
 (pdftex.def)             Requested size: 193.24788pt x 207.32553pt.
 
 
-[157 <./figures/F5-22A.jpg> <./figures/F5-22B.jpg> <./figures/F5-22C.jpg>]
-<figures/F5-24A.jpg, id=2595, 1084.05pt x 2276.505pt>
+[156 <./figures/F5-22A.jpg> <./figures/F5-22B.jpg> <./figures/F5-22C.jpg>]
+<figures/F5-24A.jpg, id=2588, 1084.05pt x 2276.505pt>
 File: figures/F5-24A.jpg Graphic file (type jpg)
 <use figures/F5-24A.jpg>
 Package pdftex.def Info: figures/F5-24A.jpg  used on input line 726.
 (pdftex.def)             Requested size: 187.89204pt x 259.9689pt.
-<figures/F5-24B.jpg, id=2596, 1084.05pt x 2276.505pt>
+<figures/F5-24B.jpg, id=2589, 1084.05pt x 2276.505pt>
 File: figures/F5-24B.jpg Graphic file (type jpg)
 <use figures/F5-24B.jpg>
 Package pdftex.def Info: figures/F5-24B.jpg  used on input line 727.
 (pdftex.def)             Requested size: 187.89204pt x 259.9689pt.
 
 
-[158 <./figures/F5-23.jpg>]
+[157 <./figures/F5-23.jpg>]
 
-[159 <./figures/F5-24A.JPG> <./figures/F5-24B.JPG>]
-<figures/F5-25A.jpg, id=2614, 436.63126pt x 618.31pt>
+[158 <./figures/F5-24A.JPG> <./figures/F5-24B.JPG>]
+<figures/F5-25A.jpg, id=2608, 436.63126pt x 618.31pt>
 File: figures/F5-25A.jpg Graphic file (type jpg)
 <use figures/F5-25A.jpg>
 Package pdftex.def Info: figures/F5-25A.jpg  used on input line 765.
 (pdftex.def)             Requested size: 187.90102pt x 259.99977pt.
-<figures/F5-25B.jpg, id=2615, 436.63126pt x 618.31pt>
+<figures/F5-25B.jpg, id=2609, 436.63126pt x 618.31pt>
 File: figures/F5-25B.jpg Graphic file (type jpg)
 <use figures/F5-25B.jpg>
 Package pdftex.def Info: figures/F5-25B.jpg  used on input line 766.
 (pdftex.def)             Requested size: 187.90102pt x 259.99977pt.
 
 
-[160 <./figures/F5-25A.jpg> <./figures/F5-25B.jpg>]
-<figures/F5-26A.jpg, id=2623, 316.18124pt x 548.80031pt>
+[159 <./figures/F5-25A.jpg> <./figures/F5-25B.jpg>]
+<figures/F5-26A.jpg, id=2617, 316.18124pt x 548.80031pt>
 File: figures/F5-26A.jpg Graphic file (type jpg)
 <use figures/F5-26A.jpg>
 Package pdftex.def Info: figures/F5-26A.jpg  used on input line 797.
 (pdftex.def)             Requested size: 187.901pt x 259.99617pt.
-<figures/F5-26B.jpg, id=2624, 1084.05pt x 2409.0pt>
+<figures/F5-26B.jpg, id=2618, 1084.05pt x 2409.0pt>
 File: figures/F5-26B.jpg Graphic file (type jpg)
 <use figures/F5-26B.jpg>
 Package pdftex.def Info: figures/F5-26B.jpg  used on input line 798.
 (pdftex.def)             Requested size: 187.89204pt x 259.99168pt.
 
 
-[161]
-<figures/F5-27.jpg, id=2638, 316.18124pt x 673.01437pt>
+[160]
+<figures/F5-27.jpg, id=2632, 316.18124pt x 673.01437pt>
 File: figures/F5-27.jpg Graphic file (type jpg)
 <use figures/F5-27.jpg>
 Package pdftex.def Info: figures/F5-27.jpg  used on input line 837.
 (pdftex.def)             Requested size: 158.09023pt x 336.50636pt.
 
 
-[162 <./figures/F5-26A.jpg> <./figures/F5-26B.jpg>]
+[161 <./figures/F5-26A.jpg> <./figures/F5-26B.jpg>]
 
-[163 <./figures/F5-27.jpg>]
+[162 <./figures/F5-27.jpg>]
+
+[163]
+Underfull \hbox (badness 1072) in paragraph at lines 926--926
+\T1/cmr/m/n/12 (+20) but-ton) all the way to the
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 926--926
+[]\T1/cmr/m/n/12 (+20) The ar-row (on the but-ton)
+ []
+
+
 
 [164]
 Underfull \hbox (badness 1072) in paragraph at lines 926--926
@@ -2076,20 +2086,8 @@ Underfull \hbox (badness 1661) in paragraph at lines 926--926
 
 
 [165]
-Underfull \hbox (badness 1072) in paragraph at lines 926--926
-\T1/cmr/m/n/12 (+20) but-ton) all the way to the
- []
-
-
-Underfull \hbox (badness 1661) in paragraph at lines 926--926
-[]\T1/cmr/m/n/12 (+20) The ar-row (on the but-ton)
- []
-
-
 
 [166]
-
-[167]
 Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
 []\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
  []
@@ -2106,7 +2104,14 @@ Underfull \hbox (badness 4913) in paragraph at lines 1003--1003
 
 
 
+[167]
+
 [168]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
 
 [169]
 Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
@@ -2116,188 +2121,181 @@ Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
 
 
 [170]
-Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
-[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
- []
-
-
-
-[171]
 Underfull \hbox (badness 4913) in paragraph at lines 1003--1003
 []\T1/cmr/m/n/12 (+20) Work Man-age-ment, Dig-i-tal
  []
 
 
 
-[172]
-<figures/F5-28A.jpg, id=2701, 233.37187pt x 251.43938pt>
+[171]
+<figures/F5-28A.jpg, id=2695, 233.37187pt x 251.43938pt>
 File: figures/F5-28A.jpg Graphic file (type jpg)
 <use figures/F5-28A.jpg>
 Package pdftex.def Info: figures/F5-28A.jpg  used on input line 1042.
 (pdftex.def)             Requested size: 187.90846pt x 259.99448pt.
-<figures/F5-28B.jpg, id=2702, 248.42813pt x 271.0125pt>
+<figures/F5-28B.jpg, id=2696, 248.42813pt x 271.0125pt>
 File: figures/F5-28B.jpg Graphic file (type jpg)
 <use figures/F5-28B.jpg>
 Package pdftex.def Info: figures/F5-28B.jpg  used on input line 1043.
 (pdftex.def)             Requested size: 187.90135pt x 260.00362pt.
 
 
-[173 <./figures/F5-28A.jpg> <./figures/F5-28B.jpg>]
-<figures/F5-29A.jpg, id=2708, 228.10219pt x 506.6428pt>
+[172 <./figures/F5-28A.jpg> <./figures/F5-28B.jpg>]
+<figures/F5-29A.jpg, id=2702, 228.10219pt x 506.6428pt>
 File: figures/F5-29A.jpg Graphic file (type jpg)
 <use figures/F5-29A.jpg>
 Package pdftex.def Info: figures/F5-29A.jpg  used on input line 1058.
 (pdftex.def)             Requested size: 140.93112pt x 260.00014pt.
-<figures/F5-29B.jpg, id=2709, 228.10219pt x 505.89pt>
+<figures/F5-29B.jpg, id=2703, 228.10219pt x 505.89pt>
 File: figures/F5-29B.jpg Graphic file (type jpg)
 <use figures/F5-29B.jpg>
 Package pdftex.def Info: figures/F5-29B.jpg  used on input line 1059.
 (pdftex.def)             Requested size: 140.93112pt x 259.99976pt.
-<figures/F5-29C.jpg, id=2710, 225.84375pt x 484.81125pt>
+<figures/F5-29C.jpg, id=2704, 225.84375pt x 484.81125pt>
 File: figures/F5-29C.jpg Graphic file (type jpg)
 <use figures/F5-29C.jpg>
 Package pdftex.def Info: figures/F5-29C.jpg  used on input line 1060.
 (pdftex.def)             Requested size: 140.93488pt x 260.01134pt.
 
 
-[174 <./figures/F5-29A.jpg> <./figures/F5-29B.jpg> <./figures/F5-29C.jpg>]
-<figures/F5-30A.jpg, id=2717, 1084.05pt x 2409.0pt>
+[173 <./figures/F5-29A.jpg> <./figures/F5-29B.jpg> <./figures/F5-29C.jpg>]
+<figures/F5-30A.jpg, id=2711, 1084.05pt x 2409.0pt>
 File: figures/F5-30A.jpg Graphic file (type jpg)
 <use figures/F5-30A.jpg>
 Package pdftex.def Info: figures/F5-30A.jpg  used on input line 1078.
 (pdftex.def)             Requested size: 117.42633pt x 259.99168pt.
-<figures/F5-30B.jpg, id=2718, 473.51906pt x 367.3725pt>
+<figures/F5-30B.jpg, id=2712, 473.51906pt x 367.3725pt>
 File: figures/F5-30B.jpg Graphic file (type jpg)
 <use figures/F5-30B.jpg>
 Package pdftex.def Info: figures/F5-30B.jpg  used on input line 1079.
 (pdftex.def)             Requested size: 258.36983pt x 260.01225pt.
 
 
-[175 <./figures/F5-30A.jpg> <./figures/F5-30B.jpg>]
-<figures/F5-31A.jpg, id=2729, 249.18094pt x 411.03563pt>
+[174 <./figures/F5-30A.jpg> <./figures/F5-30B.jpg>]
+<figures/F5-31A.jpg, id=2722, 249.18094pt x 411.03563pt>
 File: figures/F5-31A.jpg Graphic file (type jpg)
 <use figures/F5-31A.jpg>
 Package pdftex.def Info: figures/F5-31A.jpg  used on input line 1102.
 (pdftex.def)             Requested size: 140.93196pt x 259.99495pt.
-<figures/F5-31B.jpg, id=2730, 249.18094pt x 268.00125pt>
+<figures/F5-31B.jpg, id=2723, 249.18094pt x 268.00125pt>
 File: figures/F5-31B.jpg Graphic file (type jpg)
 <use figures/F5-31B.jpg>
 Package pdftex.def Info: figures/F5-31B.jpg  used on input line 1103.
 (pdftex.def)             Requested size: 234.88408pt x 259.99359pt.
 
 
-[176 <./figures/F5-31A.jpg> <./figures/F5-31B.jpg>]
-<figures/F5-32.jpg, id=2737, 246.9225pt x 180.675pt>
+[175 <./figures/F5-31A.jpg> <./figures/F5-31B.jpg>]
+<figures/F5-32.jpg, id=2731, 246.9225pt x 180.675pt>
 File: figures/F5-32.jpg Graphic file (type jpg)
 <use figures/F5-32.jpg>
 Package pdftex.def Info: figures/F5-32.jpg  used on input line 1130.
 (pdftex.def)             Requested size: 222.22818pt x 162.60599pt.
-<figures/F5-33A.jpg, id=2739, 246.9225pt x 334.24875pt>
+<figures/F5-33A.jpg, id=2733, 246.9225pt x 334.24875pt>
 File: figures/F5-33A.jpg Graphic file (type jpg)
 <use figures/F5-33A.jpg>
 Package pdftex.def Info: figures/F5-33A.jpg  used on input line 1142.
 (pdftex.def)             Requested size: 140.92435pt x 260.01424pt.
-<figures/F5-33B.jpg, id=2740, 247.67531pt x 326.72063pt>
+<figures/F5-33B.jpg, id=2734, 247.67531pt x 326.72063pt>
 File: figures/F5-33B.jpg Graphic file (type jpg)
 <use figures/F5-33B.jpg>
 Package pdftex.def Info: figures/F5-33B.jpg  used on input line 1143.
 (pdftex.def)             Requested size: 140.92696pt x 259.9959pt.
-<figures/F5-33C.jpg, id=2741, 247.67531pt x 338.01282pt>
+<figures/F5-33C.jpg, id=2735, 247.67531pt x 338.01282pt>
 File: figures/F5-33C.jpg Graphic file (type jpg)
 <use figures/F5-33C.jpg>
 Package pdftex.def Info: figures/F5-33C.jpg  used on input line 1144.
 (pdftex.def)             Requested size: 140.92696pt x 260.00246pt.
 
 
-[177 <./figures/F5-32.jpg>]
-<figures/F5-34.jpg, id=2747, 247.67531pt x 358.33875pt>
+[176 <./figures/F5-32.jpg>]
+<figures/F5-34.jpg, id=2741, 247.67531pt x 358.33875pt>
 File: figures/F5-34.jpg Graphic file (type jpg)
 <use figures/F5-34.jpg>
 Package pdftex.def Info: figures/F5-34.jpg  used on input line 1159.
 (pdftex.def)             Requested size: 198.1405pt x 286.67139pt.
 
 
-[178 <./figures/F5-33A.jpg> <./figures/F5-33B.jpg> <./figures/F5-33C.jpg>]
-<figures/F5-35A.jpg, id=2758, 247.67531pt x 467.49657pt>
+[177 <./figures/F5-33A.jpg> <./figures/F5-33B.jpg> <./figures/F5-33C.jpg>]
+<figures/F5-35A.jpg, id=2752, 247.67531pt x 467.49657pt>
 File: figures/F5-35A.jpg Graphic file (type jpg)
 <use figures/F5-35A.jpg>
 Package pdftex.def Info: figures/F5-35A.jpg  used on input line 1188.
 (pdftex.def)             Requested size: 187.89883pt x 260.0058pt.
-<figures/F5-35B.jpg, id=2759, 246.9225pt x 362.10281pt>
+<figures/F5-35B.jpg, id=2753, 246.9225pt x 362.10281pt>
 File: figures/F5-35B.jpg Graphic file (type jpg)
 <use figures/F5-35B.jpg>
 Package pdftex.def Info: figures/F5-35B.jpg  used on input line 1189.
 (pdftex.def)             Requested size: 187.89662pt x 260.00105pt.
 
 
-[179 <./figures/F5-34.jpg>]
+[178 <./figures/F5-34.jpg>]
 
-[180 <./figures/F5-35A.jpg> <./figures/F5-35B.jpg>]
-<figures/F5-36A.jpg, id=2773, 248.42813pt x 275.52937pt>
+[179 <./figures/F5-35A.jpg> <./figures/F5-35B.jpg>]
+<figures/F5-36A.jpg, id=2767, 248.42813pt x 275.52937pt>
 File: figures/F5-36A.jpg Graphic file (type jpg)
 <use figures/F5-36A.jpg>
 Package pdftex.def Info: figures/F5-36A.jpg  used on input line 1231.
 (pdftex.def)             Requested size: 187.90135pt x 260.01926pt.
-<figures/F5-36B.jpg, id=2774, 249.18094pt x 402.75468pt>
+<figures/F5-36B.jpg, id=2768, 249.18094pt x 402.75468pt>
 File: figures/F5-36B.jpg Graphic file (type jpg)
 <use figures/F5-36B.jpg>
 Package pdftex.def Info: figures/F5-36B.jpg  used on input line 1232.
 (pdftex.def)             Requested size: 187.90422pt x 259.99294pt.
-<figures/F5-37A.jpg, id=2776, 112.16907pt x 127.97812pt>
+<figures/F5-37A.jpg, id=2770, 112.16907pt x 127.97812pt>
 File: figures/F5-37A.jpg Graphic file (type jpg)
 <use figures/F5-37A.jpg>
 Package pdftex.def Info: figures/F5-37A.jpg  used on input line 1243.
 (pdftex.def)             Requested size: 93.95264pt x 97.49675pt.
-<figures/F5-37B.jpg, id=2777, 108.405pt x 108.405pt>
+<figures/F5-37B.jpg, id=2771, 108.405pt x 108.405pt>
 File: figures/F5-37B.jpg Graphic file (type jpg)
 <use figures/F5-37B.jpg>
 Package pdftex.def Info: figures/F5-37B.jpg  used on input line 1244.
 (pdftex.def)             Requested size: 93.95428pt x 97.50073pt.
-<figures/F5-37C.jpg, id=2778, 105.39375pt x 103.13531pt>
+<figures/F5-37C.jpg, id=2772, 105.39375pt x 103.13531pt>
 File: figures/F5-37C.jpg Graphic file (type jpg)
 <use figures/F5-37C.jpg>
 Package pdftex.def Info: figures/F5-37C.jpg  used on input line 1245.
 (pdftex.def)             Requested size: 93.9513pt x 97.49799pt.
-<figures/F5-37D.jpg, id=2779, 100.12407pt x 105.39375pt>
+<figures/F5-37D.jpg, id=2773, 100.12407pt x 105.39375pt>
 File: figures/F5-37D.jpg Graphic file (type jpg)
 <use figures/F5-37D.jpg>
 Package pdftex.def Info: figures/F5-37D.jpg  used on input line 1246.
 (pdftex.def)             Requested size: 93.95468pt x 97.49733pt.
-<figures/F5-37E.jpg, id=2780, 103.88812pt x 103.13531pt>
+<figures/F5-37E.jpg, id=2774, 103.88812pt x 103.13531pt>
 File: figures/F5-37E.jpg Graphic file (type jpg)
 <use figures/F5-37E.jpg>
 Package pdftex.def Info: figures/F5-37E.jpg  used on input line 1247.
 (pdftex.def)             Requested size: 93.95338pt x 97.49799pt.
-<figures/F5-37F.jpg, id=2781, 104.64093pt x 104.64093pt>
+<figures/F5-37F.jpg, id=2775, 104.64093pt x 104.64093pt>
 File: figures/F5-37F.jpg Graphic file (type jpg)
 <use figures/F5-37F.jpg>
 Package pdftex.def Info: figures/F5-37F.jpg  used on input line 1248.
 (pdftex.def)             Requested size: 93.94922pt x 97.49547pt.
-<figures/F5-37G.jpg, id=2782, 101.62968pt x 105.39375pt>
+<figures/F5-37G.jpg, id=2776, 101.62968pt x 105.39375pt>
 File: figures/F5-37G.jpg Graphic file (type jpg)
 <use figures/F5-37G.jpg>
 Package pdftex.def Info: figures/F5-37G.jpg  used on input line 1249.
 (pdftex.def)             Requested size: 93.95325pt x 97.49733pt.
-<figures/F5-37H.jpg, id=2783, 98.61844pt x 103.13531pt>
+<figures/F5-37H.jpg, id=2777, 98.61844pt x 103.13531pt>
 File: figures/F5-37H.jpg Graphic file (type jpg)
 <use figures/F5-37H.jpg>
 Package pdftex.def Info: figures/F5-37H.jpg  used on input line 1250.
 (pdftex.def)             Requested size: 93.9503pt x 97.49799pt.
 
 
-[181]
+[180]
 
-[182 <./figures/F5-36A.jpg> <./figures/F5-36B.jpg> <./figures/F5-37A.jpg> <./figures/F5-37B.jpg> <./figures/F5-37C.jpg> <./figures/F5-37D.jpg> <./figures/F5-37E.jpg> <./figures/F5-37F.jpg> <./figures/F5-37G.jpg> <./figures/F5-37H.jpg>]
+[181 <./figures/F5-36A.jpg> <./figures/F5-36B.jpg> <./figures/F5-37A.jpg> <./figures/F5-37B.jpg> <./figures/F5-37C.jpg> <./figures/F5-37D.jpg> <./figures/F5-37E.jpg> <./figures/F5-37F.jpg> <./figures/F5-37G.jpg> <./figures/F5-37H.jpg>]
 
-[183]
-<figures/F5-38.jpg, id=2803, 294.993pt x 221.409pt>
+[182]
+<figures/F5-38.jpg, id=2797, 294.993pt x 221.409pt>
 File: figures/F5-38.jpg Graphic file (type jpg)
 <use figures/F5-38.jpg>
 Package pdftex.def Info: figures/F5-38.jpg  used on input line 1301.
 (pdftex.def)             Requested size: 235.9947pt x 177.12743pt.
 
 
-[184 <./figures/F5-38.jpg>]
+[183 <./figures/F5-38.jpg>]
 Underfull \hbox (badness 1005) in paragraph at lines 1334--1334
 \T1/cmr/m/n/12 (+20) more dis-crete (...) I
  []
@@ -2350,16 +2348,18 @@ Underfull \hbox (badness 4752) in paragraph at lines 1334--1334
 
 Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
 []\T1/cmr/m/n/12 (+20) Practicality, Pos-i-tive
+ []
+
+
+
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Alternative So-lu-tion,
  []
 
 
 
 [185]
-Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
-[]\T1/cmr/m/n/12 (+20) Alternative So-lu-tion,
- []
-
-
 
 [186]
 
@@ -2369,48 +2369,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
 
 [189]
 
-[190]
+[190])
 
-[191])
+[191]
 
 [192]
-
-[193]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
 Chapter 6.
 
 
-[194
+[193
 
 
 
 
 ]
 
+[194]
+
 [195]
 
 [196]
-
-[197]
-<figures/F6-1.jpg, id=2921, 1013.7875pt x 602.25pt>
+<figures/F6-1.jpg, id=2915, 1013.7875pt x 602.25pt>
 File: figures/F6-1.jpg Graphic file (type jpg)
 <use figures/F6-1.jpg>
 Package pdftex.def Info: figures/F6-1.jpg  used on input line 150.
 (pdftex.def)             Requested size: 465.06004pt x 276.26643pt.
 
 
-[198]
+[197]
 
-[199 <./figures/F6-1.jpg>]
+[198 <./figures/F6-1.jpg>]
+
+[199]
 
 [200]
 
 [201]
-
-[202]
-<figures/F6-2.jpg, id=2965, 4095.3pt x 3071.475pt>
+<figures/F6-2.jpg, id=2959, 4095.3pt x 3071.475pt>
 File: figures/F6-2.jpg Graphic file (type jpg)
 <use figures/F6-2.jpg>
 Package pdftex.def Info: figures/F6-2.jpg  used on input line 300.
@@ -2422,20 +2420,20 @@ LaTeX Warning: No positions in optional float specifier.
 
 
 
-[203 <./figures/F6-2.jpg>]
-<figures/F6-3.jpg, id=2979, 1053.9375pt x 481.8pt>
+[202 <./figures/F6-2.jpg>]
+<figures/F6-3.jpg, id=2973, 1053.9375pt x 481.8pt>
 File: figures/F6-3.jpg Graphic file (type jpg)
 <use figures/F6-3.jpg>
 Package pdftex.def Info: figures/F6-3.jpg  used on input line 348.
 (pdftex.def)             Requested size: 465.06004pt x 212.60283pt.
 
 
-[204]
+[203]
 
-[205 <./figures/F6-3.jpg>]
+[204 <./figures/F6-3.jpg>]
 
-[206]
-<figures/F6-4.jpg, id=3003, 653.44125pt x 322.20375pt>
+[205]
+<figures/F6-4.jpg, id=2996, 653.44125pt x 322.20375pt>
 File: figures/F6-4.jpg Graphic file (type jpg)
 <use figures/F6-4.jpg>
 Package pdftex.def Info: figures/F6-4.jpg  used on input line 421.
@@ -2444,19 +2442,21 @@ Package acronym Info: Label `acro:TA' newly defined as it shall be overridden
 although it is yet undefined on input line 434.
 
 
-[207 <./figures/F6-4.jpg>]
+[206 <./figures/F6-4.jpg>]
+
+[207]
 
 [208]
 
 [209]
-
-[210]
-<figures/F6-5.jpg, id=3055, 4095.3pt x 3071.475pt>
+<figures/F6-5.jpg, id=3049, 4095.3pt x 3071.475pt>
 File: figures/F6-5.jpg Graphic file (type jpg)
 <use figures/F6-5.jpg>
 Package pdftex.def Info: figures/F6-5.jpg  used on input line 556.
 (pdftex.def)             Requested size: 375.80544pt x 281.81052pt.
 
+
+[210]
 
 [211 <./figures/F6-5.jpg>]
 
@@ -2465,28 +2465,28 @@ Package pdftex.def Info: figures/F6-5.jpg  used on input line 556.
 [213]
 
 [214]
-
-[215]
-<figures/F6-6.jpg, id=3122, 1253.43282pt x 704.6325pt>
+<figures/F6-6.jpg, id=3116, 1253.43282pt x 704.6325pt>
 File: figures/F6-6.jpg Graphic file (type jpg)
 <use figures/F6-6.jpg>
 Package pdftex.def Info: figures/F6-6.jpg  used on input line 731.
 (pdftex.def)             Requested size: 465.06004pt x 261.44107pt.
 
 
-[216]
+[215]
 
-[217 <./figures/F6-6.jpg>]
+[216 <./figures/F6-6.jpg>]
 
-[218]
-<figures/F6-7.jpg, id=3149, 467.81226pt x 216.81pt>
+[217]
+<figures/F6-7.jpg, id=3142, 467.81226pt x 216.81pt>
 File: figures/F6-7.jpg Graphic file (type jpg)
 <use figures/F6-7.jpg>
 Package pdftex.def Info: figures/F6-7.jpg  used on input line 803.
 (pdftex.def)             Requested size: 465.06004pt x 215.5457pt.
 
 
-[219 <./figures/F6-7.jpg>]
+[218 <./figures/F6-7.jpg>]
+
+[219]
 
 [220]
 
@@ -2509,28 +2509,28 @@ Package pdftex.def Info: figures/F6-7.jpg  used on input line 803.
 [229]
 
 [230]
-<figures/F6-8.jpg, id=3237, 322.20375pt x 237.88875pt>
+<figures/F6-8.jpg, id=3235, 322.20375pt x 237.88875pt>
 File: figures/F6-8.jpg Graphic file (type jpg)
 <use figures/F6-8.jpg>
 Package pdftex.def Info: figures/F6-8.jpg  used on input line 1221.
 (pdftex.def)             Requested size: 375.80544pt x 277.47568pt.
 
 
-[231]
+[231 <./figures/F6-8.jpg>]
 
-[232 <./figures/F6-8.jpg>]
-
-[233]
-<figures/F6-9.jpg, id=3261, 251.43938pt x 358.33875pt>
+[232]
+<figures/F6-9.jpg, id=3254, 251.43938pt x 358.33875pt>
 File: figures/F6-9.jpg Graphic file (type jpg)
 <use figures/F6-9.jpg>
 Package pdftex.def Info: figures/F6-9.jpg  used on input line 1304.
 (pdftex.def)             Requested size: 375.80544pt x 535.57668pt.
 
 
-[234]
+[233]
 
-[235 <./figures/F6-9.jpg>]
+[234 <./figures/F6-9.jpg>]
+
+[235]
 
 [236])
 
@@ -3963,17 +3963,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  39149 strings out of 467748
- 785512 string characters out of 5431138
- 2838369 words of memory out of 5000000
- 66074 multiletter control sequences out of 15000+600000
+ 785612 string characters out of 5431138
+ 2836395 words of memory out of 5000000
+ 66075 multiletter control sequences out of 15000+600000
  661364 words of font info for 248 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,16n,112p,4583b,5335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbi1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (288 pages, 22684288 bytes).
+Output written on main.pdf (288 pages, 22727742 bytes).
 PDF statistics:
- 4478 PDF objects out of 5155 (max. 8388607)
- 3936 compressed objects within 40 object streams
- 1007 named destinations out of 1200 (max. 500000)
- 58887 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 4473 PDF objects out of 5155 (max. 8388607)
+ 3932 compressed objects within 40 object streams
+ 1006 named destinations out of 1200 (max. 500000)
+ 58879 words of extra memory for PDF output out of 61914 (max. 10000000)
 

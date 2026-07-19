@@ -6376,41 +6376,6 @@
       \verb 10.1145/3594806.3594815
       \endverb
     \endentry
-    \entry{gerring_2004}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5d1059cdc123b00b85f0cc97b1dc1171}{%
-           family={GERRING},
-           familyi={G\bibinitperiod},
-           given={JOHN},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{fullhash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{fullhashraw}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{bibnamehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authorbibnamehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authornamehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authorfullhash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authorfullhashraw}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Political Science Review}
-      \field{number}{2}
-      \field{title}{What Is a Case Study and What Is It Good for?}
-      \field{volume}{98}
-      \field{year}{2004}
-      \field{pages}{341\bibrangedash 354}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1017/S0003055404001182
-      \endverb
-    \endentry
     \entry{gil_2015}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b9b8077186c40681d3d49e06271988b6}{%
@@ -17992,36 +17957,6 @@
       \verb{url}
       \verb https://www.atlantis-press.com/article/125973480
       \endverb
-    \endentry
-    \entry{wiersma_2000}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4b52c3a59a07bb3582b9369bb55b69f5}{%
-           family={Wiersma},
-           familyi={W\bibinitperiod},
-           given={W},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Needham Heights, MA: Allyn ve Bacon A Pearson Education Company}%
-      }
-      \strng{namehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{fullhash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{fullhashraw}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{bibnamehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authorbibnamehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authornamehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authorfullhash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authorfullhashraw}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Research methods {ı}n education: an {ı}ntroduction}
-      \field{year}{2000}
     \endentry
     \entry{wigdor_2011}{book}{}{}
       \name{author}{2}{}{%
@@ -25394,41 +25329,6 @@
       \verb 10.1145/3594806.3594815
       \endverb
     \endentry
-    \entry{gerring_2004}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5d1059cdc123b00b85f0cc97b1dc1171}{%
-           family={GERRING},
-           familyi={G\bibinitperiod},
-           given={JOHN},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{fullhash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{fullhashraw}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{bibnamehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authorbibnamehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authornamehash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authorfullhash}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \strng{authorfullhashraw}{5d1059cdc123b00b85f0cc97b1dc1171}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Political Science Review}
-      \field{number}{2}
-      \field{title}{What Is a Case Study and What Is It Good for?}
-      \field{volume}{98}
-      \field{year}{2004}
-      \field{pages}{341\bibrangedash 354}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1017/S0003055404001182
-      \endverb
-    \endentry
     \entry{gil_2015}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b9b8077186c40681d3d49e06271988b6}{%
@@ -37010,36 +36910,6 @@
       \verb{url}
       \verb https://www.atlantis-press.com/article/125973480
       \endverb
-    \endentry
-    \entry{wiersma_2000}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4b52c3a59a07bb3582b9369bb55b69f5}{%
-           family={Wiersma},
-           familyi={W\bibinitperiod},
-           given={W},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Needham Heights, MA: Allyn ve Bacon A Pearson Education Company}%
-      }
-      \strng{namehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{fullhash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{fullhashraw}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{bibnamehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authorbibnamehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authornamehash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authorfullhash}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \strng{authorfullhashraw}{4b52c3a59a07bb3582b9369bb55b69f5}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Research methods {ı}n education: an {ı}ntroduction}
-      \field{year}{2000}
     \endentry
     \entry{wigdor_2011}{book}{}{}
       \name{author}{2}{}{%

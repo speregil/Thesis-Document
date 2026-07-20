@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  19 JUL 2026 21:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.9)  20 JUL 2026 18:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1083,6 +1083,2901 @@ Package biblatex Info: Reference segment=0 on input line 49.
 [1
 
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-!pdfTeX error: pdflatex.exe (file c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map): fflush() failed (Invalid argument)
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./abstract.tex
+Package acronym Info: Label `acro:AR' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+Package acronym Info: Label `acro:CL' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+Package acronym Info: Label `acro:TEL' newly defined as it shall be overridden
+although it is yet undefined on input line 8.
+)
+\l__supervisor_supervisorno_int=\count555
+
+
+[2
+
+
+]
+\openout2 = `acknowledgments.aux'.
+
+ (./acknowledgments.tex)
+
+[3
+
+
+
+] (./main.toc
+
+[4
+
+
+
+]
+
+[5])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+[6] (./main.lof
+Package acronym Info: Label `acro:CSCW' newly defined as it shall be overridden
+although it is yet undefined on input line 4.
+Package acronym Info: Label `acro:SLR' newly defined as it shall be overridden
+although it is yet undefined on input line 9.
+
+
+[7
+
+]
+
+[8])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+
+[9] (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+
+
+[10
+
+]
+\openout2 = `abbreviations.aux'.
+
+ (./abbreviations.tex)
+
+[11
+
+]
+\openout2 = `authorship.aux'.
+
+ (./authorship.tex
+<figures/signature.jpg.jpg, id=588, 3071.475pt x 1577.895pt>
+File: figures/signature.jpg.jpg Graphic file (type jpg)
+<use figures/signature.jpg.jpg>
+Package pdftex.def Info: figures/signature.jpg.jpg  used on input line 10.
+(pdftex.def)             Requested size: 245.72302pt x 126.23418pt.
+)
+
+[12
+
+
+
+
+ <./figures/signature.jpg.jpg>]
+\openout2 = `chapter1.aux'.
+
+ (./chapter1.tex
+Chapter 1.
+Package acronym Info: Label `acro:VR' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+<figures/F1-1.jpg, id=600, 1440.13031pt x 742.27313pt>
+File: figures/F1-1.jpg Graphic file (type jpg)
+<use figures/F1-1.jpg>
+Package pdftex.def Info: figures/F1-1.jpg  used on input line 11.
+(pdftex.def)             Requested size: 465.06004pt x 239.69556pt.
+
+
+[13
+
+
+
+
+]
+
+[14 <./figures/F1-1.jpg>]
+
+[15]
+<figures/F1-2.jpg, id=678, 380.00032pt x 337.26pt>
+File: figures/F1-2.jpg Graphic file (type jpg)
+<use figures/F1-2.jpg>
+Package pdftex.def Info: figures/F1-2.jpg  used on input line 113.
+(pdftex.def)             Requested size: 465.06004pt x 412.7843pt.
+Package acronym Info: Label `acro:MR' newly defined as it shall be overridden
+although it is yet undefined on input line 119.
+
+
+[16{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<figures/F1-3.jpg, id=703, 375.65344pt x 189.70876pt>
+File: figures/F1-3.jpg Graphic file (type jpg)
+<use figures/F1-3.jpg>
+Package pdftex.def Info: figures/F1-3.jpg  used on input line 137.
+(pdftex.def)             Requested size: 465.06004pt x 234.87457pt.
+
+
+[17 <./figures/F1-2.jpg>]
+
+[18 <./figures/F1-3.jpg>]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25])
+
+[26]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+Chapter 2.
+
+
+[27
+
+
+
+
+]
+
+[28]
+<figures/F2-1.jpg, id=891, 868.24374pt x 549.05125pt>
+File: figures/F2-1.jpg Graphic file (type jpg)
+<use figures/F2-1.jpg>
+Package pdftex.def Info: figures/F2-1.jpg  used on input line 77.
+(pdftex.def)             Requested size: 465.06004pt x 294.09558pt.
+
+
+[29]
+
+[30 <./figures/F2-1.jpg>]
+Package acronym Info: Label `acro:CoP' newly defined as it shall be overridden
+although it is yet undefined on input line 109.
+<figures/F2-2.jpg, id=935, 622.325pt x 250.9375pt>
+File: figures/F2-2.jpg Graphic file (type jpg)
+<use figures/F2-2.jpg>
+Package pdftex.def Info: figures/F2-2.jpg  used on input line 122.
+(pdftex.def)             Requested size: 465.06004pt x 187.52492pt.
+
+
+[31]
+
+[32 <./figures/F2-2.jpg>]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 321.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+[]|\T1/cmr/m/n/12 (+20) Keay ([]2006[]) and Zubiri-
+ []
+
+
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+Package acronym Info: Label `acro:VLE' newly defined as it shall be overridden
+although it is yet undefined on input line 421.
+Package acronym Info: Label `acro:LMS' newly defined as it shall be overridden
+although it is yet undefined on input line 421.
+
+
+[43]
+
+[44]
+
+[45]
+<figures/F2-3.jpg, id=1304, 1204.5pt x 642.4pt>
+File: figures/F2-3.jpg Graphic file (type jpg)
+<use figures/F2-3.jpg>
+Package pdftex.def Info: figures/F2-3.jpg  used on input line 485.
+(pdftex.def)             Requested size: 465.06004pt x 248.03543pt.
+Package acronym Info: Label `acro:BRT' newly defined as it shall be overridden
+although it is yet undefined on input line 489.
+
+
+[46 <./figures/F2-3.jpg>]
+
+[47]
+
+[48]
+<figures/F2-4.jpg, id=1359, 789.95125pt x 573.14125pt>
+File: figures/F2-4.jpg Graphic file (type jpg)
+<use figures/F2-4.jpg>
+Package pdftex.def Info: figures/F2-4.jpg  used on input line 576.
+(pdftex.def)             Requested size: 465.06004pt x 337.42453pt.
+
+
+[49 <./figures/F2-4.jpg>]
+<figures/F2-5.jpg, id=1369, 2049.6575pt x 1261.71375pt>
+File: figures/F2-5.jpg Graphic file (type jpg)
+<use figures/F2-5.jpg>
+Package pdftex.def Info: figures/F2-5.jpg  used on input line 594.
+(pdftex.def)             Requested size: 465.06004pt x 286.27986pt.
+
+
+[50 <./figures/F2-5.jpg>]
+<figures/F2-6.jpg, id=1379, 2036.60875pt x 1413.28pt>
+File: figures/F2-6.jpg Graphic file (type jpg)
+<use figures/F2-6.jpg>
+Package pdftex.def Info: figures/F2-6.jpg  used on input line 620.
+(pdftex.def)             Requested size: 465.06004pt x 322.71855pt.
+<figures/F2-7.jpg, id=1383, 3011.25pt x 1261.71375pt>
+File: figures/F2-7.jpg Graphic file (type jpg)
+<use figures/F2-7.jpg>
+Package pdftex.def Info: figures/F2-7.jpg  used on input line 631.
+(pdftex.def)             Requested size: 465.06004pt x 194.85127pt.
+<figures/F2-8.jpg, id=1384, 2812.5075pt x 1261.71375pt>
+File: figures/F2-8.jpg Graphic file (type jpg)
+<use figures/F2-8.jpg>
+Package pdftex.def Info: figures/F2-8.jpg  used on input line 636.
+(pdftex.def)             Requested size: 465.06004pt x 208.61658pt.
+
+
+[51]
+<figures/F2-9.jpg, id=1397, 2416.02625pt x 1261.71375pt>
+File: figures/F2-9.jpg Graphic file (type jpg)
+<use figures/F2-9.jpg>
+Package pdftex.def Info: figures/F2-9.jpg  used on input line 661.
+(pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
+<figures/F2-10.jpg, id=1398, 2416.02625pt x 1261.71375pt>
+File: figures/F2-10.jpg Graphic file (type jpg)
+<use figures/F2-10.jpg>
+Package pdftex.def Info: figures/F2-10.jpg  used on input line 666.
+(pdftex.def)             Requested size: 465.06004pt x 242.86621pt.
+
+
+[52 <./figures/F2-6.jpg>]
+<figures/F2-11.jpg, id=1406, 2250.4075pt x 1261.71375pt>
+File: figures/F2-11.jpg Graphic file (type jpg)
+<use figures/F2-11.jpg>
+Package pdftex.def Info: figures/F2-11.jpg  used on input line 683.
+(pdftex.def)             Requested size: 465.06004pt x 260.73222pt.
+
+
+[53 <./figures/F2-7.jpg>]
+<figures/F2-12.jpg, id=1417, 2250.4075pt x 1261.71375pt>
+File: figures/F2-12.jpg Graphic file (type jpg)
+<use figures/F2-12.jpg>
+Package pdftex.def Info: figures/F2-12.jpg  used on input line 708.
+(pdftex.def)             Requested size: 465.06004pt x 260.73222pt.
+
+
+[54 <./figures/F2-8.jpg>]
+
+[55 <./figures/F2-9.jpg>]
+
+[56 <./figures/F2-10.jpg>]
+
+[57 <./figures/F2-11.jpg>]
+
+[58 <./figures/F2-12.jpg>]
+<figures/F2-13.jpg, id=1476, 823.075pt x 557.08125pt>
+File: figures/F2-13.jpg Graphic file (type jpg)
+<use figures/F2-13.jpg>
+Package pdftex.def Info: figures/F2-13.jpg  used on input line 789.
+(pdftex.def)             Requested size: 465.06004pt x 314.7685pt.
+
+
+[59 <./figures/F2-13.jpg>]
+
+[60]
+
+[61]
+
+[62])
+
+[63]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 3.
+Package acronym Info: Label `acro:CR' newly defined as it shall be overridden
+although it is yet undefined on input line 25.
+
+
+[64
+
+
+
+
+]
+<figures/F3-1.jpg, id=1610, 746.79pt x 746.79pt>
+File: figures/F3-1.jpg Graphic file (type jpg)
+<use figures/F3-1.jpg>
+Package pdftex.def Info: figures/F3-1.jpg  used on input line 50.
+(pdftex.def)             Requested size: 224.03873pt x 224.03873pt.
+
+
+[65]
+
+[66 <./figures/F3-1.jpg (PNG copy)>]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73]
+
+[74]
+
+[75]
+<figures/F3-2.jpg, id=1774, 782.925pt x 521.95pt>
+File: figures/F3-2.jpg Graphic file (type jpg)
+<use figures/F3-2.jpg>
+Package pdftex.def Info: figures/F3-2.jpg  used on input line 419.
+(pdftex.def)             Requested size: 465.06004pt x 310.04243pt.
+
+
+[76]
+
+[77 <./figures/F3-2.jpg>]
+<figures/F3-3.jpg, id=1800, 813.0375pt x 180.675pt>
+File: figures/F3-3.jpg Graphic file (type jpg)
+<use figures/F3-3.jpg>
+Package pdftex.def Info: figures/F3-3.jpg  used on input line 486.
+(pdftex.def)             Requested size: 465.06004pt x 103.34695pt.
+
+
+[78]
+<figures/F3-4.jpg, id=1812, 953.5625pt x 421.575pt>
+File: figures/F3-4.jpg Graphic file (type jpg)
+<use figures/F3-4.jpg>
+Package pdftex.def Info: figures/F3-4.jpg  used on input line 498.
+(pdftex.def)             Requested size: 465.06004pt x 205.60864pt.
+
+
+[79 <./figures/F3-3.jpg> <./figures/F3-4.jpg>])
+
+[80]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+Chapter 4.
+
+
+[81
+
+
+
+
+]
+
+[82]
+
+[83]
+Package acronym Info: Label `acro:AUT' newly defined as it shall be overridden
+although it is yet undefined on input line 113.
+
+
+[84]
+Package acronym Info: Label `acro:AE' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+Package acronym Info: Label `acro:CE' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+Package acronym Info: Label `acro:CM' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+Package acronym Info: Label `acro:QS' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+
+
+[85]
+
+[86]
+<figures/F4-1.jpg, id=1911, 672.5125pt x 752.8125pt>
+File: figures/F4-1.jpg Graphic file (type jpg)
+<use figures/F4-1.jpg>
+Package pdftex.def Info: figures/F4-1.jpg  used on input line 225.
+(pdftex.def)             Requested size: 403.5106pt x 451.69098pt.
+
+
+[87]
+
+[88 <./figures/F4-1.jpg>]
+<figures/F4-2.jpg, id=1923, 642.4pt x 652.4375pt>
+File: figures/F4-2.jpg Graphic file (type jpg)
+<use figures/F4-2.jpg>
+Package pdftex.def Info: figures/F4-2.jpg  used on input line 249.
+(pdftex.def)             Requested size: 385.44298pt x 391.46552pt.
+
+
+[89 <./figures/F4-2.jpg>]
+
+[90]
+Package acronym Info: Label `acro:BYOD' newly defined as it shall be overridden
+although it is yet undefined on input line 323.
+<figures/F4-3.jpg, id=1948, 411.5375pt x 531.9875pt>
+File: figures/F4-3.jpg Graphic file (type jpg)
+<use figures/F4-3.jpg>
+Package pdftex.def Info: figures/F4-3.jpg  used on input line 334.
+(pdftex.def)             Requested size: 329.23045pt x 425.59058pt.
+
+
+[91]
+
+[92 <./figures/F4-3.jpg>]
+
+[93]
+
+[94]
+
+[95]
+
+[96]
+
+[97]
+
+[98]
+
+[99]
+
+[100]
+
+[101]
+
+[102]
+<figures/F4-4.jpg, id=2059, 501.875pt x 552.0625pt>
+File: figures/F4-4.jpg Graphic file (type jpg)
+<use figures/F4-4.jpg>
+Package pdftex.def Info: figures/F4-4.jpg  used on input line 699.
+(pdftex.def)             Requested size: 351.31009pt x 386.4411pt.
+
+
+[103 <./figures/F4-4.jpg>]
+
+[104]
+<figures/F4-5.jpg, id=2086, 803.0pt x 190.7125pt>
+File: figures/F4-5.jpg Graphic file (type jpg)
+<use figures/F4-5.jpg>
+Package pdftex.def Info: figures/F4-5.jpg  used on input line 751.
+(pdftex.def)             Requested size: 465.06004pt x 110.45326pt.
+<figures/F4-6.jpg, id=2089, 511.9125pt x 622.325pt>
+File: figures/F4-6.jpg Graphic file (type jpg)
+<use figures/F4-6.jpg>
+Package pdftex.def Info: figures/F4-6.jpg  used on input line 763.
+(pdftex.def)             Requested size: 383.93344pt x 466.7426pt.
+
+
+[105 <./figures/F4-5.jpg>]
+
+[106 <./figures/F4-6.jpg>]
+<figures/F4-7.jpg, id=2103, 853.1875pt x 421.575pt>
+File: figures/F4-7.jpg Graphic file (type jpg)
+<use figures/F4-7.jpg>
+Package pdftex.def Info: figures/F4-7.jpg  used on input line 791.
+(pdftex.def)             Requested size: 465.06004pt x 229.80206pt.
+
+
+[107 <./figures/F4-7.jpg>]
+<figures/F4-8.jpg, id=2111, 702.625pt x 341.275pt>
+File: figures/F4-8.jpg Graphic file (type jpg)
+<use figures/F4-8.jpg>
+Package pdftex.def Info: figures/F4-8.jpg  used on input line 817.
+(pdftex.def)             Requested size: 465.06004pt x 225.89311pt.
+
+
+[108 <./figures/F4-8.jpg>]
+<figures/F4-9.jpg, id=2123, 1013.7875pt x 542.025pt>
+File: figures/F4-9.jpg Graphic file (type jpg)
+<use figures/F4-9.jpg>
+Package pdftex.def Info: figures/F4-9.jpg  used on input line 845.
+(pdftex.def)             Requested size: 465.06004pt x 248.63979pt.
+<figures/F4-10.jpg, id=2125, 1124.2pt x 587.19376pt>
+File: figures/F4-10.jpg Graphic file (type jpg)
+<use figures/F4-10.jpg>
+Package pdftex.def Info: figures/F4-10.jpg  used on input line 855.
+(pdftex.def)             Requested size: 465.06004pt x 242.91032pt.
+
+
+[109 <./figures/F4-9.jpg>]
+
+[110 <./figures/F4-10.jpg>]
+<figures/F4-11.jpg, id=2138, 612.2875pt x 381.425pt>
+File: figures/F4-11.jpg Graphic file (type jpg)
+<use figures/F4-11.jpg>
+Package pdftex.def Info: figures/F4-11.jpg  used on input line 885.
+(pdftex.def)             Requested size: 465.06004pt x 289.7114pt.
+
+
+[111 <./figures/F4-11.jpg>]
+<figures/F4-12.jpg, id=2150, 421.575pt x 542.025pt>
+File: figures/F4-12.jpg Graphic file (type jpg)
+<use figures/F4-12.jpg>
+Package pdftex.def Info: figures/F4-12.jpg  used on input line 900.
+(pdftex.def)             Requested size: 316.18047pt x 406.51775pt.
+
+
+[112 <./figures/F4-12.jpg>]
+<figures/F4-13.jpg, id=2157, 572.1375pt x 391.4625pt>
+File: figures/F4-13.jpg Graphic file (type jpg)
+<use figures/F4-13.jpg>
+Package pdftex.def Info: figures/F4-13.jpg  used on input line 938.
+(pdftex.def)             Requested size: 343.28514pt x 234.8793pt.
+<figures/F4-14.jpg, id=2159, 602.25pt x 521.95pt>
+File: figures/F4-14.jpg Graphic file (type jpg)
+<use figures/F4-14.jpg>
+Package pdftex.def Info: figures/F4-14.jpg  used on input line 951.
+(pdftex.def)             Requested size: 361.35278pt x 313.17241pt.
+
+
+[113]
+
+[114 <./figures/F4-13.jpg> <./figures/F4-14.jpg>]
+<figures/F4-15.jpg, id=2171, 873.2625pt x 501.875pt>
+File: figures/F4-15.jpg Graphic file (type jpg)
+<use figures/F4-15.jpg>
+Package pdftex.def Info: figures/F4-15.jpg  used on input line 975.
+(pdftex.def)             Requested size: 465.06004pt x 267.27902pt.
+
+
+[115]
+<figures/F4-16.jpg, id=2179, 1003.75pt x 592.2125pt>
+File: figures/F4-16.jpg Graphic file (type jpg)
+<use figures/F4-16.jpg>
+Package pdftex.def Info: figures/F4-16.jpg  used on input line 1011.
+(pdftex.def)             Requested size: 465.06004pt x 274.39099pt.
+
+
+[116 <./figures/F4-15.jpg>]
+
+[117 <./figures/F4-16.jpg>]
+<figures/F4-17.jpg, id=2193, 1063.975pt x 853.1875pt>
+File: figures/F4-17.jpg Graphic file (type jpg)
+<use figures/F4-17.jpg>
+Package pdftex.def Info: figures/F4-17.jpg  used on input line 1059.
+(pdftex.def)             Requested size: 465.06004pt x 372.91711pt.
+
+
+[118]
+
+[119 <./figures/F4-17.jpg>]
+<figures/F4-18.jpg, id=2212, 923.45pt x 853.1875pt>
+File: figures/F4-18.jpg Graphic file (type jpg)
+<use figures/F4-18.jpg>
+Package pdftex.def Info: figures/F4-18.jpg  used on input line 1103.
+(pdftex.def)             Requested size: 465.06004pt x 429.6781pt.
+
+
+[120]
+
+[121 <./figures/F4-18.jpg>]
+<figures/F4-19.jpg, id=2227, 923.45pt x 662.475pt>
+File: figures/F4-19.jpg Graphic file (type jpg)
+<use figures/F4-19.jpg>
+Package pdftex.def Info: figures/F4-19.jpg  used on input line 1119.
+(pdftex.def)             Requested size: 465.06004pt x 333.63242pt.
+
+
+[122 <./figures/F4-19.jpg>]
+<figures/F4-20.jpg, id=2234, 923.45pt x 642.4pt>
+File: figures/F4-20.jpg Graphic file (type jpg)
+<use figures/F4-20.jpg>
+Package pdftex.def Info: figures/F4-20.jpg  used on input line 1152.
+(pdftex.def)             Requested size: 465.06004pt x 323.52234pt.
+
+
+[123]
+
+[124 <./figures/F4-20.jpg>]
+
+[125])
+
+[126]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+Chapter 5.
+
+
+[127
+
+
+
+
+]
+
+[128]
+
+[129]
+<figures/F5-1A.jpg, id=2333, 1228.59pt x 1193.96063pt>
+File: figures/F5-1A.jpg Graphic file (type jpg)
+<use figures/F5-1A.jpg>
+Package pdftex.def Info: figures/F5-1A.jpg  used on input line 112.
+(pdftex.def)             Requested size: 230.17259pt x 214.48462pt.
+<figures/F5-1B.jpg, id=2334, 1242.89343pt x 1196.97188pt>
+File: figures/F5-1B.jpg Graphic file (type jpg)
+<use figures/F5-1B.jpg>
+Package pdftex.def Info: figures/F5-1B.jpg  used on input line 113.
+(pdftex.def)             Requested size: 234.86258pt x 214.4959pt.
+
+
+[130]
+
+[131 <./figures/F5-1A.jpg> <./figures/F5-1B.jpg>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 158.
+
+<figures/F5-2A.jpg, id=2364, 1084.05pt x 2409.0pt>
+File: figures/F5-2A.jpg Graphic file (type jpg)
+<use figures/F5-2A.jpg>
+Package pdftex.def Info: figures/F5-2A.jpg  used on input line 186.
+(pdftex.def)             Requested size: 230.1715pt x 390.0059pt.
+<figures/F5-2B.jpg, id=2365, 1084.05pt x 2409.0pt>
+File: figures/F5-2B.jpg Graphic file (type jpg)
+<use figures/F5-2B.jpg>
+Package pdftex.def Info: figures/F5-2B.jpg  used on input line 187.
+(pdftex.def)             Requested size: 234.8692pt x 390.0059pt.
+
+
+[132]
+
+[133 <./figures/F5-2A.jpg> <./figures/F5-2B.jpg>]
+
+[134]
+<figures/F5-3.jpg, id=2390, 648.021pt x 302.877pt>
+File: figures/F5-3.jpg Graphic file (type jpg)
+<use figures/F5-3.jpg>
+Package pdftex.def Info: figures/F5-3.jpg  used on input line 232.
+(pdftex.def)             Requested size: 465.06004pt x 217.36879pt.
+
+
+[135 <./figures/F5-3.jpg>]
+<figures/F5-4.jpg, id=2405, 647.145pt x 333.756pt>
+File: figures/F5-4.jpg Graphic file (type jpg)
+<use figures/F5-4.jpg>
+Package pdftex.def Info: figures/F5-4.jpg  used on input line 255.
+(pdftex.def)             Requested size: 465.06004pt x 239.85088pt.
+
+
+[136 <./figures/F5-4.jpg>]
+<figures/F5-5A.jpg, id=2414, 697.8572pt x 703.12688pt>
+File: figures/F5-5A.jpg Graphic file (type jpg)
+<use figures/F5-5A.jpg>
+Package pdftex.def Info: figures/F5-5A.jpg  used on input line 275.
+(pdftex.def)             Requested size: 230.17645pt x 214.49094pt.
+<figures/F5-5B.jpg, id=2415, 754.31813pt x 702.37407pt>
+File: figures/F5-5B.jpg Graphic file (type jpg)
+<use figures/F5-5B.jpg>
+Package pdftex.def Info: figures/F5-5B.jpg  used on input line 276.
+(pdftex.def)             Requested size: 234.8721pt x 214.49707pt.
+<figures/F5-6.jpg, id=2417, 660.942pt x 375.147pt>
+File: figures/F5-6.jpg Graphic file (type jpg)
+<use figures/F5-6.jpg>
+Package pdftex.def Info: figures/F5-6.jpg  used on input line 284.
+(pdftex.def)             Requested size: 465.06004pt x 263.96347pt.
+<figures/F5-7.jpg, id=2419, 614.295pt x 470.50781pt>
+File: figures/F5-7.jpg Graphic file (type jpg)
+<use figures/F5-7.jpg>
+Package pdftex.def Info: figures/F5-7.jpg  used on input line 292.
+(pdftex.def)             Requested size: 307.14674pt x 235.25333pt.
+<figures/F5-8.jpg, id=2422, 663.789pt x 348.21pt>
+File: figures/F5-8.jpg Graphic file (type jpg)
+<use figures/F5-8.jpg>
+Package pdftex.def Info: figures/F5-8.jpg  used on input line 302.
+(pdftex.def)             Requested size: 465.06004pt x 243.95787pt.
+
+
+[137 <./figures/F5-5A.jpg> <./figures/F5-5B.jpg>]
+
+[138 <./figures/F5-6.jpg> <./figures/F5-7.jpg>]
+<figures/F5-9A.jpg, id=2432, 770.88pt x 627.84563pt>
+File: figures/F5-9A.jpg Graphic file (type jpg)
+<use figures/F5-9A.jpg>
+Package pdftex.def Info: figures/F5-9A.jpg  used on input line 319.
+(pdftex.def)             Requested size: 140.91673pt x 194.99417pt.
+<figures/F5-9B.jpg, id=2433, 685.8122pt x 533.74406pt>
+File: figures/F5-9B.jpg Graphic file (type jpg)
+<use figures/F5-9B.jpg>
+Package pdftex.def Info: figures/F5-9B.jpg  used on input line 320.
+(pdftex.def)             Requested size: 140.92728pt x 194.9982pt.
+<figures/F5-9C.jpg, id=2434, 685.05937pt x 565.36218pt>
+File: figures/F5-9C.jpg Graphic file (type jpg)
+<use figures/F5-9C.jpg>
+Package pdftex.def Info: figures/F5-9C.jpg  used on input line 321.
+(pdftex.def)             Requested size: 140.92937pt x 194.9984pt.
+<figures/F5-10A.jpg, id=2436, 1273.75874pt x 793.96625pt>
+File: figures/F5-10A.jpg Graphic file (type jpg)
+<use figures/F5-10A.jpg>
+Package pdftex.def Info: figures/F5-10A.jpg  used on input line 332.
+(pdftex.def)             Requested size: 230.18018pt x 214.4949pt.
+<figures/F5-10B.jpg, id=2437, 1201.48875pt x 664.4825pt>
+File: figures/F5-10B.jpg Graphic file (type jpg)
+<use figures/F5-10B.jpg>
+Package pdftex.def Info: figures/F5-10B.jpg  used on input line 333.
+(pdftex.def)             Requested size: 234.86687pt x 214.50435pt.
+
+
+[139 <./figures/F5-8.jpg>]
+
+[140 <./figures/F5-9A.jpg> <./figures/F5-9B.jpg> <./figures/F5-9C.jpg> <./figures/F5-10A.jpg> <./figures/F5-10B.jpg>]
+<figures/F5-11A.jpg, id=2448, 663.132pt x 317.331pt>
+File: figures/F5-11A.jpg Graphic file (type jpg)
+<use figures/F5-11A.jpg>
+Package pdftex.def Info: figures/F5-11A.jpg  used on input line 343.
+(pdftex.def)             Requested size: 465.06004pt x 222.54659pt.
+<figures/F5-11B.jpg, id=2449, 676.71pt x 361.788pt>
+File: figures/F5-11B.jpg Graphic file (type jpg)
+<use figures/F5-11B.jpg>
+Package pdftex.def Info: figures/F5-11B.jpg  used on input line 344.
+(pdftex.def)             Requested size: 465.06004pt x 248.64029pt.
+<figures/F5-12A.jpg, id=2451, 1232.605pt x 797.98125pt>
+File: figures/F5-12A.jpg Graphic file (type jpg)
+<use figures/F5-12A.jpg>
+Package pdftex.def Info: figures/F5-12A.jpg  used on input line 364.
+(pdftex.def)             Requested size: 140.92844pt x 195.0018pt.
+<figures/F5-12B.jpg, id=2452, 796.9775pt x 686.565pt>
+File: figures/F5-12B.jpg Graphic file (type jpg)
+<use figures/F5-12B.jpg>
+Package pdftex.def Info: figures/F5-12B.jpg  used on input line 365.
+(pdftex.def)             Requested size: 140.92029pt x 194.99211pt.
+<figures/F5-12C.jpg, id=2453, 676.77844pt x 519.44063pt>
+File: figures/F5-12C.jpg Graphic file (type jpg)
+<use figures/F5-12C.jpg>
+Package pdftex.def Info: figures/F5-12C.jpg  used on input line 366.
+(pdftex.def)             Requested size: 140.92975pt x 194.99583pt.
+
+
+[141]
+
+[142 <./figures/F5-11A.jpg> <./figures/F5-11B.jpg>]
+<figures/F5-13A.jpg, id=2464, 988.69376pt x 707.64375pt>
+File: figures/F5-13A.jpg Graphic file (type jpg)
+<use figures/F5-13A.jpg>
+Package pdftex.def Info: figures/F5-13A.jpg  used on input line 382.
+(pdftex.def)             Requested size: 230.17065pt x 214.4975pt.
+<figures/F5-13B.jpg, id=2465, 992.70876pt x 815.045pt>
+File: figures/F5-13B.jpg Graphic file (type jpg)
+<use figures/F5-13B.jpg>
+Package pdftex.def Info: figures/F5-13B.jpg  used on input line 383.
+(pdftex.def)             Requested size: 234.87708pt x 214.4935pt.
+<figures/F5-14.jpg, id=2466, 664.665pt x 348.867pt>
+File: figures/F5-14.jpg Graphic file (type jpg)
+<use figures/F5-14.jpg>
+Package pdftex.def Info: figures/F5-14.jpg  used on input line 388.
+(pdftex.def)             Requested size: 465.06004pt x 244.09877pt.
+<figures/F5-15A.jpg, id=2468, 757.32938pt x 575.14874pt>
+File: figures/F5-15A.jpg Graphic file (type jpg)
+<use figures/F5-15A.jpg>
+Package pdftex.def Info: figures/F5-15A.jpg  used on input line 402.
+(pdftex.def)             Requested size: 230.18199pt x 214.49548pt.
+<figures/F5-15B.jpg, id=2469, 705.38531pt x 602.25pt>
+File: figures/F5-15B.jpg Graphic file (type jpg)
+<use figures/F5-15B.jpg>
+Package pdftex.def Info: figures/F5-15B.jpg  used on input line 403.
+(pdftex.def)             Requested size: 234.87671pt x 214.50323pt.
+<figures/F5-16A.jpg, id=2471, 1266.7325pt x 824.07875pt>
+File: figures/F5-16A.jpg Graphic file (type jpg)
+<use figures/F5-16A.jpg>
+Package pdftex.def Info: figures/F5-16A.jpg  used on input line 415.
+(pdftex.def)             Requested size: 230.16682pt x 214.49432pt.
+<figures/F5-16B.jpg, id=2472, 1235.61626pt x 798.985pt>
+File: figures/F5-16B.jpg Graphic file (type jpg)
+<use figures/F5-16B.jpg>
+Package pdftex.def Info: figures/F5-16B.jpg  used on input line 416.
+(pdftex.def)             Requested size: 234.8638pt x 214.49748pt.
+
+
+[143 <./figures/F5-12A.jpg> <./figures/F5-12B.jpg> <./figures/F5-12C.jpg>]
+
+[144 <./figures/F5-13A.jpg> <./figures/F5-13B.jpg> <./figures/F5-14.jpg>]
+
+[145 <./figures/F5-15A.jpg> <./figures/F5-15B.jpg> <./figures/F5-16A.jpg> <./figures/F5-16B.jpg>]
+<figures/F5-17A.jpg, id=2487, 651.963pt x 363.102pt>
+File: figures/F5-17A.jpg Graphic file (type jpg)
+<use figures/F5-17A.jpg>
+Package pdftex.def Info: figures/F5-17A.jpg  used on input line 425.
+(pdftex.def)             Requested size: 465.06004pt x 259.0176pt.
+<figures/F5-17B.jpg, id=2488, 618.894pt x 301.344pt>
+File: figures/F5-17B.jpg Graphic file (type jpg)
+<use figures/F5-17B.jpg>
+Package pdftex.def Info: figures/F5-17B.jpg  used on input line 426.
+(pdftex.def)             Requested size: 465.06004pt x 226.44424pt.
+<figures/F5-18A.jpg, id=2490, 777.65532pt x 604.50844pt>
+File: figures/F5-18A.jpg Graphic file (type jpg)
+<use figures/F5-18A.jpg>
+Package pdftex.def Info: figures/F5-18A.jpg  used on input line 439.
+(pdftex.def)             Requested size: 140.9212pt x 194.99629pt.
+<figures/F5-18B.jpg, id=2491, 740.0147pt x 529.22719pt>
+File: figures/F5-18B.jpg Graphic file (type jpg)
+<use figures/F5-18B.jpg>
+Package pdftex.def Info: figures/F5-18B.jpg  used on input line 440.
+(pdftex.def)             Requested size: 140.92041pt x 195.00345pt.
+<figures/F5-18C.jpg, id=2492, 1034.86626pt x 742.775pt>
+File: figures/F5-18C.jpg Graphic file (type jpg)
+<use figures/F5-18C.jpg>
+Package pdftex.def Info: figures/F5-18C.jpg  used on input line 441.
+(pdftex.def)             Requested size: 140.9168pt x 194.99835pt.
+<figures/F5-19.jpg, id=2495, 650.868pt x 345.144pt>
+File: figures/F5-19.jpg Graphic file (type jpg)
+<use figures/F5-19.jpg>
+Package pdftex.def Info: figures/F5-19.jpg  used on input line 462.
+(pdftex.def)             Requested size: 465.06004pt x 246.61809pt.
+
+
+[146]
+
+[147 <./figures/F5-17A.jpg> <./figures/F5-17B.jpg>]
+
+[148 <./figures/F5-18A.jpg> <./figures/F5-18B.jpg> <./figures/F5-18C.jpg> <./figures/F5-19.jpg>]
+
+[149]
+
+[150]
+<figures/F5-20A.jpg, id=2526, 406.51875pt x 703.87968pt>
+File: figures/F5-20A.jpg Graphic file (type jpg)
+<use figures/F5-20A.jpg>
+Package pdftex.def Info: figures/F5-20A.jpg  used on input line 545.
+(pdftex.def)             Requested size: 187.89412pt x 129.99014pt.
+<figures/F5-20B.jpg, id=2527, 630.85687pt x 703.87968pt>
+File: figures/F5-20B.jpg Graphic file (type jpg)
+<use figures/F5-20B.jpg>
+Package pdftex.def Info: figures/F5-20B.jpg  used on input line 546.
+(pdftex.def)             Requested size: 187.90125pt x 129.99014pt.
+<figures/F5-20C.jpg, id=2528, 882.29625pt x 676.02562pt>
+File: figures/F5-20C.jpg Graphic file (type jpg)
+<use figures/F5-20C.jpg>
+Package pdftex.def Info: figures/F5-20C.jpg  used on input line 547.
+(pdftex.def)             Requested size: 371.1004pt x 227.50409pt.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 551.
+
+
+
+[151 <./figures/F5-20A.jpg> <./figures/F5-20B.jpg> <./figures/F5-20C.jpg>]
+
+[152]
+
+[153]
+<figures/F5-21.jpg, id=2558, 1084.05pt x 1560.83125pt>
+File: figures/F5-21.jpg Graphic file (type jpg)
+<use figures/F5-21.jpg>
+Package pdftex.def Info: figures/F5-21.jpg  used on input line 645.
+(pdftex.def)             Requested size: 162.60048pt x 234.11458pt.
+
+
+[154]
+<figures/F5-22A.jpg, id=2566, 251.43938pt x 503.63156pt>
+File: figures/F5-22A.jpg Graphic file (type jpg)
+<use figures/F5-22A.jpg>
+Package pdftex.def Info: figures/F5-22A.jpg  used on input line 671.
+(pdftex.def)             Requested size: 140.92786pt x 259.99178pt.
+<figures/F5-22B.jpg, id=2567, 225.84375pt x 505.13719pt>
+File: figures/F5-22B.jpg Graphic file (type jpg)
+<use figures/F5-22B.jpg>
+Package pdftex.def Info: figures/F5-22B.jpg  used on input line 672.
+(pdftex.def)             Requested size: 140.93488pt x 259.99826pt.
+<figures/F5-22C.jpg, id=2568, 252.945pt x 503.63156pt>
+File: figures/F5-22C.jpg Graphic file (type jpg)
+<use figures/F5-22C.jpg>
+Package pdftex.def Info: figures/F5-22C.jpg  used on input line 673.
+(pdftex.def)             Requested size: 140.93034pt x 259.99178pt.
+
+
+[155 <./figures/F5-21.JPG>]
+<figures/F5-23.jpg, id=2574, 227.34938pt x 243.91125pt>
+File: figures/F5-23.jpg Graphic file (type jpg)
+<use figures/F5-23.jpg>
+Package pdftex.def Info: figures/F5-23.jpg  used on input line 693.
+(pdftex.def)             Requested size: 193.24788pt x 207.32553pt.
+
+
+[156 <./figures/F5-22A.jpg> <./figures/F5-22B.jpg> <./figures/F5-22C.jpg>]
+<figures/F5-24A.jpg, id=2584, 1084.05pt x 2276.505pt>
+File: figures/F5-24A.jpg Graphic file (type jpg)
+<use figures/F5-24A.jpg>
+Package pdftex.def Info: figures/F5-24A.jpg  used on input line 726.
+(pdftex.def)             Requested size: 187.89204pt x 259.9689pt.
+<figures/F5-24B.jpg, id=2585, 1084.05pt x 2276.505pt>
+File: figures/F5-24B.jpg Graphic file (type jpg)
+<use figures/F5-24B.jpg>
+Package pdftex.def Info: figures/F5-24B.jpg  used on input line 727.
+(pdftex.def)             Requested size: 187.89204pt x 259.9689pt.
+
+
+[157 <./figures/F5-23.jpg>]
+
+[158 <./figures/F5-24A.JPG> <./figures/F5-24B.JPG>]
+<figures/F5-25A.jpg, id=2604, 436.63126pt x 618.31pt>
+File: figures/F5-25A.jpg Graphic file (type jpg)
+<use figures/F5-25A.jpg>
+Package pdftex.def Info: figures/F5-25A.jpg  used on input line 765.
+(pdftex.def)             Requested size: 187.90102pt x 259.99977pt.
+<figures/F5-25B.jpg, id=2605, 436.63126pt x 618.31pt>
+File: figures/F5-25B.jpg Graphic file (type jpg)
+<use figures/F5-25B.jpg>
+Package pdftex.def Info: figures/F5-25B.jpg  used on input line 766.
+(pdftex.def)             Requested size: 187.90102pt x 259.99977pt.
+
+
+[159 <./figures/F5-25A.jpg> <./figures/F5-25B.jpg>]
+<figures/F5-26A.jpg, id=2613, 316.18124pt x 548.80031pt>
+File: figures/F5-26A.jpg Graphic file (type jpg)
+<use figures/F5-26A.jpg>
+Package pdftex.def Info: figures/F5-26A.jpg  used on input line 797.
+(pdftex.def)             Requested size: 187.901pt x 259.99617pt.
+<figures/F5-26B.jpg, id=2614, 1084.05pt x 2409.0pt>
+File: figures/F5-26B.jpg Graphic file (type jpg)
+<use figures/F5-26B.jpg>
+Package pdftex.def Info: figures/F5-26B.jpg  used on input line 798.
+(pdftex.def)             Requested size: 187.89204pt x 259.99168pt.
+
+
+[160]
+<figures/F5-27.jpg, id=2628, 316.18124pt x 673.01437pt>
+File: figures/F5-27.jpg Graphic file (type jpg)
+<use figures/F5-27.jpg>
+Package pdftex.def Info: figures/F5-27.jpg  used on input line 837.
+(pdftex.def)             Requested size: 158.09023pt x 336.50636pt.
+
+
+[161 <./figures/F5-26A.jpg> <./figures/F5-26B.jpg>]
+
+[162 <./figures/F5-27.jpg>]
+
+[163]
+Underfull \hbox (badness 1072) in paragraph at lines 926--926
+\T1/cmr/m/n/12 (+20) but-ton) all the way to the
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 926--926
+[]\T1/cmr/m/n/12 (+20) The ar-row (on the but-ton)
+ []
+
+
+
+[164]
+Underfull \hbox (badness 1072) in paragraph at lines 926--926
+\T1/cmr/m/n/12 (+20) but-ton) all the way to the
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 926--926
+[]\T1/cmr/m/n/12 (+20) The ar-row (on the but-ton)
+ []
+
+
+
+[165]
+
+[166]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Work Man-age-ment, Dig-i-tal
+ []
+
+
+
+[167]
+
+[168]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+
+[169]
+Underfull \hbox (badness 1132) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Team Man-age-ment, Pos-i-tive
+ []
+
+
+
+[170]
+Underfull \hbox (badness 4913) in paragraph at lines 1003--1003
+[]\T1/cmr/m/n/12 (+20) Work Man-age-ment, Dig-i-tal
+ []
+
+
+
+[171]
+<figures/F5-28A.jpg, id=2691, 233.37187pt x 251.43938pt>
+File: figures/F5-28A.jpg Graphic file (type jpg)
+<use figures/F5-28A.jpg>
+Package pdftex.def Info: figures/F5-28A.jpg  used on input line 1042.
+(pdftex.def)             Requested size: 187.90846pt x 259.99448pt.
+<figures/F5-28B.jpg, id=2692, 248.42813pt x 271.0125pt>
+File: figures/F5-28B.jpg Graphic file (type jpg)
+<use figures/F5-28B.jpg>
+Package pdftex.def Info: figures/F5-28B.jpg  used on input line 1043.
+(pdftex.def)             Requested size: 187.90135pt x 260.00362pt.
+
+
+[172 <./figures/F5-28A.jpg> <./figures/F5-28B.jpg>]
+<figures/F5-29A.jpg, id=2698, 228.10219pt x 506.6428pt>
+File: figures/F5-29A.jpg Graphic file (type jpg)
+<use figures/F5-29A.jpg>
+Package pdftex.def Info: figures/F5-29A.jpg  used on input line 1058.
+(pdftex.def)             Requested size: 140.93112pt x 260.00014pt.
+<figures/F5-29B.jpg, id=2699, 228.10219pt x 505.89pt>
+File: figures/F5-29B.jpg Graphic file (type jpg)
+<use figures/F5-29B.jpg>
+Package pdftex.def Info: figures/F5-29B.jpg  used on input line 1059.
+(pdftex.def)             Requested size: 140.93112pt x 259.99976pt.
+<figures/F5-29C.jpg, id=2700, 225.84375pt x 484.81125pt>
+File: figures/F5-29C.jpg Graphic file (type jpg)
+<use figures/F5-29C.jpg>
+Package pdftex.def Info: figures/F5-29C.jpg  used on input line 1060.
+(pdftex.def)             Requested size: 140.93488pt x 260.01134pt.
+
+
+[173 <./figures/F5-29A.jpg> <./figures/F5-29B.jpg> <./figures/F5-29C.jpg>]
+<figures/F5-30A.jpg, id=2707, 1084.05pt x 2409.0pt>
+File: figures/F5-30A.jpg Graphic file (type jpg)
+<use figures/F5-30A.jpg>
+Package pdftex.def Info: figures/F5-30A.jpg  used on input line 1078.
+(pdftex.def)             Requested size: 117.42633pt x 259.99168pt.
+<figures/F5-30B.jpg, id=2708, 473.51906pt x 367.3725pt>
+File: figures/F5-30B.jpg Graphic file (type jpg)
+<use figures/F5-30B.jpg>
+Package pdftex.def Info: figures/F5-30B.jpg  used on input line 1079.
+(pdftex.def)             Requested size: 258.36983pt x 260.01225pt.
+
+
+[174 <./figures/F5-30A.jpg> <./figures/F5-30B.jpg>]
+<figures/F5-31A.jpg, id=2718, 249.18094pt x 411.03563pt>
+File: figures/F5-31A.jpg Graphic file (type jpg)
+<use figures/F5-31A.jpg>
+Package pdftex.def Info: figures/F5-31A.jpg  used on input line 1102.
+(pdftex.def)             Requested size: 140.93196pt x 259.99495pt.
+<figures/F5-31B.jpg, id=2719, 249.18094pt x 268.00125pt>
+File: figures/F5-31B.jpg Graphic file (type jpg)
+<use figures/F5-31B.jpg>
+Package pdftex.def Info: figures/F5-31B.jpg  used on input line 1103.
+(pdftex.def)             Requested size: 234.88408pt x 259.99359pt.
+
+
+[175 <./figures/F5-31A.jpg> <./figures/F5-31B.jpg>]
+<figures/F5-32.jpg, id=2727, 246.9225pt x 180.675pt>
+File: figures/F5-32.jpg Graphic file (type jpg)
+<use figures/F5-32.jpg>
+Package pdftex.def Info: figures/F5-32.jpg  used on input line 1130.
+(pdftex.def)             Requested size: 222.22818pt x 162.60599pt.
+<figures/F5-33A.jpg, id=2729, 246.9225pt x 334.24875pt>
+File: figures/F5-33A.jpg Graphic file (type jpg)
+<use figures/F5-33A.jpg>
+Package pdftex.def Info: figures/F5-33A.jpg  used on input line 1142.
+(pdftex.def)             Requested size: 140.92435pt x 260.01424pt.
+<figures/F5-33B.jpg, id=2730, 247.67531pt x 326.72063pt>
+File: figures/F5-33B.jpg Graphic file (type jpg)
+<use figures/F5-33B.jpg>
+Package pdftex.def Info: figures/F5-33B.jpg  used on input line 1143.
+(pdftex.def)             Requested size: 140.92696pt x 259.9959pt.
+<figures/F5-33C.jpg, id=2731, 247.67531pt x 338.01282pt>
+File: figures/F5-33C.jpg Graphic file (type jpg)
+<use figures/F5-33C.jpg>
+Package pdftex.def Info: figures/F5-33C.jpg  used on input line 1144.
+(pdftex.def)             Requested size: 140.92696pt x 260.00246pt.
+
+
+[176 <./figures/F5-32.jpg>]
+<figures/F5-34.jpg, id=2737, 247.67531pt x 358.33875pt>
+File: figures/F5-34.jpg Graphic file (type jpg)
+<use figures/F5-34.jpg>
+Package pdftex.def Info: figures/F5-34.jpg  used on input line 1159.
+(pdftex.def)             Requested size: 198.1405pt x 286.67139pt.
+
+
+[177 <./figures/F5-33A.jpg> <./figures/F5-33B.jpg> <./figures/F5-33C.jpg>]
+<figures/F5-35A.jpg, id=2748, 247.67531pt x 467.49657pt>
+File: figures/F5-35A.jpg Graphic file (type jpg)
+<use figures/F5-35A.jpg>
+Package pdftex.def Info: figures/F5-35A.jpg  used on input line 1188.
+(pdftex.def)             Requested size: 187.89883pt x 260.0058pt.
+<figures/F5-35B.jpg, id=2749, 246.9225pt x 362.10281pt>
+File: figures/F5-35B.jpg Graphic file (type jpg)
+<use figures/F5-35B.jpg>
+Package pdftex.def Info: figures/F5-35B.jpg  used on input line 1189.
+(pdftex.def)             Requested size: 187.89662pt x 260.00105pt.
+
+
+[178 <./figures/F5-34.jpg>]
+
+[179 <./figures/F5-35A.jpg> <./figures/F5-35B.jpg>]
+<figures/F5-36A.jpg, id=2763, 248.42813pt x 275.52937pt>
+File: figures/F5-36A.jpg Graphic file (type jpg)
+<use figures/F5-36A.jpg>
+Package pdftex.def Info: figures/F5-36A.jpg  used on input line 1231.
+(pdftex.def)             Requested size: 187.90135pt x 260.01926pt.
+<figures/F5-36B.jpg, id=2764, 249.18094pt x 402.75468pt>
+File: figures/F5-36B.jpg Graphic file (type jpg)
+<use figures/F5-36B.jpg>
+Package pdftex.def Info: figures/F5-36B.jpg  used on input line 1232.
+(pdftex.def)             Requested size: 187.90422pt x 259.99294pt.
+<figures/F5-37A.jpg, id=2766, 112.16907pt x 127.97812pt>
+File: figures/F5-37A.jpg Graphic file (type jpg)
+<use figures/F5-37A.jpg>
+Package pdftex.def Info: figures/F5-37A.jpg  used on input line 1243.
+(pdftex.def)             Requested size: 93.95264pt x 97.49675pt.
+<figures/F5-37B.jpg, id=2767, 108.405pt x 108.405pt>
+File: figures/F5-37B.jpg Graphic file (type jpg)
+<use figures/F5-37B.jpg>
+Package pdftex.def Info: figures/F5-37B.jpg  used on input line 1244.
+(pdftex.def)             Requested size: 93.95428pt x 97.50073pt.
+<figures/F5-37C.jpg, id=2768, 105.39375pt x 103.13531pt>
+File: figures/F5-37C.jpg Graphic file (type jpg)
+<use figures/F5-37C.jpg>
+Package pdftex.def Info: figures/F5-37C.jpg  used on input line 1245.
+(pdftex.def)             Requested size: 93.9513pt x 97.49799pt.
+<figures/F5-37D.jpg, id=2769, 100.12407pt x 105.39375pt>
+File: figures/F5-37D.jpg Graphic file (type jpg)
+<use figures/F5-37D.jpg>
+Package pdftex.def Info: figures/F5-37D.jpg  used on input line 1246.
+(pdftex.def)             Requested size: 93.95468pt x 97.49733pt.
+<figures/F5-37E.jpg, id=2770, 103.88812pt x 103.13531pt>
+File: figures/F5-37E.jpg Graphic file (type jpg)
+<use figures/F5-37E.jpg>
+Package pdftex.def Info: figures/F5-37E.jpg  used on input line 1247.
+(pdftex.def)             Requested size: 93.95338pt x 97.49799pt.
+<figures/F5-37F.jpg, id=2771, 104.64093pt x 104.64093pt>
+File: figures/F5-37F.jpg Graphic file (type jpg)
+<use figures/F5-37F.jpg>
+Package pdftex.def Info: figures/F5-37F.jpg  used on input line 1248.
+(pdftex.def)             Requested size: 93.94922pt x 97.49547pt.
+<figures/F5-37G.jpg, id=2772, 101.62968pt x 105.39375pt>
+File: figures/F5-37G.jpg Graphic file (type jpg)
+<use figures/F5-37G.jpg>
+Package pdftex.def Info: figures/F5-37G.jpg  used on input line 1249.
+(pdftex.def)             Requested size: 93.95325pt x 97.49733pt.
+<figures/F5-37H.jpg, id=2773, 98.61844pt x 103.13531pt>
+File: figures/F5-37H.jpg Graphic file (type jpg)
+<use figures/F5-37H.jpg>
+Package pdftex.def Info: figures/F5-37H.jpg  used on input line 1250.
+(pdftex.def)             Requested size: 93.9503pt x 97.49799pt.
+
+
+[180]
+
+[181 <./figures/F5-36A.jpg> <./figures/F5-36B.jpg> <./figures/F5-37A.jpg> <./figures/F5-37B.jpg> <./figures/F5-37C.jpg> <./figures/F5-37D.jpg> <./figures/F5-37E.jpg> <./figures/F5-37F.jpg> <./figures/F5-37G.jpg> <./figures/F5-37H.jpg>]
+
+[182]
+<figures/F5-38.jpg, id=2793, 294.993pt x 221.409pt>
+File: figures/F5-38.jpg Graphic file (type jpg)
+<use figures/F5-38.jpg>
+Package pdftex.def Info: figures/F5-38.jpg  used on input line 1301.
+(pdftex.def)             Requested size: 235.9947pt x 177.12743pt.
+
+
+[183 <./figures/F5-38.jpg>]
+Underfull \hbox (badness 1005) in paragraph at lines 1334--1334
+\T1/cmr/m/n/12 (+20) more dis-crete (...) I
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) I am com-mit-ting my
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Practicality, Phone Ac-
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Cumbersome, Neg-a-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Practicality, Pos-i-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Alternative So-lu-tion,
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 1334--1334
+\T1/cmr/m/n/12 (+20) more dis-crete (...) I
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) I am com-mit-ting my
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Practicality, Phone Ac-
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Cumbersome, Neg-a-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Practicality, Pos-i-tive
+ []
+
+
+
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1334
+[]\T1/cmr/m/n/12 (+20) Alternative So-lu-tion,
+ []
+
+
+
+[185]
+
+[186]
+
+[187]
+
+[188]
+
+[189]
+
+[190])
+
+[191]
+
+[192]
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
+Chapter 6.
+
+
+[193
+
+
+
+
+]
+
+[194]
+
+[195]
+
+[196]
+<figures/F6-1.jpg, id=2911, 1013.7875pt x 602.25pt>
+File: figures/F6-1.jpg Graphic file (type jpg)
+<use figures/F6-1.jpg>
+Package pdftex.def Info: figures/F6-1.jpg  used on input line 150.
+(pdftex.def)             Requested size: 465.06004pt x 276.26643pt.
+
+
+[197]
+
+[198 <./figures/F6-1.jpg>]
+
+[199]
+
+[200]
+
+[201]
+<figures/F6-2.jpg, id=2955, 4095.3pt x 3071.475pt>
+File: figures/F6-2.jpg Graphic file (type jpg)
+<use figures/F6-2.jpg>
+Package pdftex.def Info: figures/F6-2.jpg  used on input line 300.
+(pdftex.def)             Requested size: 375.80544pt x 281.81052pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 309.
+
+
+
+[202 <./figures/F6-2.jpg>]
+<figures/F6-3.jpg, id=2969, 1053.9375pt x 481.8pt>
+File: figures/F6-3.jpg Graphic file (type jpg)
+<use figures/F6-3.jpg>
+Package pdftex.def Info: figures/F6-3.jpg  used on input line 348.
+(pdftex.def)             Requested size: 465.06004pt x 212.60283pt.
+
+
+[203]
+
+[204 <./figures/F6-3.jpg>]
+
+[205]
+<figures/F6-4.jpg, id=2992, 653.44125pt x 322.20375pt>
+File: figures/F6-4.jpg Graphic file (type jpg)
+<use figures/F6-4.jpg>
+Package pdftex.def Info: figures/F6-4.jpg  used on input line 421.
+(pdftex.def)             Requested size: 465.06004pt x 229.31198pt.
+Package acronym Info: Label `acro:TA' newly defined as it shall be overridden
+although it is yet undefined on input line 434.
+
+
+[206 <./figures/F6-4.jpg>]
+
+[207]
+
+[208]
+
+[209]
+<figures/F6-5.jpg, id=3045, 4095.3pt x 3071.475pt>
+File: figures/F6-5.jpg Graphic file (type jpg)
+<use figures/F6-5.jpg>
+Package pdftex.def Info: figures/F6-5.jpg  used on input line 556.
+(pdftex.def)             Requested size: 375.80544pt x 281.81052pt.
+
+
+[210]
+
+[211 <./figures/F6-5.jpg>]
+
+[212]
+
+[213]
+
+[214]
+<figures/F6-6.jpg, id=3112, 1253.43282pt x 704.6325pt>
+File: figures/F6-6.jpg Graphic file (type jpg)
+<use figures/F6-6.jpg>
+Package pdftex.def Info: figures/F6-6.jpg  used on input line 731.
+(pdftex.def)             Requested size: 465.06004pt x 261.44107pt.
+
+
+[215]
+
+[216 <./figures/F6-6.jpg>]
+
+[217]
+<figures/F6-7.jpg, id=3138, 467.81226pt x 216.81pt>
+File: figures/F6-7.jpg Graphic file (type jpg)
+<use figures/F6-7.jpg>
+Package pdftex.def Info: figures/F6-7.jpg  used on input line 803.
+(pdftex.def)             Requested size: 465.06004pt x 215.5457pt.
+
+
+[218 <./figures/F6-7.jpg>]
+
+[219]
+
+[220]
+
+[221]
+
+[222]
+
+[223]
+
+[224]
+
+[225]
+
+[226]
+
+[227]
+
+[228]
+
+[229]
+
+[230]
+<figures/F6-8.jpg, id=3231, 322.20375pt x 237.88875pt>
+File: figures/F6-8.jpg Graphic file (type jpg)
+<use figures/F6-8.jpg>
+Package pdftex.def Info: figures/F6-8.jpg  used on input line 1221.
+(pdftex.def)             Requested size: 375.80544pt x 277.47568pt.
+
+
+[231 <./figures/F6-8.jpg>]
+
+[232]
+<figures/F6-9.jpg, id=3250, 251.43938pt x 358.33875pt>
+File: figures/F6-9.jpg Graphic file (type jpg)
+<use figures/F6-9.jpg>
+Package pdftex.def Info: figures/F6-9.jpg  used on input line 1304.
+(pdftex.def)             Requested size: 375.80544pt x 535.57668pt.
+
+
+[233]
+
+[234 <./figures/F6-9.jpg>]
+
+[235]
+
+[236])
+
+[237]
+\openout2 = `chapter7.aux'.
+
+ (./chapter7.tex
+Chapter 7.
+
+
+[238
+
+
+
+
+]
+
+[239]
+
+[240]
+
+[241]
+
+[242]
+
+[243]
+
+[244])
+
+[245]
+\openout2 = `appendixa.aux'.
+
+ (./appendixa.tex
+Appendix A.
+
+
+[246
+
+
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 43.
+
+
+
+[247]
+
+[248]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Offers student-
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sual, mem-ory or
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other sim-i-lar ap-
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Use of avail-able
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) their own smart-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Unexpensive or
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) easy im-ple-men-ta-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool is easy
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) and en-joy-able to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) aca-dem-i-cal per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for-mance us-ing
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool and it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students or re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates prac-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool helped
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Improved long-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) it was tested in
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in learn-ing out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) fi-dent in what
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the long-term
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Learning was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) stu-dents re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) do-ing it eas-ier
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) gains in crit-i-cal
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Results for stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) lev-els were bal-
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for the learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sub-ject/activity:
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool or its
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool can be
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Helps in the vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Comparable or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Research shows
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) bet-ter re-sults in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) com-par-i-son to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other tools or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) General sat-is-fac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sat-is-fac-tion with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Tool achieved
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool greatly
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students see the
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Is an al-ter-na-tive
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in the tool does
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) a bet-ter job to
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other con-tent or
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Reduce stress or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Cognitive load
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) on stu-dents was
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Offers student-
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sual, mem-ory or
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other sim-i-lar ap-
+ []
+
+
+
+[249]
+Underfull \hbox (badness 4036) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Use of avail-able
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) their own smart-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Unexpensive or
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) easy im-ple-men-ta-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool is easy
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) and en-joy-able to
+ []
+
+
+
+[250]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) aca-dem-i-cal per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for-mance us-ing
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool and it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students or re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates prac-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool helped
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Improved long-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students gain
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) it was tested in
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in learn-ing out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) fi-dent in what
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the long-term
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Learning was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) stu-dents re-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) do-ing it eas-ier
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) gains in crit-i-cal
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Results for stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) lev-els were bal-
+ []
+
+
+
+[251]
+Underfull \hbox (badness 5091) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) for the learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Facilitates emo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) tional in-vest-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) ment in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sub-ject/activity:
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool or its
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) The tool can be
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Helps in the vi-
+ []
+
+
+
+[252]
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Comparable or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Research shows
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) bet-ter re-sults in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) com-par-i-son to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other tools or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) General sat-is-fac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) sat-is-fac-tion with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Tool achieved
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) the tool greatly
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Students see the
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Is an al-ter-na-tive
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) in the tool does
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) a bet-ter job to
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) other con-tent or
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Reduce stress or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/cmr/m/n/12 (+20) Cognitive load
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) on stu-dents was
+ []
+
+
+
+[253]
+Underfull \hbox (badness 4595) in paragraph at lines 104--104
+\T1/cmr/m/n/12 (+20) col-lab-o-ra-tive sce-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) No neg-a-tive out-
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Reported fail-ures,
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) setup, mainly of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The AR im-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion is
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Frame rate and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Impractical mark-
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tion are in-con-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The cost for cre-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or im-pos-si-ble to
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Issues re-lated to
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sign, the ed-u-ca-
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) tional goals, the
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tent pre-sented
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or the ac-tiv-i-ties
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) AR is not in-te-
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) grated well with
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) used as learn-ing
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the pro-posed
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Pacing and time
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sumes too much
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) time and harms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Increased Cog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tive Load for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Researchers re-
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the cog-ni-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tech-nol-ogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the ped-a-gog-i-cal
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prompts the stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dents to iso-late
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) pay at-ten-tion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Results are not
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) fer-ence in re-sults
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) be-tween dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Initial in-ter-est
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the tool lost
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ac-tiv-ity ended or
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in a sub-se-quent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Other tools
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) are more re-li-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tool harmed
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) neg-a-tive ef-fect in
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the tool was re-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) more or dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) get, time or re-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sources to cre-ate
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) quires too much
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Hard to learn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) and/or use, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) us-ing the tool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prepa-ra-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Physical ex-haus-
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sen for de-ploy-ing
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the AR tool is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Difficulties with
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) mul-ti-ple users or
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Research de-sign
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the re-search de-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sented data in a
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) scured as-pects of
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tra-dicts state-
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) was proven false
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) No neg-a-tive out-
+ []
+
+
+
+[254]
+Underfull \hbox (badness 2277) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Reported fail-ures,
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) setup, mainly of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The AR im-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) recog-ni-tion is
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Frame rate and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Impractical mark-
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tion are in-con-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The cost for cre-
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or im-pos-si-ble to
+ []
+
+
+Overfull \vbox (27.86154pt too high) has occurred while \output is active []
+
+
+
+[255]
+Underfull \hbox (badness 1107) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) General ped-a-gog-i-
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Issues re-lated to
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sign, the ed-u-ca-
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) tional goals, the
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tent pre-sented
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) or the ac-tiv-i-ties
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) AR is not in-te-
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) grated well with
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) used as learn-ing
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the pro-posed
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Pacing and time
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sumes too much
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) time and harms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Increased Cog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ni-tive Load for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Researchers re-
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the cog-ni-tive
+ []
+
+
+
+[256]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tech-nol-ogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the ped-a-gog-i-cal
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The use of AR
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prompts the stu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dents to iso-late
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) pay at-ten-tion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Results are not
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) fer-ence in re-sults
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) be-tween dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Initial in-ter-est
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in the tool lost
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) ac-tiv-ity ended or
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) in a sub-se-quent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Other tools
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) are more re-li-
+ []
+
+
+
+[257]
+Underfull \hbox (badness 1490) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) The tool harmed
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) neg-a-tive ef-fect in
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the tool was re-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) more or dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) get, time or re-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sources to cre-ate
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) quires too much
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Hard to learn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) and/or use, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) us-ing the tool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) prepa-ra-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Physical ex-haus-
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sen for de-ploy-ing
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the AR tool is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Difficulties with
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) mul-ti-ple users or
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) dif-fer-ent types of
+ []
+
+
+
+[258]
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/cmr/m/n/12 (+20) Research de-sign
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) the re-search de-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) sented data in a
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) scured as-pects of
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) con-tra-dicts state-
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 148--148
+\T1/cmr/m/n/12 (+20) was proven false
+ []
+
+)
+
+[259]
+\openout2 = `appendixb.aux'.
+
+ (./appendixb.tex
+Appendix B.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 13.
+
+)
+
+[260
+
+
+
+
+]
+
+[261]
+\openout2 = `appendixc.aux'.
+
+ (./appendixc.tex
+Appendix C.
+
+
+[262
+
+
+
+
+])
+
+[263]
+
+[264
+
+
+
+]
+
+[265]
+
+[266]
+
+[267]
+
+[268]
+
+[269]
+
+[270]
+
+[271]
+
+[272]
+
+[273]
+
+[274]
+
+[275]
+
+[276]
+
+[277]
+
+[278]
+
+[279]
+
+[280]
+
+[281]
+
+[282]
+
+[283]
+
+[284]
+
+[285]
+
+[286]
+
+[287]
+
+[288] (./main.aux (./acknowledgments.aux) (./abbreviations.aux) (./authorship.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./chapter7.aux) (./appendixa.aux) (./appendixb.aux) (./appendixc.aux))
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 39136 strings out of 467748
+ 785210 string characters out of 5431138
+ 2831142 words of memory out of 5000000
+ 66064 multiletter control sequences out of 15000+600000
+ 661364 words of font info for 248 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 90i,16n,112p,4607b,5335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<
+!pdfTeX error: pdflatex.exe (file c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb): fflush() failed (Invalid argument)
  ==> Fatal error occurred, no output PDF file produced!

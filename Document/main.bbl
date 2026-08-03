@@ -15665,67 +15665,6 @@
       \verb 10.13189/ujer.2019.070815
       \endverb
     \endentry
-    \entry{siddaway_2019}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=0be5b2ce23eb1e0d8bb66f0f500d98cb}{%
-           family={Siddaway},
-           familyi={S\bibinitperiod},
-           given={Andy\bibnamedelima P.},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c6a6bb46e1e7b6149ff737e4e7cfde50}{%
-           family={Wood},
-           familyi={W\bibinitperiod},
-           given={Alex\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7d830e562fdeb21242e790204147b207}{%
-           family={Hedges},
-           familyi={H\bibinitperiod},
-           given={Larry\bibnamedelima V.},
-           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4e13a8ea517b6aaffbe4776b5561388a}
-      \strng{fullhash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{fullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{bibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{authorbibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{authornamehash}{4e13a8ea517b6aaffbe4776b5561388a}
-      \strng{authorfullhash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{authorfullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Systematic reviews are characterized by a methodical and replicable methodology and presentation. They involve a comprehensive search to locate all relevant published and unpublished work on a subject; a systematic integration of search results; and a critique of the extent, nature, and quality of evidence in relation to a particular research question. The best reviews synthesize studies to draw broad theoretical conclusions about what a literature means, linking theory to evidence and evidence to theory. This guide describes how to plan, conduct, organize, and present a systematic review of quantitative (meta-analysis) or qualitative (narrative review, meta-synthesis) information. We outline core standards and principles and describe commonly encountered problems. Although this guide targets psychological scientists, its high level of abstraction makes it potentially relevant to any subject area or discipline. We argue that systematic reviews are a key methodology for clarifying whether and how research findings replicate and for explaining possible inconsistencies, and we call for researchers to conduct systematic reviews to help elucidate whether there is a replication crisis.}
-      \field{journaltitle}{Annual Review of Psychology}
-      \field{note}{\_eprint: https://doi.org/10.1146/annurev-psych-010418-102803}
-      \field{number}{1}
-      \field{shorttitle}{How to {Do} a {Systematic} {Review}}
-      \field{title}{How to {Do} a {Systematic} {Review}: {A} {Best} {Practice} {Guide} for {Conducting} and {Reporting} {Narrative} {Reviews}, {Meta}-{Analyses}, and {Meta}-{Syntheses}}
-      \field{urlday}{21}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
-      \field{volume}{70}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{747\bibrangedash 770}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.1146/annurev-psych-010418-102803
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1146/annurev-psych-010418-102803
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1146/annurev-psych-010418-102803
-      \endverb
-      \keyw{evidence,guide,meta-analysis,meta-synthesis,narrative,systematic review,theory}
-    \endentry
     \entry{smaldone_2022}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a9fb22433e29df966d779c34b10a6e52}{%
@@ -34617,67 +34556,6 @@
       \verb{doi}
       \verb 10.13189/ujer.2019.070815
       \endverb
-    \endentry
-    \entry{siddaway_2019}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=0be5b2ce23eb1e0d8bb66f0f500d98cb}{%
-           family={Siddaway},
-           familyi={S\bibinitperiod},
-           given={Andy\bibnamedelima P.},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c6a6bb46e1e7b6149ff737e4e7cfde50}{%
-           family={Wood},
-           familyi={W\bibinitperiod},
-           given={Alex\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7d830e562fdeb21242e790204147b207}{%
-           family={Hedges},
-           familyi={H\bibinitperiod},
-           given={Larry\bibnamedelima V.},
-           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4e13a8ea517b6aaffbe4776b5561388a}
-      \strng{fullhash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{fullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{bibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{authorbibnamehash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{authornamehash}{4e13a8ea517b6aaffbe4776b5561388a}
-      \strng{authorfullhash}{413ebe45a6bd69f4cad5be080ff548df}
-      \strng{authorfullhashraw}{413ebe45a6bd69f4cad5be080ff548df}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Systematic reviews are characterized by a methodical and replicable methodology and presentation. They involve a comprehensive search to locate all relevant published and unpublished work on a subject; a systematic integration of search results; and a critique of the extent, nature, and quality of evidence in relation to a particular research question. The best reviews synthesize studies to draw broad theoretical conclusions about what a literature means, linking theory to evidence and evidence to theory. This guide describes how to plan, conduct, organize, and present a systematic review of quantitative (meta-analysis) or qualitative (narrative review, meta-synthesis) information. We outline core standards and principles and describe commonly encountered problems. Although this guide targets psychological scientists, its high level of abstraction makes it potentially relevant to any subject area or discipline. We argue that systematic reviews are a key methodology for clarifying whether and how research findings replicate and for explaining possible inconsistencies, and we call for researchers to conduct systematic reviews to help elucidate whether there is a replication crisis.}
-      \field{journaltitle}{Annual Review of Psychology}
-      \field{note}{\_eprint: https://doi.org/10.1146/annurev-psych-010418-102803}
-      \field{number}{1}
-      \field{shorttitle}{How to {Do} a {Systematic} {Review}}
-      \field{title}{How to {Do} a {Systematic} {Review}: {A} {Best} {Practice} {Guide} for {Conducting} and {Reporting} {Narrative} {Reviews}, {Meta}-{Analyses}, and {Meta}-{Syntheses}}
-      \field{urlday}{21}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
-      \field{volume}{70}
-      \field{year}{2019}
-      \field{urldateera}{ce}
-      \field{pages}{747\bibrangedash 770}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.1146/annurev-psych-010418-102803
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1146/annurev-psych-010418-102803
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1146/annurev-psych-010418-102803
-      \endverb
-      \keyw{evidence,guide,meta-analysis,meta-synthesis,narrative,systematic review,theory}
     \endentry
     \entry{smaldone_2022}{article}{}{}
       \name{author}{4}{}{%

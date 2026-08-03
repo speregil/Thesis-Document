@@ -1,36 +1,36 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[107] biber-MSWIN64:342> INFO - === 
-[148] Biber.pm:421> INFO - Reading 'main.bcf'
-[455] Biber.pm:1002> INFO - Found 346 citekeys in bib section 0
-[476] Biber.pm:4487> INFO - Processing section 0
-[486] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
-[569] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1257] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[3651] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3651] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3651] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[3651] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[4482] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4483] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4483] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[4483] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[4908] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[5515] bbl.pm:779> INFO - Output to main.bbl
-[5516] Biber.pm:132> WARN - Duplicate entry key: 'addison_2020' in file 'references.bib', skipping ...
-[5516] Biber.pm:132> WARN - Duplicate entry key: 'liu_2022' in file 'references.bib', skipping ...
-[5516] Biber.pm:132> WARN - ISBN '9780262045698 9780262546065' in entry 'watters_2021' is invalid - run biber with '--validate_datamodel' for details.
-[5516] Biber.pm:132> WARN - ISBN '9789004429079 9789004429086' in entry 'andriessen_2020' is invalid - run biber with '--validate_datamodel' for details.
-[5516] Biber.pm:132> WARN - ISBN '9783642851001 9783642850981' in entry 'omalley_1995' is invalid - run biber with '--validate_datamodel' for details.
-[5516] Biber.pm:132> WARN - ISBN '9781620368053 9781620368046' in entry 'salmons_2019' is invalid - run biber with '--validate_datamodel' for details.
-[5516] Biber.pm:132> WARN - ISBN '9781799869672 9781799869696' in entry 'dhir_2021' is invalid - run biber with '--validate_datamodel' for details.
-[5516] Biber.pm:132> WARN - ISBN '9780521413084 9780521423748' in entry 'lave_1991' is invalid - run biber with '--validate_datamodel' for details.
-[5516] Biber.pm:132> WARN - ISBN '9789811028779 9789811028793' in entry 'mcdonald_2017' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '9780521430173 9780521663632 9780511803932' in entry 'wenger_1998' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '9780803957404 9781452243610' in entry 'kramer_1996' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '9783319983691 9783319983707' in entry 'ahn_2019' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '9783030119348 9783030119355' in entry 'auer_2019' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '9781799876007 9781799876014' in entry 'wang_2021' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '9781446208175 9781446208168' in entry 'hamilton_2013' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:132> WARN - ISBN '1862-5207' in entry 'brudy_2013' is invalid - run biber with '--validate_datamodel' for details.
-[5517] Biber.pm:134> INFO - WARNINGS: 16
+[162] biber-MSWIN64:342> INFO - === 
+[198] Biber.pm:421> INFO - Reading 'main.bcf'
+[544] Biber.pm:1002> INFO - Found 345 citekeys in bib section 0
+[566] Biber.pm:4487> INFO - Processing section 0
+[578] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[662] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1387] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[4016] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4016] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4016] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[4016] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[4929] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4929] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4929] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[4929] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[5417] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[6069] bbl.pm:779> INFO - Output to main.bbl
+[6069] Biber.pm:132> WARN - Duplicate entry key: 'addison_2020' in file 'references.bib', skipping ...
+[6070] Biber.pm:132> WARN - Duplicate entry key: 'liu_2022' in file 'references.bib', skipping ...
+[6070] Biber.pm:132> WARN - ISBN '9780262045698 9780262546065' in entry 'watters_2021' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9789004429079 9789004429086' in entry 'andriessen_2020' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9783642851001 9783642850981' in entry 'omalley_1995' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9781620368053 9781620368046' in entry 'salmons_2019' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9781799869672 9781799869696' in entry 'dhir_2021' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9780521413084 9780521423748' in entry 'lave_1991' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9789811028779 9789811028793' in entry 'mcdonald_2017' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9780521430173 9780521663632 9780511803932' in entry 'wenger_1998' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9780803957404 9781452243610' in entry 'kramer_1996' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9783319983691 9783319983707' in entry 'ahn_2019' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9783030119348 9783030119355' in entry 'auer_2019' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9781799876007 9781799876014' in entry 'wang_2021' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '9781446208175 9781446208168' in entry 'hamilton_2013' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:132> WARN - ISBN '1862-5207' in entry 'brudy_2013' is invalid - run biber with '--validate_datamodel' for details.
+[6070] Biber.pm:134> INFO - WARNINGS: 16

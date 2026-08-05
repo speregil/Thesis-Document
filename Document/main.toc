@@ -48,113 +48,112 @@
 \contentsline {section}{\numberline {3.4}Conclusions }{79}{section.3.4}%
 \contentsline {chapter}{\numberline {4}WorkshopAR - Architectural Design }{81}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Project Description }{82}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Context: Built Environments Industry Project Course }{84}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Learning Goals }{85}{subsection.4.1.2}%
-\contentsline {subsubsection}{Scenario 1: Team Management }{86}{section*.61}%
-\contentsline {subsubsection}{Scenario 2: Work Session Management }{87}{section*.63}%
-\contentsline {subsubsection}{Scenario 3: Discussion and Debate Management }{90}{section*.65}%
-\contentsline {subsection}{\numberline {4.1.3}Development goals }{91}{subsection.4.1.3}%
-\contentsline {section}{\numberline {4.2}Use Cases }{93}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Create a Shared Digital Room }{94}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Create a Shared Workspace }{94}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Create a Profile }{95}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Point to Something or Someone in the Digital Room }{95}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}Check the Status of Other Participants }{95}{subsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.2.6}Share and Pin an Idea }{96}{subsection.4.2.6}%
-\contentsline {subsection}{\numberline {4.2.7}Add and Interact with a Model in the Digital Room }{96}{subsection.4.2.7}%
-\contentsline {subsection}{\numberline {4.2.8}Participate in a Debate or a Vote }{97}{subsection.4.2.8}%
-\contentsline {subsection}{\numberline {4.2.9}Pause the Current Participation }{97}{subsection.4.2.9}%
-\contentsline {subsection}{\numberline {4.2.10}Conclusions }{98}{subsection.4.2.10}%
-\contentsline {section}{\numberline {4.3}Architectural Design }{98}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Quality Requirements }{99}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Technological Frameworks }{101}{subsection.4.3.2}%
-\contentsline {subsubsection}{ARFoundation }{102}{section*.68}%
-\contentsline {subsubsection}{Lightship }{104}{section*.70}%
-\contentsline {subsection}{\numberline {4.3.3}Component Architecture }{105}{subsection.4.3.3}%
-\contentsline {subsubsection}{Session Manager }{107}{section*.74}%
-\contentsline {subsubsection}{Tracking Manager }{108}{section*.76}%
-\contentsline {subsubsection}{Interaction Pipeline }{109}{section*.78}%
-\contentsline {subsection}{\numberline {4.3.4}Data Architecture }{112}{subsection.4.3.4}%
-\contentsline {subsubsection}{Room Configuration }{115}{section*.84}%
-\contentsline {subsubsection}{User Profile }{116}{section*.86}%
-\contentsline {subsection}{\numberline {4.3.5}Use Case Diagrams }{117}{subsection.4.3.5}%
-\contentsline {subsubsection}{Digital Room Creation and Join }{117}{section*.88}%
-\contentsline {subsubsection}{Add and Interact with a Play Model }{118}{section*.90}%
-\contentsline {subsubsection}{Add an Annotation }{122}{section*.92}%
-\contentsline {subsubsection}{Propose and Participate in a Debate }{123}{section*.94}%
-\contentsline {section}{\numberline {4.4}Final Thoughts }{123}{section.4.4}%
+\contentsline {subsection}{\numberline {4.1.1}Learning Goals }{84}{subsection.4.1.1}%
+\contentsline {subsubsection}{Scenario 1: Team Management }{85}{section*.56}%
+\contentsline {subsubsection}{Scenario 2: Work Session Management }{86}{section*.58}%
+\contentsline {subsubsection}{Scenario 3: Discussion and Debate Management }{89}{section*.60}%
+\contentsline {subsection}{\numberline {4.1.2}Development goals }{89}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Use Cases }{92}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Create a Shared Digital Room }{93}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Create a Shared Workspace }{93}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Create a Profile }{94}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Point to Something or Someone in the Digital Room }{94}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Check the Status of Other Participants }{94}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Share and Pin an Idea }{95}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Add and Interact with a Model in the Digital Room }{95}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}Participate in a Debate or a Vote }{96}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.2.9}Pause the Current Participation }{96}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4.2.10}Conclusions }{97}{subsection.4.2.10}%
+\contentsline {section}{\numberline {4.3}Architectural Design }{97}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Quality Requirements }{98}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Technological Frameworks }{100}{subsection.4.3.2}%
+\contentsline {subsubsection}{ARFoundation }{101}{section*.63}%
+\contentsline {subsubsection}{Lightship }{103}{section*.65}%
+\contentsline {subsection}{\numberline {4.3.3}Component Architecture }{104}{subsection.4.3.3}%
+\contentsline {subsubsection}{Session Manager }{107}{section*.69}%
+\contentsline {subsubsection}{Tracking Manager }{108}{section*.71}%
+\contentsline {subsubsection}{Interaction Pipeline }{108}{section*.73}%
+\contentsline {subsection}{\numberline {4.3.4}Data Architecture }{110}{subsection.4.3.4}%
+\contentsline {subsubsection}{Room Configuration }{114}{section*.79}%
+\contentsline {subsubsection}{User Profile }{116}{section*.81}%
+\contentsline {subsection}{\numberline {4.3.5}Use Case Diagrams }{116}{subsection.4.3.5}%
+\contentsline {subsubsection}{Digital Room Creation and Join }{117}{section*.83}%
+\contentsline {subsubsection}{Add and Interact with a Play Model }{118}{section*.85}%
+\contentsline {subsubsection}{Add an Annotation }{120}{section*.87}%
+\contentsline {subsubsection}{Propose and Participate in a Debate }{122}{section*.89}%
+\contentsline {section}{\numberline {4.4}Final Thoughts }{124}{section.4.4}%
 \contentsline {chapter}{\numberline {5}WorkshopAR - Implementation Process }{127}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Interaction Design }{128}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}Collaborative interactions in AR }{129}{subsection.5.1.1}%
-\contentsline {subsubsection}{Research Methodology }{130}{section*.96}%
-\contentsline {subsubsection}{Proposed Interaction Gestures }{135}{section*.101}%
-\contentsline {subsubsection}{Analysis and Conclusions }{146}{section*.118}%
-\contentsline {subsection}{\numberline {5.1.2}Implications for the implementation of WorkshopAR }{150}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Implementation Process }{153}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}First Development Iteration }{153}{subsection.5.2.1}%
-\contentsline {subsubsection}{The Digital Room and the Workspace }{154}{section*.120}%
-\contentsline {subsubsection}{The User Anchor }{157}{section*.125}%
-\contentsline {subsubsection}{Positioning Play Models }{160}{section*.128}%
+\contentsline {subsubsection}{Research Methodology }{130}{section*.91}%
+\contentsline {subsubsection}{Proposed Interaction Gestures }{135}{section*.96}%
+\contentsline {subsubsection}{Analysis and Conclusions }{147}{section*.113}%
+\contentsline {subsection}{\numberline {5.1.2}Implications for the implementation of WorkshopAR }{149}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Implementation Process }{152}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}First Development Iteration }{152}{subsection.5.2.1}%
+\contentsline {subsubsection}{The Digital Room and the Workspace }{153}{section*.115}%
+\contentsline {subsubsection}{The User Anchor }{157}{section*.120}%
+\contentsline {subsubsection}{Positioning Play Models }{160}{section*.123}%
 \contentsline {subsection}{\numberline {5.2.2}Analysis of the First Iteration }{163}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Second Development Iteration }{171}{subsection.5.2.3}%
-\contentsline {subsubsection}{Pointing }{171}{section*.130}%
-\contentsline {subsubsection}{Interacting with Play Models }{175}{section*.135}%
-\contentsline {subsubsection}{Annotations }{178}{section*.139}%
-\contentsline {subsubsection}{Debates and Emotes }{179}{section*.141}%
-\contentsline {subsection}{\numberline {5.2.4}Analysis of the Second Iteration }{182}{subsection.5.2.4}%
-\contentsline {subsubsection}{Implementation and Analysis of the Use Cases }{182}{section*.144}%
-\contentsline {subsubsection}{Analysis of the Overall Development }{186}{section*.146}%
-\contentsline {subsubsection}{Implications for the Research Goals }{188}{section*.147}%
-\contentsline {section}{\numberline {5.3}Conclusions }{189}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Case Study: ENBU 79X/89X Industry Project }{193}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Description and Design of ENBU 79X/89X Industry Project }{194}{section.6.1}%
-\contentsline {section}{\numberline {6.2}WorkshopAR Learning Design }{196}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Protocol }{199}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Physical Documentation }{199}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Classroom Observations }{199}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Unstructured Interviews }{201}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}Weeks 1 to 4: Team Consolidation }{201}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}General Observations }{202}{subsection.6.4.1}%
-\contentsline {subsubsection}{First Bonding Exercise }{204}{section*.152}%
-\contentsline {subsubsection}{Q\&A Sessions }{206}{section*.153}%
-\contentsline {subsection}{\numberline {6.4.2}Intervention with \emph {WorkshopAR} }{207}{subsection.6.4.2}%
-\contentsline {subsubsection}{Consolidation Stage }{207}{section*.156}%
-\contentsline {subsubsection}{First Open Work Session }{208}{section*.157}%
-\contentsline {subsection}{\numberline {6.4.3}Preliminary Analysis }{211}{subsection.6.4.3}%
-\contentsline {section}{\numberline {6.5}Weeks 5 to 9: Poster Presentation }{212}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}General Observations }{213}{subsection.6.5.1}%
-\contentsline {subsubsection}{A Bad Example: Team C }{213}{section*.159}%
-\contentsline {subsubsection}{A Good Example: Team D }{214}{section*.160}%
-\contentsline {subsection}{\numberline {6.5.2}Intervention with WorkshopAR }{214}{subsection.6.5.2}%
-\contentsline {subsubsection}{Annotations and Debate Features }{215}{section*.161}%
-\contentsline {subsubsection}{Play Models }{216}{section*.163}%
-\contentsline {subsection}{\numberline {6.5.3}Preliminary Analysis }{218}{subsection.6.5.3}%
-\contentsline {section}{\numberline {6.6}Weeks 10 to 13: Interim Client Report }{219}{section.6.6}%
-\contentsline {subsection}{\numberline {6.6.1}General Observations }{220}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}Intervention with WorkshopAR }{221}{subsection.6.6.2}%
-\contentsline {subsection}{\numberline {6.6.3}Preliminary Analysis }{221}{subsection.6.6.3}%
-\contentsline {section}{\numberline {6.7}Iterations over the Semester Break }{223}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Weeks 14 to 20: Second Semester Observations }{224}{section.6.8}%
-\contentsline {subsection}{\numberline {6.8.1}General Observations }{224}{subsection.6.8.1}%
-\contentsline {subsection}{\numberline {6.8.2}Intervention with WorkshopAR }{225}{subsection.6.8.2}%
-\contentsline {subsubsection}{Setup with the Articulated Clamp Arms }{225}{section*.165}%
-\contentsline {subsubsection}{Communication Features and Emotes }{226}{section*.166}%
-\contentsline {subsection}{\numberline {6.8.3}Preliminary Analysis }{227}{subsection.6.8.3}%
-\contentsline {section}{\numberline {6.9}Analysis of Students' Observations and Responses }{228}{section.6.9}%
-\contentsline {subsection}{\numberline {6.9.1}Team Management }{229}{subsection.6.9.1}%
-\contentsline {subsection}{\numberline {6.9.2}Team Management }{230}{subsection.6.9.2}%
-\contentsline {subsection}{\numberline {6.9.3}Learning Mechanisms }{230}{subsection.6.9.3}%
-\contentsline {section}{\numberline {6.10}Analysis of Teaching Staff's Observations and Responses }{231}{section.6.10}%
-\contentsline {subsection}{\numberline {6.10.1}Effective Collaboration }{232}{subsection.6.10.1}%
-\contentsline {subsection}{\numberline {6.10.2}Teaching Collaboration }{233}{subsection.6.10.2}%
-\contentsline {section}{\numberline {6.11}Conclusions }{235}{section.6.11}%
-\contentsline {chapter}{\numberline {7}Conclusions }{238}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Research Questions }{240}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Future Work }{244}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Final Words }{245}{section.7.3}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{246}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{260}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Unstructured Interviews }{262}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Questionnaire for the Interviews with Students }{262}{section.C.1}%
-\contentsline {section}{\numberline {C.2}Questionnaire for the Interviews with the Teaching Staff }{263}{section.C.2}%
-\contentsline {chapter}{References}{264}{appendix*.171}%
+\contentsline {subsection}{\numberline {5.2.3}Second Development Iteration }{170}{subsection.5.2.3}%
+\contentsline {subsubsection}{Pointing }{170}{section*.125}%
+\contentsline {subsubsection}{Interacting with Play Models }{174}{section*.130}%
+\contentsline {subsubsection}{Annotations }{177}{section*.134}%
+\contentsline {subsubsection}{Debates and Emotes }{178}{section*.136}%
+\contentsline {subsection}{\numberline {5.2.4}Analysis of the Second Iteration }{181}{subsection.5.2.4}%
+\contentsline {subsubsection}{Implementation and Analysis of the Use Cases }{181}{section*.139}%
+\contentsline {subsubsection}{Analysis of the Overall Development }{185}{section*.141}%
+\contentsline {subsubsection}{Implications for the Research Goals }{187}{section*.142}%
+\contentsline {section}{\numberline {5.3}Conclusions }{188}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Case Study: ENBU 79X/89X Industry Project }{192}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Description and Design of ENBU 79X/89X Industry Project }{193}{section.6.1}%
+\contentsline {section}{\numberline {6.2}WorkshopAR Learning Design }{195}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Protocol }{198}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Physical Documentation }{198}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Classroom Observations }{198}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Unstructured Interviews }{200}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Weeks 1 to 4: Team Consolidation }{200}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}General Observations }{201}{subsection.6.4.1}%
+\contentsline {subsubsection}{First Bonding Exercise }{203}{section*.152}%
+\contentsline {subsubsection}{Q\&A Sessions }{205}{section*.153}%
+\contentsline {subsection}{\numberline {6.4.2}Intervention with \emph {WorkshopAR} }{206}{subsection.6.4.2}%
+\contentsline {subsubsection}{Consolidation Stage }{206}{section*.156}%
+\contentsline {subsubsection}{First Open Work Session }{207}{section*.157}%
+\contentsline {subsection}{\numberline {6.4.3}Preliminary Analysis }{210}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Weeks 5 to 9: Poster Presentation }{211}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}General Observations }{212}{subsection.6.5.1}%
+\contentsline {subsubsection}{A Bad Example: Team C }{212}{section*.159}%
+\contentsline {subsubsection}{A Good Example: Team D }{213}{section*.160}%
+\contentsline {subsection}{\numberline {6.5.2}Intervention with WorkshopAR }{213}{subsection.6.5.2}%
+\contentsline {subsubsection}{Annotations and Debate Features }{214}{section*.161}%
+\contentsline {subsubsection}{Play Models }{215}{section*.163}%
+\contentsline {subsection}{\numberline {6.5.3}Preliminary Analysis }{217}{subsection.6.5.3}%
+\contentsline {section}{\numberline {6.6}Weeks 10 to 13: Interim Client Report }{218}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}General Observations }{219}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Intervention with WorkshopAR }{220}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Preliminary Analysis }{220}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Iterations over the Semester Break }{222}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Weeks 14 to 20: Second Semester Observations }{223}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}General Observations }{223}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6.8.2}Intervention with WorkshopAR }{224}{subsection.6.8.2}%
+\contentsline {subsubsection}{Setup with the Articulated Clamp Arms }{224}{section*.165}%
+\contentsline {subsubsection}{Communication Features and Emotes }{225}{section*.166}%
+\contentsline {subsection}{\numberline {6.8.3}Preliminary Analysis }{226}{subsection.6.8.3}%
+\contentsline {section}{\numberline {6.9}Analysis of Students' Observations and Responses }{227}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Team Management }{228}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Team Management }{229}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Learning Mechanisms }{229}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6.10}Analysis of Teaching Staff's Observations and Responses }{230}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Effective Collaboration }{231}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}Teaching Collaboration }{232}{subsection.6.10.2}%
+\contentsline {section}{\numberline {6.11}Conclusions }{234}{section.6.11}%
+\contentsline {chapter}{\numberline {7}Conclusions }{237}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Research Questions }{239}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Future Work }{243}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Final Words }{244}{section.7.3}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{245}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{259}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Unstructured Interviews }{261}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Questionnaire for the Interviews with Students }{261}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Questionnaire for the Interviews with the Teaching Staff }{262}{section.C.2}%
+\contentsline {chapter}{References}{263}{appendix*.171}%

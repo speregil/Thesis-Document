@@ -1,19 +1,11 @@
 \chapter{WorkshopAR - Implementation Process \label{ch5}}
 
-The previous chapter detailed the architectural design of \emph{WorkshopAR}, that is, the main ideas and decisions taken to fulfil the goals proposed for the software development, and the
-efforts done to align the technical aspects of the project with the educational goals present in the research. The chapter also identified key components of the development process to
-follow and proposed an overall plan for the implementation of the software.
-
-This chapter will continue the technical analysis of the project by exploring the implementation process. This analysis will highlight the research done to identify and propose a suitable
-interaction design for the context around \emph{WorkshopAR}, the evolving tendencies in the implementation of \acf{AR} experiences and all the information regarding good and bad practices
+This chapter will continue the technical analysis of \emph{WorkshopAR} by exploring the implementation process. This analysis will highlight the research done to identify and propose a suitable
+interaction design for the context around the project, the evolving tendencies in the implementation of \acf{AR} experiences and all the information regarding good and bad practices
 that had been found in the literature.
 
 It will also offer a comparison between the plans and ideas proposed in the architectural design against the actual implementation of the software, identifying the reasoning behind such
 changes and how the context and circumstances of the development shaped the final product.
-
-Finally, this chapter will detail the software development process used. The process went through two development iterations complemented by testing procedures and early validations. There
-was also an important effort to integrate the development of the tool with the case study, and the software constantly evolved with the particularities of the course and the educational
-needs of the students.
 
 Chapter \ref{ch3} detailed the reasoning behind the chosen development methodology, explaining how an iterative approach allowed for experimentation and flexibility, and that it better
 accommodated the constraints in time and resources found in the research, facilitating a \emph{just-enough} approach to architecture, design and implementation. As a result, \emph{WorkshopAR}
@@ -28,11 +20,17 @@ Iteration 2 focused on providing the needed functionalities to fulfil the use ca
 research. A final analysis of the results was done to identify possible solutions to the issues and ideas generated from the data gathering, both at an implementation and design level.
 There is also a discussion of possible future steps for \emph{WorkshopAR}, of how the software can evolve and the lessons learned for future or related scenarios.
 
+It is also important to mention that this implementation process ran in parallel to the development of the case study, specially to the observation sessions. To use as best as possible
+the available time for development, several of the functionalities of \emph{WorkshopAR} were identified and tested as needed during the development of the course, and the software itself evolved
+throughout the execution of the case study. The description of the implementation process will be separated from the analysis of the case study to keep this document as clear and accessible
+as possible, and to not repeat to many times the same observations and discussions. A special effort will be done to show the overall evolution of \emph{WorkshopAR} as a software and to
+highlight the major changes to development influenced by the interactions with the users and the circumstances observed in the classroom.
+
 The following sections will describe this implementation process and provide a post-mortem of the activity to promote discussion and analysis of the results. Section \ref{sec:5-1} will
 first detail the research done as part of the interaction design of \emph{WorkshopAR}, research that informed the approach that the software was going to take in relation to \ac{AR}
 technologies and how to implement a set of interactions for the collaborative and multi-platform tasks present in the context of the development. Section \ref{sec:5-2} will describe and
-show the results of the development process, organising the analysis around the two iteration cycles described previously. Section 5\ref{sec:5-3} will act as a final analysis and
-conclusion of the results of the implementation process, the development of WorkshopAR and for the technical section of the research in general.
+show the results of the development process, organising the analysis around the two iteration cycles described previously. Section \ref{sec:5-3} will act as a final analysis and
+conclusion of the results of the implementation process, the development of \emph{WorkshopAR} and for the technical section of the research in general.
 
 \section{Interaction Design \label{sec:5-1}}
 
@@ -46,7 +44,10 @@ attention during the design process can be classified in three:
 \end{itemize}
 
 These interactions were prioritised because they represent the tools that \emph{WorkshopAR} uses to promote the behaviours and ideas around collaboration at the core of the objectives of
-the project. It is important for the interaction design proposed to be as invisible as possible, without interfering too much in a negative way or hindering the academic work of the
+the project. It is also important to take into consideration that this process was executed when there was already a clear idea of the learning objectives needed for ENBU79X/89X, but prior
+to any activity or observation session.
+
+The interaction design was proposed to be as invisible as possible, without interfering too much in a negative way or hindering the academic work of the
 students using the tool. In a similar light, the project also offers the opportunity to explore solutions to a variety of interaction problems associated with the use of AR in mobile
 devices such as:
 
@@ -67,9 +68,7 @@ activities related to create a \emph{work session}, interact with the digital ob
 
 \subsection{Collaborative interactions in AR \label{sec:5-1-1}}
 
-Successful implementations of \ac{AR} in everyday usage and production, such as those reported by \textcite{kowalewski_2017}, demonstrate the practical application of \ac{AR} in software
-development. Furthermore, the availability of ready-to-use software like Manifest \parencite{nmanifest_2022} and the accessibility offered by end-user products like the Meta Quest 3
-\parencite{meta_horizon_2025} highlight the need to consider any development within the broad spectrum of mixed realities as a product intended for the general consumer. This is why the
+There is a a need to consider any development within the broad spectrum of mixed realities as a product intended for the general consumer. This is why the
 development of \emph{WorkshopAR}, although envisioned as a research prototype, aims for an implementation guided by a user-centred, human-centred design approach.
 
 For a human-centred approach it is important to consider the requirements that are directly related to interactions of the end user with the core utility of the product and the context in
@@ -154,6 +153,9 @@ and to investigate whether the different scenarios would influence their ideas a
 The final category are elements common to team management \parencite{zigurs_2006}, those that could benefit from \ac{AR} augmentation, or at the very least, be compatible within an \ac{AR}
 setting. This assumption was particularly relevant given the decision to maintain synchronous team interactions within the same physical space. This category also considers actions done by
 an individual managing an activity for several groups at the same time, like a teacher or a coach guiding the experience.
+
+All the selected actions reflected scenarios that could be present during the observation sessions in the case study but did not necessarily reflected the final observations and the real
+usage of the tool, only what was observed from test runs outside the classroom and during the interaction design process.
 
 \begin{table}[]
 \caption{Proposed Collaboration Tasks in \ac{AR}}
@@ -570,11 +572,6 @@ was viewed as a complex process to a single trigger action. Concerns on how to i
 some participants found it impractical or simply wrong to communicate to other people through the application when they were sharing the same space and were at talking
 distance.
 
-Paired with information obtained during the testing stage of the first implementation process, this prompted a strong change on the approach for the design of several of
-the functionalities of WorkshopAR. It was decided that a better approach was to hint or discuss ideal structures for the collaborative work of the users, but without
-enforcing it. This prompted flexibility in the usage of the tool and would lower the disruption that the data gathering process could create in the workflow of the
-students during the classroom sessions.
-
 In summary, the research process on collaborative gestures informed several aspects of the interaction design of WorkshopAR: the expectations that users have with the
 technology, the best road to approach the most physical aspects of the interaction design, and how to promote the ideas at the core of learning goals of the application.
 In general, this approach can be summarised as:
@@ -618,7 +615,11 @@ incorporate or that required a major pivot in development were logged for the ne
 The following sections will explore the results obtained for each milestone and the data gathered in each testing phase. It is important to remark that the process itself
 was not as structured or as sequential as explained. Although there was a clear plan and a tangible set of goals guiding the process, each milestone was worked on and
 tested in parallel and at different points of development, keeping a constant communication loop with testers and students but without following any formal sequence of
-steps or a staged process. The following analyses are shown in isolation to facilitate communication and exposition, but work itself was more fluid and less sequential.
+steps or a staged process. 
+
+In terms of the case study, the iteration ran along the first half of the observed cohort, offering the students the opportunity to interact with the creation of the \emph{digital room},
+the tools to manage the \emph{work session} and the initial steps to create the interaction with the play objects. This process was gradual and constantly changed in response to
+the feedback given by the students, yet, the analyses in the following sections are shown in isolation to facilitate communication and exposition.
 
 \subsubsection{The Digital Room and the Workspace  \label{sec:5-2-1-1}}
 
@@ -627,15 +628,13 @@ coordinates all the participants and the digital objects. The \emph{digital room
 Section \ref{sec:4-3-3}), and is not centralised at all, neither in terms of processes nor software components. Nonetheless, this architecture is transparent to the user,
 who only needs to understand the \emph{digital room} as a digital space that can be entered to initiate the session, and that holds all the digital objects needed to work.
 
-Two major principles guided the implementation of the \emph{digital room}. In the first instance, the \emph{digital room} hints at structure without enforcing it, a major
-design focus in the development of \emph{WorkshopAR}. The \emph{digital room} indicates that a \emph{work session} is happening, and to enter the \emph{digital room} means to
-start focusing on the tasks and goals planned for the session. If a user is not working, then that person shouldn't be in the \emph{digital room}, but without leaving the
-physical space shared with the other teammates. Following a similar line of thought, hopping between \emph{digital rooms} acquires the meaning of getting in and out of
-different workflows, each one compartmentalising goals, resources and results, something hard or even impossible to achieve in a physical sense.
+The \emph{digital room} hints at structure without enforcing it and indicates that a \emph{work session} is running. If a user is not working, then that person shouldn't
+be in the \emph{digital room}, but without leaving the physical space shared with the other teammates. Hopping between \emph{digital rooms} acquires the meaning of getting in
+and out of different workflows, each one compartmentalising goals, resources and results, something hard or even impossible to achieve in a physical sense.
 
-The second principle is to anchor concepts and ideas to physical elements. It is a principle also linked to flexibility, to make the users think about allocating a space
-suitable to work and to gather all the needed resources, but allowing the use of any type of space, not only a literal, physical room. Any space could be augmented to fit
-the needs of the \emph{work session}.
+Another interaction with the \emph{digital room} is to anchor concepts and ideas to physical elements. It is a principle also linked to flexibility, to make the users think
+about allocating a space suitable to work and to gather all the needed resources, but allowing the use of any type of space, not only a literal, physical room. Any space could
+be augmented to fit the needs of the \emph{work session}.
 
 The idea of collaborative augmentation is also at play here, the users can establish a link between the selected space and all the digital information selected, adding a
 layer of information to the space that can signify whatever meaning the users want it to have (i.e., a wall for ideas, another for issues, and a third one for opportunities).
@@ -801,9 +800,8 @@ time, if it was found to distracting. Figure \ref{fig:5-26} shows an example of 
 
 \subsubsection{Positioning Play Models \label{sec:5-2-1-3}}
 
-To test the implementation of the \emph{digital room} setup, two basic functionalities that involved sharing information through the network were implemented. The first
-one was the user anchor, as exposed in the previous section, which follows the position and orientation of the camera in each participant's device. The second
-implementation was a test of the general functionality for the play models, specifically, the procedure of adding and positioning a new model in the \emph{digital room}.
+This implementation was a test of the general functionality for positioning the play models in the \emph{digital room}, to test the network backend for the interactions and to
+receive early feedback and ideas around this functionality from the users.
 
 The intended step-by-step process for this functionality would be as follows, from the point of view of a client user:
 
@@ -815,13 +813,9 @@ The intended step-by-step process for this functionality would be as follows, fr
     \item Update the play model for every participant.
 \end{enumerate}
 
-For the first round of tests the full functionality intended for the interaction with play models was not necessary. The focus of the first implementation was to build and
-test the network backend and to receive early feedback and ideas around this functionality from the users.
-
-The most important element in the \emph{digital room} for the implementation of the play models is the \emph{workspace}. Each model is positioned in the room in relation
-to the \emph{workspace} and will move and reposition if the \emph{workspace} moves. Section \ref{sec:5-2-1-1} explained that this behaviour of the \emph{workspace} helps
-the participants to focus on a specific area of the \emph{digital room} as the main interaction and visualisation space, avoiding confusion, lost assets and excessive
-clutter. The design of the \emph{workspace} also helps in the interaction with play models:
+Each model is positioned in the room in relation to the \emph{workspace} and will move and reposition if the \emph{workspace} moves. Section \ref{sec:5-2-1-1} explained that this
+behaviour of the \emph{workspace} helps the participants to focus on a specific area of the \emph{digital room} as the main interaction and visualisation space, avoiding confusion,
+lost assets and excessive clutter. The design of the \emph{workspace} also helps in the interaction with play models:
 
 \begin{itemize}
     \item It limits the space where a model can be positioned, making the process faster and less prone to errors.
@@ -852,32 +846,10 @@ major visualisation and interaction elements for the participant: the room ancho
 
 \subsection{Analysis of the First Iteration \label{sec:5-2-2}}
 
-The time in between iterations was used to gather data from test users about the current state of the development and about the integration of the tool in the students'
-work. Two types of tests took place: first, unstructured tests focused on gathering feedback about the general interaction with the application, and second, small
-encounters with students with the purpose of introducing the app and the observation activities to take place in the future.
-
-The unstructured tests were conducted with six different users across four days of testing. The loose protocol followed consisted of:
-
-\begin{enumerate}
-    \item Ask the users to navigate the main menu of the application and create a new profile.
-    \item Ask the users to create and launch a \emph{digital room}.
-    \item Explain to the users the purpose and configuration process of the \emph{workspace}.
-    \item Ask the users to scan the target image and configure a \emph{workspace}.
-    \item Ask them to find the play models menu and position a model in the \emph{workspace}.
-    \item Record observations from the researcher and feedback from the users.
-\end{enumerate}
-
-The protocol focused on gathering data about the user experience during the configuration stage of the \emph{digital room}. Records of the observations were done both on
-audio and written format, and mainly tried to highlight data about:
-
-\begin{itemize}
-    \item Issues and friction with the current UI, taking into consideration that the users were not shown the final version in terms of aesthetics but interacting with
-    the current proposal for functionality and usability.
-    \item Misunderstandings with the procedures or points in which users got stuck trying to achieve an objective.
-    \item Recurrent errors, mistakes or bugs.
-    \item Recurrent positive comments.
-    \item Open recommendations from the users of how something should work or behave.
-\end{itemize}
+The full protocol followed during the observation sessions with the students will be discussed in Chapter \ref{ch6}. For this section, it is enough to consider that users,
+either students during classroom time or participants in unstructured test, where presented with incremental aspects of \emph{WorkshopAR} and prompted to interact with
+specific tasks during the session to observe and receive feedback from that particular usage. Observations and feedback were recorded and analysed through the whole
+development of \emph{WorkshopAR}.
 
 In general, it was possible to consider the configuration process of the \emph{digital room} as a success. The participants found the task clear and the controls easy or at least
 sufficient to accomplish the explained goals. The most prevalent feedback was related to the visual clarity of several of the UI elements present, especially with the
@@ -885,21 +857,20 @@ controls for the fine tuning of the workspace. It was an expected issue consider
 to work upon when conducting the final UI implementation: Clear indication of what elements of the digital model are going to change when interacting with it (position,
 elevation, scale), the ability to quickly correct errors, reverse unintended actions, and verify changes before committing to them.
 
-The most important highlight was observed consistently during the execution of the fifth task. When positioning the play model in the \emph{workspace}, the user had to
-physically move the device to adjust the position of the play model, since it was linked to the centre point of view of the camera. When executing this in a small \emph{workspace}
-it presented no problem, but it was observed that when the user configured a bigger \emph{workspace}, one big enough to not completely fit on the display, the user had to
-move around the physical space, often standing up and advancing a couple of steps in the space to be able to position the model in the desired position. This presented
-itself more often when the user had a big table or desk in the physical room where the testing was taking place, which compelled the user to adjust the workspace to fit
-the table although they were not prompted to do it so.
+The most important highlight was observed consistently when positioning the model in the \emph{workspace}. Users had to physically move the device to adjust the position of the
+model, since it was linked to the centre point of view of the camera. When executing this in a small \emph{workspace} it presented no problem, but it was observed that when the
+user configured a bigger \emph{workspace}, one big enough to not completely fit on the display, the user had to move around the physical space, often standing up and advancing a
+couple of steps in the space to be able to position the model. This presented itself more often when the user had a big table or desk in the physical room where the testing was
+taking place, which compelled the user to adjust the workspace to fit the table although they were not prompted to do it so.
 
 More than an error, this situation generated an undesired behaviour. The need to stand up and move around the room, although not completely unfeasible, was seen as too
 disruptive. Some users mentioned the situation as a positive, forcing the participant to be more active during the meeting, but it was also perceived as unnecessary if
 there were proper tools to achieve the same result in an easier way. It was clear that the process had to be refined to offer more control to the users during the
-positioning process and all other interactions that could use the same system in the future implementation. Table \ref{tab:5-2} shows a summary of the major themes
-extracted from the observation during the unstructured tests.
+positioning process and all other interactions that could use the same system in the future implementation. Table \ref{tab:5-2} shows a summary of the major themes extracted
+from the observation of six users recorded across four different sessions during the first iteration.
 
 \begin{longtblr}[
-    caption = {Main Themes Identified in the Unstructured Test Process},
+    caption = {Main Themes Identified in Observations During the First Iteration of Development},
     label = {tab:5-2}
 ]{colspec = {lXX}, width = 0.85\linewidth}
 \hline
@@ -956,8 +927,8 @@ good tool to have at hand during that first meeting activity they were experienc
 other visuals. The main complaint was that it was too charged with information, and that it would be useful to have the option to hide it or to make it smaller and less
 intrusive.
 
-Table \ref{tab:5-3} shows a summary of the most relevant ideas discussed during the first two weeks of observations. Based on that data, it was considered important to
-work on the following adjustments before starting the second iteration of development:
+Table \ref{tab:5-3} shows a summary of the most relevant ideas discussed around the topic of the user anchor during 8 different observations across two classroom session.
+Based on that data, it was considered important to work on the following adjustments before starting the second iteration of development:
 
 \begin{itemize}
     \item A better interaction model for the position and movement of play models, one that was not solely reliant on the movement of the device, since the users found it
@@ -966,7 +937,7 @@ work on the following adjustments before starting the second iteration of develo
 \end{itemize}
 
 \begin{longtblr}[
-    caption = {Main Themes Identified in Interviews with Students},
+    caption = {Main Themes Related to the User Anchor in Observations During the First Iteration of Development},
     label = {tab:5-3}
 ]{colspec = {lXX}, width = 0.85\linewidth}
 \hline
@@ -1001,9 +972,6 @@ work on the following adjustments before starting the second iteration of develo
                    & Can anyone enter to the room? It would be nice to be able to make your room truly yours, and other people know when they are in your space & Workspace, Work Management, Positive Expectation             \\\hline
                    & I work with several screens at the same time; I can see this app being another tab I have to manage                                        & Digital Work, Negative Concern                               \\ \hline
 \end{longtblr}
-
-These were the most relevant changes considered important to offer the users a better experience and that could help to create a smoother integration of the tool into the
-workflow of the classroom.
 
 \subsection{Second Development Iteration \label{sec:5-2-3}}
 

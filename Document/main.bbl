@@ -9880,104 +9880,6 @@
       \verb 10.1016/j.procs.2016.05.519
       \endverb
     \endentry
-    \entry{kowalewski_2017}{article}{}{}
-      \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=80aad4f7bd3bad979d87cdbc771b839e}{%
-           family={Kowalewski},
-           familyi={K\bibinitperiod},
-           given={Karl-Friedrich},
-           giveni={K\bibinithyphendelim F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0a7190f61ba942e5c32ca56177f8d116}{%
-           family={Hendrie},
-           familyi={H\bibinitperiod},
-           given={Jonathan\bibnamedelima D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=96cbb86b5e33d93a048ec0eb1425bdd8}{%
-           family={Schmidt},
-           familyi={S\bibinitperiod},
-           given={Mona\bibnamedelima W.},
-           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a057be9fa3e80fda1774e90bd9e3218f}{%
-           family={Proctor},
-           familyi={P\bibinitperiod},
-           given={Tanja},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2d23496eea52fd7fe6497a2aa933443c}{%
-           family={Paul},
-           familyi={P\bibinitperiod},
-           given={Sai},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c4b5ed7485672325975bb6ca3c51c910}{%
-           family={Garrow},
-           familyi={G\bibinitperiod},
-           given={Carly\bibnamedelima R.},
-           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=20a9eafe9c76ce9e196cf3f42dd14573}{%
-           family={Kenngott},
-           familyi={K\bibinitperiod},
-           given={Hannes\bibnamedelima G.},
-           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=812b802cd6604b57c6b8b492d6f823f1}{%
-           family={Müller-Stich},
-           familyi={M\bibinithyphendelim S\bibinitperiod},
-           given={Beat\bibnamedelima P.},
-           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1dd2fc906950de9d42ca39c3917fd5c5}{%
-           family={Nickel},
-           familyi={N\bibinitperiod},
-           given={Felix},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{85697aa535e4cb42950a2c04d4e780cf}
-      \strng{fullhash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{fullhashraw}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{bibnamehash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{authorbibnamehash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{authornamehash}{85697aa535e4cb42950a2c04d4e780cf}
-      \strng{authorfullhash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{authorfullhashraw}{04d0eb78b575908bb217869a71d8bee8}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0930-2794, 1432-2218}
-      \field{journaltitle}{Surgical Endoscopy}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{Validation of the mobile serious game application {Touch} {Surgery}™ for cognitive training and assessment of laparoscopic cholecystectomy}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2024}
-      \field{volume}{31}
-      \field{year}{2017}
-      \field{urldateera}{ce}
-      \field{pages}{4058\bibrangedash 4066}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1007/s00464-017-5452-x
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/s00464-017-5452-x
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/s00464-017-5452-x
-      \endverb
-    \endentry
     \entry{kowalski_2019}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e51df65175d28fa7ec9ba65cd7d31dcd}{%
@@ -11264,30 +11166,6 @@
       \field{year}{2020}
       \field{pages}{211\bibrangedash 225}
       \range{pages}{15}
-    \endentry
-    \entry{nmanifest_2022}{misc}{}{}
-      \list{language}{1}{%
-        {en-US}%
-      }
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Manifest® is the AI-powered AR platform that enables deskless workers to create, follow, and share step-by-step digital work instructions. Capture expert knowledge, ensure accuracy, and improve operational performance in any environment.}
-      \field{month}{8}
-      \field{title}{Manifest {AR} {Work} {Instruction} {Platform}}
-      \field{urlday}{25}
-      \field{urlmonth}{8}
-      \field{urlyear}{2025}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://taqtile.com/manifest/
-      \endverb
-      \verb{url}
-      \verb https://taqtile.com/manifest/
-      \endverb
     \endentry
     \entry{marasi_2019}{article}{}{}
       \name{author}{1}{}{%
@@ -28772,104 +28650,6 @@
       \verb 10.1016/j.procs.2016.05.519
       \endverb
     \endentry
-    \entry{kowalewski_2017}{article}{}{}
-      \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=80aad4f7bd3bad979d87cdbc771b839e}{%
-           family={Kowalewski},
-           familyi={K\bibinitperiod},
-           given={Karl-Friedrich},
-           giveni={K\bibinithyphendelim F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0a7190f61ba942e5c32ca56177f8d116}{%
-           family={Hendrie},
-           familyi={H\bibinitperiod},
-           given={Jonathan\bibnamedelima D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=96cbb86b5e33d93a048ec0eb1425bdd8}{%
-           family={Schmidt},
-           familyi={S\bibinitperiod},
-           given={Mona\bibnamedelima W.},
-           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a057be9fa3e80fda1774e90bd9e3218f}{%
-           family={Proctor},
-           familyi={P\bibinitperiod},
-           given={Tanja},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2d23496eea52fd7fe6497a2aa933443c}{%
-           family={Paul},
-           familyi={P\bibinitperiod},
-           given={Sai},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c4b5ed7485672325975bb6ca3c51c910}{%
-           family={Garrow},
-           familyi={G\bibinitperiod},
-           given={Carly\bibnamedelima R.},
-           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=20a9eafe9c76ce9e196cf3f42dd14573}{%
-           family={Kenngott},
-           familyi={K\bibinitperiod},
-           given={Hannes\bibnamedelima G.},
-           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=812b802cd6604b57c6b8b492d6f823f1}{%
-           family={Müller-Stich},
-           familyi={M\bibinithyphendelim S\bibinitperiod},
-           given={Beat\bibnamedelima P.},
-           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1dd2fc906950de9d42ca39c3917fd5c5}{%
-           family={Nickel},
-           familyi={N\bibinitperiod},
-           given={Felix},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{85697aa535e4cb42950a2c04d4e780cf}
-      \strng{fullhash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{fullhashraw}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{bibnamehash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{authorbibnamehash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{authornamehash}{85697aa535e4cb42950a2c04d4e780cf}
-      \strng{authorfullhash}{04d0eb78b575908bb217869a71d8bee8}
-      \strng{authorfullhashraw}{04d0eb78b575908bb217869a71d8bee8}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0930-2794, 1432-2218}
-      \field{journaltitle}{Surgical Endoscopy}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{Validation of the mobile serious game application {Touch} {Surgery}™ for cognitive training and assessment of laparoscopic cholecystectomy}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2024}
-      \field{volume}{31}
-      \field{year}{2017}
-      \field{urldateera}{ce}
-      \field{pages}{4058\bibrangedash 4066}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1007/s00464-017-5452-x
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/s00464-017-5452-x
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/s00464-017-5452-x
-      \endverb
-    \endentry
     \entry{kowalski_2019}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e51df65175d28fa7ec9ba65cd7d31dcd}{%
@@ -30156,30 +29936,6 @@
       \field{year}{2020}
       \field{pages}{211\bibrangedash 225}
       \range{pages}{15}
-    \endentry
-    \entry{nmanifest_2022}{misc}{}{}
-      \list{language}{1}{%
-        {en-US}%
-      }
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Manifest® is the AI-powered AR platform that enables deskless workers to create, follow, and share step-by-step digital work instructions. Capture expert knowledge, ensure accuracy, and improve operational performance in any environment.}
-      \field{month}{8}
-      \field{title}{Manifest {AR} {Work} {Instruction} {Platform}}
-      \field{urlday}{25}
-      \field{urlmonth}{8}
-      \field{urlyear}{2025}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://taqtile.com/manifest/
-      \endverb
-      \verb{url}
-      \verb https://taqtile.com/manifest/
-      \endverb
     \endentry
     \entry{marasi_2019}{article}{}{}
       \name{author}{1}{}{%

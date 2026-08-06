@@ -975,17 +975,9 @@ Based on that data, it was considered important to work on the following adjustm
 
 \subsection{Second Development Iteration \label{sec:5-2-3}}
 
-After the period of adjustment derived from the feedback obtained, the second iteration of development took place for approximately six months and focused on giving the students gradual
-access to the different proposed functionalities of \emph{WorkshopAR}.
-
-Throughout the first sets of observation, it was possible to notice that the students were organising their work around the weekly class time and hardly any group was meeting outside the
-classroom. The situation required to adjust the observation protocol to introduce the application during the class. To minimise the disruption to the classroom, it was decided to give the
-students the opportunity to interact with \emph{WorkshopAR} in smaller chunks and with focused elements of the software in mind. This approach also helped in the organisation of the
-development time and resources, as it was possible to focus on the key elements needed for the next functionality to be shown. It also allowed for more and faster opportunities to analyse
-and incorporate feedback into the development.
-
-Based on the results of the first iteration and the comments gathered from the students, it was identified that the interactions with play models and tools focused on team management
-needed to be the priority of development, since those were the most highlighted features.
+The second iteration of development took place for approximately six months and focused on gradually testing the remaining fatures of \emph{WorkshopAR} related to the playing models, annotations
+and communication emotes. The majority of the observations for the case study took place duing this period, observing four different groups of 18 students thorughout four classroom sessions. As
+before, this section will focus on the technical analysis of the features tested.
 
 \subsubsection{Pointing \label{sec:5-2-3-1}}
 
@@ -993,11 +985,8 @@ One of the use cases that was not properly implemented during the first iteratio
 participants, and points in the physical space. This implementation lost priority due to some of the observations gathered during the first testing phase, as well due to the technical
 issues found for its implementation.
 
-The most relevant issue identified emerged from observations and discussion with participants during the interaction design research (see Section \ref{sec:5-1}) and the initial interviews
-with students. During these sessions, several possible solutions for the interaction design of this functionality emerged as well as possible concerns. Although pointing could be useful
-to clarify an intention and to avoid ambiguity in cluttered spaces, the functionality was seen as secondary to other options, since the participants found it easier and preferable to rely
-on direct communication with their peers, rather than defaulting to communication through their devices. The situation could change significantly in a scenario with remote participants,
-which would need several tools to be able to convey interactions and intentions, but as it was presented to them, the users did not find too much value on the idea.
+Although pointing could be useful to clarify an intention and to avoid ambiguity in cluttered spaces, the functionality was seen as secondary to other options, since the participants
+found it easier and preferable to rely on direct communication with their peers, rather than defaulting to communication through their devices.
 
 Another issue found was related with the number of gestures being proposed for different actions and the need to remember them to execute the desired functionality. Users consistently
 proposed or remarked that a better approach was to link a single interaction, like a touch or an air tap, to open a menu or a list of contextual possibilities. This also mirrors the
@@ -1074,12 +1063,7 @@ point at different entities in the room and even convey an array of meanings tha
 
 \subsubsection{Interacting with Play Models \label{sec:5-2-3-2}}
 
-It was observed during the first test iteration that students were interested in the possible interactions that could be achieved with the play models and how the tool could be used in
-different types of activities. It was also important to consider that the observation stage would start to take place during the bulk of the work in the Industry Project assignments, were
-the most amount of design work was going to take place and were the tool could be proven to be most useful.
-
-To provide an interesting set of interactions, the development focused on three main objectives related to this functionality and supported by the comments and ideas gathered from students
-and other tests subjects:
+The development of this functionality focused on three main objectives supported by the comments and ideas gathered from students and other tests subjects:
 
 \begin{itemize}
     \item A varied set of shapes that could be adapted to diverse scenarios and ideas.
@@ -1132,10 +1116,6 @@ Finally, it can be interesting to mention at this point the discarded functional
 the analysis of the literature, the idea of distinguishing between a shared and a personal space surfaced as a concept that needed to be conveyed graphically and through the interaction
 design. From the data gathered, it was determined that the users did not find such a distinction useful or crucial. The possibility of having a private interaction during the shared work
 session was seen as troublesome instead.
-
-One of the focuses of the observation stage would be to identify if any situation or behaviour would justify the implementation of a private workspace. Details of the observations done
-with the students can be found in Chapter \ref{ch6}, but it is important to mention that none of the observations gathered truly related to this topic in a strong sense, at least in the
-immediate context of the work done for the Industry Project course.
 
 \subsubsection{Annotations \label{sec:5-2-3-3}}
 
@@ -1239,12 +1219,6 @@ as a direct result of the interaction with the scenarios explored during the obs
 The feedback loop implemented during both instances of testing proved invaluable to understand the real context in which the application was being used, the problems found by the users
 naturally interacting with the software and the workarounds they used. It created opportunities to analyse the behaviours promoted by the tool, to take notes of positive or interesting
 developments to work upon and to identify instances in which was necessary a course correction.
-
-A good example of this feedback loop was the process of implementation for the pointing feature, which was initially designed as a tool to avoid ambiguity in the 3D space. Users found
-this intended purpose unnecessary, defaulting to direct communication with their peers as an easier and more effective way of clarifying any doubt. Yet, they realised that the
-visualisations used for pointing could be recontextualised to convey more meanings, like the use of emotes in others forms of media and communication. When given that connotation, users
-started to incorporate the tool more on their normal conversations, eventually transferring the feature to the debate functionality as their preferred form of communication with other
-participants, now coated with an extra layer of emotional meaning.
 
 An important amount of development time was invested on creating a consistent positioning of digital objects in the \emph{digital room}, with mixed results obtained. A combination of the
 image tracking colocalisation technique and the natural drift present in \ac{AR} visualisations caused several issues with the overall visualisation in each user's device, which often made.

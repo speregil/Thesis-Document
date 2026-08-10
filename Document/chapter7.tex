@@ -16,7 +16,7 @@ philosophies:
 \end{itemize}
 
 This project proposed that combining different characteristics of \ac{AR} with the connectivity and social tools provided by mobile platforms, it is possible to create a
-learning space that promoted and facilitated the use collaboration and teamwork as teaching tools and learning goals. The main objective was to identify how students
+learning space that promoted and facilitated the use of collaboration and teamwork as teaching tools and learning goals. The main objective was to identify how students
 approached challenges of collaborative learning using digital technologies, and to design a tool based on \ac{AR} that could promote behaviours that boost or reinforce
 effective collaboration and the development of teamwork skills.
 
@@ -206,7 +206,61 @@ Overall, it was shown that the unique characteristics of \ac{AR} can be used to 
 learning, but also poses substantial challenges based on the hardware used to deploy the solution and how much the technology has to integrate with the academical work of the students. Both
 positive and negative results are valuable lessons that can further the research in education or to be a starting point to explore other forms of implementation of this technology.
 
-\section{Future Work \label{sec:7-2}}
+\section{Guidelines and Recommendations \label{sec:7-2}}
+
+Although the implementation of \emph{WorkshopAR} is strongly tailored to the case study of the Industry Project course, it is possible to extract some learned lessons derived from the
+implementation process, the hurdles identified and the feedback gathered from students and test users. Hopefully, these ideas can be extrapolated or at least offer guidance in other types
+of scenarios, either helping in the design and implementation of \ac{AR} technologies or by considering a similar approach to learning activities, either using \ac{AR}, CL or a combination of these
+elements.
+
+\emph{WorkshopAR} was build with the idea in mind of \emph{augmenting communication}, and this idea was born from the goal of capitalizing on the main advantages that \ac{AR} offers: strong visuals,
+awareness of the context and high mobility. When working on designing a tool based on \ac{AR}, the stronger results come when properly identifying what is being augmented, not only what is
+being shown in the screen. This augmentation often uses visuals elements, but interactions, movements, animations and the overall user experience build are also an essential part of emphasising
+that augmentation.
+
+In matters more technical, the technology is evolving, specially in the front of development tools. The needed infrastructure to support a multiuser experience was entirely provided by the \emph{Lightship}
+framework, which facilitated the focus on the experience design rather than in networking issues. It is a major advantage that enables experimentation and innovation. And yet, the implementation
+process still requires highly customized code and technical solutions, which are simply not feasible for someone without a technical background. If it is the objective of any project to implement
+\ac{AR} as a solution, a couple of considerations derived from the experience in the creation of \emph{WorkshopAR} can be of use:
+
+\begin{itemize}
+    \item Unless the technical challenges of a project are the focus of development, there is no need to reinvent the wheel in matters of augmentation, visualization and deployment techniques.
+    Frameworks like Niantic and Vuforia, hardware focused toolkits like the Meta environment or AR Toolkit, and development engines focused on graphics and interactivity like Unity and Unreal
+    offer the needed development backbone to facilitate and quicken development in a way that the focus can be given to design and customization.
+    \item No form of tracking technique is completely stable. It is important to accept and work around a fair bit of jankiness in the presentation of visuals. It is also important to design and
+    provide different tools to quickly reset and recalibrate the image recognition as a needed usability requirement.
+    \item \ac{AR} toolkits are strongly dependant on available hardware. Frameworks like Unity's OpenXR facilitate multiplatform development, but specific functionalities, specially for image
+    recognition techniques, are still strongly linked to the capabilities of the deployment hardware. Additionally, \ac{AR} in general is still very resource intensive, and low specs hardware will
+    struggle to work, even if its compatible with the development.
+    \item Interactions in \ac{AR} (and XR in general) are not standard yet. A lot of interesting techniques and approaches have been proposed, but the default implementation changes from hardware to
+    hardware, or is non-existent. Interaction design is still a major step in the development of any \ac{AR} experience and time needs to be dedicated to this issue.
+\end{itemize}
+
+In the educational front, the first set of guidelines can be focused on the implementation of a collaborative approach. A good portion of the analysis of the case study is dedicated to understanding
+how the students worked together around the challenges of the course and how they used the tools available to them to succeed. Some general applicable lessons can be extracted from that analysis:
+
+\begin{itemize}
+    \item Any collaborative activity needs to allocate resources for support and guidance of the students. This support needs to consider the different approaches that students used for collaboration
+    and the different levels of structure that some groups need and others don't.
+    \item Collaboration between groups is as valuable as the teamwork present inside one group.
+    \item Groups struggling to function properly will hardly find a solution by their own. The guidance and intervention of the lecturer is often needed, and a hands-off approach to this type of conflicts
+    seldom ends in good results.
+\end{itemize}
+
+By specifically taking into consideration the case of and AR tool used for education, the major insight that can be given is to be creative. The possibilities around what can be used inside the classroom
+and what can spark the interest of the students is influenced the most by the educational design rather than by the technological implementation. For this type of tools that rely a lot on strong visuals
+and interactions, the most important recommendations are:
+
+\begin{itemize}
+    \item To manage the amount of distraction and side-tracking that the experience can generate. Self-exploration approaches can minimize this inconvenient, but a clear structure and guidance from the
+    educator is always a necessity.
+    \item To manage setup and troubleshooting times, they are unavoidable, especially for new developments.
+    \item To consider the augmentation part of the design, as mentioned in previous points. AR as an educational tool can offer and interesting and memorable link between something physical of significant
+    inside the classroom and a concept that is hard to visualize or interact with. The focus should not be that much in the visualization but in the connection between the visual elements and the context
+    in which it is happening.
+\end{itemize}
+
+\section{Future Work \label{sec:7-3}}
 
 \emph{WorkshopAR} was developed following an iterative process aimed at polishing features in each cycle and to explore the ideas found by gathering feedback from the users. Through this
 procedure, adjustments to the inconsistencies in the interaction design were identified and implemented, and the emotes feature was expanded when it became a focus of interest for the students.
@@ -225,11 +279,23 @@ Specifically, it could be of interest to provide the following expansions:
     integrating the teacher and other similar roles into the workflow proposed by the students.
 \end{itemize}
 
+Considerations on how to propose a more sustained deployment of \emph{WorkshopAR} were also discussed. In terms of infrastructure, the services provided by Niantic through the Lightship framework
+(now called Niantic Spatial as of 2026) provide a robust development toolkit meant primarily for testing and prototyping, but a more robust solution would be needed for production deployment. Amazon
+offers a lot of services meant to help with these types of graphic-intensive technologies, and Niantic is working on offering a more robust hosting infrastructure, but for now that is a development
+hurdle that has to be solved in-house by an amalgam of different technologies and frameworks.
+
+A version of \emph{WorkshopAR} that focuses primarily on general communication features could be offered to students as an additional tool for supporting coursework. Access to the tool could be offered
+through the \ac{LMS} supporting the class or the software library often provided to students through institutional systems, and always as an optional tool that lecturers can suggest and students could
+install in their own devices if they considered it useful. It was very clear throughout the observations that \emph{WorkshopAR} worked the best when the students themselves approached it when needed and
+not when forced as part of the structure of the classroom.
+
+There is also an opportunity to offer more specialised tools for visualisation and collaborative work around the more general communication tools. Besides the 3D presentation proposals mentioned earlier
+there were also ideas around BIM analysis, digital annotations of blueprints or models, and augmented tours or inspections in-situ. It is also worth mentioning that \emph{WorkshopAR} was initially
+conceptualized as a tool to help in a course in mechanical design. The same tools could be used there, just in a different context. This specialization of \emph{WorkshopAR} could be achieved through modular
+development and deployment, using the same core communication features as a base install and letting the users extend the functionality of the tool with modular downloads as needed.
+
 All these proposals are natural extension to the original design of \emph{WorkshopAR} that can be considered to create a more robust software or, following a different approach, could be individual,
 smaller developments that branch from \emph{WorkshopAR}.
-
-Other ideas and paths of research emerged from conversations with all the participants, especially when discussing how to solve the most evident issues with \emph{WorkshopAR} related to
-long configurations and the constant use of the phone in the classroom.
 
 The idea of a collaboration laboratory using \ac{AR} and other related technologies emerged from discussions with the students about how to create a setup that deemphasises the distractions
 created by a smartphone and that promotes a better work mentality. The use of clamp arms in the setup of \emph{WorkshopAR} tried to create a space more suited for consistent collaboration
@@ -245,7 +311,7 @@ These seed ideas for future projects and for possible paths forward in the evolu
 to relate the functionalities of the software with the needs of their work, showing that \emph{WorkshopAR} was creating interest in the intended users. A progressive expansion and adjustment
 of the proposal can result in a tool that is useful to the students and helps to promote a valuable learning design focused on teamwork and collaboration.
 
-\section{Final Words \label{sec:7-3}}
+\section{Final Words \label{sec:7-4}}
 
 The development of \emph{WorkshopAR} and its integration to the Industry Project course was a valuable example of a collaborative design and how this philosophy supports the creation of
 transversal skills and complex learning scenarios by encouraging social connections, collective intelligence and effective communication.

@@ -97,63 +97,62 @@
 \contentsline {subsection}{\numberline {5.2.2}Analysis of the First Iteration }{163}{subsection.5.2.2}%
 \contentsline {subsection}{\numberline {5.2.3}Second Development Iteration }{170}{subsection.5.2.3}%
 \contentsline {subsubsection}{Pointing }{170}{section*.125}%
-\contentsline {subsubsection}{Interacting with Play Models }{174}{section*.130}%
-\contentsline {subsubsection}{Annotations }{177}{section*.134}%
+\contentsline {subsubsection}{Interacting with Play Models }{173}{section*.130}%
+\contentsline {subsubsection}{Annotations }{175}{section*.134}%
 \contentsline {subsubsection}{Debates and Emotes }{178}{section*.136}%
-\contentsline {subsection}{\numberline {5.2.4}Analysis of the Second Iteration }{181}{subsection.5.2.4}%
-\contentsline {subsubsection}{Implementation and Analysis of the Use Cases }{181}{section*.139}%
-\contentsline {subsubsection}{Analysis of the Overall Development }{185}{section*.141}%
-\contentsline {subsubsection}{Implications for the Research Goals }{187}{section*.142}%
-\contentsline {section}{\numberline {5.3}Conclusions }{188}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Case Study: ENBU 79X/89X Industry Project }{192}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Description and Design of ENBU 79X/89X Industry Project }{193}{section.6.1}%
-\contentsline {section}{\numberline {6.2}WorkshopAR Learning Design }{195}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Protocol }{198}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Physical Documentation }{198}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Classroom Observations }{198}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Unstructured Interviews }{200}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}Weeks 1 to 4: Team Consolidation }{200}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}General Observations }{201}{subsection.6.4.1}%
-\contentsline {subsubsection}{First Bonding Exercise }{203}{section*.152}%
-\contentsline {subsubsection}{Q\&A Sessions }{205}{section*.153}%
-\contentsline {subsection}{\numberline {6.4.2}Intervention with \emph {WorkshopAR} }{206}{subsection.6.4.2}%
-\contentsline {subsubsection}{Consolidation Stage }{206}{section*.156}%
-\contentsline {subsubsection}{First Open Work Session }{207}{section*.157}%
-\contentsline {subsection}{\numberline {6.4.3}Preliminary Analysis }{210}{subsection.6.4.3}%
-\contentsline {section}{\numberline {6.5}Weeks 5 to 9: Poster Presentation }{211}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}General Observations }{212}{subsection.6.5.1}%
-\contentsline {subsubsection}{A Bad Example: Team C }{212}{section*.159}%
-\contentsline {subsubsection}{A Good Example: Team D }{213}{section*.160}%
-\contentsline {subsection}{\numberline {6.5.2}Intervention with WorkshopAR }{213}{subsection.6.5.2}%
-\contentsline {subsubsection}{Annotations and Debate Features }{214}{section*.161}%
-\contentsline {subsubsection}{Play Models }{215}{section*.163}%
+\contentsline {subsection}{\numberline {5.2.4}Analysis of the Second Iteration }{179}{subsection.5.2.4}%
+\contentsline {subsubsection}{Implementation and Analysis of the Use Cases }{180}{section*.139}%
+\contentsline {subsubsection}{Analysis of the Overall Development }{184}{section*.141}%
+\contentsline {subsubsection}{Implications for the Research Goals }{186}{section*.142}%
+\contentsline {section}{\numberline {5.3}Conclusions }{187}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Case Study: ENBU 79X/89X Industry Project }{191}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Description and Design of ENBU 79X/89X Industry Project }{192}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Protocol }{194}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Physical Documentation }{194}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Classroom Observations }{195}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Unstructured Interviews }{197}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Weeks 1 to 4: Team Consolidation }{197}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}General Observations }{197}{subsection.6.3.1}%
+\contentsline {subsubsection}{First Bonding Exercise }{200}{section*.151}%
+\contentsline {subsubsection}{Q\&A Sessions }{201}{section*.152}%
+\contentsline {subsection}{\numberline {6.3.2}Intervention with \emph {WorkshopAR} }{203}{subsection.6.3.2}%
+\contentsline {subsubsection}{Consolidation Stage }{203}{section*.155}%
+\contentsline {subsubsection}{First Open Work Session }{204}{section*.156}%
+\contentsline {subsection}{\numberline {6.3.3}Preliminary Analysis }{207}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Weeks 5 to 9: Poster Presentation }{207}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}General Observations }{208}{subsection.6.4.1}%
+\contentsline {subsubsection}{A Bad Example: Team C }{209}{section*.158}%
+\contentsline {subsubsection}{A Good Example: Team D }{209}{section*.159}%
+\contentsline {subsection}{\numberline {6.4.2}Intervention with WorkshopAR }{210}{subsection.6.4.2}%
+\contentsline {subsubsection}{Annotations and Debate Features }{210}{section*.160}%
+\contentsline {subsubsection}{Play Models }{212}{section*.162}%
+\contentsline {subsection}{\numberline {6.4.3}Preliminary Analysis }{213}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Weeks 10 to 13: Interim Client Report }{215}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}General Observations }{215}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Intervention with WorkshopAR }{216}{subsection.6.5.2}%
 \contentsline {subsection}{\numberline {6.5.3}Preliminary Analysis }{217}{subsection.6.5.3}%
-\contentsline {section}{\numberline {6.6}Weeks 10 to 13: Interim Client Report }{218}{section.6.6}%
+\contentsline {section}{\numberline {6.6}Weeks 14 to 20: Second Semester Observations }{218}{section.6.6}%
 \contentsline {subsection}{\numberline {6.6.1}General Observations }{219}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}Intervention with WorkshopAR }{220}{subsection.6.6.2}%
-\contentsline {subsection}{\numberline {6.6.3}Preliminary Analysis }{220}{subsection.6.6.3}%
-\contentsline {section}{\numberline {6.7}Iterations over the Semester Break }{222}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Weeks 14 to 20: Second Semester Observations }{223}{section.6.8}%
-\contentsline {subsection}{\numberline {6.8.1}General Observations }{223}{subsection.6.8.1}%
-\contentsline {subsection}{\numberline {6.8.2}Intervention with WorkshopAR }{224}{subsection.6.8.2}%
-\contentsline {subsubsection}{Setup with the Articulated Clamp Arms }{224}{section*.165}%
-\contentsline {subsubsection}{Communication Features and Emotes }{225}{section*.166}%
-\contentsline {subsection}{\numberline {6.8.3}Preliminary Analysis }{226}{subsection.6.8.3}%
-\contentsline {section}{\numberline {6.9}Analysis of Students' Observations and Responses }{227}{section.6.9}%
-\contentsline {subsection}{\numberline {6.9.1}Team Management }{228}{subsection.6.9.1}%
-\contentsline {subsection}{\numberline {6.9.2}Team Management }{229}{subsection.6.9.2}%
-\contentsline {subsection}{\numberline {6.9.3}Learning Mechanisms }{229}{subsection.6.9.3}%
-\contentsline {section}{\numberline {6.10}Analysis of Teaching Staff's Observations and Responses }{230}{section.6.10}%
-\contentsline {subsection}{\numberline {6.10.1}Effective Collaboration }{231}{subsection.6.10.1}%
-\contentsline {subsection}{\numberline {6.10.2}Teaching Collaboration }{232}{subsection.6.10.2}%
-\contentsline {section}{\numberline {6.11}Conclusions }{234}{section.6.11}%
-\contentsline {chapter}{\numberline {7}Conclusions }{237}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Research Questions }{239}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Future Work }{243}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Final Words }{244}{section.7.3}%
-\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{245}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{259}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Unstructured Interviews }{261}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Questionnaire for the Interviews with Students }{261}{section.C.1}%
-\contentsline {section}{\numberline {C.2}Questionnaire for the Interviews with the Teaching Staff }{262}{section.C.2}%
-\contentsline {chapter}{References}{263}{appendix*.171}%
+\contentsline {subsection}{\numberline {6.6.2}Intervention with WorkshopAR }{219}{subsection.6.6.2}%
+\contentsline {subsubsection}{Setup with the Articulated Clamp Arms }{220}{section*.164}%
+\contentsline {subsubsection}{Communication Features and Emotes }{221}{section*.165}%
+\contentsline {subsection}{\numberline {6.6.3}Preliminary Analysis }{222}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Analysis of Students' Observations and Responses }{223}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Team Management }{224}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Team Management }{224}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Learning Mechanisms }{224}{subsection.6.7.3}%
+\contentsline {section}{\numberline {6.8}Analysis of Teaching Staff's Observations and Responses }{226}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}Effective Collaboration }{226}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6.8.2}Teaching Collaboration }{227}{subsection.6.8.2}%
+\contentsline {section}{\numberline {6.9}Conclusions }{228}{section.6.9}%
+\contentsline {chapter}{\numberline {7}Conclusions }{232}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Research Questions }{234}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Guidelines and Recommendations }{238}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Future Work }{240}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Final Words }{242}{section.7.4}%
+\contentsline {chapter}{\numberline {A}Pedagogical Goals for Educational Technologies using Augmented Reality }{243}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Pedagogical Goals for Educational Technologies using Augmented Reality }{257}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Unstructured Interviews }{259}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Questionnaire for the Interviews with Students }{259}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Questionnaire for the Interviews with the Teaching Staff }{260}{section.C.2}%
+\contentsline {chapter}{References}{261}{appendix*.170}%

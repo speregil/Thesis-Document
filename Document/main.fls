@@ -1022,11 +1022,6 @@ OUTPUT chapter6.aux
 INPUT ./chapter6.tex
 INPUT ./chapter6.tex
 INPUT chapter6.tex
-INPUT ./figures/F6-1.jpg
-INPUT ./figures/F6-1.jpg
-INPUT ./figures/F6-1.jpg
-INPUT ./figures/F6-1.jpg
-INPUT ./figures/F6-1.jpg
 INPUT ./figures/F6-2.jpg
 INPUT ./figures/F6-2.jpg
 INPUT ./figures/F6-2.jpg

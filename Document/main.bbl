@@ -5220,48 +5220,6 @@
       \verb https://doi.org/10.22034/2015.4.04
       \endverb
     \endentry
-    \entry{essabbar_2016}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d0babd13917a1f7a477132b1d382257b}{%
-           family={Essabbar},
-           familyi={E\bibinitperiod},
-           given={Driss},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=87792ff97022fcd3265030c2589b08fb}{%
-           family={Zrikem},
-           familyi={Z\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=30dbe19c0ec2b5fa440f2680cd21c017}{%
-           family={Zolghadri},
-           familyi={Z\bibinitperiod},
-           given={Marc},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{0e0a975bee0880027fd494a2744881bd}
-      \strng{fullhash}{24c69e235359224263ad1512b21e8519}
-      \strng{fullhashraw}{24c69e235359224263ad1512b21e8519}
-      \strng{bibnamehash}{24c69e235359224263ad1512b21e8519}
-      \strng{authorbibnamehash}{24c69e235359224263ad1512b21e8519}
-      \strng{authornamehash}{0e0a975bee0880027fd494a2744881bd}
-      \strng{authorfullhash}{24c69e235359224263ad1512b21e8519}
-      \strng{authorfullhashraw}{24c69e235359224263ad1512b21e8519}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Supply \& Operations Management}
-      \field{number}{4}
-      \field{title}{Power imbalance in collaboration relationships.}
-      \field{volume}{2}
-      \field{year}{2016}
-    \endentry
     \entry{falth_2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6eb3326e103abc486d073797a4828fc5}{%
@@ -6858,75 +6816,6 @@
       \field{year}{2016}
       \field{pages}{73\bibrangedash 86}
       \range{pages}{14}
-    \endentry
-    \entry{granado-alcon_2020}{article}{}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=a0c7fe3ddd5ae3998332c475f0cd5389}{%
-           family={Granado-Alcón},
-           familyi={G\bibinithyphendelim A\bibinitperiod},
-           given={María\bibnamedelimb Del\bibnamedelima Carmen},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2dbe867ed6d3961f2d8a79edf00cc49f}{%
-           family={Gómez-Baya},
-           familyi={G\bibinithyphendelim B\bibinitperiod},
-           given={Diego},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=53f39a804778f4f6cc3914a149612921}{%
-           family={Herrera-Gutiérrez},
-           familyi={H\bibinithyphendelim G\bibinitperiod},
-           given={Eva},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=415d7c0a4d3172fed81a9c46bdbf7a36}{%
-           family={Vélez-Toral},
-           familyi={V\bibinithyphendelim T\bibinitperiod},
-           given={Mercedes},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=451599056d0981bb8908b5763d7bde2b}{%
-           family={Alonso-Martín},
-           familyi={A\bibinithyphendelim M\bibinitperiod},
-           given={Pilar},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7a4416b8ed68fb73eea9769857ecdf}{%
-           family={Martínez-Frutos},
-           familyi={M\bibinithyphendelim F\bibinitperiod},
-           given={María\bibnamedelima Teresa},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{6c1a60b9a820db069d840fde7f3e4fd4}
-      \strng{fullhash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{fullhashraw}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{bibnamehash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{authorbibnamehash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{authornamehash}{6c1a60b9a820db069d840fde7f3e4fd4}
-      \strng{authorfullhash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{authorfullhashraw}{e32f37787db222c35d5ce565e7f106ed}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Sustainability}
-      \field{month}{12}
-      \field{number}{23}
-      \field{title}{Project-{Based} {Learning} and the {Acquisition} of {Competencies} and {Knowledge} {Transfer} in {Higher} {Education}}
-      \field{volume}{12}
-      \field{year}{2020}
-      \field{pages}{10062}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/su122310062
-      \endverb
     \endentry
     \entry{grauer_2012}{inbook}{}{}
       \name{author}{1}{}{%
@@ -9830,55 +9719,6 @@
       \field{labeltitlesource}{title}
       \field{title}{The adult learner: {The} definitive classic in adult education and human resource development}
       \field{year}{2014}
-    \endentry
-    \entry{kogtikov_2016}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=371e47bc405923668d10b7a48be45ef9}{%
-           family={Kogtikov},
-           familyi={K\bibinitperiod},
-           given={Nikita},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=03d7482070bb2a690ea9496c08097569}{%
-           family={Dukhanov},
-           familyi={D\bibinitperiod},
-           given={Alexey},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=137d074b87c2166d123056f82251b4d1}{%
-           family={Bochenina},
-           familyi={B\bibinitperiod},
-           given={Klavdiya},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{3ea210b977029382349198c3046df378}
-      \strng{fullhash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{fullhashraw}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{bibnamehash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{authorbibnamehash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{authornamehash}{3ea210b977029382349198c3046df378}
-      \strng{authorfullhash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{authorfullhashraw}{bfaec6eafda9170534b0588ba50e9db4}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Procedia Computer Science}
-      \field{title}{Modeling {Knowledge} {Transfer} and the {Transdisciplinary} {Effect} on {Project}-based {Learning} {Activities}}
-      \field{volume}{80}
-      \field{year}{2016}
-      \field{pages}{1989\bibrangedash 1999}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.procs.2016.05.519
-      \endverb
     \endentry
     \entry{kowalski_2019}{article}{}{}
       \name{author}{2}{}{%
@@ -15502,45 +15342,6 @@
       \range{pages}{7}
       \verb{doi}
       \verb 10.7160/eriesj.2014.070201
-      \endverb
-    \endentry
-    \entry{shpeizer_2019}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c257841ff3f33abc5cb2429b4e5d4e37}{%
-           family={Shpeizer},
-           familyi={S\bibinitperiod},
-           given={Raz},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{fullhash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{fullhashraw}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{bibnamehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authorbibnamehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authornamehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authorfullhash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authorfullhashraw}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Universal Journal of Educational Research}
-      \field{month}{8}
-      \field{number}{8}
-      \field{title}{Towards a {Successful} {Integration} of {Project}-based {Learning} in {Higher} {Education}: {Challenges}, {Technologies} and {Methods} of {Implementation}}
-      \field{volume}{7}
-      \field{year}{2019}
-      \field{pages}{1765\bibrangedash 1771}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.13189/ujer.2019.070815
       \endverb
     \endentry
     \entry{smaldone_2022}{article}{}{}
@@ -23990,48 +23791,6 @@
       \verb https://doi.org/10.22034/2015.4.04
       \endverb
     \endentry
-    \entry{essabbar_2016}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d0babd13917a1f7a477132b1d382257b}{%
-           family={Essabbar},
-           familyi={E\bibinitperiod},
-           given={Driss},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=87792ff97022fcd3265030c2589b08fb}{%
-           family={Zrikem},
-           familyi={Z\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=30dbe19c0ec2b5fa440f2680cd21c017}{%
-           family={Zolghadri},
-           familyi={Z\bibinitperiod},
-           given={Marc},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{0e0a975bee0880027fd494a2744881bd}
-      \strng{fullhash}{24c69e235359224263ad1512b21e8519}
-      \strng{fullhashraw}{24c69e235359224263ad1512b21e8519}
-      \strng{bibnamehash}{24c69e235359224263ad1512b21e8519}
-      \strng{authorbibnamehash}{24c69e235359224263ad1512b21e8519}
-      \strng{authornamehash}{0e0a975bee0880027fd494a2744881bd}
-      \strng{authorfullhash}{24c69e235359224263ad1512b21e8519}
-      \strng{authorfullhashraw}{24c69e235359224263ad1512b21e8519}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Supply \& Operations Management}
-      \field{number}{4}
-      \field{title}{Power imbalance in collaboration relationships.}
-      \field{volume}{2}
-      \field{year}{2016}
-    \endentry
     \entry{falth_2024}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6eb3326e103abc486d073797a4828fc5}{%
@@ -25628,75 +25387,6 @@
       \field{year}{2016}
       \field{pages}{73\bibrangedash 86}
       \range{pages}{14}
-    \endentry
-    \entry{granado-alcon_2020}{article}{}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=a0c7fe3ddd5ae3998332c475f0cd5389}{%
-           family={Granado-Alcón},
-           familyi={G\bibinithyphendelim A\bibinitperiod},
-           given={María\bibnamedelimb Del\bibnamedelima Carmen},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2dbe867ed6d3961f2d8a79edf00cc49f}{%
-           family={Gómez-Baya},
-           familyi={G\bibinithyphendelim B\bibinitperiod},
-           given={Diego},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=53f39a804778f4f6cc3914a149612921}{%
-           family={Herrera-Gutiérrez},
-           familyi={H\bibinithyphendelim G\bibinitperiod},
-           given={Eva},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=415d7c0a4d3172fed81a9c46bdbf7a36}{%
-           family={Vélez-Toral},
-           familyi={V\bibinithyphendelim T\bibinitperiod},
-           given={Mercedes},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=451599056d0981bb8908b5763d7bde2b}{%
-           family={Alonso-Martín},
-           familyi={A\bibinithyphendelim M\bibinitperiod},
-           given={Pilar},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7c7a4416b8ed68fb73eea9769857ecdf}{%
-           family={Martínez-Frutos},
-           familyi={M\bibinithyphendelim F\bibinitperiod},
-           given={María\bibnamedelima Teresa},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{6c1a60b9a820db069d840fde7f3e4fd4}
-      \strng{fullhash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{fullhashraw}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{bibnamehash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{authorbibnamehash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{authornamehash}{6c1a60b9a820db069d840fde7f3e4fd4}
-      \strng{authorfullhash}{e32f37787db222c35d5ce565e7f106ed}
-      \strng{authorfullhashraw}{e32f37787db222c35d5ce565e7f106ed}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Sustainability}
-      \field{month}{12}
-      \field{number}{23}
-      \field{title}{Project-{Based} {Learning} and the {Acquisition} of {Competencies} and {Knowledge} {Transfer} in {Higher} {Education}}
-      \field{volume}{12}
-      \field{year}{2020}
-      \field{pages}{10062}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/su122310062
-      \endverb
     \endentry
     \entry{grauer_2012}{inbook}{}{}
       \name{author}{1}{}{%
@@ -28600,55 +28290,6 @@
       \field{labeltitlesource}{title}
       \field{title}{The adult learner: {The} definitive classic in adult education and human resource development}
       \field{year}{2014}
-    \endentry
-    \entry{kogtikov_2016}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=371e47bc405923668d10b7a48be45ef9}{%
-           family={Kogtikov},
-           familyi={K\bibinitperiod},
-           given={Nikita},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=03d7482070bb2a690ea9496c08097569}{%
-           family={Dukhanov},
-           familyi={D\bibinitperiod},
-           given={Alexey},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=137d074b87c2166d123056f82251b4d1}{%
-           family={Bochenina},
-           familyi={B\bibinitperiod},
-           given={Klavdiya},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{3ea210b977029382349198c3046df378}
-      \strng{fullhash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{fullhashraw}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{bibnamehash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{authorbibnamehash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{authornamehash}{3ea210b977029382349198c3046df378}
-      \strng{authorfullhash}{bfaec6eafda9170534b0588ba50e9db4}
-      \strng{authorfullhashraw}{bfaec6eafda9170534b0588ba50e9db4}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Procedia Computer Science}
-      \field{title}{Modeling {Knowledge} {Transfer} and the {Transdisciplinary} {Effect} on {Project}-based {Learning} {Activities}}
-      \field{volume}{80}
-      \field{year}{2016}
-      \field{pages}{1989\bibrangedash 1999}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.procs.2016.05.519
-      \endverb
     \endentry
     \entry{kowalski_2019}{article}{}{}
       \name{author}{2}{}{%
@@ -34272,45 +33913,6 @@
       \range{pages}{7}
       \verb{doi}
       \verb 10.7160/eriesj.2014.070201
-      \endverb
-    \endentry
-    \entry{shpeizer_2019}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c257841ff3f33abc5cb2429b4e5d4e37}{%
-           family={Shpeizer},
-           familyi={S\bibinitperiod},
-           given={Raz},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{fullhash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{fullhashraw}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{bibnamehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authorbibnamehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authornamehash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authorfullhash}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \strng{authorfullhashraw}{c257841ff3f33abc5cb2429b4e5d4e37}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Universal Journal of Educational Research}
-      \field{month}{8}
-      \field{number}{8}
-      \field{title}{Towards a {Successful} {Integration} of {Project}-based {Learning} in {Higher} {Education}: {Challenges}, {Technologies} and {Methods} of {Implementation}}
-      \field{volume}{7}
-      \field{year}{2019}
-      \field{pages}{1765\bibrangedash 1771}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.13189/ujer.2019.070815
       \endverb
     \endentry
     \entry{smaldone_2022}{article}{}{}
